@@ -26,6 +26,10 @@ comment, a past message, an agent's own judgement), **the Brand Brain wins**.
 
 - **Not a content library.** Finished posts, campaigns and assets live
   elsewhere. This holds the rules that produce them.
+- **Not consumer copy.** Descriptions here (the idea, positioning, offer,
+  behaviours) explain the brand to the people and agents building it. They
+  are not written to go directly to consumers — see
+  [guardrails](03-guardrails.md#brand-brain-descriptions-are-not-consumer-copy-confirmed).
 - **Not a mood board or wish list.** Aspirations that aren't yet true are
   not written as if they are.
 - **Not a place for invention.** Nobody — human or agent — adds facts,
