@@ -79,8 +79,9 @@ These sit alongside the core tone. The core tone wins if they ever conflict.
 - **Emoji:** allowed in social and connection pieces. Not used elsewhere by
   default. Always positive, never offensive — and never anything that hints
   at drunkenness or drinking more. `CONFIRMED`
-- **Core emoji set:** 👍 thumbs up · 🤞 fingers crossed · 👎 thumbs down ·
-  ❤️ hearts · 🍷 wine glass · 😊 smiley · 😂 laughing · 🤔 thinking. `CONFIRMED`
+- **Emoji set — the only emoji we use, everywhere:** 👍 thumbs up ·
+  🤞 fingers crossed · 👎 thumbs down · ❤️ hearts · 🍷 wine glass · 😊 smiley ·
+  😂 laughing · 🤔 thinking. `CONFIRMED`
 - **French:** short, everyday French words where they fit naturally (e.g.
   *bientôt*), and wine terms. Always with the correct accents. Never as
   decoration. `CONFIRMED`

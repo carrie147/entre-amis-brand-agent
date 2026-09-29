@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-09-29 | 02 | Emoji set applies to all emoji use, not just partner. | Caroline |
 | 2026-09-29 | 04 | Typeface confirmed: Raleway Light and SemiBold/Bold. Small-format mark noted as planned (to be defined). | Caroline |
 | 2026-09-29 | 02, 04 | Word Play and Wine Knowledge are app-only families. Awards use deep olive (core). ™ on final logo only, not current. Emoji: positive, never offensive; core set 👍 🤞 👎 ❤️ 🍷 😊 😂 🤔. | Caroline |
 | 2026-09-29 | 04 | Card family colours confirmed with fill and text colours: Savour, Pour, Wild, Mischief, Secret Mission, Word Play, Wine Knowledge. Mission screens get a dusty-blue tint. | Caroline |
