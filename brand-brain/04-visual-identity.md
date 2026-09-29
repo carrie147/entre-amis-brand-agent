@@ -21,6 +21,8 @@ the name is written in copy.
 
 ### Name styling in the logo vs copy `CONFIRMED`
 
+- **™:** will appear on the final, formalised logo — **not** on the current
+  one. `CONFIRMED`
 - The logo may style the name (e.g. `ENTRE AMIS`, `ENTRE amis`) as an approved
   logo route.
 - **Written copy always uses "Entre Amis"** — see
@@ -62,10 +64,15 @@ family has a fill colour and a darker text colour.
 | **Wild** | Brick red | `#A8503F` | 168, 80, 63 | `#813528` | 129, 53, 40 |
 | **Mischief** | Terracotta | `#BC6B4A` | 188, 107, 74 | `#9A5234` | 154, 82, 52 |
 | **Secret Mission** | Dusty blue | `#6E8B93` | 110, 139, 147 | `#4B6166` | 75, 97, 102 |
-| **Word Play** | Olive | `#7A7F5A` | 122, 127, 90 | `#575B3E` | 87, 91, 62 |
-| **Wine Knowledge** | Deep blush | `#B48A7A` | 180, 138, 122 | `#7A5647` | 122, 86, 71 |
+| **Word Play** (app only) | Olive | `#7A7F5A` | 122, 127, 90 | `#575B3E` | 87, 91, 62 |
+| **Wine Knowledge** (app only) | Deep blush | `#B48A7A` | 180, 138, 122 | `#7A5647` | 122, 86, 71 |
+| **Awards** | Deep olive (core colour) | `#565A32` | 86, 90, 50 | White or cream | — |
 
 - **Secret Mission screens** (app) also get a light dusty-blue tint behind them.
+- **Awards** use a core brand colour, not a game colour. Deep olive was chosen
+  because it's closest in feel to the printed prototype, stays clearly
+  distinct from Word Play olive, and carries white (7.2:1) or cream (6.0:1)
+  text comfortably. Founder may override.
 - CMYK values for print: `TODO` — from the designer.
 - The colours on the earlier card-pack prototype are superseded by this table.
 - Word Play olive (`#7A7F5A`) is a game colour, not one of the core olives —

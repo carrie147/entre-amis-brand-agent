@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-09-29 | 02, 04 | Word Play and Wine Knowledge are app-only families. Awards use deep olive (core). ™ on final logo only, not current. Emoji: positive, never offensive; core set 👍 🤞 👎 ❤️ 🍷 😊 😂 🤔. | Caroline |
 | 2026-09-29 | 04 | Card family colours confirmed with fill and text colours: Savour, Pour, Wild, Mischief, Secret Mission, Word Play, Wine Knowledge. Mission screens get a dusty-blue tint. | Caroline |
 | 2026-09-29 | 00 | Wine 101 built in the app — claimable as in development. | Caroline |
 | 2026-09-29 | 00 | Positioning confirmed — brand: "Where conversation matters more than knowledge."; game: "A wine game with no wrong answers." "Is not" list confirmed, with reworded course/test row and three new rows (hard to play, selling or intrusive, a judge of wine). | Caroline |

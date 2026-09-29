@@ -77,8 +77,10 @@ These sit alongside the core tone. The core tone wins if they ever conflict.
 - **Exclamation marks:** sparse and by exception — at most one per piece, and
   only when it genuinely belongs. Never forced in. `CONFIRMED`
 - **Emoji:** allowed in social and connection pieces. Not used elsewhere by
-  default. `CONFIRMED` — Partner version: a small set of core emoji is being
-  considered. `TODO`
+  default. Always positive, never offensive — and never anything that hints
+  at drunkenness or drinking more. `CONFIRMED`
+- **Core emoji set:** 👍 thumbs up · 🤞 fingers crossed · 👎 thumbs down ·
+  ❤️ hearts · 🍷 wine glass · 😊 smiley · 😂 laughing · 🤔 thinking. `CONFIRMED`
 - **French:** short, everyday French words where they fit naturally (e.g.
   *bientôt*), and wine terms. Always with the correct accents. Never as
   decoration. `CONFIRMED`
@@ -108,7 +110,8 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | **Corks** | How scores are counted. Never "points". |
 | **Crown** | Placed on the Wine of the Night / Day at the end |
 | **Wine of the Night / Wine of the Day** | The wine the table chooses together at the end. The app uses the right one for the time of day. In time-neutral copy (e.g. the physical game), don't assume it's evening. |
-| **Savour, Pour, Mischief, Wild** | The four main card families |
+| **Savour, Pour, Mischief, Wild** | The four main card families (physical game and app) |
+| **Word Play, Wine Knowledge** | Card families in the app only |
 | **Secret Missions** | Private cards, completed before your next turn |
 | **Award Cards** (Today's Award) | Given out by the table at the end. "Today's" is deliberate — it works for lunch or evening. |
 | **First Sip** | The card that starts the game |

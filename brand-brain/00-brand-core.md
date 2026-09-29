@@ -152,4 +152,5 @@ may be claimed.** Anything else — numbers, awards, sourcing, "first", "best",
   lines, terms and conditions), and only once the founder confirms the status
   to state.
 - Never say "registered" or use ® unless the founder confirms registration.
-- Use of ™ alongside the name or logo: `TODO` — founder to decide.
+- **™** will appear on the final, formalised logo, not on the current logo.
+  Don't add ™ to the name in copy.
