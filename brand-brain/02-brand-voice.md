@@ -130,9 +130,10 @@ Same personality, different volume. Across every context:
 - **Easy, never hard.** The game is designed to be easy; everything we say
   about it should feel easy too.
 - **Playful, never overly silly** — especially in marketing communications.
-- **Don't assume the evening.** People may play at lunch or in the evening.
-  Use time-neutral words (table, today, the occasion) unless the context — or
-  the app's time of day — makes it clear.
+- **Don't lock into a time of day unless there's a reason to.** People may
+  play at lunch or in the evening. Default to time-neutral words (table,
+  company, today, the occasion). Only name a time of day when the context
+  needs it — or the app knows it.
 
 | Context | Dial | Notes |
 | --- | --- | --- |

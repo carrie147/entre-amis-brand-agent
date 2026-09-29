@@ -41,8 +41,8 @@ conversations are better when nobody is worried about getting it right.
 
 Wine is the first place the brand brings that feeling to life: bottles opened
 around a table, people saying what they actually think, unexpected
-conversations, new discoveries — and wines remembered because the evening was
-with friends, old and new.
+conversations, new discoveries — and wines remembered because you were with
+friends, old and new.
 
 > Note: "conversations are better…" is a claim and is under founder review
 > (see [claims rules](03-guardrails.md#claims-confirmed)). Do not use it externally
@@ -107,7 +107,7 @@ not as launched (see Current stage).
 - Shares something fascinating without turning it into a lesson.
 - Loves any bottle — the special one or the £10 one.
 - Encourages opinions, not correct answers.
-- Cares more about the evening than the score.
+- Cares more about the company than the score.
 
 > "When you're at an Entre Amis table, nobody has to prove they belong there."
 
