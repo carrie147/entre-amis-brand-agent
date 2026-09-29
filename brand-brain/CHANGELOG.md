@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-09-29 | 00 | Confirmed: the idea (belief / flows; wine is "the first place", kept open), the offer (2–8 players, any time of day, solo use, Partner Mode data), behaviours (+ easy to join, a little more than expected; "everyday" replaces "£10"), players (broad during user testing) and gift buyers. Trade mark: never a public claim, legal places only. | Caroline |
 | 2026-09-29 | 02 | Game heading "The evening wins" replaced with "THE TABLE WINS". | Caroline |
 | 2026-09-29 | README, 03 | New rule: Brand Brain descriptions are internal, not consumer copy; don't lift them verbatim into consumer output. Provence "evening" comparison kept. | Caroline |
 | 2026-09-29 | 00, 02 | Time-of-day rule: don't lock into a time of day unless there's a reason. Deck lines reworded: "wines remembered because you were with friends"; "cares more about the company than the score". | Caroline |

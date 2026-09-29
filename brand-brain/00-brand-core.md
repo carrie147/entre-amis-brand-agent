@@ -5,8 +5,9 @@ What Entre Amis is, and what it isn't. Everything else builds on this file.
 > Anything marked `TODO` or `PROPOSED` is not yet truth. Do not use it in
 > output — ask the founder.
 >
-> Source for `PROPOSED` content below: founder deck *For Sunday 4th October*
-> (2026). Drafted from the deck, awaiting founder confirmation line by line.
+> Source: founder deck *For Sunday 4th October* (2026), reviewed with the
+> founder line by line. Descriptions here are internal — see
+> [guardrails](03-guardrails.md#brand-brain-descriptions-are-not-consumer-copy-confirmed).
 
 ---
 
@@ -34,32 +35,31 @@ Entre Amis is at **prototype and validation stage**.
 
 ## What Entre Amis is
 
-### The idea `PROPOSED`
+### The idea `CONFIRMED`
 
-**Conversation, not knowledge.** Entre Amis starts with a simple truth:
-conversations are better when nobody is worried about getting it right.
+**Conversation, not knowledge.** Entre Amis starts with a simple belief:
+conversation flows when nobody is worried about getting it right.
 
 Wine is the first place the brand brings that feeling to life: bottles opened
 around a table, people saying what they actually think, unexpected
 conversations, new discoveries — and wines remembered because you were with
 friends, old and new.
 
-> Note: "conversations are better…" is a claim and is under founder review
-> (see [claims rules](03-guardrails.md#claims-confirmed)). Do not use it externally
-> until confirmed.
+Wine is deliberately "the first place": Entre Amis may go beyond wine in
+future. Don't describe the brand in a way that closes that off.
 
 ### One-line positioning `PROPOSED`
 
 > A wine game for people who would rather have an opinion than know the answer.
 
-### The offer — Play → Discover → Experience `PROPOSED`
+### The offer — Play → Discover → Experience `CONFIRMED`
 
 | Part | What it is | Stage |
 | --- | --- | --- |
-| **The game** (Play) | A premium, giftable table game that turns any bottle into conversation. Easy to start, easy to join. | Prototype, playable |
-| **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps Wine 101 — a personal library of wines and moments. | Prototype; Host + Guest tested together |
+| **The game** (Play) | A premium, giftable table game that turns any bottle into conversation. For 2–8 players, at any time of day. Easy to start, easy to join. | Prototype, playable |
+| **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps Wine 101 — a personal library of wines and moments. Hosts can also use it for their own tasting and exploration. It works with the table, never instead of it. | Prototype; Host + Guest tested together |
 | **Entre Amis stays** (Experience) | Entre Amis lived for a few days in Provence, rather than played for an evening. | Later stage — not in development for launch |
-| **Partner Mode** | A way for vineyards, retailers, tastings and events to create participation around their wines and understand what people genuinely think. | Prototype |
+| **Partner Mode** | A way for vineyards, retailers, tastings and events to create participation around their wines and understand what people genuinely think — with consent, anonymised (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)). | Prototype |
 
 ### Game facts `CONFIRMED`
 
@@ -100,14 +100,16 @@ not as launched (see Current stage).
 | Content for partners | What Entre Amis adds isn't content. It's connection. |
 | For under-18s | 18+ only. (`CONFIRMED`) |
 
-## How Entre Amis behaves — the friend you want at the table `PROPOSED`
+## How Entre Amis behaves — the friend you want at the table `CONFIRMED`
 
 - Knows enough to make things interesting, but never makes anyone feel left out.
 - Pulls people in when they go quiet.
 - Shares something fascinating without turning it into a lesson.
-- Loves any bottle — the special one or the £10 one.
+- Loves any bottle — the special one or the everyday one.
 - Encourages opinions, not correct answers.
 - Cares more about the company than the score.
+- Makes it easy to join in.
+- Always brings a little more than you expected.
 
 > "When you're at an Entre Amis table, nobody has to prove they belong there."
 
@@ -115,7 +117,8 @@ not as launched (see Current stage).
 
 | Audience | Who | Voice |
 | --- | --- | --- |
-| **Players** `PROPOSED` | Adults (18+) who enjoy wine with friends and would rather have an opinion than know the answer. Hosts and Guests. | [Brand voice](02-brand-voice.md) |
+| **Players** `CONFIRMED` | Adults (18+) who enjoy wine with friends, whatever they know about it. Hosts and Guests. Deliberately broad while we user-test. | [Brand voice](02-brand-voice.md) |
+| **Gift buyers** `CONFIRMED` | Adults (18+) buying the game for someone else — not always players themselves. | [Brand voice](02-brand-voice.md) |
 | **Partners** `CONFIRMED` | Vineyards, venues, wine experiences, retail, wine clubs, trade and consumer events. | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
 
 ## Proof points
@@ -131,4 +134,13 @@ may be claimed.** Anything else — numbers, awards, sourcing, "first", "best",
 | The game can be played with a single wine | Founder | `CONFIRMED` |
 | Founded by Caroline, a marketing and commercial leader with 30+ years across UK and international brands | Founder | `CONFIRMED` |
 | Caroline holds the WSET Level 3 in Wines, with Distinction | Founder | `CONFIRMED` |
-| A UK trade mark application has been filed (say "filed" — never "registered", never use ®) | Founder deck | `PROPOSED` |
+
+## Trade mark `CONFIRMED`
+
+- **Never a public claim.** Trade mark status is never used in marketing,
+  social, product or partner copy.
+- **Legal places only.** It appears only where legally needed (e.g. legal
+  lines, terms and conditions), and only once the founder confirms the status
+  to state.
+- Never say "registered" or use ® unless the founder confirms registration.
+- Use of ™ alongside the name or logo: `TODO` — founder to decide.
