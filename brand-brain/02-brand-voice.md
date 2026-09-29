@@ -118,8 +118,8 @@ wine clubs and events. Same warmth and principles, less play.
 
 Partner voice is **restricted to**:
 
-- **Savour and Pour** `TODO` — founder to confirm exactly what these cover
-  (game card families / modes?)
+- **The Savour and Pour card families** — the card families used in the
+  partner set-up, borrowed from the main game (as it currently stands)
 - **Flavours and aromas** of the wines being tasted
 - **Occasions** for drinking the wines being tasted
 
