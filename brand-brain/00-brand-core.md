@@ -57,7 +57,7 @@ with friends, old and new.
 | Part | What it is | Stage |
 | --- | --- | --- |
 | **The game** (Play) | A premium, giftable table game that turns any bottle into conversation. Easy to start, easy to join. | Prototype, playable |
-| **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps a personal wine library of wines and moments. | Prototype; Host + Guest tested together |
+| **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps wine101 — a personal library of wines and moments. | Prototype; Host + Guest tested together |
 | **Entre Amis stays** (Experience) | Entre Amis lived for a few days in Provence, rather than played for an evening. | Later stage — not in development for launch |
 | **Partner Mode** | A way for vineyards, retailers, tastings and events to create participation around their wines and understand what people genuinely think. | Prototype |
 
@@ -65,7 +65,8 @@ with friends, old and new.
 
 - **18+ only.** Clearly identified as 18+ on the game; the app has an 18+ age
   gate on entry.
-- **Points are for conversation, never for volume drunk.** Nothing in the game
+- **Corks are won for conversation and play, never for volume drunk.** Scores
+  are always counted in corks, never points. Nothing in the game
   is written to make people drink more.
 - **Works with just one wine.** Any wine, any number of bottles — one is enough.
 
@@ -79,7 +80,7 @@ not as launched (see Current stage).
 | Physical game | Prototype, playable | Yes — as in development |
 | App: host the game, Host + Guest play | Prototype, tested | Yes — as in development |
 | App: wine recognition | Works on a separate platform (via FastCork); not yet integrated into the app | **No** |
-| App: personal wine library | `TODO` — founder to confirm | No, until confirmed |
+| App: wine101 (personal wine library) | `TODO` — founder to confirm | No, until confirmed |
 | Partner Mode | Prototype | Yes — as in development, to partners only |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
@@ -89,7 +90,7 @@ not as launched (see Current stage).
 | --- | --- |
 | A wine course, quiz or test with right answers | It's conversation, not knowledge. Opinions, not correct answers. |
 | Snobbish about wine | Any bottle belongs — the special one or the £10 one. |
-| A drinking game | Points are for conversation, never volume. (`CONFIRMED`) |
+| A drinking game | Corks are won for conversation, never volume. (`CONFIRMED`) |
 | A screen-first experience | The app supports the table. It never becomes the table. |
 | A tour or a retreat (stays) | More like staying with friends who know all the good places. |
 | Content for partners | What Entre Amis adds isn't content. It's connection. |
@@ -122,7 +123,7 @@ may be claimed.** Anything else — numbers, awards, sourcing, "first", "best",
 | Claim | Source / evidence | Status |
 | --- | --- | --- |
 | The game is 18+ and the app is age-gated at 18+ | Founder | `CONFIRMED` |
-| Points are awarded for conversation, not volume drunk | Founder | `CONFIRMED` |
+| Corks are won for conversation and play, not volume drunk | Founder | `CONFIRMED` |
 | The game can be played with a single wine | Founder | `CONFIRMED` |
 | Founded by Caroline, a marketing and commercial leader with 30+ years across UK and international brands | Founder | `CONFIRMED` |
 | Caroline holds the WSET Level 3 in Wines, with Distinction | Founder | `CONFIRMED` |

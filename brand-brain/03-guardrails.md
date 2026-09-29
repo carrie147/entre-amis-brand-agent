@@ -62,7 +62,7 @@ before launch.
 - **18+ only.** The game is clearly identified as 18+; the app has an 18+ age
   gate on entry. Never create content that appeals to, features or targets
   under-18s.
-- **Never a drinking game.** Points are awarded for conversation, never for
+- **Never a drinking game.** Corks are won for conversation and play, never for
   volume drunk. No mechanic, copy or content may encourage drinking more,
   faster, or finishing a glass or bottle.
 - **One wine is enough.** The game can be played with a single wine; never

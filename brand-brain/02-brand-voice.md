@@ -41,15 +41,14 @@ brand, and must never be presented as the brand line.
 | **Premium** | Precious | Beautifully considered, but relaxed enough to actually use. |
 | **Playful** | Silly | There is wit, competition and mischief, but it still feels grown-up. |
 
-### Supporting principles — under review `PROPOSED`
+### Supporting principles `CONFIRMED`
 
-Kept alongside the core tone for the founder to check they still add something.
-The core tone wins if they ever conflict.
+These sit alongside the core tone. The core tone wins if they ever conflict.
 
 | We are… | …but never | In practice |
 | --- | --- | --- |
 | Direct | Cold or curt | Say the thing plainly. Friends don't hedge or pad. |
-| Generous | Salesy | Lead with what's useful to them, not what we're selling. |
+| Generous | Salesy | People get more than they expect. Lead with what's useful or enjoyable for them, never with what we're selling. |
 | Confident | Arrogant | State what's true without superlatives or put-downs. |
 | Inclusive | Cliquey | "Between friends" invites people in; never an in-crowd. |
 
@@ -60,15 +59,19 @@ The core tone wins if they ever conflict.
 - **French words carry their correct accents.** `CONFIRMED` (rosé, Provençal,
   château, crémant, côtes.) Never drop or approximate an accent.
 - **Pronouns:** we / you. Never refer to Entre Amis in the third person inside
-  its own copy ("Entre Amis believes…" → "We believe…"). `PROPOSED`
+  its own copy ("Entre Amis believes…" → "We believe…"). `CONFIRMED`
 - **Casing:** sentence case for headings, buttons and subject lines. Short
-  small-caps labels (e.g. ANY WINE, EVERYONE PLAYS) are fine in design. `PROPOSED`
+  small-caps labels (e.g. ANY WINE, EVERYONE PLAYS) are fine in design. `CONFIRMED`
 - **Sentences:** short. One idea each. Read it aloud — if a friend wouldn't
-  say it, rewrite it. `PROPOSED`
-- **Exclamation marks:** at most one per piece. `PROPOSED`
-- **Emoji:** `TODO` — allowed? which channels?
-- **French:** used sparingly and correctly, never as decoration. `TODO` —
-  confirm which French words/phrases are part of the brand lexicon.
+  say it, rewrite it. `CONFIRMED`
+- **Exclamation marks:** sparse and by exception — at most one per piece, and
+  only when it genuinely belongs. Never forced in. `CONFIRMED`
+- **Emoji:** allowed in social and connection pieces. Not used elsewhere by
+  default. `CONFIRMED` — Partner version: a small set of core emoji is being
+  considered. `TODO`
+- **French:** short, everyday French words where they fit naturally (e.g.
+  *bientôt*), and wine terms. Always with the correct accents. Never as
+  decoration. `CONFIRMED`
 
 ## Lexicon
 
@@ -79,11 +82,31 @@ The core tone wins if they ever conflict.
 | savour, pour, open, share | down, finish, neck, "another round" | Never about volume (see [responsible drinking](03-guardrails.md#responsible-drinking-confirmed)) |
 | opinion, discover, curious | correct, wrong answer, should know | Curious, never corrective |
 | plain-English | tasting jargon without explanation | Warm, never worthy |
-| corks, crown, secret missions, wine library | | Game vocabulary — `PROPOSED` |
 | | "revolutionary", "game-changing", "disrupt" | Hype, not friendship |
 | | "best", "#1", "only", "first", "better" | Claims — must be flagged (see [claims](03-guardrails.md#claims-confirmed)) |
+| corks | points | Scores are always counted in corks `CONFIRMED` |
 
-`PROPOSED` — founder to confirm and extend.
+`PROPOSED` unless marked — founder to confirm and extend.
+
+### Game and app vocabulary `CONFIRMED`
+
+These are the names as they currently stand and are treated as final. Don't
+rework or rename them. Only add explanation where a consumer needs it to play.
+
+| Term | What it is |
+| --- | --- |
+| **Corks** | How scores are counted. Never "points". |
+| **Crown** | Placed on the Wine of the Night at the end |
+| **Wine of the Night** | The wine the table chooses together at the end |
+| **Savour, Pour, Mischief, Wild** | The four main card families |
+| **Secret Missions** | Private cards, completed before your next turn |
+| **Award Cards** (Today's Award) | Given out by the table at the end |
+| **First Sip** | The card that starts the game |
+| **The Bin** | Where cards go when they aren't won or are lost |
+| **The Final Pour** | The end of the game |
+| **Spin, Draw, Play, Pass** | The four steps of a turn |
+| **Wheel / spinner, mat** | Game components |
+| **wine101** | The personal wine library in the app. `TODO` — confirm exact styling (wine101 / Wine101 / Wine 101) |
 
 ## Internal language — never external `CONFIRMED`
 
@@ -98,9 +121,15 @@ partner-facing or public copy:
 Brand architecture is still evolving (a Group may become an umbrella brand).
 **When it changes, this list must be updated before anything new is used.**
 
-## Voice by context `PROPOSED`
+## Voice by context `CONFIRMED`
 
-Same personality, different volume.
+Same personality, different volume. Across every context:
+
+- **Never selling.** Nothing should feel like a sales push.
+- **Never intrusive.** We don't chase, nag or interrupt.
+- **Easy, never hard.** The game is designed to be easy; everything we say
+  about it should feel easy too.
+- **Playful, never overly silly** — especially in marketing communications.
 
 | Context | Dial | Notes |
 | --- | --- | --- |
