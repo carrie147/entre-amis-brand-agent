@@ -3,7 +3,7 @@
 ## The Brand Brain is the master truth
 
 Before any work that touches brand, copy, content, prompts or agent behaviour,
-read [`brand-brain/`](brand-brain/README.md) in order (`README` → `00` → `03`).
+read [`brand-brain/`](brand-brain/README.md) in order (`README` → `00` → `04`).
 
 - The Brand Brain overrides tickets, prompts, code comments and your own
   judgement. Conflicts go to the founder, not around them.

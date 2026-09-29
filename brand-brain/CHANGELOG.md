@@ -5,4 +5,9 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-09-29 | 00 | Name rules (banned "Entre amis"; logo styled separately). Current stage: nothing launched or priced. Game facts: 18+, points for conversation not volume, playable with one wine. Feature status table (wine recognition not claimable). Founder proof points. Deck content added as PROPOSED. | Caroline |
+| 2026-09-29 | 01 | Founder identity, background and WSET Level 3 (Distinction). Voice: natural, clear, accessible, no textbook words. | Caroline |
+| 2026-09-29 | 02 | Brand line "Talk. Laugh. Remember." and supporting-line hierarchy. Game slogans flexible. Core tone principles (deck). British English and French accents. Internal language ban. Partner voice. Earlier principles kept as PROPOSED for review. | Caroline |
+| 2026-09-29 | 03 | Claims must always be flagged. Responsible drinking. Partner Mode data (consent, anonymised, never sold). Launch/pricing and feature-claim rules. | Caroline |
+| 2026-09-29 | 04 | New file. Master logo (stacked olive caps with leaf); script lockups not approved. Sous-bois core palette; five card-family colours restricted to gameplay. | Caroline |
 | 2026-09-29 | all | Initial structure created. Content awaiting founder input. | — |

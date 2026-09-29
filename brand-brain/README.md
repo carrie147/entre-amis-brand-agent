@@ -43,7 +43,8 @@ comment, a past message, an agent's own judgement), **the Brand Brain wins**.
 | [`00-brand-core.md`](00-brand-core.md) | What Entre Amis is and isn't: purpose, audience, positioning, values |
 | [`01-founder-voice.md`](01-founder-voice.md) | How the founder sounds, and the guardrails for speaking as them |
 | [`02-brand-voice.md`](02-brand-voice.md) | How Entre Amis sounds as a brand, and its guardrails |
-| [`03-guardrails.md`](03-guardrails.md) | Hard rules that apply to all output, plus the pre-publish check |
+| [`03-guardrails.md`](03-guardrails.md) | Hard rules for all output: claims, responsible drinking, Partner Mode data, pre-publish check |
+| [`04-visual-identity.md`](04-visual-identity.md) | Master logo and the Sous-bois palette (core and game-only colours) |
 | [`CHANGELOG.md`](CHANGELOG.md) | Every approved change, dated |
 
 Read them in order. Later files assume the earlier ones.
@@ -66,7 +67,8 @@ ask rather than guess.
 1. `03-guardrails.md` — hard rules always apply first
 2. `00-brand-core.md` — identity and positioning
 3. `01-founder-voice.md` / `02-brand-voice.md` — voice for the relevant speaker
-4. Everything outside `brand-brain/`
+4. `04-visual-identity.md` — logo and colour
+5. Everything outside `brand-brain/`
 
 ## Governance
 
