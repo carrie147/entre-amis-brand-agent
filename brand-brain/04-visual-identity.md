@@ -28,6 +28,19 @@ the name is written in copy.
 - **Written copy always uses "Entre Amis"** — see
   [`00-brand-core.md`](00-brand-core.md#name).
 
+### Small-format mark `TODO`
+
+A separate small mark is planned for formats where the full stacked logo is
+too big to read. Until it's approved, don't create or improvise one.
+
+To define when it's ready:
+
+- What it is (e.g. monogram, leaf, initials).
+- Where it's used — e.g. app icon, favicon, social avatar, card backs,
+  components, stamps.
+- The size at which you switch from the full logo to the small mark.
+- Approved colour versions.
+
 ### Still needed `TODO`
 
 - Master logo artwork files (SVG / PNG) added to the repo.
@@ -94,6 +107,30 @@ Contrast ratios checked against WCAG AA (4.5:1 for normal text):
   (3.1) are OK only for large or bold text (3:1). Pour (2.6) fails — never
   white text on Pour.
 
-### Typography `TODO`
+## Typography
 
-Typefaces for headings and body — to be confirmed.
+### Typeface `CONFIRMED`
+
+**Raleway** — in **Light** (300) and **SemiBold / Bold** (600 / 700).
+
+No other typefaces. The logo is artwork, not typed out — never recreate it in
+Raleway or any other font.
+
+### How to use the weights `PROPOSED`
+
+| Use | Weight | Notes |
+| --- | --- | --- |
+| Large headings, display lines, brand line | Light | Airy and premium — as on the deck |
+| Short labels, small-caps headings (ANY WINE) | SemiBold | Letter-spaced, as on the deck and How to Play |
+| Emphasis, buttons, card family names, cork values | SemiBold / Bold | |
+| Body copy | Light, at a comfortable size | Light gets hard to read when small or on dark colours — see below |
+
+**Watch-outs**
+
+- **Light at small sizes.** Light is thin; at small sizes, on screens, or on
+  dark or coloured fills (e.g. card families) it can become hard to read.
+  Keep Light for larger text and use SemiBold for small text there.
+- **Numbers.** Raleway's default numbers are "old-style" (they rise and dip
+  like lowercase letters). For scores, cork counts, prices and anything in a
+  column, switch on lining figures (`font-variant-numeric: lining-nums`) so
+  numbers sit level.
