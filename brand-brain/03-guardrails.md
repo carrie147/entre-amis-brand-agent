@@ -113,6 +113,7 @@ Run this on every piece of brand-facing output. Any "no" means it doesn't ship.
 - [ ] Is it British English, with French accents correct?
 - [ ] Is it free of internal language?
 - [ ] Does it pass every responsible drinking rule?
+- [ ] Is it neutral on wine — no wine, style, region or producer ranked above another?
 - [ ] Are colours and logo used as set out in `04-visual-identity.md`?
 - [ ] Does it sound like Entre Amis — and not like any other brand?
 - [ ] Does it respect every "is not" in `00-brand-core.md`?

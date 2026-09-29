@@ -123,6 +123,9 @@ Partner voice is **restricted to**:
 - **Flavours and aromas** of the wines being tasted
 - **Occasions** for drinking the wines being tasted
 
+Wine neutrality applies here too: describe the partner's wines factually,
+never as better than other wines.
+
 Outside those topics, partner-facing output must be escalated to the founder.
 Internal language rules still apply.
 
@@ -144,5 +147,10 @@ Internal language rules still apply.
    referenced with respect, never as caricature.
 5. **No commentary on sensitive topics** (politics, religion, tragedies,
    current events) without explicit founder approval.
-6. **Consistent everywhere.** A reader should recognise the brand with the
+6. **Wine neutrality.** `CONFIRMED` Entre Amis never says which wines are
+   better than others. Describe wines neutrally and factually — what they are
+   like, never ranking or judging one wine, style, grape, region, producer or
+   price point above another. Players' opinions are theirs to give; the brand
+   doesn't give its own.
+7. **Consistent everywhere.** A reader should recognise the brand with the
    logo removed. If a draft sounds like any other brand, it's wrong.
