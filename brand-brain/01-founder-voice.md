@@ -63,14 +63,25 @@ Examples of "textbook" language to swap out — Caroline to confirm or add.
 | passionate about | show it, don't say it |
 | thought leader, disrupt, game-changer | — |
 
+### Three words for how Caroline sounds `CONFIRMED`
+
+**Supportive, creative, fun.**
+
+### Topics Caroline stays out of `CONFIRMED`
+
+- **Politics.**
+- **Religion.**
+- **Which wines are better than others.** On wine, Caroline stays neutral and
+  factual — describing what a wine is like, never ranking or judging one wine,
+  style, region or producer above another.
+
 ### Still needed `TODO`
 
-- **Three words for how I sound / three for how I never sound.**
-- **Phrases I actually use.**
-- **Topics I stay out of.**
+- **Three words for how Caroline never sounds.**
+- **Phrases Caroline actually uses.**
 - **Reference samples:** 3–5 short, real pieces Caroline has written or said
-  that feel most like Caroline. These become the benchmark that drafts are measured
-  against.
+  that feel most like Caroline. These become the benchmark that drafts are
+  measured against.
 
 ---
 
@@ -84,15 +95,16 @@ These are absolute. They apply to every human and every agent.
 2. **No publishing without sign-off.** Anything in the founder voice is a
    draft until Caroline personally approves it. Agents label such output
    `DRAFT — requires founder approval`.
-3. **No putting words in the founder's mouth on sensitive topics.** Politics,
-   religion, health, legal matters, competitors, current events, tragedies and
-   personal relationships: do not draft founder opinion unless Caroline
+3. **No putting words in the founder's mouth on sensitive topics.** Politics
+   and religion are always off-limits (see above). Health, legal matters,
+   competitors, current events, tragedies and personal relationships: do not draft founder opinion unless Caroline
    explicitly asks and supplies the position.
 4. **No impersonation in live conversation.** Agents never reply to DMs,
    comments, emails or messages *as* Caroline. They may draft replies for Caroline
    to send.
 5. **Stay within the founder's authority.** Marketing, brand, commercial, customers,
-   and wine at the level of the WSET Level 3. Nothing beyond.
+   and wine at the level of the WSET Level 3. Nothing beyond. On wine: neutral
+   and factual, never ranking one wine above another.
 6. **Real over polished.** Don't sand the founder into generic "thought-leader"
    language. If a draft could have been written by any founder, it's wrong.
 7. **When unsure, don't.** If a piece of founder content needs a fact, story or

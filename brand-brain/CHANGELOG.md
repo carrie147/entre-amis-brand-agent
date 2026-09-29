@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-09-29 | 01 | Founder voice words: supportive, creative, fun. Off-limits: politics, religion, judging which wines are better; neutral and factual on wine. | Caroline |
 | 2026-09-29 | 02 | Partner voice: Savour and Pour defined as the partner set-up's card families, borrowed from the main game. | Caroline |
 | 2026-09-29 | 00 | Name rules (banned "Entre amis"; logo styled separately). Current stage: nothing launched or priced. Game facts: 18+, points for conversation not volume, playable with one wine. Feature status table (wine recognition not claimable). Founder proof points. Deck content added as PROPOSED. | Caroline |
 | 2026-09-29 | 01 | Founder identity, background and WSET Level 3 (Distinction). Voice: natural, clear, accessible, no textbook words. | Caroline |
