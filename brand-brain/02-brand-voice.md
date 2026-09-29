@@ -30,6 +30,16 @@ Slogans for the game and app are **descriptive, not set in stone, and may
 vary** (e.g. "Pour. Spin. Play. Talk."). They describe the product, not the
 brand, and must never be presented as the brand line.
 
+### Game page headings
+
+The three short headings describing the physical game:
+
+| Heading | Supporting line | Status |
+| --- | --- | --- |
+| **ANY WINE** | Special bottle or Tuesday-night bottle. Both belong at the table. | `PROPOSED` |
+| **EVERYONE PLAYS** | No wine expertise required. Curiosity and an opinion are enough. | `PROPOSED` |
+| **THE TABLE WINS** | There are corks to collect and a wine to be crowned — but conversation matters more than the score. | `CONFIRMED` heading (replaces "The evening wins"); supporting line `PROPOSED` |
+
 ## Tone principles
 
 ### Core tone — premium, accessible and never judgemental `CONFIRMED`

@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-09-29 | 02 | Game heading "The evening wins" replaced with "THE TABLE WINS". | Caroline |
 | 2026-09-29 | README, 03 | New rule: Brand Brain descriptions are internal, not consumer copy; don't lift them verbatim into consumer output. Provence "evening" comparison kept. | Caroline |
 | 2026-09-29 | 00, 02 | Time-of-day rule: don't lock into a time of day unless there's a reason. Deck lines reworded: "wines remembered because you were with friends"; "cares more about the company than the score". | Caroline |
 | 2026-09-29 | 00, 02 | 2–8 players confirmed. Any time of day: don't assume the evening; Wine of the Night / Wine of the Day set by the app; "Today's Award" deliberate. wine101 styled as Wine 101. Card prototype colours superseded by the palette in 04. | Caroline |
