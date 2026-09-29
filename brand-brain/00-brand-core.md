@@ -90,7 +90,7 @@ not as launched (see Current stage).
 | Physical game | Prototype, playable | Yes — as in development |
 | App: host the game, Host + Guest play | Prototype, tested | Yes — as in development |
 | App: wine recognition | Works on a separate platform (via FastCork); not yet integrated into the app | **No** |
-| App: Wine 101 (personal wine library) | `TODO` — founder to confirm | No, until confirmed |
+| App: Wine 101 (personal wine library) | Built in the app, prototype | Yes — as in development |
 | Partner Mode | Prototype | Yes — as in development, to partners only |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
