@@ -57,7 +57,7 @@ with friends, old and new.
 | Part | What it is | Stage |
 | --- | --- | --- |
 | **The game** (Play) | A premium, giftable table game that turns any bottle into conversation. Easy to start, easy to join. | Prototype, playable |
-| **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps wine101 — a personal library of wines and moments. | Prototype; Host + Guest tested together |
+| **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps Wine 101 — a personal library of wines and moments. | Prototype; Host + Guest tested together |
 | **Entre Amis stays** (Experience) | Entre Amis lived for a few days in Provence, rather than played for an evening. | Later stage — not in development for launch |
 | **Partner Mode** | A way for vineyards, retailers, tastings and events to create participation around their wines and understand what people genuinely think. | Prototype |
 
@@ -69,6 +69,10 @@ with friends, old and new.
   are always counted in corks, never points. Nothing in the game
   is written to make people drink more.
 - **Works with just one wine.** Any wine, any number of bottles — one is enough.
+- **2–8 players.** A social wine game for two to eight players.
+- **Any time of day.** People may play at lunch as well as in the evening.
+  The physical game is written to work at any time; the app adapts to the
+  time of day.
 
 ### Feature status — what may be claimed `CONFIRMED`
 
@@ -80,7 +84,7 @@ not as launched (see Current stage).
 | Physical game | Prototype, playable | Yes — as in development |
 | App: host the game, Host + Guest play | Prototype, tested | Yes — as in development |
 | App: wine recognition | Works on a separate platform (via FastCork); not yet integrated into the app | **No** |
-| App: wine101 (personal wine library) | `TODO` — founder to confirm | No, until confirmed |
+| App: Wine 101 (personal wine library) | `TODO` — founder to confirm | No, until confirmed |
 | Partner Mode | Prototype | Yes — as in development, to partners only |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 

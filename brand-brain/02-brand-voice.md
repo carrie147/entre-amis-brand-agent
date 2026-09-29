@@ -77,7 +77,7 @@ These sit alongside the core tone. The core tone wins if they ever conflict.
 
 | Words we use | Words we avoid | Why |
 | --- | --- | --- |
-| table, evening, friends old and new | "customers", "consumers", "users" (in public copy) | We talk to people, not segments |
+| table, lunch, evening, friends old and new | "customers", "consumers", "users" (in public copy) | We talk to people, not segments |
 | Host, Guest | | The two roles at the table |
 | savour, pour, open, share | down, finish, neck, "another round" | Never about volume (see [responsible drinking](03-guardrails.md#responsible-drinking-confirmed)) |
 | opinion, discover, curious | correct, wrong answer, should know | Curious, never corrective |
@@ -96,17 +96,17 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | Term | What it is |
 | --- | --- |
 | **Corks** | How scores are counted. Never "points". |
-| **Crown** | Placed on the Wine of the Night at the end |
-| **Wine of the Night** | The wine the table chooses together at the end |
+| **Crown** | Placed on the Wine of the Night / Day at the end |
+| **Wine of the Night / Wine of the Day** | The wine the table chooses together at the end. The app uses the right one for the time of day. In time-neutral copy (e.g. the physical game), don't assume it's evening. |
 | **Savour, Pour, Mischief, Wild** | The four main card families |
 | **Secret Missions** | Private cards, completed before your next turn |
-| **Award Cards** (Today's Award) | Given out by the table at the end |
+| **Award Cards** (Today's Award) | Given out by the table at the end. "Today's" is deliberate — it works for lunch or evening. |
 | **First Sip** | The card that starts the game |
 | **The Bin** | Where cards go when they aren't won or are lost |
 | **The Final Pour** | The end of the game |
 | **Spin, Draw, Play, Pass** | The four steps of a turn |
 | **Wheel / spinner, mat** | Game components |
-| **wine101** | The personal wine library in the app. `TODO` — confirm exact styling (wine101 / Wine101 / Wine 101) |
+| **Wine 101** | The personal wine library in the app |
 
 ## Internal language — never external `CONFIRMED`
 
@@ -130,6 +130,9 @@ Same personality, different volume. Across every context:
 - **Easy, never hard.** The game is designed to be easy; everything we say
   about it should feel easy too.
 - **Playful, never overly silly** — especially in marketing communications.
+- **Don't assume the evening.** People may play at lunch or in the evening.
+  Use time-neutral words (table, today, the occasion) unless the context — or
+  the app's time of day — makes it clear.
 
 | Context | Dial | Notes |
 | --- | --- | --- |

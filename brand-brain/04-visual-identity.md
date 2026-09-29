@@ -62,6 +62,8 @@ For the **cards and game only**, to show the different families of cards.
 | Terracotta clay | `#BC6B4A` | 188, 107, 74 | 0, 43, 61, 26 | `TODO` |
 | Faded poppy | `#A8503F` | 168, 80, 63 | 0, 52, 62, 3 | `TODO` |
 
+The colours on the earlier card-pack prototype are superseded by this palette.
+
 **Rule:** these colours must **never** be used for general brand purposes.
 Outside the game itself (e.g. in an article, social post or the app), a card
 family colour may only appear when it is signifying that gameplay family.
