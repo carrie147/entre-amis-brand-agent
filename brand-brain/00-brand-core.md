@@ -48,9 +48,15 @@ friends, old and new.
 Wine is deliberately "the first place": Entre Amis may go beyond wine in
 future. Don't describe the brand in a way that closes that off.
 
-### One-line positioning `PROPOSED`
+### One-line positioning `CONFIRMED`
 
-> A wine game for people who would rather have an opinion than know the answer.
+| For | Positioning |
+| --- | --- |
+| **The brand** | Where conversation matters more than knowledge. |
+| **The game** | A wine game with no wrong answers. |
+
+These are internal descriptions, not taglines. The brand line is
+**Talk. Laugh. Remember.**
 
 ### The offer — Play → Discover → Experience `CONFIRMED`
 
@@ -88,17 +94,20 @@ not as launched (see Current stage).
 | Partner Mode | Prototype | Yes — as in development, to partners only |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
-## What Entre Amis is not `PROPOSED`
+## What Entre Amis is not `CONFIRMED`
 
 | Entre Amis is not… | Because… |
 | --- | --- |
-| A wine course, quiz or test with right answers | It's conversation, not knowledge. Opinions, not correct answers. |
+| A wine course or a test | There are chances to learn along the way, but corks are won for sharing, not for knowing. |
+| Hard to play | Designed to be easy, never hard. |
+| Selling or intrusive | We never push, chase or interrupt. |
+| A judge of wine | We never say one wine is better than another. The table decides for itself. |
 | Snobbish about wine | Any bottle belongs — the special one or the £10 one. |
-| A drinking game | Corks are won for conversation, never volume. (`CONFIRMED`) |
+| A drinking game | Corks are won for conversation, never volume. |
 | A screen-first experience | The app supports the table. It never becomes the table. |
 | A tour or a retreat (stays) | More like staying with friends who know all the good places. |
 | Content for partners | What Entre Amis adds isn't content. It's connection. |
-| For under-18s | 18+ only. (`CONFIRMED`) |
+| For under-18s | 18+ only. |
 
 ## How Entre Amis behaves — the friend you want at the table `CONFIRMED`
 
