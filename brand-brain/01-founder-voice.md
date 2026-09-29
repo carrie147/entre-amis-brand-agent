@@ -57,7 +57,6 @@ Examples of "textbook" language to swap out — Caroline to confirm or add.
 | Avoid | Say instead |
 | --- | --- |
 | utilise, leverage | use |
-| facilitate | help, make easier |
 | synergy, ecosystem (externally) | say what actually connects |
 | organoleptic, typicity, "on the palate" | what it tastes like, in plain words |
 | passionate about | show it, don't say it |
@@ -75,13 +74,61 @@ Examples of "textbook" language to swap out — Caroline to confirm or add.
   factual — describing what a wine is like, never ranking or judging one wine,
   style, region or producer above another.
 
-### Still needed `TODO`
+### Three words for how Caroline never sounds `CONFIRMED`
 
-- **Three words for how Caroline never sounds.**
-- **Phrases Caroline actually uses.**
-- **Reference samples:** 3–5 short, real pieces Caroline has written or said
-  that feel most like Caroline. These become the benchmark that drafts are
-  measured against.
+**Preachy, salesy, jargon-heavy, know-it-all.**
+
+### How Caroline writes `CONFIRMED`
+
+Drawn from Caroline's own writing — see the
+[reference samples](samples/founder-linkedin.md).
+
+**Patterns**
+
+1. **Opens with a plain statement or observation.** No warm-up.
+2. **Starts from something real** — a conversation, a news story, a personal
+   experience.
+3. **Thinks out loud** — asks questions, says "perhaps", doesn't claim to have
+   every answer.
+4. **Finds the more interesting angle** — "what interests me most isn't simply
+   X. It's Y."
+5. **Short standalone lines for emphasis** — "It's the lag." "That changes the
+   dynamic."
+6. **Lists of three or more** to show range — "Tastes change, spending changes,
+   competitors change…"
+7. **Practical** — turns thinking into what to do: "Ask the customers."
+8. **Understated credibility** — "I've worked for a few of them." Never a CV.
+9. **Ends on one memorable line** that sums up the point.
+
+**Mechanics**
+
+- British English, with contractions (it's, don't, they're).
+- Paragraphs of one to three sentences.
+- No emoji, hashtags or exclamation marks on LinkedIn.
+- Occasional em dash.
+- One space after a full stop.
+
+**Phrases Caroline uses**
+
+- "…has stayed with me"
+- "That changes the dynamic."
+- "The interesting question is…"
+- "Perhaps that's part of why…"
+- "What interests me most isn't simply…"
+- "That's where my marketing brain kicks in."
+- "For me, that's the…"
+- "So yes, perhaps… But what does that actually mean?"
+
+Use these as a guide to rhythm, not as a template — don't force them into
+every piece.
+
+### Registers
+
+- **LinkedIn / professional** `CONFIRMED` — Caroline as a marketing and
+  commercial leader: thoughtful, reflective, practical. The reference samples
+  are all in this register.
+- **Entre Amis founder content** `TODO` — likely warmer and more playful.
+  Needs a lighter sample before drafting in this register.
 
 ---
 
@@ -107,5 +154,9 @@ These are absolute. They apply to every human and every agent.
    and factual, never ranking one wine above another.
 6. **Real over polished.** Don't sand the founder into generic "thought-leader"
    language. If a draft could have been written by any founder, it's wrong.
-7. **When unsure, don't.** If a piece of founder content needs a fact, story or
+7. **Share, never pitch.** Entre Amis can appear as "a brand of my own" or as
+   what Caroline is learning. Founder posts are never adverts.
+8. **Figures come from Caroline.** Never add statistics, figures or facts to a
+   founder piece. Caroline supplies them, with a source.
+9. **When unsure, don't.** If a piece of founder content needs a fact, story or
    stance that isn't in the Brand Brain, stop and ask.
