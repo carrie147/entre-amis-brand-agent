@@ -76,20 +76,20 @@ These sit alongside the core tone. The core tone wins if they ever conflict.
   *bientôt*), and wine terms. Always with the correct accents. Never as
   decoration. `CONFIRMED`
 
-## Lexicon
+## Lexicon `CONFIRMED`
 
 | Words we use | Words we avoid | Why |
 | --- | --- | --- |
-| table, lunch, evening, friends old and new | "customers", "consumers", "users" (in public copy) | We talk to people, not segments |
+| table, company, today, friends old and new | "customers", "consumers", "users" (in public copy) | We talk to people, not segments |
 | Host, Guest | | The two roles at the table |
 | savour, pour, open, share | down, finish, neck, "another round" | Never about volume (see [responsible drinking](03-guardrails.md#responsible-drinking-confirmed)) |
-| opinion, discover, curious | correct, wrong answer, should know | Curious, never corrective |
+| opinion, discover, curious, "there are no wrong answers" | "correct" / "wrong" used to judge someone; "should know" | Curious, never corrective — no judgement |
 | plain-English | tasting jargon without explanation | Warm, never worthy |
 | | "revolutionary", "game-changing", "disrupt" | Hype, not friendship |
 | | "best", "#1", "only", "first", "better" | Claims — must be flagged (see [claims](03-guardrails.md#claims-confirmed)) |
-| corks | points | Scores are always counted in corks `CONFIRMED` |
+| corks | points | Scores are always counted in corks |
 
-`PROPOSED` unless marked — founder to confirm and extend.
+Founder may extend at any time.
 
 ### Game and app vocabulary `CONFIRMED`
 

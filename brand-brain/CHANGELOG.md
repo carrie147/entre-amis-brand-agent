@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-09-29 | 02 | Lexicon confirmed. "Table, company, today" replaces "lunch, evening" (works any time of day); "correct / wrong" avoided only when judging someone, so "there are no wrong answers" is allowed. | Caroline |
 | 2026-09-29 | 02 | Game page headings (ANY WINE / EVERYONE PLAYS / THE TABLE WINS) removed — page copy, not brand rules. | Caroline |
 | 2026-09-29 | 02 | Emoji set applies to all emoji use, not just partner. | Caroline |
 | 2026-09-29 | 04 | Typeface confirmed: Raleway Light and SemiBold/Bold. Small-format mark noted as planned (to be defined). | Caroline |
