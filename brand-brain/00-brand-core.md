@@ -23,6 +23,8 @@ What Entre Amis is, and what it isn't. Everything else builds on this file.
   running text. See [`04-visual-identity.md`](04-visual-identity.md).
 - Do not translate the name in brand output. It may be explained ("French for
   'between friends'") where helpful.
+- `PROPOSED` "Among friends" may also be used to explain the name. The two are
+  interchangeable; "between friends" remains the default.
 
 ## Current stage `CONFIRMED`
 
@@ -143,6 +145,7 @@ may be claimed.** Anything else — numbers, awards, sourcing, "first", "best",
 | The game can be played with a single wine | Founder | `CONFIRMED` |
 | Founded by Caroline, a marketing and commercial leader with 30+ years across UK and international brands | Founder | `CONFIRMED` |
 | Caroline holds the WSET Level 3 in Wines, with Distinction | Founder | `CONFIRMED` |
+| Brand belief: "experiences are better with friends" (used as "The brand is built on the belief that experiences are better with friends") | Founder | `PROPOSED` |
 
 ## Trade mark `CONFIRMED`
 
