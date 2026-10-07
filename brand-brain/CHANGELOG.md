@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-10-07 | 00 | Proposed retail price £40 for the standard box, for trade and partner materials only (still no consumer pricing). First Sip card stays in the box. Game mat is an optional extra, sold separately; limited edition mats a future ambition only. | Caroline |
 | 2026-10-07 | 00 | The idea: "bottles opened around a table" becomes "wine around the table", to avoid implying volume. | Caroline |
 | 2026-10-07 | 00, 02, 03 | Wine amount made consistent: "a single glass is enough" replaces "one bottle is enough"; offer now "turns any wine into conversation"; guardrails merged into one rule; new proof point. Component named "game mat" (fabric), not "cloth" or "mat". | Caroline |
 | 2026-10-07 | 03 | New responsible drinking rule: never imply a whole bottle; a single glass of wine is enough to play. | Caroline |
