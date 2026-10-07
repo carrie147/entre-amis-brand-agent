@@ -81,6 +81,28 @@ These are internal descriptions, not taglines. The brand line is
 - **Any time of day.** People may play at lunch as well as in the evening.
   The physical game is written to work at any time; the app adapts to the
   time of day.
+- `PROPOSED` **Complete without the app.** The physical game can be played in
+  full without the app. Scoring, play and types of play are the same either way.
+- `PROPOSED` **Corks are printed on the cards.** Each card shows what it is
+  worth in corks; the cards a player wins are their score. Corks are not
+  separate pieces.
+- `PROPOSED` **One spinner.** The spinner decides which card family is drawn,
+  including when a Secret Mission comes up, so missions arrive at random.
+
+### Box contents `PROPOSED`
+
+| Component | Retail box? |
+| --- | --- |
+| Savour, Pour, Mischief and Wild cards | Yes |
+| Secret Mission cards | Yes |
+| Award Cards | Yes |
+| Spinner (one) | Yes |
+| Crown | Yes |
+| How to Play guide (with "What you might notice in your wines" prompts) | Yes |
+| Cloth / mat | Undecided: may be an optional extra, depending on commercials |
+| First Sip card | Undecided: may be removed |
+
+Quantities, dimensions, materials and finishes belong in the production pack.
 
 ### Feature status — what may be claimed `CONFIRMED`
 
@@ -93,6 +115,10 @@ not as launched (see Current stage).
 | App: host the game, Host + Guest play | Prototype, tested | Yes — as in development |
 | App: wine recognition | Works on a separate platform (via FastCork); not yet integrated into the app | **No** |
 | App: Wine 101 (personal wine library) | Built in the app, prototype | Yes — as in development |
+| App: digital spinner (the app runs the game instead of the spinner) | Prototype | `PROPOSED` Yes — as in development |
+| App: helpful hints and descriptions to check or build wine knowledge | Prototype | `PROPOSED` Yes — as in development |
+| App: save the occasion and the scores | Prototype | `PROPOSED` Yes — as in development |
+| App: Word Play and Wine Knowledge cards as an optional extra level | Prototype | `PROPOSED` Yes — as in development |
 | Partner Mode | Prototype | Yes — as in development, to partners only |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
