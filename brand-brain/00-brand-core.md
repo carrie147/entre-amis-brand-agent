@@ -32,7 +32,12 @@ Entre Amis is at **prototype and validation stage**.
 
 - **Nothing is launched.** Never describe any product, app, experience or
   Partner Mode as available, live, launched, on sale or bookable.
-- **Nothing is priced.** Never state or imply a price, discount or offer.
+- **Nothing is priced for consumers.** Never state or imply a price, discount or
+  offer in consumer-facing output.
+- **Trade and partner materials only:** the proposed retail price of the
+  standard box is **£40**. It may be stated in commercial materials for
+  publishers, licensing partners, distributors and retailers, never in
+  consumer-facing copy, and never as "on sale" or "available now".
 - This changes only when the founder confirms it here.
 
 ## What Entre Amis is
@@ -100,8 +105,8 @@ These are internal descriptions, not taglines. The brand line is
 | Spinner (one) | Yes |
 | Crown | Yes |
 | How to Play guide (with "What you might notice in your wines" prompts) | Yes |
-| Game mat (fabric) | Undecided: may be an optional extra, depending on commercials |
-| First Sip card | Undecided: may be removed |
+| Game mat (fabric) | No: an optional extra, sold separately, to keep the standard box simpler. Limited editions (themed around wine regions or created with artists) are a future ambition only, never described as available. |
+| First Sip card | Yes |
 
 Quantities, dimensions, materials and finishes belong in the production pack.
 
