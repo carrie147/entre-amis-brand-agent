@@ -23,7 +23,7 @@ What Entre Amis is, and what it isn't. Everything else builds on this file.
   running text. See [`04-visual-identity.md`](04-visual-identity.md).
 - Do not translate the name in brand output. It may be explained ("French for
   'between friends'") where helpful.
-- `PROPOSED` "Among friends" may also be used to explain the name. The two are
+- `CONFIRMED` "Among friends" may also be used to explain the name. The two are
   interchangeable; "between friends" remains the default.
 
 ## Current stage `CONFIRMED`

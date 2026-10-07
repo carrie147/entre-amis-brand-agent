@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-10-07 | 00 | Name: "among friends" confirmed as interchangeable with "between friends" when explaining the name; "between friends" remains the default. | Caroline |
 | 2026-10-07 | 00 | Proof point confirmed: brand belief "experiences are better with friends". | Caroline |
 | 2026-09-29 | 02 | Lexicon confirmed. "Table, company, today" replaces "lunch, evening" (works any time of day); "correct / wrong" avoided only when judging someone, so "there are no wrong answers" is allowed. | Caroline |
 | 2026-09-29 | 02 | Game page headings (ANY WINE / EVERYONE PLAYS / THE TABLE WINS) removed — page copy, not brand rules. | Caroline |
