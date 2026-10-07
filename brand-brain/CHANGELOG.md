@@ -5,6 +5,13 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-10-07 | 00 | The idea: "bottles opened around a table" becomes "wine around the table", to avoid implying volume. | Caroline |
+| 2026-10-07 | 00, 02, 03 | Wine amount made consistent: "a single glass is enough" replaces "one bottle is enough"; offer now "turns any wine into conversation"; guardrails merged into one rule; new proof point. Component named "game mat" (fabric), not "cloth" or "mat". | Caroline |
+| 2026-10-07 | 03 | New responsible drinking rule: never imply a whole bottle; a single glass of wine is enough to play. | Caroline |
+| 2026-10-07 | 02 | Card families described (Savour, Pour, Mischief, Wild). Secret Missions are a family in their own right, brought up by the spinner. Mat to be fabric; name still to be chosen ("cloth" in How to Play). | Caroline |
+| 2026-10-07 | 00 | Game facts: complete without the app; corks printed on the cards; one spinner. Box contents listed (fabric mat and First Sip card undecided). App features claimable as in development: digital spinner, hints and descriptions, saving the occasion and scores, Word Play and Wine Knowledge as an optional extra level. | Caroline |
+| 2026-10-07 | 00 | Name: "among friends" confirmed as interchangeable with "between friends" when explaining the name; "between friends" remains the default. | Caroline |
+| 2026-10-07 | 00 | Proof point confirmed: brand belief "experiences are better with friends". | Caroline |
 | 2026-09-29 | 02 | Lexicon confirmed. "Table, company, today" replaces "lunch, evening" (works any time of day); "correct / wrong" avoided only when judging someone, so "there are no wrong answers" is allowed. | Caroline |
 | 2026-09-29 | 02 | Game page headings (ANY WINE / EVERYONE PLAYS / THE TABLE WINS) removed — page copy, not brand rules. | Caroline |
 | 2026-09-29 | 02 | Emoji set applies to all emoji use, not just partner. | Caroline |

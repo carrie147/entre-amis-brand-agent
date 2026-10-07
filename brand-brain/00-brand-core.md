@@ -23,6 +23,8 @@ What Entre Amis is, and what it isn't. Everything else builds on this file.
   running text. See [`04-visual-identity.md`](04-visual-identity.md).
 - Do not translate the name in brand output. It may be explained ("French for
   'between friends'") where helpful.
+- `CONFIRMED` "Among friends" may also be used to explain the name. The two are
+  interchangeable; "between friends" remains the default.
 
 ## Current stage `CONFIRMED`
 
@@ -40,8 +42,8 @@ Entre Amis is at **prototype and validation stage**.
 **Conversation, not knowledge.** Entre Amis starts with a simple belief:
 conversation flows when nobody is worried about getting it right.
 
-Wine is the first place the brand brings that feeling to life: bottles opened
-around a table, people saying what they actually think, unexpected
+Wine is the first place the brand brings that feeling to life: wine around
+the table, people saying what they actually think, unexpected
 conversations, new discoveries — and wines remembered because you were with
 friends, old and new.
 
@@ -62,7 +64,7 @@ These are internal descriptions, not taglines. The brand line is
 
 | Part | What it is | Stage |
 | --- | --- | --- |
-| **The game** (Play) | A premium, giftable table game that turns any bottle into conversation. For 2–8 players, at any time of day. Easy to start, easy to join. | Prototype, playable |
+| **The game** (Play) | A premium, giftable table game that turns any wine into conversation. For 2–8 players, at any time of day. Easy to start, easy to join. | Prototype, playable |
 | **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps Wine 101 — a personal library of wines and moments. Hosts can also use it for their own tasting and exploration. It works with the table, never instead of it. | Prototype; Host + Guest tested together |
 | **Entre Amis stays** (Experience) | Entre Amis lived for a few days in Provence, rather than played for an evening. | Later stage — not in development for launch |
 | **Partner Mode** | A way for vineyards, retailers, tastings and events to create participation around their wines and understand what people genuinely think — with consent, anonymised (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)). | Prototype |
@@ -74,11 +76,34 @@ These are internal descriptions, not taglines. The brand line is
 - **Corks are won for conversation and play, never for volume drunk.** Scores
   are always counted in corks, never points. Nothing in the game
   is written to make people drink more.
-- **Works with just one wine.** Any wine, any number of bottles — one is enough.
+- **A single glass is enough.** Any wine works, and a single glass is enough to
+  play. Never imply a whole bottle, or more than one, is needed.
 - **2–8 players.** A social wine game for two to eight players.
 - **Any time of day.** People may play at lunch as well as in the evening.
   The physical game is written to work at any time; the app adapts to the
   time of day.
+- `CONFIRMED` **Complete without the app.** The physical game can be played in
+  full without the app. Scoring, play and types of play are the same either way.
+- `CONFIRMED` **Corks are printed on the cards.** Each card shows what it is
+  worth in corks; the cards a player wins are their score. Corks are not
+  separate pieces.
+- `CONFIRMED` **One spinner.** The spinner decides which card family is drawn,
+  including when a Secret Mission comes up, so missions arrive at random.
+
+### Box contents `CONFIRMED`
+
+| Component | Retail box? |
+| --- | --- |
+| Savour, Pour, Mischief and Wild cards | Yes |
+| Secret Mission cards | Yes |
+| Award Cards | Yes |
+| Spinner (one) | Yes |
+| Crown | Yes |
+| How to Play guide (with "What you might notice in your wines" prompts) | Yes |
+| Game mat (fabric) | Undecided: may be an optional extra, depending on commercials |
+| First Sip card | Undecided: may be removed |
+
+Quantities, dimensions, materials and finishes belong in the production pack.
 
 ### Feature status — what may be claimed `CONFIRMED`
 
@@ -91,6 +116,10 @@ not as launched (see Current stage).
 | App: host the game, Host + Guest play | Prototype, tested | Yes — as in development |
 | App: wine recognition | Works on a separate platform (via FastCork); not yet integrated into the app | **No** |
 | App: Wine 101 (personal wine library) | Built in the app, prototype | Yes — as in development |
+| App: digital spinner (the app runs the game instead of the spinner) | Prototype | Yes — as in development |
+| App: helpful hints and descriptions to check or build wine knowledge | Prototype | Yes — as in development |
+| App: save the occasion and the scores | Prototype | Yes — as in development |
+| App: Word Play and Wine Knowledge cards as an optional extra level | Prototype | Yes — as in development |
 | Partner Mode | Prototype | Yes — as in development, to partners only |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
@@ -141,8 +170,10 @@ may be claimed.** Anything else — numbers, awards, sourcing, "first", "best",
 | The game is 18+ and the app is age-gated at 18+ | Founder | `CONFIRMED` |
 | Corks are won for conversation and play, not volume drunk | Founder | `CONFIRMED` |
 | The game can be played with a single wine | Founder | `CONFIRMED` |
+| A single glass is enough to play | Founder | `CONFIRMED` |
 | Founded by Caroline, a marketing and commercial leader with 30+ years across UK and international brands | Founder | `CONFIRMED` |
 | Caroline holds the WSET Level 3 in Wines, with Distinction | Founder | `CONFIRMED` |
+| Brand belief: "experiences are better with friends" (used as "The brand is built on the belief that experiences are better with friends") | Founder | `CONFIRMED` |
 
 ## Trade mark `CONFIRMED`
 
