@@ -109,7 +109,7 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | **The Bin** | Where cards go when they aren't won or are lost |
 | **The Final Pour** | The end of the game |
 | **Spin, Draw, Play, Pass** | The four steps of a turn |
-| **Wheel / spinner, mat** | Game components. `PROPOSED`: the How to Play guide calls the mat "the cloth" — one name to be chosen. |
+| **Wheel / spinner, mat** | Game components. `PROPOSED`: the mat is intended to be fabric. The How to Play guide calls it "the cloth"; one name to be chosen. |
 | **Wine 101** | The personal wine library in the app |
 
 ## Internal language — never external `CONFIRMED`

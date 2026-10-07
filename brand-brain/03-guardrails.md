@@ -83,10 +83,10 @@ before launch.
   faster, or finishing a glass or bottle.
 - **One wine is enough.** The game can be played with a single wine; never
   imply more bottles are needed.
-- `PROPOSED` **Never imply a whole bottle.** A single glass is enough to play.
+- `PROPOSED` **Never imply a whole bottle.** A single glass of wine is enough to play.
   Don't write as though a bottle must be opened and finished (e.g. "one bottle
   is enough", "when a bottle has been opened"). Say "any wine", "a single
-  wine", "a glass".
+  glass of wine is enough".
 - **Savour, don't consume.** Use "savour", "pour", "open", "share". Never
   "down", "finish", "neck", "another round", or anything about quantity.
 - **The people make the evening, not the wine.** Never suggest alcohol brings

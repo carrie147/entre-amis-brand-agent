@@ -99,7 +99,7 @@ These are internal descriptions, not taglines. The brand line is
 | Spinner (one) | Yes |
 | Crown | Yes |
 | How to Play guide (with "What you might notice in your wines" prompts) | Yes |
-| Cloth / mat | Undecided: may be an optional extra, depending on commercials |
+| Fabric mat (name to be decided) | Undecided: may be an optional extra, depending on commercials |
 | First Sip card | Undecided: may be removed |
 
 Quantities, dimensions, materials and finishes belong in the production pack.
