@@ -83,7 +83,7 @@ before launch.
   faster, or finishing a glass or bottle.
 - **One wine is enough.** The game can be played with a single wine; never
   imply more bottles are needed.
-- `PROPOSED` **Never imply a whole bottle.** A single glass of wine is enough to play.
+- **Never imply a whole bottle.** A single glass of wine is enough to play.
   Don't write as though a bottle must be opened and finished (e.g. "one bottle
   is enough", "when a bottle has been opened"). Say "any wine", "a single
   glass of wine is enough".

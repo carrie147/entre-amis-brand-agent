@@ -101,15 +101,15 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | **Corks** | How scores are counted. Never "points". |
 | **Crown** | Placed on the Wine of the Night / Day at the end |
 | **Wine of the Night / Wine of the Day** | The wine the table chooses together at the end. The app uses the right one for the time of day. In time-neutral copy (e.g. the physical game), don't assume it's evening. |
-| **Savour, Pour, Mischief, Wild** | The four main card families (physical game and app). `PROPOSED`: **Savour** is about the flavours, tastes and look of the wine. **Pour** is about the events, occasions and places a wine might be enjoyed. **Mischief** changes the course of the game, with corks won or lost. **Wild** are questions that simply provoke conversation; some refer to the wine, many don't. |
+| **Savour, Pour, Mischief, Wild** | The four main card families (physical game and app). **Savour** is about the flavours, tastes and look of the wine. **Pour** is about the events, occasions and places a wine might be enjoyed. **Mischief** changes the course of the game, with corks won or lost. **Wild** are questions that simply provoke conversation; some refer to the wine, many don't. |
 | **Word Play, Wine Knowledge** | Card families in the app only |
-| **Secret Missions** | Private cards, completed before your next turn. `PROPOSED`: a family in their own right, outside the four main families. They come up when the spinner lands on Secret Mission; the table decides whether the mission was completed and the corks won. |
+| **Secret Missions** | Private cards, completed before your next turn. A family in their own right, outside the four main families. They come up when the spinner lands on Secret Mission; the table decides whether the mission was completed and the corks won. |
 | **Award Cards** (Today's Award) | Given out by the table at the end. "Today's" is deliberate — it works for lunch or evening. |
 | **First Sip** | The card that starts the game |
 | **The Bin** | Where cards go when they aren't won or are lost |
 | **The Final Pour** | The end of the game |
 | **Spin, Draw, Play, Pass** | The four steps of a turn |
-| **Wheel / spinner, mat** | Game components. `PROPOSED`: the mat is intended to be fabric. The How to Play guide calls it "the cloth"; one name to be chosen. |
+| **Wheel / spinner, mat** | Game components. The mat is intended to be fabric. The How to Play guide calls it "the cloth"; one name to be chosen. |
 | **Wine 101** | The personal wine library in the app |
 
 ## Internal language — never external `CONFIRMED`
