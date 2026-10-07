@@ -145,7 +145,7 @@ may be claimed.** Anything else — numbers, awards, sourcing, "first", "best",
 | The game can be played with a single wine | Founder | `CONFIRMED` |
 | Founded by Caroline, a marketing and commercial leader with 30+ years across UK and international brands | Founder | `CONFIRMED` |
 | Caroline holds the WSET Level 3 in Wines, with Distinction | Founder | `CONFIRMED` |
-| Brand belief: "experiences are better with friends" (used as "The brand is built on the belief that experiences are better with friends") | Founder | `PROPOSED` |
+| Brand belief: "experiences are better with friends" (used as "The brand is built on the belief that experiences are better with friends") | Founder | `CONFIRMED` |
 
 ## Trade mark `CONFIRMED`
 
