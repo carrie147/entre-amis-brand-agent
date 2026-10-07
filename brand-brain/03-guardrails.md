@@ -81,12 +81,11 @@ before launch.
 - **Never a drinking game.** Corks are won for conversation and play, never for
   volume drunk. No mechanic, copy or content may encourage drinking more,
   faster, or finishing a glass or bottle.
-- **One wine is enough.** The game can be played with a single wine; never
-  imply more bottles are needed.
-- **Never imply a whole bottle.** A single glass of wine is enough to play.
-  Don't write as though a bottle must be opened and finished (e.g. "one bottle
-  is enough", "when a bottle has been opened"). Say "any wine", "a single
-  glass of wine is enough".
+- **A single glass is enough.** The game can be played with a single wine,
+  and a single glass is enough to play. Never imply that a whole bottle must
+  be opened or finished, or that more than one wine or bottle is needed.
+  Avoid wording like "one bottle is enough" or "when a bottle has been
+  opened". Say "any wine" and "a single glass is enough".
 - **Savour, don't consume.** Use "savour", "pour", "open", "share". Never
   "down", "finish", "neck", "another round", or anything about quantity.
 - **The people make the evening, not the wine.** Never suggest alcohol brings

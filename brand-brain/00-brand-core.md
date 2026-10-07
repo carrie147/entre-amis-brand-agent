@@ -64,7 +64,7 @@ These are internal descriptions, not taglines. The brand line is
 
 | Part | What it is | Stage |
 | --- | --- | --- |
-| **The game** (Play) | A premium, giftable table game that turns any bottle into conversation. For 2–8 players, at any time of day. Easy to start, easy to join. | Prototype, playable |
+| **The game** (Play) | A premium, giftable table game that turns any wine into conversation. For 2–8 players, at any time of day. Easy to start, easy to join. | Prototype, playable |
 | **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps Wine 101 — a personal library of wines and moments. Hosts can also use it for their own tasting and exploration. It works with the table, never instead of it. | Prototype; Host + Guest tested together |
 | **Entre Amis stays** (Experience) | Entre Amis lived for a few days in Provence, rather than played for an evening. | Later stage — not in development for launch |
 | **Partner Mode** | A way for vineyards, retailers, tastings and events to create participation around their wines and understand what people genuinely think — with consent, anonymised (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)). | Prototype |
@@ -76,7 +76,8 @@ These are internal descriptions, not taglines. The brand line is
 - **Corks are won for conversation and play, never for volume drunk.** Scores
   are always counted in corks, never points. Nothing in the game
   is written to make people drink more.
-- **Works with just one wine.** Any wine, any number of bottles — one is enough.
+- **A single glass is enough.** Any wine works, and a single glass is enough to
+  play. Never imply a whole bottle, or more than one, is needed.
 - **2–8 players.** A social wine game for two to eight players.
 - **Any time of day.** People may play at lunch as well as in the evening.
   The physical game is written to work at any time; the app adapts to the
@@ -99,7 +100,7 @@ These are internal descriptions, not taglines. The brand line is
 | Spinner (one) | Yes |
 | Crown | Yes |
 | How to Play guide (with "What you might notice in your wines" prompts) | Yes |
-| Fabric mat (name to be decided) | Undecided: may be an optional extra, depending on commercials |
+| Game mat (fabric) | Undecided: may be an optional extra, depending on commercials |
 | First Sip card | Undecided: may be removed |
 
 Quantities, dimensions, materials and finishes belong in the production pack.
@@ -169,6 +170,7 @@ may be claimed.** Anything else — numbers, awards, sourcing, "first", "best",
 | The game is 18+ and the app is age-gated at 18+ | Founder | `CONFIRMED` |
 | Corks are won for conversation and play, not volume drunk | Founder | `CONFIRMED` |
 | The game can be played with a single wine | Founder | `CONFIRMED` |
+| A single glass is enough to play | Founder | `CONFIRMED` |
 | Founded by Caroline, a marketing and commercial leader with 30+ years across UK and international brands | Founder | `CONFIRMED` |
 | Caroline holds the WSET Level 3 in Wines, with Distinction | Founder | `CONFIRMED` |
 | Brand belief: "experiences are better with friends" (used as "The brand is built on the belief that experiences are better with friends") | Founder | `CONFIRMED` |
