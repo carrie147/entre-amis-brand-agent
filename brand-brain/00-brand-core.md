@@ -42,8 +42,8 @@ Entre Amis is at **prototype and validation stage**.
 **Conversation, not knowledge.** Entre Amis starts with a simple belief:
 conversation flows when nobody is worried about getting it right.
 
-Wine is the first place the brand brings that feeling to life: bottles opened
-around a table, people saying what they actually think, unexpected
+Wine is the first place the brand brings that feeling to life: wine around
+the table, people saying what they actually think, unexpected
 conversations, new discoveries — and wines remembered because you were with
 friends, old and new.
 
