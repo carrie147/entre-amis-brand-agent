@@ -60,6 +60,22 @@ future. Don't describe the brand in a way that closes that off.
 These are internal descriptions, not taglines. The brand line is
 **Talk. Laugh. Remember.**
 
+### Brand purpose `PROPOSED`
+
+> **Where human connection thrives.**
+
+- The purpose behind the whole brand — the reason Entre Amis is bigger than
+  the game. It answers *why* the brand exists; the game is one way of living
+  it.
+- **Internal, not a consumer line.** Use it to make decisions and to brief
+  people. It doesn't go on packaging, ads or social as a slogan.
+- Founder note: the "better" in the claim under review ("conversations are
+  better when…", see [guardrails](03-guardrails.md#claims-confirmed)) is
+  about thriving. Express it as connection thriving, not as a comparison —
+  and keep the confirmed idea wording ("conversation flows…") in output.
+
+Source: founder, 11 October 2026.
+
 ### The offer — Play → Discover → Experience `CONFIRMED`
 
 | Part | What it is | Stage |
@@ -68,6 +84,53 @@ These are internal descriptions, not taglines. The brand line is
 | **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps Wine 101 — a personal library of wines and moments. Hosts can also use it for their own tasting and exploration. It works with the table, never instead of it. | Prototype; Host + Guest tested together |
 | **Entre Amis stays** (Experience) | Entre Amis lived for a few days in Provence, rather than played for an evening. | Later stage — not in development for launch |
 | **Partner Mode** | A way for vineyards, retailers, tastings and events to create participation around their wines and understand what people genuinely think — with consent, anonymised (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)). | Prototype |
+
+### The brand journey — Inspire → Discover → Experience → Belong `PROPOSED`
+
+The high-level way Entre Amis works across everything it does. The offer
+above (Play → Discover → Experience) is the **explanation** of how people take
+part today; this journey is the level above it. Play is one way of being
+inspired and of learning — it is not necessarily the first stage.
+
+| Stage | What it means |
+| --- | --- |
+| **Inspire** | Open the door to ideas, places, people and occasions. |
+| **Discover** | Explore, learn and enjoy. |
+| **Experience** | Take part, play, connect and share. |
+| **Belong** | Keep memories, deepen relationships and have reasons to return. |
+
+Source: founder decision, 11 October 2026 (from the revised brand deck).
+
+### Partner Mode and Event Mode `PROPOSED`
+
+There are two ways partners take part. Until confirmed, the offer table
+above still applies.
+
+| Mode | Who it's for | What it is |
+| --- | --- | --- |
+| **Partner Mode** | A single vineyard, wine brand, retailer or wine club | People join Entre Amis at that partner — e.g. at a vineyard, a tasting or in store — around that partner's wines. |
+| **Event Mode** | Several vineyards together, or a marketing area (e.g. a regional wine group or festival organiser) | Entre Amis across a combined event, with functionality of its own for organisers and visitors. |
+
+- **Meet the Maker** content (producer videos and stories) works in both.
+- **Product differences between the two:** `TODO` — founder to define
+  (work started in the revised brand deck).
+- **Stage and claimability of Event Mode:** `TODO` — founder to confirm. Until
+  then, don't describe Event Mode externally.
+
+Source: founder, 11 October 2026.
+
+### Early thinking — not for external use `PROPOSED`
+
+Ideas being explored, mostly around the physical game mat. Not decided, not
+in development, and **never described externally** — not even as "coming".
+
+- The game mat as a printed, washable textile with original art and discreet
+  card zones.
+- Artist editions and collaborations (artist, event, gifting).
+- A signature Entre Amis table setting.
+- Future non-wine expressions.
+
+Source: founder, 11 October 2026 ("early thinking").
 
 ### Game facts `CONFIRMED`
 
@@ -158,6 +221,8 @@ not as launched (see Current stage).
 | **Players** `CONFIRMED` | Adults (18+) who enjoy wine with friends, whatever they know about it. Hosts and Guests. Deliberately broad while we user-test. | [Brand voice](02-brand-voice.md) |
 | **Gift buyers** `CONFIRMED` | Adults (18+) buying the game for someone else — not always players themselves. | [Brand voice](02-brand-voice.md) |
 | **Partners** `CONFIRMED` | Vineyards, venues, wine experiences, retail, wine clubs, trade and consumer events. | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
+| **Partners — split by mode** `PROPOSED` | Partner Mode: single vineyards, wine brands, retailers and wine clubs. Event Mode: organisers of combined events and marketing areas. See [Partner Mode and Event Mode](#partner-mode-and-event-mode-proposed). | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
+| **Investors** `PROPOSED` | Deferred. Not a current audience; revisit only if the founder decides to seek investment. Until then, no investor-specific material. | — |
 
 ## Proof points
 
@@ -174,6 +239,17 @@ may be claimed.** Anything else — numbers, awards, sourcing, "first", "best",
 | Founded by Caroline, a marketing and commercial leader with 30+ years across UK and international brands | Founder | `CONFIRMED` |
 | Caroline holds the WSET Level 3 in Wines, with Distinction | Founder | `CONFIRMED` |
 | Brand belief: "experiences are better with friends" (used as "The brand is built on the belief that experiences are better with friends") | Founder | `CONFIRMED` |
+
+### Evidence still needed `TODO`
+
+Being gathered now. Nothing here may be stated, implied or estimated until
+the founder supplies it with a source and it is added above as `CONFIRMED`.
+
+- Playtest results and player feedback.
+- Market figures (size, trends, audience).
+- Partner and organiser feedback.
+- Observations used in decks (e.g. "people feel they need expertise before
+  choosing a wine") — currently the founder's experience, not evidence.
 
 ## Trade mark `CONFIRMED`
 
