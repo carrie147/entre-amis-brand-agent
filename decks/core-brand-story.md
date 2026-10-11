@@ -135,14 +135,16 @@ When you're at an Entre Amis table, nobody has to prove they belong there.
 
 Inspire → Discover → Experience → Belong
 
-| PLAY | DISCOVER | EXPERIENCE | WITH PARTNERS |
+| THE GAME | THE APP | ENTRE AMIS STAYS | WITH PARTNERS |
 | --- | --- | --- | --- |
-| **The game.** A premium, giftable table game that turns any wine into conversation. | **The app.** Hosts the game, adds plain-English wine information when curiosity appears, and keeps the wines and moments people want to remember. | **Entre Amis stays.** Entre Amis lived for a few days, rather than played for an evening. | **Partner Mode and Event Mode.** Bringing the Entre Amis table to vineyards, retailers, wine clubs and wine events. |
+| A premium, giftable table game that turns any wine into conversation. | Hosts the game, adds plain-English wine information when curiosity appears, and keeps the wines and moments people want to remember. | Entre Amis lived for a few days, rather than played for an evening. | **Partner Mode and Event Mode.** Bringing the Entre Amis table to vineyards, retailers, wine clubs and wine events. |
 | *Prototype, playable* | *Prototype, Host and Guest tested* | *A future ambition* | *Prototype* |
 
 > Notes:
 > - The journey line is ⚑ PROPOSED. Delete it if it isn't confirmed before
 >   sharing; the rest of the slide stands without it.
+> - The game, app and stays are shown as ways to take part in the journey,
+>   not as a Play → Discover → Experience process.
 > - Stays may only be described as a future ambition, with your approval
 >   (⚑ TODO).
 > - Event Mode's stage isn't confirmed (⚑ TODO). Until it is, say "Partner Mode"

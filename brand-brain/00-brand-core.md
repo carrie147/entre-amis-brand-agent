@@ -87,10 +87,17 @@ Source: founder, 11 October 2026.
 
 ### The brand journey — Inspire → Discover → Experience → Belong `PROPOSED`
 
-The high-level way Entre Amis works across everything it does. The offer
-above (Play → Discover → Experience) is the **explanation** of how people take
-part today; this journey is the level above it. Play is one way of being
-inspired and of learning — it is not necessarily the first stage.
+The high-level way Entre Amis works across everything it does.
+
+- **Play, Discover and Experience all exist** — the game, the app and stays
+  are real parts of the offer (see the table above).
+- They sit **within** Inspire → Discover → Experience → Belong. They are not
+  shown as a visible three-step process of their own, and never as a
+  sequence people must follow. Play is one way of being inspired and of
+  learning — it is not necessarily the first stage.
+- In external material, show the journey, then the game, app, stays and
+  partner modes as ways to take part in it. Don't present "Play → Discover →
+  Experience" as a process.
 
 | Stage | What it means |
 | --- | --- |
