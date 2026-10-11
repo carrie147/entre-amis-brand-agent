@@ -2,7 +2,7 @@
 
 `DRAFT — requires founder approval`
 
-- **Version:** v1, 11 October 2026. Built from *Revised brand deck, 10 October*.
+- **Version:** v1.2, 11 October 2026. Built from *Revised brand deck, 10 October*.
 - **For:** anyone being introduced to Entre Amis, especially potential partners.
   Partner Mode and Event Mode get their own decks.
 - **Speaker:** brand voice ("we") throughout. Slide 11 is *about* Caroline, not
@@ -210,13 +210,13 @@ Talk. Laugh. Remember.
 
 ---
 
-## 9 · What we add isn't content. It's connection.
+## 9 · For vineyards, retailers, wine clubs and wine events
 
-**For vineyards, retailers, wine clubs and wine events**
+**What we add isn't content. It's connection.**
 
-Wine businesses already have stories, tasting notes and expertise. We add the
-social side: people talking about your wines, saying what they really think,
-and remembering them afterwards.
+Wine businesses already have stories, tasting notes and expertise. We help
+capture what people say and really think about your wines, and help them
+remember those wines afterwards.
 
 | BETWEEN PEOPLE | WITH THE WINE | BEYOND THE MOMENT | WHAT PEOPLE REALLY THINK |
 | --- | --- | --- | --- |
@@ -228,12 +228,13 @@ and remembering them afterwards.
 **Meet the Maker** stories and videos work in both.
 
 > Notes:
+> - Heading and supporting line swapped (founder, 11 October), so the slide
+>   says who it's for first.
+> - Body reworded: we help capture what people say and think, and help them
+>   remember.
 > - Partner Mode and Event Mode are ⚑ PROPOSED. Event Mode's stage is ⚑ TODO.
 > - "Useful insight" is renamed, because "insight" as a product is internal
 >   language.
-> - Contact sharing (⚑ PROPOSED, needs legal review) is not mentioned here.
->   It belongs in the partner decks once it's confirmed.
-> - "Make wines more memorable" is reworded to avoid a benefit claim.
 
 ---
 
