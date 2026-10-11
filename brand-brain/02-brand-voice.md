@@ -129,7 +129,7 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | Term | What it is |
 | --- | --- |
 | **Partner Mode** | Entre Amis at a single vineyard, wine brand, retailer or wine club. Always two words, both capitalised. |
-| **Event Mode** | Entre Amis across a combined event — several vineyards, or a marketing area. Always two words, both capitalised. |
+| **Event Mode** | Entre Amis across a combined event — a wine festival or tasting event, or a regional wine body. Always two words, both capitalised. |
 | **Meet the Maker** | Producer videos and stories, in Partner Mode and Event Mode. |
 
 See [Partner Mode and Event Mode](00-brand-core.md#partner-mode-and-event-mode-proposed).
@@ -155,7 +155,8 @@ partner-facing or public copy:
 
 - GameCo, ExperienceCo, "the Group" or any group/company structure name
 - "routes to value", "unit economics", "commercial models", "shareholder"
-- "insight" as a business product (e.g. "community and insight")
+- "insight" as a business product (e.g. "community and insight") — `PROPOSED`
+  change: allowed in partner materials, see [partner materials](#partner-materials--who-were-talking-to-proposed)
 - Platform or supplier names behind features (e.g. FastCork)
 
 Brand architecture is still evolving (a Group may become an umbrella brand).
@@ -201,6 +202,20 @@ never as better than other wines.
 
 Outside those topics, partner-facing output must be escalated to the founder.
 Internal language rules still apply.
+
+### Partner materials — who we're talking to `PROPOSED`
+
+- **Talk to the partner first, not the wine drinker.** Partner materials
+  (Partner Mode and Event Mode decks, proposals) speak to the vineyard,
+  retailer or organiser: "you" is the partner, and visitors are "your
+  visitors".
+- **Structure around two questions:** what your visitors get, and what you
+  get.
+- **"Insight" is allowed in partner materials** — it is what partners are
+  buying. It stays out of consumer copy, and "insight" is never a promise
+  about any individual (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)).
+
+Source: founder, 11 October 2026.
 
 ---
 

@@ -116,9 +116,18 @@ above still applies.
 | Mode | Who it's for | What it is |
 | --- | --- | --- |
 | **Partner Mode** | A single vineyard, wine brand, retailer or wine club | People join Entre Amis at that partner — e.g. at a vineyard, a tasting or in store — around that partner's wines. |
-| **Event Mode** | Several vineyards together, or a marketing area (e.g. a regional wine group or festival organiser) | Entre Amis across a combined event, with functionality of its own for organisers and visitors. |
+| **Event Mode** | Organisers of combined events: wine festivals and tasting events, and regional wine bodies that take on a marketing role for an area (e.g. organisations like Vineyards of Hampshire or Vins de Provence) | Entre Amis across a combined event, with functionality of its own for organisers and visitors. |
 
 - **Meet the Maker** content (producer videos and stories) works in both.
+- **What the partner gets:** insight and knowledge — understanding what
+  visitors genuinely think, in their own words. That is what partners pay
+  for. Visitors get the Entre Amis experience; partners get the insight.
+- **How Entre Amis shows up at an event:** mainly on visitors' phones and
+  through the tasting itself. A small Entre Amis area with comfortable seats
+  may be there too — a place to connect and find comfort, never a sales
+  space. It is one way Entre Amis shows up, not the centre of the event.
+- Named organisations are examples of the *type* of partner only. Never
+  imply a partnership exists unless the founder confirms it.
 - **Product differences between the two:** `TODO` — founder to define
   (work started in the revised brand deck).
 - **Stage and claimability of Event Mode:** `TODO` — founder to confirm. Until
@@ -228,7 +237,7 @@ not as launched (see Current stage).
 | **Players** `CONFIRMED` | Adults (18+) who enjoy wine with friends, whatever they know about it. Hosts and Guests. Deliberately broad while we user-test. | [Brand voice](02-brand-voice.md) |
 | **Gift buyers** `CONFIRMED` | Adults (18+) buying the game for someone else — not always players themselves. | [Brand voice](02-brand-voice.md) |
 | **Partners** `CONFIRMED` | Vineyards, venues, wine experiences, retail, wine clubs, trade and consumer events. | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
-| **Partners — split by mode** `PROPOSED` | Partner Mode: single vineyards, wine brands, retailers and wine clubs. Event Mode: organisers of combined events and marketing areas. See [Partner Mode and Event Mode](#partner-mode-and-event-mode-proposed). | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
+| **Partners — split by mode** `PROPOSED` | Partner Mode: single vineyards, wine brands, retailers and wine clubs. Event Mode: organisers of combined events and regional wine bodies. See [Partner Mode and Event Mode](#partner-mode-and-event-mode-proposed). | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
 | **Investors** `PROPOSED` | Deferred. Not a current audience; revisit only if the founder decides to seek investment. Until then, no investor-specific material. | — |
 
 ## Proof points
