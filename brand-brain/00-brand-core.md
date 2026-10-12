@@ -216,7 +216,7 @@ What each one is (founder, 12 October 2026).
 | Spinner (one) | Yes |
 | Crown | Yes |
 | How to Play guide (with "What you might notice in your wines" prompts) | Yes |
-| Game mat (fabric) | No: an optional extra, sold separately, to keep the standard box simpler. Limited editions (themed around wine regions or created with artists) are a future ambition only, never described as available. |
+| Game mat (fabric) | No: an optional extra, sold separately, to keep the standard box simpler. Limited or artist editions stay early thinking (see below) and are never described externally. |
 | First Sip card | Yes |
 
 Quantities, dimensions, materials and finishes belong in the production pack.
