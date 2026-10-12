@@ -176,9 +176,12 @@ confirmed, don't describe either feature externally without checking.
 
 - This replaces "Wine 101 — a personal library of wines and moments" in the
   offer and feature tables above.
-- **Which is built?** The feature table says Wine 101 is built in the app as a
-  prototype. Founder to confirm whether that is Wine 101 (the directory), My
-  wines (the personal record), or both: `TODO`.
+- **Both are built** in the app, as prototypes (founder, 12 October). Both
+  may be described externally as in development.
+- **Internal only:** the data behind them isn't fully logging yet — where it
+  pulls from and what it records is a data logic piece of work still to do.
+  Never mention this externally, and don't describe either feature as
+  complete.
 
 ### Game facts `CONFIRMED`
 

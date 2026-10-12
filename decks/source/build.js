@@ -285,7 +285,7 @@ pres.addSection({ title: "What we're building" });
   const px = M + 6.95, pw = (CW - 6.95 - 0.3) / 2;
   placeholderBox(s, px, 1.95, pw, 3.85, "App screen — to add");
   placeholderBox(s, px + pw + 0.3, 1.95, pw, 3.85, "App screen — to add");
-  flag(s, px, 5.95, CW - 6.95, 0.65, "TO CONFIRM", "Wine 101 and My wines definitions, and which of them is built.", 11);
+  flag(s, px, 5.95, CW - 6.95, 0.65, "TO CONFIRM", "Wine 101 and My wines definitions (proposed in the Brand Brain).", 11);
   s.addNotes("Wine recognition is deliberately left out: it isn't claimable until it's built into the app. Wine 101 and My wines follow the founder's correction (12 October): Wine 101 is a directory of wine facts; My wines is the personal record. Add app screens.");
 }
 
