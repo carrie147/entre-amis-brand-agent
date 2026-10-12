@@ -139,8 +139,12 @@ above still applies.
   wrong.
 - **Guest notes belong to the guest.** Sharing them is the guest's choice.
   Notes are not part of partner insight unless the guest consents.
-- **"Store in your profile":** assumed to be Wine 101, the personal wine
-  library — `TODO` founder to confirm.
+- **Guest profile:** each guest has an account identified by their email.
+  Wines they favourite are stored under **My wines** in that account
+  (founder, 12 October). How My wines relates to Wine 101: `TODO`.
+- **Wider trends** (anonymised insight across Entre Amis) are not promised
+  in Partner Mode; whether they're offered depends on how it is built.
+  Event Mode materials may describe them.
 - **Stage and claimability of Event Mode:** `TODO` — founder to confirm. Until
   then, don't describe Event Mode externally.
 

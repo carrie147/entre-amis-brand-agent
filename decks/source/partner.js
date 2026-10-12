@@ -60,15 +60,14 @@ module.exports = (ctx) => {
         "Information on each wine and on you. Savour and Pour cards get people talking, if you'd like them.",
         "Live votes and your own questions and quizzes, shared with the group as they learn.",
         "Guests keep their own notes and favourite the wines they like.",
-        "Favourites are stored in their profile. Notes are theirs to keep or share.",
+        "Favourites are saved under My wines in their account. Notes are theirs to keep or share.",
       ];
       desc.forEach((d, i) => {
         const x = M + i * (sw + g);
         card(s, x, 2.95, sw, 2.2, "Step detail " + (i + 1));
         txt(s, d, { x: x + 0.2, y: 3.15, w: sw - 0.4, h: 1.9, fontSize: 14 });
       });
-      flag(s, M, 5.4, (CW - 0.3) / 2, 1.0, "TO CONFIRM", "Quizzes are framed as learning about you: answers revealed as discoveries, nobody told they were wrong.", 11);
-      flag(s, M + (CW - 0.3) / 2 + 0.3, 5.4, (CW - 0.3) / 2, 1.0, "TO CONFIRM", "'Profile' means Wine 101, the personal wine library in the app.", 11);
+      flag(s, M, 5.4, CW, 0.7, "TO CONFIRM", "Quizzes are framed as learning about you: answers revealed as discoveries, nobody told they were wrong.", 11);
       s.addNotes("From your description (12 October): hosted tasting; Savour and Pour cards as an option; host-specific questions and quizzes; interactive voting shared as a learning experience; guests collate and share notes; information about the wines and the vineyard; favourite and store wines in a profile.");
     }
 
@@ -83,7 +82,7 @@ module.exports = (ctx) => {
         "Plain information on each wine and on you.",
         "Questions, quizzes and votes to learn as a group.",
         "Their own notes, in one place, to keep or share.",
-        "Their favourite wines, stored for later.",
+        "Their favourite wines, saved under My wines.",
       ])], { x: M + 0.35, y: top + 0.3, w: cw - 0.7, h: h - 0.5, fontSize: 16 });
       const x2 = M + cw + 0.3;
       card(s, x2, top, cw, h, "You get", OLIVE);
@@ -115,12 +114,11 @@ module.exports = (ctx) => {
 
     // ---------- 7 · The insight you receive ----------
     {
-      const s = content(SEC2, "The insight you receive", "All built on consent.");
+      const s = content(SEC2, "The insight you receive", "Two layers, both built on consent.");
       marker(s, "partnerMode", 2.9);
       const rows = [
         ["1", "Your tasting", "Combined votes, quiz and tasting responses, favourites, and how guests used your content."],
         ["2", "Your new contacts", "Individual guests who choose to hear from you, and only them."],
-        ["3", "Wider trends", "Carefully anonymised Entre Amis trends, where numbers and permissions allow."],
       ];
       rows.forEach(([n, h, b], i) => {
         const y = 1.95 + i * 1.2;
@@ -129,9 +127,10 @@ module.exports = (ctx) => {
         txt(s, h, { x: M + 1.25, y, w: 2.9, h: 1.05, fontFace: BOLD, fontSize: 16, valign: "middle" });
         txt(s, b, { x: M + 4.2, y, w: CW - 4.5, h: 1.05, fontSize: 16, valign: "middle" });
       });
-      flag(s, M, 5.65, (CW - 0.3) / 2, 0.8, "TO CONFIRM", "Layer 2 depends on the proposed contact rule and legal review.", 11);
-      flag(s, M + (CW - 0.3) / 2 + 0.3, 5.65, (CW - 0.3) / 2, 0.8, "TO DECIDE", "Is wider trends offered in Partner Mode, or Event Mode only?", 11);
-      s.addNotes("In Partner Mode, contacts go to that one host only (proposed, Brand Brain 03).");
+      flag(s, M, 4.45, CW, 0.6, "TO CONFIRM", "Layer 2 depends on the proposed contact rule and legal review.", 11);
+      placeholderBox(s, M, 5.25, CW, 1.25, "Example insight report — to add");
+
+      s.addNotes("In Partner Mode, contacts go to that one host only (proposed, Brand Brain 03). Wider Entre Amis trends are not promised in Partner Mode: they depend on how it is built (founder, 12 October).");
     }
 
     // ---------- 8 · Trust ----------
@@ -176,7 +175,7 @@ module.exports = (ctx) => {
     pres.addSection({ title: "Working notes — delete before sharing" });
     {
       const s = content("Working notes — delete before sharing", "Before this pack is shared", "Working notes. Delete this slide, and every white box with a blush border, before sharing.");
-      const decide = ["Partner Mode as a hosted tasting; partner line (slides 1, 2)", "How quizzes are framed (slide 4)", "'Profile' means Wine 101 (slide 4)", "Contacts rule, legal review (slides 5, 7)", "Wider trends in Partner Mode? (slide 7)", "'By default' and 'automatic' (slide 8)", "Feature differences from Event Mode (slide 9)"];
+      const decide = ["Partner Mode as a hosted tasting; partner line (slides 1, 2)", "How quizzes are framed (slide 4)", "Contacts rule, legal review (slides 5, 7)", "'By default' and 'automatic' (slide 8)", "Feature differences from Event Mode (slide 9)"];
       const add = ["Master logo artwork files", "Host evidence for slide 3", "Photo of a hosted tasting (slide 6)", "Stage of each proof step (slide 10)", "Your surname and photo (slide 12)", "Contact details (back cover)"];
       const cw = (CW - 0.3) / 2;
       [["TO DECIDE OR CONFIRM", decide, 0], ["TO ADD", add, 1]].forEach(([hd, items, i]) => {
