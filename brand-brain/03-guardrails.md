@@ -26,6 +26,11 @@ other file. If a request conflicts with them, the request loses.
 - **Use `PROPOSED` or `TODO` content** as if it were confirmed.
 - **Say anything is launched, available, on sale, bookable or priced** until
   the founder confirms it in [`00-brand-core.md`](00-brand-core.md#current-stage-confirmed).
+  The one exception is £40, the RRP of the physical game's standard box, which
+  may be stated to any partner (trade, licensing, Partner Mode or Event Mode)
+  when referencing the physical game. It stays out of consumer-facing copy
+  until the game is on sale, and is never presented as "on sale" or
+  "available now" before then.
 - **Claim a feature that isn't claimable** in the feature status table
   (e.g. in-app wine recognition).
 - **Use internal language externally** (see
@@ -151,7 +156,7 @@ Run this on every piece of brand-facing output. Any "no" means it doesn't ship.
 
 - [ ] Is the speaker clear (founder, brand or partner), with the right voice applied?
 - [ ] Is every fact and claim `CONFIRMED` in the Brand Brain, and every claim flagged?
-- [ ] Is nothing described as launched, available or priced?
+- [ ] Is nothing described as launched, available or priced (apart from the £40 RRP of the physical game, stated to partners only)?
 - [ ] Is nothing invented about the founder?
 - [ ] Is it British English, with French accents correct?
 - [ ] Is it free of internal language?

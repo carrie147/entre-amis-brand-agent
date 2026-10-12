@@ -32,7 +32,15 @@ Entre Amis is at **prototype and validation stage**.
 
 - **Nothing is launched.** Never describe any product, app, experience or
   Partner Mode as available, live, launched, on sale or bookable.
-- **Nothing is priced.** Never state or imply a price, discount or offer.
+- **Nothing is priced for consumers.** Never state or imply a price, discount or
+  offer in consumer-facing output.
+- **The price of the physical game:** £40 is the master price, the
+  recommended retail price (RRP) of the standard box. Use it whenever the
+  price of the physical game is referenced to any partner: publishers,
+  licensing partners, distributors, retailers and Partner Mode or Event Mode
+  partners. Not in consumer-facing copy until the game is on sale (the
+  founder confirms that here), and never as "on sale" or "available now"
+  before then.
 - This changes only when the founder confirms it here.
 
 ## What Entre Amis is
@@ -211,8 +219,8 @@ What each one is (founder, 12 October 2026).
 | Spinner (one) | Yes |
 | Crown | Yes |
 | How to Play guide (with "What you might notice in your wines" prompts) | Yes |
-| Game mat (fabric) | Undecided: may be an optional extra, depending on commercials |
-| First Sip card | Undecided: may be removed |
+| Game mat (fabric) | No: an optional extra, sold separately, to keep the standard box simpler. Limited or artist editions stay early thinking (see below) and are never described externally. |
+| First Sip card | Yes |
 
 Quantities, dimensions, materials and finishes belong in the production pack.
 
