@@ -10,6 +10,12 @@
 - **Grounding:** only `CONFIRMED` Brand Brain content, apart from items marked
   ⚑ below. Each ⚑ needs a decision before this deck is shared.
 
+> **Status, 12 October 2026:** confirmed by Caroline: the journey, Partner
+> Mode and Event Mode, Talk. Laugh. Remember. as the game line, the
+> observations rule, and Wine 101 and My wines. Those ⚑ PROPOSED flags are
+> resolved. Still open: the brand-wide consumer line, Event Mode's stage,
+> the contact rule (legal review) and expression colours.
+
 **Flags used**
 
 - ⚑ PROPOSED: uses something proposed but not yet confirmed in the Brand Brain.

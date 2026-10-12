@@ -125,7 +125,7 @@ pres.addSection({ title: "Introduction" });
   s.addImage({ path: LOGO, x: (W - lw) / 2, y: 1.35, w: lw, h: lh, altText: "Entre Amis logo" });
   txt(s, "The setting changes. The spirit never does.", { x: M, y: 3.75, w: CW, h: 0.6, fontSize: 28, align: "center" });
   txt(s, "An introduction · October 2026", { x: M, y: 4.45, w: CW, h: 0.4, fontSize: 14, align: "center" });
-  flag(s, M, 5.55, 5.9, 0.95, "TO DECIDE", "The brand-wide consumer line. Talk. Laugh. Remember. is proposed as the game line (slide 7), so the cover uses supporting line 1 for now.");
+  flag(s, M, 5.55, 5.9, 0.95, "TO DECIDE", "The brand-wide consumer line. Talk. Laugh. Remember. is the game line (slide 7), so the cover uses supporting line 1 for now.");
   flag(s, W - M - 5.9, 5.55, 5.9, 0.95, "TO ADD", "Master logo artwork files. This logo is taken from the October deck at low resolution; replace with the original artwork.");
   s.addNotes("Cover uses supporting line 1 (The setting changes. The spirit never does.) because it reaches beyond the game. Talk. Laugh. Remember. is proposed as the game line. The brand-wide consumer line is still to decide.\n\nDesign: Sous-bois core colours only, master logo only, no ™, Raleway Light and SemiBold.");
 }
@@ -153,7 +153,6 @@ pres.addSection({ title: "The brand" });
     ["TIME TOGETHER", "A shared table gives people room to be present, curious and open."],
     ["WINE, FIRST", "A glass on the table is a natural place to start a conversation."],
   ]);
-  flag(s, M, 6.05, 7.4, 0.5, "TO CONFIRM", "Showing heard-but-unattributed lines as observations is proposed in the Brand Brain.");
   s.addNotes("Merges deck slides 2 and 3. The observations are shown without quotation marks or handwriting, following the proposed unattributed observations rule. 'Even in everyday pubs, people feel they need expertise' is left out until there is evidence for it (Evidence still needed, Brand Brain 00).");
 }
 
@@ -225,7 +224,6 @@ pres.addSection({ title: "What we're building" });
     s.addText(t, { x, y: 1.95, w: sw, h: 0.6, isTextBox: true, shape: pres.shapes.ROUNDED_RECTANGLE, rectRadius: 0.3, fill: { color: OLIVE }, color: CREAM, fontSize: 18, align: "center", valign: "middle", margin: 0, objectName: "Journey: " + t });
     if (i < steps.length - 1) s.addShape(pres.shapes.RIGHT_ARROW, { x: x + sw + 0.12, y: 2.13, w: 0.31, h: 0.24, fill: { color: MID }, line: { color: MID, width: 0 } });
   });
-  flag(s, sx + total + 0.3, 1.95, CW - total - 0.3, 0.6, "TO CONFIRM", "Journey proposed in the Brand Brain.", 11);
   const keys = ["game", "app", "stays", "partners"];
   const cols = [
     ["THE GAME", "A premium, giftable table game that turns any wine into conversation.", "Prototype, playable"],
@@ -269,7 +267,6 @@ pres.addSection({ title: "What we're building" });
     card(s, x, fy, fw, fh, "Fact: " + h);
     txt(s, [label(h, OLIVE, 12), { text: b }], { x: x + 0.18, y: fy + 0.14, w: fw - 0.36, h: fh - 0.2, fontSize: 12 });
   });
-  flag(s, M, 6.3, 4.6, 0.38, "TO CONFIRM", "Talk. Laugh. Remember. as the game line (proposed).", 10);
   s.addNotes("Add photos of the prototype: the most persuasive thing the deck can show. Word Play and Wine Knowledge are app-only, so they appear on the app slide. Card family colours are used here only to signify the five families. If Talk. Laugh. Remember. isn't confirmed as the game line before sharing, move it to the cover.");
 }
 
@@ -285,7 +282,6 @@ pres.addSection({ title: "What we're building" });
   const px = M + 6.95, pw = (CW - 6.95 - 0.3) / 2;
   placeholderBox(s, px, 1.95, pw, 3.85, "App screen — to add");
   placeholderBox(s, px + pw + 0.3, 1.95, pw, 3.85, "App screen — to add");
-  flag(s, px, 5.95, CW - 6.95, 0.65, "TO CONFIRM", "Wine 101 and My wines definitions (proposed in the Brand Brain).", 11);
   s.addNotes("Wine recognition is deliberately left out: it isn't claimable until it's built into the app. Wine 101 and My wines follow the founder's correction (12 October): Wine 101 is a directory of wine facts; My wines is the personal record. Add app screens.");
 }
 
@@ -309,7 +305,6 @@ pres.addSection({ title: "What we're building" });
     { text: "Event Mode: ", options: { fontFace: BOLD } }, { text: "for organisers bringing several vineyards together.", options: { breakLine: true } },
     { text: "Meet the Maker ", options: { fontFace: BOLD } }, { text: "stories and videos work in both." },
   ], { x: M + 0.35, y: 5.12, w: 8.0, h: 1.3, color: CREAM, fontSize: 14, paraSpaceAfter: 3 });
-  flag(s, M + 8.9, 5.0, CW - 8.9, 0.68, "TO CONFIRM", "Partner Mode and Event Mode are proposed in the Brand Brain.", 11);
   flag(s, M + 8.9, 5.75, CW - 8.9, 0.7, "TO DECIDE", "Event Mode's stage, and how it differs from Partner Mode.", 11);
   s.addNotes("Heading and supporting line swapped so the slide says who it is for first. Body reworded (founder, 11 October): we help capture what people say and think, and help them remember. 'Useful insight' is renamed because 'insight' as a product is internal language. Contact sharing (proposed, needs legal review) is not mentioned here; it belongs in the partner decks once confirmed. 'Make wines more memorable' is reworded to avoid a benefit claim.");
 }
@@ -364,7 +359,7 @@ backCover("Close");
 pres.addSection({ title: "Working notes — delete before sharing" });
 {
   const s = content("Working notes — delete before sharing", "Before this deck is shared", "Working notes. Delete this slide, and every white box with a blush border, before sharing.");
-  const decide = ["Brand-wide consumer line (cover)", "Talk. Laugh. Remember. as the game line (slide 7)", "Journey, Partner Mode and Event Mode, observations rule, Wine 101 and My wines: confirm in the Brand Brain", "Event Mode's stage and product differences (slides 6, 9)", "Approval to show stays as a future ambition (slides 6, 13)", "The ask, for each audience (slide 12)"];
+  const decide = ["Brand-wide consumer line (cover)", "Event Mode's stage and product differences (slides 6, 9)", "Approval to show stays as a future ambition (slides 6, 13)", "The ask, for each audience (slide 12)"];
   const add = ["Master logo artwork files", "Photos of the prototype (slide 7)", "App screens (slide 8)", "Your surname and photo; optional line in your words (slide 11)", "Playtest results, when available (slide 12)", "Contact details (back cover)"];
   const cw = (CW - 0.3) / 2;
   [["TO DECIDE OR CONFIRM", decide, 0], ["TO ADD", add, 1]].forEach(([hd, items, i]) => {

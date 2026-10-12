@@ -8,23 +8,19 @@ agent produces.
 
 ## Brand line and supporting lines
 
-### Brand line `CONFIRMED`
+### Brand line `TODO`
+
+A consumer line for Entre Amis as a whole brand is still to decide. Until
+then, where a piece needs a brand-level line, use supporting line 1.
+"Where human connection thrives." is the brand purpose and is **not** a
+consumer line (see [brand purpose](00-brand-core.md#brand-purpose-confirmed)).
+
+### Game line `CONFIRMED`
 
 > **Talk. Laugh. Remember.**
 
-This is the line for Entre Amis as a whole brand.
-
-#### Proposed change `PROPOSED`
-
-- **Talk. Laugh. Remember.** becomes the line for **the game**, because
-  Entre Amis is bigger than the game.
-- **A consumer line for the whole brand:** `TODO` — founder to decide.
-  "Where human connection thrives." is the brand purpose and is **not** a
-  consumer line (see [brand purpose](00-brand-core.md#brand-purpose-proposed)).
-- Until this is confirmed, the line above stands. Where a piece needs a
-  brand-level line that clearly reaches beyond the game, use supporting line 1.
-
-Source: founder, 11 October 2026.
+The line for the game. Entre Amis is bigger than the game, so it is not
+used as the line for the whole brand. Source: founder, 11 October 2026.
 
 ### Supporting lines, in order of priority `CONFIRMED`
 
@@ -122,10 +118,10 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | **The Final Pour** | The end of the game |
 | **Spin, Draw, Play, Pass** | The four steps of a turn |
 | **Wheel / spinner, game mat** | Game components. The game mat is fabric. Call it "game mat", never "cloth" (the first How to Play guide needs updating). |
-| **Wine 101** | The personal wine library in the app. `PROPOSED` change: wine facts and help with wine in general, like a directory — see [Wine 101 and My wines](00-brand-core.md#wine-101-and-my-wines-proposed) |
-| **My wines** `PROPOSED` | The guest's personal record of tastings, favourites, events and experiences, in their account |
+| **Wine 101** | Wine facts and help with wine in general, like a directory — see [Wine 101 and My wines](00-brand-core.md#wine-101-and-my-wines-confirmed) |
+| **My wines** | The guest's personal record of tastings, favourites, events and experiences, in their account |
 
-### Partner vocabulary `PROPOSED`
+### Partner vocabulary `CONFIRMED`
 
 | Term | What it is |
 | --- | --- |
@@ -133,9 +129,9 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | **Event Mode** | Entre Amis across a combined event — a wine festival or tasting event, or a regional wine body. Always two words, both capitalised. |
 | **Meet the Maker** | Producer videos and stories, in Partner Mode and Event Mode. |
 
-See [Partner Mode and Event Mode](00-brand-core.md#partner-mode-and-event-mode-proposed).
+See [Partner Mode and Event Mode](00-brand-core.md#partner-mode-and-event-mode-confirmed).
 
-## Unattributed observations `PROPOSED`
+## Unattributed observations `CONFIRMED`
 
 Some lines in founder materials are things the founder has heard people say
 but can't attribute — e.g. "People want to enjoy themselves, not prove
@@ -152,12 +148,13 @@ Source: founder, 11 October 2026.
 ## Internal language — never external `CONFIRMED`
 
 These are internal business terms. They must never appear in consumer,
-partner-facing or public copy:
+partner-facing or public copy (one exception: "insight" in partner
+materials — see [partner materials](#partner-materials--who-were-talking-to-confirmed)):
 
 - GameCo, ExperienceCo, "the Group" or any group/company structure name
 - "routes to value", "unit economics", "commercial models", "shareholder"
-- "insight" as a business product (e.g. "community and insight") — `PROPOSED`
-  change: allowed in partner materials, see [partner materials](#partner-materials--who-were-talking-to-proposed)
+- "insight" as a business product (e.g. "community and insight") in consumer
+  or public copy
 - Platform or supplier names behind features (e.g. FastCork)
 
 Brand architecture is still evolving (a Group may become an umbrella brand).
@@ -204,7 +201,7 @@ never as better than other wines.
 Outside those topics, partner-facing output must be escalated to the founder.
 Internal language rules still apply.
 
-### Partner materials — who we're talking to `PROPOSED`
+### Partner materials — who we're talking to `CONFIRMED`
 
 - **Talk to the partner first, not the wine drinker.** Partner materials
   (Partner Mode and Event Mode decks, proposals) speak to the vineyard,
@@ -213,11 +210,11 @@ Internal language rules still apply.
 - **Structure around two questions:** what your visitors get, and what you
   get.
 - **"Insight" is allowed in partner materials** — it is what partners are
-  buying.
+  buying. It stays out of consumer copy, and "insight" is never a promise
+  about any individual (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)).
 - **Partner line:** **Conversation creates connection. Connection creates
   insight.** For Partner Mode and Event Mode materials only — not a consumer
-  line and not the brand line. Source: founder, 12 October 2026. It stays out of consumer copy, and "insight" is never a promise
-  about any individual (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)).
+  line and not the brand line. Source: founder, 12 October 2026.
 
 Source: founder, 11 October 2026.
 

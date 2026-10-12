@@ -20,7 +20,7 @@ module.exports = (ctx) => {
       pill(s, (W - 3) / 2, 3.1, 3, "event", 0.5);
       txt(s, "For wine festivals, tasting events and regional wine bodies", { x: M, y: 3.8, w: CW, h: 0.6, fontSize: 28, align: "center" });
       txt(s, "Conversation creates connection. Connection creates insight.", { x: M, y: 4.5, w: CW, h: 0.4, fontSize: 16, italic: true, align: "center" });
-      flag(s, M, 5.55, 5.9, 0.95, "TO CONFIRM", "Event Mode is proposed in the Brand Brain. Its stage, and how it differs from Partner Mode, are still to decide. The partner line is proposed too.");
+      flag(s, M, 5.55, 5.9, 0.95, "TO DECIDE", "Event Mode's stage, and its detailed differences from Partner Mode.");
       flag(s, W - M - 5.9, 5.55, 5.9, 0.95, "TO ADD", "Master logo artwork files (this logo is low resolution).");
       s.addNotes("Written to organisers: wine festivals and tasting events, and regional wine bodies that take on a marketing role for an area (organisations like Vineyards of Hampshire or Vins de Provence). 'Marketing areas' replaced, as it's too generic. Named events and organisations are kept out so the pack can go to anyone; use names in each organiser's own proposal.");
     }
@@ -188,7 +188,7 @@ module.exports = (ctx) => {
     pres.addSection({ title: "Working notes — delete before sharing" });
     {
       const s = content("Working notes — delete before sharing", "Before this pack is shared", "Working notes. Delete this slide, and every white box with a blush border, before sharing.");
-      const decide = ["Event Mode: confirm, set its stage and how it differs from Partner Mode", "Partner line (slides 1, 2)", "Quizzes and prizes (slide 4)", "QR joining at every event (slide 5)", "Contacts rule, legal review; reporting crowns (slides 4, 7)", "'By default' and 'automatic' (slide 8)", "Pricing, preferential rates, launch recognition (slides 9, 10)"];
+      const decide = ["Event Mode: its stage and how it differs from Partner Mode", "Quizzes and prizes (slide 4)", "QR joining at every event (slide 5)", "Contacts rule, legal review; reporting crowns (slides 4, 7)", "'By default' and 'automatic' (slide 8)", "Pricing, preferential rates, launch recognition (slides 9, 10)"];
       const add = ["Master logo artwork files", "Organiser evidence for slide 3", "Visitor screens and photos (slides 5, 6)", "Stage of each proof step (slide 11)", "Your surname and photo (slide 13)", "Contact details (back cover)"];
       const cw = (CW - 0.3) / 2;
       [["TO DECIDE OR CONFIRM", decide, 0], ["TO ADD", add, 1]].forEach(([hd, items, i]) => {

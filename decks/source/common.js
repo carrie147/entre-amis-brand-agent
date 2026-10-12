@@ -14,7 +14,6 @@ module.exports = (ctx) => {
       ["WHAT WE BRING YOU", "What we add isn't content. It's connection."],
     ], { size: 15 });
     txt(s, "Conversation creates connection. Connection creates insight.", { x: M, y: 5.25, w: CW, h: 0.6, fontSize: 26, align: "center" });
-    flag(s, M + (CW - 6.4) / 2, 6.0, 6.4, 0.5, "TO CONFIRM", "Partner line, proposed in the Brand Brain.", 11);
     s.addNotes("Makes it explicit that this is the brand. The closing line is the partner line (founder, 12 October): for Partner Mode and Event Mode materials only, not a consumer line.");
     return s;
   }

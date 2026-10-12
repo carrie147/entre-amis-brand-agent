@@ -57,10 +57,11 @@ future. Don't describe the brand in a way that closes that off.
 | **The brand** | Where conversation matters more than knowledge. |
 | **The game** | A wine game with no wrong answers. |
 
-These are internal descriptions, not taglines. The brand line is
-**Talk. Laugh. Remember.**
+These are internal descriptions, not taglines. **Talk. Laugh. Remember.** is
+the line for the game. The consumer line for the whole brand is `TODO` (see
+[brand voice](02-brand-voice.md#brand-line-and-supporting-lines)).
 
-### Brand purpose `PROPOSED`
+### Brand purpose `CONFIRMED`
 
 > **Where human connection thrives.**
 
@@ -81,11 +82,11 @@ Source: founder, 11 October 2026.
 | Part | What it is | Stage |
 | --- | --- | --- |
 | **The game** (Play) | A premium, giftable table game that turns any wine into conversation. For 2–8 players, at any time of day. Easy to start, easy to join. | Prototype, playable |
-| **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, and keeps Wine 101 — a personal library of wines and moments. Hosts can also use it for their own tasting and exploration. It works with the table, never instead of it. | Prototype; Host + Guest tested together |
+| **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, offers Wine 101 (wine facts, like a directory) and keeps My wines (a personal record of tastings, favourites, events and experiences). Hosts can also use it for their own tasting and exploration. It works with the table, never instead of it. | Prototype; Host + Guest tested together |
 | **Entre Amis stays** (Experience) | Entre Amis lived for a few days in Provence, rather than played for an evening. | Later stage — not in development for launch |
-| **Partner Mode** | A way for vineyards, retailers, tastings and events to create participation around their wines and understand what people genuinely think — with consent, anonymised (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)). | Prototype |
+| **Partner Mode and Event Mode** | Ways for vineyards, bars, restaurants, retailers, wine clubs, events and regional wine bodies to create participation around their wines and understand what people genuinely think — with consent, anonymised (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)). Defined [below](#partner-mode-and-event-mode-confirmed). | Partner Mode: prototype. Event Mode: `TODO` |
 
-### The brand journey — Inspire → Discover → Experience → Belong `PROPOSED`
+### The brand journey — Inspire → Discover → Experience → Belong `CONFIRMED`
 
 The high-level way Entre Amis works across everything it does.
 
@@ -108,10 +109,9 @@ The high-level way Entre Amis works across everything it does.
 
 Source: founder decision, 11 October 2026 (from the revised brand deck).
 
-### Partner Mode and Event Mode `PROPOSED`
+### Partner Mode and Event Mode `CONFIRMED`
 
-There are two ways partners take part. Until confirmed, the offer table
-above still applies.
+There are two ways partners take part.
 
 | Mode | Who it's for | What it is |
 | --- | --- | --- |
@@ -142,7 +142,7 @@ above still applies.
 - **Guest profile:** each guest has an account identified by their email.
   Wines they favourite are stored under **My wines** in that account
   (founder, 12 October). My wines is separate from Wine 101 — see
-  [Wine 101 and My wines](#wine-101-and-my-wines-proposed).
+  [Wine 101 and My wines](#wine-101-and-my-wines-confirmed).
 - **Wider trends** (anonymised insight across Entre Amis) are not promised
   in Partner Mode; whether they're offered depends on how it is built.
   Event Mode materials may describe them.
@@ -151,7 +151,7 @@ above still applies.
 
 Source: founder, 11 October 2026.
 
-### Early thinking — not for external use `PROPOSED`
+### Early thinking — not for external use `CONFIRMED`
 
 Ideas being explored, mostly around the physical game mat. Not decided, not
 in development, and **never described externally** — not even as "coming".
@@ -164,18 +164,15 @@ in development, and **never described externally** — not even as "coming".
 
 Source: founder, 11 October 2026 ("early thinking").
 
-### Wine 101 and My wines `PROPOSED`
+### Wine 101 and My wines `CONFIRMED`
 
-The founder has corrected what Wine 101 is (12 October 2026). Until this is
-confirmed, don't describe either feature externally without checking.
+What each one is (founder, 12 October 2026).
 
 | Feature | What it is |
 | --- | --- |
 | **Wine 101** | Wine facts and help with wine in general — like a directory. Not personal. |
 | **My wines** | The guest's personal record: tastings, favourites, events and experiences, to refer back to at any time. Stored in their email-identified account. |
 
-- This replaces "Wine 101 — a personal library of wines and moments" in the
-  offer and feature tables above.
 - **Both are built** in the app, as prototypes (founder, 12 October). Both
   may be described externally as in development.
 - **Internal only:** the data behind them isn't fully logging yet — where it
@@ -229,12 +226,14 @@ not as launched (see Current stage).
 | Physical game | Prototype, playable | Yes — as in development |
 | App: host the game, Host + Guest play | Prototype, tested | Yes — as in development |
 | App: wine recognition | Works on a separate platform (via FastCork); not yet integrated into the app | **No** |
-| App: Wine 101 (personal wine library) | Built in the app, prototype | Yes — as in development |
+| App: Wine 101 (wine facts, like a directory) | Built in the app, prototype | Yes — as in development |
+| App: My wines (personal record of tastings, favourites, events and experiences) | Built in the app, prototype | Yes — as in development |
 | App: digital spinner (the app runs the game instead of the spinner) | Prototype | Yes — as in development |
 | App: helpful hints and descriptions to check or build wine knowledge | Prototype | Yes — as in development |
 | App: save the occasion and the scores | Prototype | Yes — as in development |
 | App: Word Play and Wine Knowledge cards as an optional extra level | Prototype | Yes — as in development |
 | Partner Mode | Prototype | Yes — as in development, to partners only |
+| Event Mode | `TODO` — founder to confirm stage | Only in Event Mode materials marked as draft, until the stage is confirmed |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
 ## What Entre Amis is not `CONFIRMED`
@@ -271,9 +270,8 @@ not as launched (see Current stage).
 | --- | --- | --- |
 | **Players** `CONFIRMED` | Adults (18+) who enjoy wine with friends, whatever they know about it. Hosts and Guests. Deliberately broad while we user-test. | [Brand voice](02-brand-voice.md) |
 | **Gift buyers** `CONFIRMED` | Adults (18+) buying the game for someone else — not always players themselves. | [Brand voice](02-brand-voice.md) |
-| **Partners** `CONFIRMED` | Vineyards, venues, wine experiences, retail, wine clubs, trade and consumer events. | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
-| **Partners — split by mode** `PROPOSED` | Partner Mode: single vineyards, wine brands, bars, restaurants, retailers and wine clubs. Event Mode: organisers of combined events and regional wine bodies. See [Partner Mode and Event Mode](#partner-mode-and-event-mode-proposed). | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
-| **Investors** `PROPOSED` | Deferred. Not a current audience; revisit only if the founder decides to seek investment. Until then, no investor-specific material. | — |
+| **Partners** `CONFIRMED` | Partner Mode: single vineyards, wine brands, bars, restaurants, retailers and wine clubs. Event Mode: organisers of combined events — wine festivals, tasting events and regional wine bodies. See [Partner Mode and Event Mode](#partner-mode-and-event-mode-confirmed). | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
+| **Investors** `CONFIRMED` | Deferred. Not a current audience; revisit only if the founder decides to seek investment. Until then, no investor-specific material. | — |
 
 ## Proof points
 

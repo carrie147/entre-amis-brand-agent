@@ -20,7 +20,6 @@ module.exports = (ctx) => {
       pill(s, (W - 3.2) / 2, 3.1, 3.2, "partners", 0.5, "PARTNER MODE");
       txt(s, "For vineyards, bars, restaurants, retailers and wine clubs", { x: M, y: 3.8, w: CW, h: 0.6, fontSize: 28, align: "center" });
       txt(s, "Conversation creates connection. Connection creates insight.", { x: M, y: 4.5, w: CW, h: 0.4, fontSize: 16, italic: true, align: "center" });
-      flag(s, M, 5.55, 5.9, 0.95, "TO CONFIRM", "Partner Mode as a hosted tasting, and the partner line, are proposed in the Brand Brain.");
       flag(s, W - M - 5.9, 5.55, 5.9, 0.95, "TO ADD", "Master logo artwork files (this logo is low resolution).");
       s.addNotes("Written to the host: a single vineyard, wine brand, bar, restaurant, retailer or wine club running its own tasting. Named partners are kept out so the pack can go to anyone.");
     }
@@ -67,7 +66,6 @@ module.exports = (ctx) => {
         card(s, x, 2.95, sw, 2.2, "Step detail " + (i + 1));
         txt(s, d, { x: x + 0.2, y: 3.15, w: sw - 0.4, h: 1.9, fontSize: 14 });
       });
-      flag(s, M, 5.4, CW, 0.7, "TO CONFIRM", "Quizzes are framed as learning about you: answers revealed as discoveries, nobody told they were wrong.", 11);
       s.addNotes("From your description (12 October): hosted tasting; Savour and Pour cards as an option; host-specific questions and quizzes; interactive voting shared as a learning experience; guests collate and share notes; information about the wines and the vineyard; favourite and store wines in a profile.");
     }
 
@@ -175,7 +173,7 @@ module.exports = (ctx) => {
     pres.addSection({ title: "Working notes — delete before sharing" });
     {
       const s = content("Working notes — delete before sharing", "Before this pack is shared", "Working notes. Delete this slide, and every white box with a blush border, before sharing.");
-      const decide = ["Partner Mode as a hosted tasting; partner line (slides 1, 2)", "How quizzes are framed (slide 4)", "Contacts rule, legal review (slides 5, 7)", "'By default' and 'automatic' (slide 8)", "Feature differences from Event Mode (slide 9)"];
+      const decide = ["Contacts rule, legal review (slides 5, 7)", "'By default' and 'automatic' (slide 8)", "Feature differences from Event Mode (slide 9)"];
       const add = ["Master logo artwork files", "Host evidence for slide 3", "Photo of a hosted tasting (slide 6)", "Stage of each proof step (slide 10)", "Your surname and photo (slide 12)", "Contact details (back cover)"];
       const cw = (CW - 0.3) / 2;
       [["TO DECIDE OR CONFIRM", decide, 0], ["TO ADD", add, 1]].forEach(([hd, items, i]) => {
