@@ -197,11 +197,13 @@ Talk. Laugh. Remember.
 
 - Hosts and Guests play together.
 - Runs the game, including a digital spinner.
-- Plain-English hints and descriptions, when curiosity appears.
+- Plain-English hints when curiosity appears.
 - Saves the occasion and the scores.
-- **Wine 101**: a personal library of wines and moments.
+- **Wine 101**: wine facts and help, like a directory.
+- **My wines**: your tastings, favourites, events and experiences, to look
+  back on at any time.
 - Optional Word Play and Wine Knowledge levels.
-- Hosts can also use it for their own tasting and exploration.
+- Hosts can also use it for their own tasting.
 
 18+ age gate on entry. *In development.*
 

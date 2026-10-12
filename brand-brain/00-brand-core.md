@@ -141,7 +141,8 @@ above still applies.
   Notes are not part of partner insight unless the guest consents.
 - **Guest profile:** each guest has an account identified by their email.
   Wines they favourite are stored under **My wines** in that account
-  (founder, 12 October). How My wines relates to Wine 101: `TODO`.
+  (founder, 12 October). My wines is separate from Wine 101 — see
+  [Wine 101 and My wines](#wine-101-and-my-wines-proposed).
 - **Wider trends** (anonymised insight across Entre Amis) are not promised
   in Partner Mode; whether they're offered depends on how it is built.
   Event Mode materials may describe them.
@@ -162,6 +163,22 @@ in development, and **never described externally** — not even as "coming".
 - Future non-wine expressions.
 
 Source: founder, 11 October 2026 ("early thinking").
+
+### Wine 101 and My wines `PROPOSED`
+
+The founder has corrected what Wine 101 is (12 October 2026). Until this is
+confirmed, don't describe either feature externally without checking.
+
+| Feature | What it is |
+| --- | --- |
+| **Wine 101** | Wine facts and help with wine in general — like a directory. Not personal. |
+| **My wines** | The guest's personal record: tastings, favourites, events and experiences, to refer back to at any time. Stored in their email-identified account. |
+
+- This replaces "Wine 101 — a personal library of wines and moments" in the
+  offer and feature tables above.
+- **Which is built?** The feature table says Wine 101 is built in the app as a
+  prototype. Founder to confirm whether that is Wine 101 (the directory), My
+  wines (the personal record), or both: `TODO`.
 
 ### Game facts `CONFIRMED`
 

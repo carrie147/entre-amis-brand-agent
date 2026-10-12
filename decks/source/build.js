@@ -278,14 +278,15 @@ pres.addSection({ title: "What we're building" });
   const s = content("What we're building", "The app", "Works with the table, never instead of it.");
   marker(s, "app");
   tag(s, W - M - 2.6, 1.0, 2.6, "In development");
-  const feats = ["Hosts and Guests play together.", "Runs the game, including a digital spinner.", "Plain-English hints and descriptions, when curiosity appears.", "Saves the occasion and the scores.", "Wine 101: a personal library of wines and moments.", "Optional Word Play and Wine Knowledge levels.", "Hosts can also use it for their own tasting and exploration."];
+  const feats = ["Hosts and Guests play together.", "Runs the game, including a digital spinner.", "Plain-English hints when curiosity appears.", "Saves the occasion and the scores.", "Wine 101: wine facts and help, like a directory.", "My wines: your tastings, favourites, events and experiences.", "Optional Word Play and Wine Knowledge levels.", "Hosts can also use it for their own tasting."];
   card(s, M, 1.95, 6.6, 4.65, "App features");
-  txt(s, feats.map((t, i) => ({ text: t, options: { bullet: { indent: 16 }, breakLine: i < feats.length - 1, paraSpaceAfter: 10 } })), { x: M + 0.35, y: 2.25, w: 5.9, h: 3.6, fontSize: 16 });
+  txt(s, feats.map((t, i) => ({ text: t, options: { bullet: { indent: 16 }, breakLine: i < feats.length - 1, paraSpaceAfter: 7 } })), { x: M + 0.35, y: 2.2, w: 5.9, h: 3.75, fontSize: 16 });
   txt(s, [{ text: "18+ age gate on entry.", options: { fontFace: BOLD } }], { x: M + 0.35, y: 6.05, w: 5.9, h: 0.35, fontSize: 14 });
   const px = M + 6.95, pw = (CW - 6.95 - 0.3) / 2;
-  placeholderBox(s, px, 1.95, pw, 4.65, "App screen — to add");
-  placeholderBox(s, px + pw + 0.3, 1.95, pw, 4.65, "App screen — to add");
-  s.addNotes("Wine recognition is deliberately left out: it isn't claimable until it's built into the app. Add app screens.");
+  placeholderBox(s, px, 1.95, pw, 3.85, "App screen — to add");
+  placeholderBox(s, px + pw + 0.3, 1.95, pw, 3.85, "App screen — to add");
+  flag(s, px, 5.95, CW - 6.95, 0.65, "TO CONFIRM", "Wine 101 and My wines definitions, and which of them is built.", 11);
+  s.addNotes("Wine recognition is deliberately left out: it isn't claimable until it's built into the app. Wine 101 and My wines follow the founder's correction (12 October): Wine 101 is a directory of wine facts; My wines is the personal record. Add app screens.");
 }
 
 // ---------- 9 · Partners ----------
@@ -363,7 +364,7 @@ backCover("Close");
 pres.addSection({ title: "Working notes — delete before sharing" });
 {
   const s = content("Working notes — delete before sharing", "Before this deck is shared", "Working notes. Delete this slide, and every white box with a blush border, before sharing.");
-  const decide = ["Brand-wide consumer line (cover)", "Talk. Laugh. Remember. as the game line (slide 7)", "Journey, Partner Mode and Event Mode, observations rule: confirm in the Brand Brain", "Event Mode's stage and product differences (slides 6, 9)", "Approval to show stays as a future ambition (slides 6, 13)", "The ask, for each audience (slide 12)"];
+  const decide = ["Brand-wide consumer line (cover)", "Talk. Laugh. Remember. as the game line (slide 7)", "Journey, Partner Mode and Event Mode, observations rule, Wine 101 and My wines: confirm in the Brand Brain", "Event Mode's stage and product differences (slides 6, 9)", "Approval to show stays as a future ambition (slides 6, 13)", "The ask, for each audience (slide 12)"];
   const add = ["Master logo artwork files", "Photos of the prototype (slide 7)", "App screens (slide 8)", "Your surname and photo; optional line in your words (slide 11)", "Playtest results, when available (slide 12)", "Contact details (back cover)"];
   const cw = (CW - 0.3) / 2;
   [["TO DECIDE OR CONFIRM", decide, 0], ["TO ADD", add, 1]].forEach(([hd, items, i]) => {

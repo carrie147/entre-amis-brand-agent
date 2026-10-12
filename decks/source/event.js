@@ -55,7 +55,7 @@ module.exports = (ctx) => {
         "Tasting prompts, polls and questions, with no wrong answers.",
         "Their wines and notes saved as they go.",
         "Their own Wine of the Day, crowned.",
-        "A personal record to revisit after the event.",
+        "A personal record in My wines, to revisit after the event.",
       ])], { x: M + 0.35, y: top + 0.3, w: cw - 0.7, h: h - 0.5, fontSize: 16 });
       const x2 = M + cw + 0.3;
       card(s, x2, top, cw, h, "You get", OLIVE);

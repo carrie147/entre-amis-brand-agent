@@ -122,7 +122,8 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | **The Final Pour** | The end of the game |
 | **Spin, Draw, Play, Pass** | The four steps of a turn |
 | **Wheel / spinner, game mat** | Game components. The game mat is fabric. Call it "game mat", never "cloth" (the first How to Play guide needs updating). |
-| **Wine 101** | The personal wine library in the app |
+| **Wine 101** | The personal wine library in the app. `PROPOSED` change: wine facts and help with wine in general, like a directory — see [Wine 101 and My wines](00-brand-core.md#wine-101-and-my-wines-proposed) |
+| **My wines** `PROPOSED` | The guest's personal record of tastings, favourites, events and experiences, in their account |
 
 ### Partner vocabulary `PROPOSED`
 
