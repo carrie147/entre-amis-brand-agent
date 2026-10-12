@@ -28,8 +28,9 @@ other file. If a request conflicts with them, the request loses.
   the founder confirms it in [`00-brand-core.md`](00-brand-core.md#current-stage-confirmed).
   The one exception is £40, the RRP of the physical game's standard box, which
   may be stated to any partner (trade, licensing, Partner Mode or Event Mode)
-  when referencing the physical game, never in consumer-facing copy and never
-  as "on sale" or "available now".
+  when referencing the physical game. It stays out of consumer-facing copy
+  until the game is on sale, and is never presented as "on sale" or
+  "available now" before then.
 - **Claim a feature that isn't claimable** in the feature status table
   (e.g. in-app wine recognition).
 - **Use internal language externally** (see

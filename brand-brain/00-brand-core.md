@@ -38,8 +38,9 @@ Entre Amis is at **prototype and validation stage**.
   recommended retail price (RRP) of the standard box. Use it whenever the
   price of the physical game is referenced to any partner: publishers,
   licensing partners, distributors, retailers and Partner Mode or Event Mode
-  partners. Never in consumer-facing copy, and never as "on sale" or
-  "available now".
+  partners. Not in consumer-facing copy until the game is on sale (the
+  founder confirms that here), and never as "on sale" or "available now"
+  before then.
 - This changes only when the founder confirms it here.
 
 ## What Entre Amis is
