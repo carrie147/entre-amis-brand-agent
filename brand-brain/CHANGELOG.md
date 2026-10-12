@@ -5,6 +5,13 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-10-12 | 00, 02 | Game line: "Talk. Laugh. Remember." is the line for the game, not the whole brand. Brand-wide consumer line now TODO. | Caroline |
+| 2026-10-12 | 00 | Brand purpose confirmed: "Where human connection thrives." Internal, not a consumer line. | Caroline |
+| 2026-10-12 | 00 | Brand journey confirmed: Inspire → Discover → Experience → Belong. Play, Discover and Experience sit within it, never shown as a three-step process. | Caroline |
+| 2026-10-12 | 00, 02 | Partner Mode (hosted tasting at a single vineyard, wine brand, bar, restaurant, retailer or wine club) and Event Mode (combined events: festivals, tasting events, regional wine bodies) confirmed. Insight is the partner's pay-off. Quizzes framed as learning. Guest notes belong to the guest. Wider trends not promised in Partner Mode. Event Mode stage and detailed differences still TODO. | Caroline |
+| 2026-10-12 | 00, 02 | Wine 101 is wine facts, like a directory; My wines is the guest's personal record in their email-identified account. Both built as prototypes, claimable as in development. Replaces "Wine 101 — a personal library". | Caroline |
+| 2026-10-12 | 00 | Early thinking (game mat textile, artist editions, collaborations, table setting, non-wine) kept internal. Audiences: partners split by mode; investors deferred. Evidence still needed listed as TODO. | Caroline |
+| 2026-10-12 | 02 | Partner materials talk to the partner first ("what your guests get, what you get"). "Insight" allowed in partner materials only. Partner line: "Conversation creates connection. Connection creates insight." Partner vocabulary. Unattributed observations shown without quotation marks, never as testimonials. | Caroline |
 | 2026-10-07 | 00 | Proposed retail price £40 for the standard box, for trade and partner materials only (still no consumer pricing). First Sip card stays in the box. Game mat is an optional extra, sold separately; limited edition mats a future ambition only. | Caroline |
 | 2026-10-07 | 00 | The idea: "bottles opened around a table" becomes "wine around the table", to avoid implying volume. | Caroline |
 | 2026-10-07 | 00, 02, 03 | Wine amount made consistent: "a single glass is enough" replaces "one bottle is enough"; offer now "turns any wine into conversation"; guardrails merged into one rule; new proof point. Component named "game mat" (fabric), not "cloth" or "mat". | Caroline |
