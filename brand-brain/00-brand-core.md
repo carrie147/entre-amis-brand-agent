@@ -34,10 +34,12 @@ Entre Amis is at **prototype and validation stage**.
   Partner Mode as available, live, launched, on sale or bookable.
 - **Nothing is priced for consumers.** Never state or imply a price, discount or
   offer in consumer-facing output.
-- **Trade and partner materials only:** the proposed retail price of the
-  standard box is **£40**. It may be stated in commercial materials for
-  publishers, licensing partners, distributors and retailers, never in
-  consumer-facing copy, and never as "on sale" or "available now".
+- **The price of the physical game:** £40 is the master price, the
+  recommended retail price (RRP) of the standard box. Use it whenever the
+  price of the physical game is referenced to any partner: publishers,
+  licensing partners, distributors, retailers and Partner Mode or Event Mode
+  partners. Never in consumer-facing copy, and never as "on sale" or
+  "available now".
 - This changes only when the founder confirms it here.
 
 ## What Entre Amis is
