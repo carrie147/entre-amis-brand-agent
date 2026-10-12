@@ -115,7 +115,7 @@ above still applies.
 
 | Mode | Who it's for | What it is |
 | --- | --- | --- |
-| **Partner Mode** | A single vineyard, wine brand, retailer or wine club | People join Entre Amis at that partner — e.g. at a vineyard, a tasting or in store — around that partner's wines. |
+| **Partner Mode** | A single host: a vineyard, wine brand, bar, restaurant, retailer or wine club | A **hosted tasting** that guests join. Savour and Pour cards as an option; host-specific questions and quizzes; interactive voting, shared with the group as a learning experience; information about the wines being tasted and about the host (e.g. the vineyard); guests collect their own notes through the tasting and can share them; guests can favourite wines and store them in their profile. |
 | **Event Mode** | Organisers of combined events: wine festivals and tasting events, and regional wine bodies that take on a marketing role for an area (e.g. organisations like Vineyards of Hampshire or Vins de Provence) | Entre Amis across a combined event, with functionality of its own for organisers and visitors. |
 
 - **Meet the Maker** content (producer videos and stories) works in both.
@@ -128,8 +128,19 @@ above still applies.
   space. It is one way Entre Amis shows up, not the centre of the event.
 - Named organisations are examples of the *type* of partner only. Never
   imply a partnership exists unless the founder confirms it.
-- **Product differences between the two:** `TODO` — founder to define
-  (work started in the revised brand deck).
+- **Product differences between the two:** partly defined. Partner Mode is
+  one host's own tasting, run by the host. Event Mode spans many producers at
+  one combined event, with reporting for the organiser. Detailed feature
+  differences: `TODO` — founder to define.
+- **Quizzes in Partner Mode:** host-specific questions and quizzes are part
+  of Partner Mode (founder, 12 October). They are a way of learning about the
+  host and its wines, never a test of the guest — keep "no wrong answers" in
+  spirit: answers are revealed as discoveries, and nobody is told they were
+  wrong.
+- **Guest notes belong to the guest.** Sharing them is the guest's choice.
+  Notes are not part of partner insight unless the guest consents.
+- **"Store in your profile":** assumed to be Wine 101, the personal wine
+  library — `TODO` founder to confirm.
 - **Stage and claimability of Event Mode:** `TODO` — founder to confirm. Until
   then, don't describe Event Mode externally.
 
@@ -237,7 +248,7 @@ not as launched (see Current stage).
 | **Players** `CONFIRMED` | Adults (18+) who enjoy wine with friends, whatever they know about it. Hosts and Guests. Deliberately broad while we user-test. | [Brand voice](02-brand-voice.md) |
 | **Gift buyers** `CONFIRMED` | Adults (18+) buying the game for someone else — not always players themselves. | [Brand voice](02-brand-voice.md) |
 | **Partners** `CONFIRMED` | Vineyards, venues, wine experiences, retail, wine clubs, trade and consumer events. | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
-| **Partners — split by mode** `PROPOSED` | Partner Mode: single vineyards, wine brands, retailers and wine clubs. Event Mode: organisers of combined events and regional wine bodies. See [Partner Mode and Event Mode](#partner-mode-and-event-mode-proposed). | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
+| **Partners — split by mode** `PROPOSED` | Partner Mode: single vineyards, wine brands, bars, restaurants, retailers and wine clubs. Event Mode: organisers of combined events and regional wine bodies. See [Partner Mode and Event Mode](#partner-mode-and-event-mode-proposed). | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
 | **Investors** `PROPOSED` | Deferred. Not a current audience; revisit only if the founder decides to seek investment. Until then, no investor-specific material. | — |
 
 ## Proof points

@@ -128,7 +128,7 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 
 | Term | What it is |
 | --- | --- |
-| **Partner Mode** | Entre Amis at a single vineyard, wine brand, retailer or wine club. Always two words, both capitalised. |
+| **Partner Mode** | A hosted tasting at a single vineyard, wine brand, bar, restaurant, retailer or wine club. Always two words, both capitalised. |
 | **Event Mode** | Entre Amis across a combined event — a wine festival or tasting event, or a regional wine body. Always two words, both capitalised. |
 | **Meet the Maker** | Producer videos and stories, in Partner Mode and Event Mode. |
 
@@ -212,7 +212,10 @@ Internal language rules still apply.
 - **Structure around two questions:** what your visitors get, and what you
   get.
 - **"Insight" is allowed in partner materials** — it is what partners are
-  buying. It stays out of consumer copy, and "insight" is never a promise
+  buying.
+- **Partner line:** **Conversation creates connection. Connection creates
+  insight.** For Partner Mode and Event Mode materials only — not a consumer
+  line and not the brand line. Source: founder, 12 October 2026. It stays out of consumer copy, and "insight" is never a promise
   about any individual (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)).
 
 Source: founder, 11 October 2026.
