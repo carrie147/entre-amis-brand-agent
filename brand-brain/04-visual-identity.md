@@ -65,6 +65,32 @@ packaging, partner materials.
 | Cream | `#EFEAE0` | 239, 234, 224 | 0, 2, 6, 6 | |
 | Blush (single accent) | `#E3AC9A` | 227, 172, 154 | 0, 24, 32, 11 | The only accent |
 
+### Expression colours `PROPOSED`
+
+To make it easy to see which part of Entre Amis a slide, page or panel is
+about, each part of the offer is signalled by one **core** colour. No new
+colours are added and game card colours are not used.
+
+| Part of the offer | Colour | Text on it |
+| --- | --- | --- |
+| The game | Deep olive `#565A32` | Cream |
+| The app | Mid olive `#8B8B5C` | White |
+| Entre Amis stays | Light sage `#B9BC9A` | Deep olive |
+| Partners (Partner Mode and Event Mode) | Blush `#E3AC9A` | Deep olive |
+
+- Used for **markers and labels** (e.g. a pill in the corner of a slide),
+  not as large backgrounds behind body text.
+- Mid olive, light sage and blush only pass contrast for **large or bold
+  text** (14pt bold or larger). Keep text on them short and SemiBold.
+- Brand-level material (no single part of the offer) stays deep olive on
+  cream, with no marker.
+- Blush stays the single accent; here its accent role is signalling partners.
+- If more distinction is wanted later, new colours go to the designer and
+  come back here as `PROPOSED`.
+
+Source: founder question, 11 October 2026 (decks felt flat without a way to
+signal each part).
+
 ### Game card family colours `CONFIRMED`
 
 For the **cards and game only**, to show the different card families. Each

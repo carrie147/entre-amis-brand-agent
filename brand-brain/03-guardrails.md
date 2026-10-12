@@ -107,6 +107,30 @@ safe to do so.
 - **Never sold.** What someone says at the table is never sold or passed on
   as individual data.
 
+### Proposed change — contact details with consent `PROPOSED`
+
+Partners pay for Partner Mode and Event Mode, and the names of people who
+choose to hear from them have real value — event organisers often only know
+the ticket buyer, not everyone who attends. So:
+
+- **Contact details may be passed to a partner only with clear, separate
+  consent.** The person actively opts in to hearing from that named partner.
+  It is never pre-ticked, never bundled with joining the game, and saying no
+  changes nothing about their experience.
+- **Contact details only.** What someone says, tastes, scores or crowns is
+  never attached to their contact details. Opinions and tasting responses
+  stay anonymised and aggregated, as above.
+- **Partner Mode:** contacts go to that one partner.
+- **Event Mode:** contacts go to **the organiser** by default. Individual
+  vineyards at the event may receive them too, but only where the person has
+  given permission for each of them by name.
+- **Legal review before use.** This must be checked against UK GDPR and
+  direct-marketing rules before it is built or offered to a partner.
+- Until confirmed, the rule above ("anonymised only") stands, and no
+  material may offer partners contact details.
+
+Source: founder decision, 11 October 2026.
+
 ## Escalate to the founder
 
 Stop and ask — don't draft around it — when:
