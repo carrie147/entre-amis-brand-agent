@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-10-16 | 00, 03 | Feature status updated to the app as built. Now claimable as in development: wine recognition (photograph the label; never name the supplier or claim it knows every wine), My wines on every device, Just tasting, Wine Knowledge about the wine in the glass, Word Play and Wine Knowledge alongside the boxed game. Event Mode: prototype, may be described as in development. Not claimable: the Event Mode prize draw (legal check), reports for businesses (not built), contact details to businesses (rule still proposed). Guardrail example changed from wine recognition to the prize draw. | Caroline |
 | 2026-10-12 | 00, 02 | Game line: "Talk. Laugh. Remember." is the line for the game, not the whole brand. Brand-wide consumer line now TODO. | Caroline |
 | 2026-10-12 | 00 | Brand purpose confirmed: "Where human connection thrives." Internal, not a consumer line. | Caroline |
 | 2026-10-12 | 00 | Brand journey confirmed: Inspire → Discover → Experience → Belong. Play, Discover and Experience sit within it, never shown as a three-step process. | Caroline |

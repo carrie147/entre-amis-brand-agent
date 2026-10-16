@@ -92,7 +92,7 @@ Source: founder, 11 October 2026.
 | **The game** (Play) | A premium, giftable table game that turns any wine into conversation. For 2–8 players, at any time of day. Easy to start, easy to join. | Prototype, playable |
 | **The app** (Discover / Remember) | Hosts the game, adds plain-English wine information when curiosity appears, offers Wine 101 (wine facts, like a directory) and keeps My wines (a personal record of tastings, favourites, events and experiences). Hosts can also use it for their own tasting and exploration. It works with the table, never instead of it. | Prototype; Host + Guest tested together |
 | **Entre Amis stays** (Experience) | Entre Amis lived for a few days in Provence, rather than played for an evening. | Later stage — not in development for launch |
-| **Partner Mode and Event Mode** | Ways for vineyards, bars, restaurants, retailers, wine clubs, events and regional wine bodies to create participation around their wines and understand what people genuinely think — with consent, anonymised (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)). Defined [below](#partner-mode-and-event-mode-confirmed). | Partner Mode: prototype. Event Mode: `TODO` |
+| **Partner Mode and Event Mode** | Ways for vineyards, bars, restaurants, retailers, wine clubs, events and regional wine bodies to create participation around their wines and understand what people genuinely think — with consent, anonymised (see [Partner Mode data](03-guardrails.md#partner-mode-data-confirmed)). Defined [below](#partner-mode-and-event-mode-confirmed). | Partner Mode: prototype. Event Mode: prototype |
 
 ### The brand journey — Inspire → Discover → Experience → Belong `CONFIRMED`
 
@@ -154,8 +154,8 @@ There are two ways partners take part.
 - **Wider trends** (anonymised insight across Entre Amis) are not promised
   in Partner Mode; whether they're offered depends on how it is built.
   Event Mode materials may describe them.
-- **Stage and claimability of Event Mode:** `TODO` — founder to confirm. Until
-  then, don't describe Event Mode externally.
+- **Stage and claimability of Event Mode:** prototype; may be described as in
+  development (founder, 16 October 2026). See the feature status table.
 
 Source: founder, 11 October 2026.
 
@@ -233,15 +233,22 @@ not as launched (see Current stage).
 | --- | --- | --- |
 | Physical game | Prototype, playable | Yes — as in development |
 | App: host the game, Host + Guest play | Prototype, tested | Yes — as in development |
-| App: wine recognition | Works on a separate platform (via FastCork); not yet integrated into the app | **No** |
+| App: wine recognition (photograph the label) | Built into the app (14 October 2026), prototype | Yes — as in development. Never name the supplier. Never claim it knows every wine: for wines it doesn't know, it fills in the tasting details itself |
 | App: Wine 101 (wine facts, like a directory) | Built in the app, prototype | Yes — as in development |
 | App: My wines (personal record of tastings, favourites, events and experiences) | Built in the app, prototype | Yes — as in development |
+| App: My wines on every device (sign in with an email code) | Built in the app, prototype | Yes — as in development |
+| App: Just tasting (tasting on your own: four guided questions per wine, more than one wine) | Built in the app, prototype | Yes — as in development |
 | App: digital spinner (the app runs the game instead of the spinner) | Prototype | Yes — as in development |
 | App: helpful hints and descriptions to check or build wine knowledge | Prototype | Yes — as in development |
 | App: save the occasion and the scores | Prototype | Yes — as in development |
 | App: Word Play and Wine Knowledge cards as an optional extra level | Prototype | Yes — as in development |
-| Partner Mode | Prototype | Yes — as in development, to partners only |
-| Event Mode | `TODO` — founder to confirm stage | Only in Event Mode materials marked as draft, until the stage is confirmed |
+| App: Wine Knowledge questions about the wine in the glass (when its label has been photographed) | Prototype | Yes — as in development |
+| App: Word Play and Wine Knowledge alongside the boxed game | Prototype | Yes — as in development |
+| Partner Mode | Prototype, working live (tested 15 October 2026) | Yes — as in development, to partners only |
+| Event Mode | Prototype, working live (15 October 2026) | Yes — as in development |
+| Event Mode: prize draw for visitors who crown | Built in the prototype | **No** — not until the legal check (UK prize draw rules, CAP, Portman Group) and short terms are done |
+| Partner Mode and Event Mode: reports for businesses | Totals recorded; the screen that shows them is not built | **No** |
+| Partner Mode and Event Mode: contact details to businesses | Built in the prototype as unticked boxes, one per business | **No** — the contact rule in [guardrails](03-guardrails.md) is still `PROPOSED` and needs legal review |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
 ## What Entre Amis is not `CONFIRMED`

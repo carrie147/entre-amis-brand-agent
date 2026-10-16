@@ -240,7 +240,6 @@ pres.addSection({ title: "What we're building" });
     tag(s, x + 0.25, y + h - 0.7, w - 0.5, stage, "Stage tag", 0.5);
   });
   flag(s, M + 2 * (w + gap), 6.05, w, 0.6, "TO DECIDE", "Your approval to show stays as a future ambition.", 10);
-  flag(s, M + 3 * (w + gap), 6.05, w, 0.6, "TO DECIDE", "Event Mode's stage. Until then, say Partner Mode only.", 10);
   s.addNotes("The game, app and stays are shown as ways to take part in the journey, not as a Play → Discover → Experience process. If the journey isn't confirmed before sharing, delete the journey line; the rest of the slide stands without it.\n\nGameCo, ExperienceCo, 'routes to value', IP, licences and 'insight' are removed because they are internal language.");
 }
 
@@ -275,14 +274,14 @@ pres.addSection({ title: "What we're building" });
   const s = content("What we're building", "The app", "Works with the table, never instead of it.");
   marker(s, "app");
   tag(s, W - M - 2.6, 1.0, 2.6, "In development");
-  const feats = ["Hosts and Guests play together.", "Runs the game, including a digital spinner.", "Plain-English hints when curiosity appears.", "Saves the occasion and the scores.", "Wine 101: wine facts and help, like a directory.", "My wines: your tastings, favourites, events and experiences.", "Optional Word Play and Wine Knowledge levels.", "Hosts can also use it for their own tasting."];
+  const feats = ["Hosts and Guests play together.", "Runs the game, including a digital spinner.", "Photograph a label to add a wine and its details.", "Plain-English hints when curiosity appears.", "Saves the occasion and the scores.", "Wine 101: wine facts and help, like a directory.", "My wines: your tastings, favourites, events and experiences, on any device.", "Optional Word Play and Wine Knowledge, with questions about the wine in your glass.", "Just tasting: guided questions when you taste on your own."];
   card(s, M, 1.95, 6.6, 4.65, "App features");
-  txt(s, feats.map((t, i) => ({ text: t, options: { bullet: { indent: 16 }, breakLine: i < feats.length - 1, paraSpaceAfter: 7 } })), { x: M + 0.35, y: 2.2, w: 5.9, h: 3.75, fontSize: 16 });
+  txt(s, feats.map((t, i) => ({ text: t, options: { bullet: { indent: 16 }, breakLine: i < feats.length - 1, paraSpaceAfter: 5 } })), { x: M + 0.35, y: 2.2, w: 5.9, h: 3.8, fontSize: 15 });
   txt(s, [{ text: "18+ age gate on entry.", options: { fontFace: BOLD } }], { x: M + 0.35, y: 6.05, w: 5.9, h: 0.35, fontSize: 14 });
   const px = M + 6.95, pw = (CW - 6.95 - 0.3) / 2;
   placeholderBox(s, px, 1.95, pw, 3.85, "App screen — to add");
   placeholderBox(s, px + pw + 0.3, 1.95, pw, 3.85, "App screen — to add");
-  s.addNotes("Wine recognition is deliberately left out: it isn't claimable until it's built into the app. Wine 101 and My wines follow the founder's correction (12 October): Wine 101 is a directory of wine facts; My wines is the personal record. Add app screens.");
+  s.addNotes("Updated 16 October to the confirmed feature status: photographing a label, My wines on any device, questions about the wine in the glass and Just tasting are now claimable as in development. Never name the supplier behind the label photo, and never claim it knows every wine. Wine 101 and My wines follow the founder's correction (12 October): Wine 101 is a directory of wine facts; My wines is the personal record. Add app screens.");
 }
 
 // ---------- 9 · Partners ----------
@@ -305,7 +304,7 @@ pres.addSection({ title: "What we're building" });
     { text: "Event Mode: ", options: { fontFace: BOLD } }, { text: "for organisers bringing several vineyards together.", options: { breakLine: true } },
     { text: "Meet the Maker ", options: { fontFace: BOLD } }, { text: "stories and videos work in both." },
   ], { x: M + 0.35, y: 5.12, w: 8.0, h: 1.3, color: CREAM, fontSize: 14, paraSpaceAfter: 3 });
-  flag(s, M + 8.9, 5.75, CW - 8.9, 0.7, "TO DECIDE", "Event Mode's stage, and how it differs from Partner Mode.", 11);
+  flag(s, M + 8.9, 5.75, CW - 8.9, 0.7, "TO DECIDE", "How Event Mode differs from Partner Mode, in detail.", 11);
   s.addNotes("Heading and supporting line swapped so the slide says who it is for first. Body reworded (founder, 11 October): we help capture what people say and think, and help them remember. 'Useful insight' is renamed because 'insight' as a product is internal language. Contact sharing (proposed, needs legal review) is not mentioned here; it belongs in the partner decks once confirmed. 'Make wines more memorable' is reworded to avoid a benefit claim.");
 }
 
@@ -359,7 +358,7 @@ backCover("Close");
 pres.addSection({ title: "Working notes — delete before sharing" });
 {
   const s = content("Working notes — delete before sharing", "Before this deck is shared", "Working notes. Delete this slide, and every white box with a blush border, before sharing.");
-  const decide = ["Brand-wide consumer line (cover)", "Event Mode's stage and product differences (slides 6, 9)", "Approval to show stays as a future ambition (slides 6, 13)", "The ask, for each audience (slide 12)"];
+  const decide = ["Brand-wide consumer line (cover)", "How Event Mode differs from Partner Mode (slide 9)", "Approval to show stays as a future ambition (slides 6, 13)", "The ask, for each audience (slide 12)"];
   const add = ["Master logo artwork files", "Photos of the prototype (slide 7)", "App screens (slide 8)", "Your surname and photo; optional line in your words (slide 11)", "Playtest results, when available (slide 12)", "Contact details (back cover)"];
   const cw = (CW - 0.3) / 2;
   [["TO DECIDE OR CONFIRM", decide, 0], ["TO ADD", add, 1]].forEach(([hd, items, i]) => {
