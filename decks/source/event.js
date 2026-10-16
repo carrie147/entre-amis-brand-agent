@@ -20,7 +20,7 @@ module.exports = (ctx) => {
       pill(s, (W - 3) / 2, 3.1, 3, "event", 0.5);
       txt(s, "For wine festivals, tasting events and regional wine bodies", { x: M, y: 3.8, w: CW, h: 0.6, fontSize: 28, align: "center" });
       txt(s, "Conversation creates connection. Connection creates insight.", { x: M, y: 4.5, w: CW, h: 0.4, fontSize: 16, italic: true, align: "center" });
-      flag(s, M, 5.55, 5.9, 0.95, "TO DECIDE", "Event Mode's stage, and its detailed differences from Partner Mode.");
+      flag(s, M, 5.55, 5.9, 0.95, "TO DECIDE", "Event Mode's detailed differences from Partner Mode.");
       flag(s, W - M - 5.9, 5.55, 5.9, 0.95, "TO ADD", "Master logo artwork files (this logo is low resolution).");
       s.addNotes("Written to organisers: wine festivals and tasting events, and regional wine bodies that take on a marketing role for an area (organisations like Vineyards of Hampshire or Vins de Provence). 'Marketing areas' replaced, as it's too generic. Named events and organisations are kept out so the pack can go to anyone; use names in each organiser's own proposal.");
     }
@@ -68,7 +68,7 @@ module.exports = (ctx) => {
       ])], { x: x2 + 0.35, y: top + 0.3, w: cw - 0.7, h: h - 0.5, fontSize: 16, color: CREAM });
       flag(s, M, 6.1, cw, 0.55, "TO DECIDE", "Quizzes and prizes: now in the prototype (slide 8). Keep, and how?", 11);
       flag(s, x2, 6.1, cw, 0.55, "TO CONFIRM", "Contacts: proposed rule, needs legal review.", 11);
-      s.addNotes("New spine for the pack, as you suggested. Visitor side from the October 'During / Personal / After' slide. Quizzes and prizes left off until decided: quizzes need to fit 'no wrong answers', and prizes near alcohol need checking against CAP and Portman Group rules. 'Save wines in seconds' isn't used: it's a speed claim and suggests wine recognition, which isn't claimable yet.");
+      s.addNotes("New spine for the pack, as you suggested. Visitor side from the October 'During / Personal / After' slide. Quizzes and prizes left off until decided: quizzes need to fit 'no wrong answers', and prizes near alcohol need checking against CAP and Portman Group rules. 'Save wines in seconds' isn't used: it's a speed claim.");
     }
 
     // ---------- 5 · How Entre Amis shows up ----------
@@ -146,7 +146,7 @@ module.exports = (ctx) => {
       flag(s, M, 6.12, fw, 0.6, "TO CONFIRM", "Contacts: proposed rule, needs legal review.", 10);
       flag(s, M + fw + 0.3, 6.12, fw, 0.6, "TO CONFIRM", "Prize draw: UK prize draw rules, CAP, Portman Group, short terms.", 10);
       flag(s, M + 2 * (fw + 0.3), 6.12, fw, 0.6, "TO DECIDE", "Reporting crowns to producers (see slide 7). Report screen still to build.", 10);
-      s.addNotes("New slide, 16 October: the benefits for wine businesses, from the app as built to 15 October 2026 (Event Mode prototype: visitor and organiser screens, stand QR cards, one question per wine, crowning and prize draw). Producer totals are recorded but the screen that shows them is not built yet. Contacts follow the proposed Brand Brain rule: one tick box per producer, never pre-ticked, no opinions attached. Event Mode's stage is still to confirm, so this slide is draft-only.");
+      s.addNotes("New slide, 16 October: the benefits for wine businesses, from the app as built to 15 October 2026 (Event Mode prototype: visitor and organiser screens, stand QR cards, one question per wine, crowning and prize draw). Producer totals are recorded but the screen that shows them is not built yet. Contacts follow the proposed Brand Brain rule: one tick box per producer, never pre-ticked, no opinions attached. Event Mode may be described as in development (Brand Brain, 16 October); the prize draw, reports and contact details are not claimable yet, hence the flags.");
     }
 
     // ---------- 9 · Trust ----------
@@ -195,7 +195,7 @@ module.exports = (ctx) => {
         ["EXAMPLE INSIGHT REPORT", "An illustrative dashboard and post-event report. Every number tied to a real interaction."],
         ["FIRST EVENT PILOT", "Defined scope, costs, responsibilities, no exclusivity, and measures of success for your first event."],
       ], { size: 15 });
-      flag(s, M, 4.85, CW, 0.85, "TO CONFIRM", "Where each is today (15 October): prototype built and working, with visitor and organiser screens and stand QR cards. Example report: totals recorded, report screen in progress. First pilot: planned. Event Mode's stage still to confirm.", 11);
+      flag(s, M, 4.85, CW, 0.85, "TO CONFIRM", "Where each is today (15 October): prototype built and working, with visitor and organiser screens and stand QR cards. Example report: totals recorded, report screen in progress. First pilot: planned.", 11);
       s.addNotes("From 'Before we build event partner mode'. The 'Ecosystem story' card was a note about the deck itself, so it's left out.");
     }
 
@@ -209,7 +209,7 @@ module.exports = (ctx) => {
     pres.addSection({ title: "Working notes — delete before sharing" });
     {
       const s = content("Working notes — delete before sharing", "Before this pack is shared", "Working notes. Delete this slide, and every white box with a blush border, before sharing.");
-      const decide = ["Event Mode: its stage and how it differs from Partner Mode", "Quizzes and prizes, prize draw legal check (slides 4, 8)", "QR joining at every event (slide 5)", "Contacts rule, legal review; reporting crowns (slides 4, 7, 8)", "'By default' and 'automatic' (slide 9)", "Pricing, preferential rates, launch recognition (slides 10, 11)", "Stage of each proof step (slide 12)"];
+      const decide = ["Event Mode: how it differs from Partner Mode", "Quizzes and prizes, prize draw legal check (slides 4, 8)", "QR joining at every event (slide 5)", "Contacts rule, legal review; reporting crowns (slides 4, 7, 8)", "'By default' and 'automatic' (slide 9)", "Pricing, preferential rates, launch recognition (slides 10, 11)", "Stage of each proof step (slide 12)"];
       const add = ["Master logo artwork files", "Organiser evidence for slide 3", "Visitor screens and photos (slides 5, 6)", "Producer report screen (slide 8)", "Your surname and photo (slide 14)", "Contact details (back cover)"];
       const cw = (CW - 0.3) / 2;
       [["TO DECIDE OR CONFIRM", decide, 0], ["TO ADD", add, 1]].forEach(([hd, items, i]) => {

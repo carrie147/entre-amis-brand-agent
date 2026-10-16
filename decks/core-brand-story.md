@@ -13,8 +13,14 @@
 > **Status, 12 October 2026:** confirmed by Caroline: the journey, Partner
 > Mode and Event Mode, Talk. Laugh. Remember. as the game line, the
 > observations rule, and Wine 101 and My wines. Those ⚑ PROPOSED flags are
-> resolved. Still open: the brand-wide consumer line, Event Mode's stage,
-> the contact rule (legal review) and expression colours.
+> resolved. Still open: the brand-wide consumer line, how Event Mode
+> differs from Partner Mode, the contact rule (legal review) and expression
+> colours.
+>
+> **16 October 2026:** feature status confirmed by Caroline. The app slide
+> now includes photographing a label, My wines on any device, questions
+> about the wine in your glass and Just tasting. Event Mode may be described
+> as in development.
 
 **Flags used**
 
@@ -153,8 +159,8 @@ Inspire → Discover → Experience → Belong
 >   not as a Play → Discover → Experience process.
 > - Stays may only be described as a future ambition, with your approval
 >   (⚑ TODO).
-> - Event Mode's stage isn't confirmed (⚑ TODO). Until it is, say "Partner Mode"
->   only.
+> - Event Mode is a prototype and may be described as in development
+>   (confirmed 16 October 2026).
 > - GameCo, ExperienceCo, "routes to value", IP, licences and "insight" are all
 >   removed, because they're internal language.
 
@@ -203,18 +209,20 @@ Talk. Laugh. Remember.
 
 - Hosts and Guests play together.
 - Runs the game, including a digital spinner.
+- Photograph a label to add a wine and its details.
 - Plain-English hints when curiosity appears.
 - Saves the occasion and the scores.
 - **Wine 101**: wine facts and help, like a directory.
-- **My wines**: your tastings, favourites, events and experiences, to look
-  back on at any time.
-- Optional Word Play and Wine Knowledge levels.
-- Hosts can also use it for their own tasting.
+- **My wines**: your tastings, favourites, events and experiences, on any
+  device.
+- Optional Word Play and Wine Knowledge, with questions about the wine in
+  your glass.
+- **Just tasting**: guided questions when you taste on your own.
 
 18+ age gate on entry. *In development.*
 
-> Notes: wine recognition is deliberately left out. It isn't claimable until
-> it's built into the app. Add app screens (⚑ TODO).
+> Notes: never name the supplier behind the label photo, and never claim it
+> knows every wine. Add app screens (⚑ TODO).
 
 ---
 
@@ -240,7 +248,7 @@ remember those wines afterwards.
 >   says who it's for first.
 > - Body reworded: we help capture what people say and think, and help them
 >   remember.
-> - Partner Mode and Event Mode are ⚑ PROPOSED. Event Mode's stage is ⚑ TODO.
+> - Partner Mode and Event Mode are ⚑ PROPOSED. Event Mode is in development (confirmed 16 October 2026); how it differs from Partner Mode is ⚑ TODO.
 > - "Useful insight" is renamed, because "insight" as a product is internal
 >   language.
 
@@ -357,6 +365,6 @@ The setting changes. The spirit never does.
 - [ ] Confirm or change the ⚑ PROPOSED items in the Brand Brain: journey,
       Partner Mode and Event Mode, game line, observations rule.
 - [ ] Supply the ⚑ TODO items: photos and app screens, your surname and
-      photo, contact details, the ask, approval for stays, Event Mode stage.
+      photo, contact details, the ask, approval for stays, how Event Mode differs from Partner Mode.
 - [ ] Rebuild in PowerPoint using the core palette and master logo.
 - [ ] Run the pre-publish check in `brand-brain/03-guardrails.md`.
