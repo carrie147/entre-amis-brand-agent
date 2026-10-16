@@ -66,7 +66,7 @@ module.exports = (ctx) => {
         "New contacts, where visitors choose to hear from you.",
         "A reason to reconnect after the event.",
       ])], { x: x2 + 0.35, y: top + 0.3, w: cw - 0.7, h: h - 0.5, fontSize: 16, color: CREAM });
-      flag(s, M, 6.1, cw, 0.55, "TO DECIDE", "Quizzes and prizes (in the October deck): keep, and how?", 11);
+      flag(s, M, 6.1, cw, 0.55, "TO DECIDE", "Quizzes and prizes: now in the prototype (slide 8). Keep, and how?", 11);
       flag(s, x2, 6.1, cw, 0.55, "TO CONFIRM", "Contacts: proposed rule, needs legal review.", 11);
       s.addNotes("New spine for the pack, as you suggested. Visitor side from the October 'During / Personal / After' slide. Quizzes and prizes left off until decided: quizzes need to fit 'no wrong answers', and prizes near alcohol need checking against CAP and Portman Group rules. 'Save wines in seconds' isn't used: it's a speed claim and suggests wine recognition, which isn't claimable yet.");
     }
@@ -128,10 +128,31 @@ module.exports = (ctx) => {
       s.addNotes("'Three layers of insight' with the labels fixed to match their descriptions (they were swapped in the October deck). Event Mode contacts go to the organiser by default; individual vineyards only where each is named in the visitor's permission (proposed, Brand Brain 03).");
     }
 
-    // ---------- 8 · Trust ----------
+    // ---------- 8 · What your producers get (16 October) ----------
+    {
+      const s = content(SEC2, "What your producers get", "Reasons for the producers and venues at your event to take part.");
+      marker(s, "event");
+      cardRow(s, 1.85, 1.9, [
+        ["WHAT THE ROOM THOUGHT", "Which of their wines visitors loved, saved and crowned. Only shown once five or more took part, and never with a name."],
+        ["CONTACTS WHO SAID YES", "Visitors who choose to hear from a producer, by name. Nothing is ever pre-ticked."],
+        ["THEIR STORY GOES HOME", "Their wines, their story and each visitor's own notes stay in that visitor's My wines after the day."],
+      ], { size: 14 });
+      cardRow(s, 4.0, 1.9, [
+        ["A QUESTION ABOUT THEIR WINE", "One question per wine. Visitors see how the room answered, then a fact the producer chose. No scores."],
+        ["FOUND AT THEIR STAND", "A printed card with a QR code on each stand opens that producer's page."],
+        ["A REASON TO CROWN", "Visitors crown their own Wine of the Day. Everyone who crowns can be entered into a prize draw."],
+      ], { size: 14 });
+      const fw = (CW - 0.6) / 3;
+      flag(s, M, 6.12, fw, 0.6, "TO CONFIRM", "Contacts: proposed rule, needs legal review.", 10);
+      flag(s, M + fw + 0.3, 6.12, fw, 0.6, "TO CONFIRM", "Prize draw: UK prize draw rules, CAP, Portman Group, short terms.", 10);
+      flag(s, M + 2 * (fw + 0.3), 6.12, fw, 0.6, "TO DECIDE", "Reporting crowns to producers (see slide 7). Report screen still to build.", 10);
+      s.addNotes("New slide, 16 October: the benefits for wine businesses, from the app as built to 15 October 2026 (Event Mode prototype: visitor and organiser screens, stand QR cards, one question per wine, crowning and prize draw). Producer totals are recorded but the screen that shows them is not built yet. Contacts follow the proposed Brand Brain rule: one tick box per producer, never pre-ticked, no opinions attached. Event Mode's stage is still to confirm, so this slide is draft-only.");
+    }
+
+    // ---------- 9 · Trust ----------
     common.trustSlide(SEC2, "event", "visitors");
 
-    // ---------- 9 · What a partnership might include ----------
+    // ---------- 10 · What a partnership might include ----------
     pres.addSection({ title: SEC3 });
     {
       const s = content(SEC3, "What a partnership might include", "A possible year-round relationship across your events.");
@@ -145,7 +166,7 @@ module.exports = (ctx) => {
       s.addNotes("'Hosted Entre Amis Table' is now 'a small Entre Amis corner', in line with how Entre Amis shows up at events.");
     }
 
-    // ---------- 10 · Founding partnership ----------
+    // ---------- 11 · Founding partnership ----------
     {
       const s = content(SEC3, "A founding partnership, not exclusivity", "Help shape the future of the Entre Amis event experience.");
       marker(s, "event");
@@ -165,7 +186,7 @@ module.exports = (ctx) => {
       s.addNotes("Heading typo fixed: 'foundering' (sinking) is now 'founding'. 'Insight' restored, as it's allowed in partner materials (proposed).");
     }
 
-    // ---------- 11 · How we'll show it working ----------
+    // ---------- 12 · How we'll show it working ----------
     {
       const s = content(SEC3, "How we'll show it working", "The experience and evidence first.");
       marker(s, "event");
@@ -174,22 +195,22 @@ module.exports = (ctx) => {
         ["EXAMPLE INSIGHT REPORT", "An illustrative dashboard and post-event report. Every number tied to a real interaction."],
         ["FIRST EVENT PILOT", "Defined scope, costs, responsibilities, no exclusivity, and measures of success for your first event."],
       ], { size: 15 });
-      flag(s, M, 4.85, CW, 0.7, "TO ADD", "Where each of these is today (e.g. built, in progress, planned).", 11);
+      flag(s, M, 4.85, CW, 0.85, "TO CONFIRM", "Where each is today (15 October): prototype built and working, with visitor and organiser screens and stand QR cards. Example report: totals recorded, report screen in progress. First pilot: planned. Event Mode's stage still to confirm.", 11);
       s.addNotes("From 'Before we build event partner mode'. The 'Ecosystem story' card was a note about the deck itself, so it's left out.");
     }
 
-    // ---------- 12–14 · Shared slides ----------
+    // ---------- 13–15 · Shared slides ----------
     pres.addSection({ title: SEC4 });
     responsibleSlide(SEC4);
     founderSlide(SEC4);
     backCover(SEC4);
 
-    // ---------- 15 · Working notes ----------
+    // ---------- 16 · Working notes ----------
     pres.addSection({ title: "Working notes — delete before sharing" });
     {
       const s = content("Working notes — delete before sharing", "Before this pack is shared", "Working notes. Delete this slide, and every white box with a blush border, before sharing.");
-      const decide = ["Event Mode: its stage and how it differs from Partner Mode", "Quizzes and prizes (slide 4)", "QR joining at every event (slide 5)", "Contacts rule, legal review; reporting crowns (slides 4, 7)", "'By default' and 'automatic' (slide 8)", "Pricing, preferential rates, launch recognition (slides 9, 10)"];
-      const add = ["Master logo artwork files", "Organiser evidence for slide 3", "Visitor screens and photos (slides 5, 6)", "Stage of each proof step (slide 11)", "Your surname and photo (slide 13)", "Contact details (back cover)"];
+      const decide = ["Event Mode: its stage and how it differs from Partner Mode", "Quizzes and prizes, prize draw legal check (slides 4, 8)", "QR joining at every event (slide 5)", "Contacts rule, legal review; reporting crowns (slides 4, 7, 8)", "'By default' and 'automatic' (slide 9)", "Pricing, preferential rates, launch recognition (slides 10, 11)", "Stage of each proof step (slide 12)"];
+      const add = ["Master logo artwork files", "Organiser evidence for slide 3", "Visitor screens and photos (slides 5, 6)", "Producer report screen (slide 8)", "Your surname and photo (slide 14)", "Contact details (back cover)"];
       const cw = (CW - 0.3) / 2;
       [["TO DECIDE OR CONFIRM", decide, 0], ["TO ADD", add, 1]].forEach(([hd, items, i]) => {
         const x = M + i * (cw + 0.3);
