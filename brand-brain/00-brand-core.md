@@ -244,6 +244,26 @@ not as launched (see Current stage).
 | Event Mode | `TODO` — founder to confirm stage | Only in Event Mode materials marked as draft, until the stage is confirmed |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
+### Proposed update to feature status (16 October 2026) `PROPOSED`
+
+The app has moved on since the table above was confirmed. These rows would
+replace or add to it once the founder confirms them. Until then, the
+`CONFIRMED` table above stands. Source: the app as built and tested to
+15 October 2026 (entre-amis-app build notes).
+
+| Feature | Proposed status | Proposed claimable? |
+| --- | --- | --- |
+| App: wine recognition (photograph the label) | Built into the app (14 October); the founder's scans worked. Prototype | Yes — as in development. Never name the supplier. For wines it doesn't know, it fills in the tasting details itself, so never claim it knows every wine |
+| App: Just tasting (tasting on your own) | Four guided questions per wine, add another wine, save it to My wines (15 October). Prototype | Yes — as in development |
+| App: My wines on every device | My wines kept with an email sign-in code, on any device (13 October). Prototype | Yes — as in development |
+| App: wine-specific Wine Knowledge | Questions about the wine in the glass when its label has been photographed (14 October). Prototype | Yes — as in development |
+| App: Word Play and Wine Knowledge alongside the boxed game | The app adds them between draws when the boxed game is played with the app (15 October). Prototype | Yes — as in development |
+| Partner Mode | Working live on phones and a shared screen (tested 15 October). Prototype | Yes — as in development, to partners only (unchanged) |
+| Event Mode | Working live: visitor and organiser screens, stand QR cards, crowning (15 October). Prototype | Founder to confirm. Proposed: yes — as in development, to organisers and producers only, in materials marked draft |
+| Event Mode: prize draw for visitors who crown | Built (15 October). Prototype | **No** — not until the legal check (UK prize draw rules, CAP, Portman Group) and short terms are done |
+| Partner and Event reports for businesses | Totals recorded; the screen that shows them is not built | **No** — may only be described as planned |
+| Contact details to partners | Built in the prototype as unticked boxes, one per business | **No** — the contact rule in [guardrails](03-guardrails.md) is still `PROPOSED` and needs legal review |
+
 ## What Entre Amis is not `CONFIRMED`
 
 | Entre Amis is not… | Because… |
