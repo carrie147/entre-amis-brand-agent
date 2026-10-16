@@ -32,7 +32,7 @@ other file. If a request conflicts with them, the request loses.
   until the game is on sale, and is never presented as "on sale" or
   "available now" before then.
 - **Claim a feature that isn't claimable** in the feature status table
-  (e.g. in-app wine recognition).
+  (e.g. the Event Mode prize draw).
 - **Use internal language externally** (see
   [internal language](02-brand-voice.md#internal-language--never-external-confirmed)).
 - **Make health, legal, financial, environmental or safety claims** unless
