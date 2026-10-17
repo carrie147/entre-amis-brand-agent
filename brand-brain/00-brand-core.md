@@ -224,6 +224,23 @@ What each one is (founder, 12 October 2026).
 
 Quantities, dimensions, materials and finishes belong in the production pack.
 
+### Box contents — proposed changes `PROPOSED`
+
+Raised by the founder on 17 October 2026 for review. None of this changes the
+confirmed table above until the founder confirms it.
+
+| Change | Detail | Conflicts with |
+| --- | --- | --- |
+| App access card | A 95 mm square card with the QR code and access code; the app access is included with the game. Design in [`05`](05-applications.md#printed-pieces-in-the-game-box-proposed). | — |
+| Tasting card | "What you might notice in your wines" moves from the How to Play guide onto its own A6 card. | The How to Play row above (prompts listed as part of the guide) |
+| How to Play format | A 190 × 150 mm card, printed both sides, to fit the box (200 × 160 × 80 mm inside). | — |
+| Cork discs | Physical cork pieces, so a player takes a cork from the bowl when they win. Under discussion; quantity, material and how they relate to the corks printed on the cards still to decide. | "Corks are printed on the cards … Corks are not separate pieces" (Game facts, `CONFIRMED`) |
+| Bell | For Secret Missions, suggested by a player: if someone thinks you are doing your mission, they ring the bell and call it out. Called correctly mid-mission: the holder gets no corks and the caller gets them. Called wrongly: the caller loses. What exactly the caller loses, and whether a call can be made once the mission is revealed, still to decide. | — (new rule; How to Play and the app's mission ruling would both change) |
+
+Two rules stated by the founder on 17 October 2026, recorded here for
+confirmation: **play passes to the left (clockwise)**, and **Award cards
+carry no corks**.
+
 ### Feature status — what may be claimed `CONFIRMED`
 
 Only features marked **Claimable** may be described externally, and even then
