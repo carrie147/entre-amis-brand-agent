@@ -41,6 +41,16 @@ To define when it's ready:
 - The size at which you switch from the full logo to the small mark.
 - Approved colour versions.
 
+- `CONFIRMED` A monogram appears in the draft stationery (see below). It is
+  **not approved**: it needs the founder's approval before any use (founder,
+  18 October 2026).
+
+### Still being decided `TODO`
+
+The main logo, the stamp and any visual devices are still being decided by
+the founder (18 October 2026). Until then, use the current master logo and
+don't create new devices.
+
 ### Still needed `TODO`
 
 - Master logo artwork files (SVG / PNG) added to the repo.
@@ -160,3 +170,19 @@ Raleway or any other font.
   like lowercase letters). For scores, cork counts, prices and anything in a
   column, switch on lining figures (`font-variant-numeric: lining-nums`) so
   numbers sit level.
+
+## Stationery and in-box print `PROPOSED`
+
+Draft designs in the founder's *Entre Amis Stationery* canvas (17 October
+2026): letterhead and invoice (A4), printed and embossed business cards, and
+the in-box pieces: QR card (95 mm square), How to Play (two sides, 190 ×
+150 mm) and tasting tips (A6). All fit the 200 × 160 mm box.
+
+- `CONFIRMED` **Blush is the only highlight** on stationery and print, as in
+  the core palette. Antique gold, claret and aubergine were explored and not
+  chosen (founder, 18 October 2026).
+- `CONFIRMED` **Raleway only**, as above. No second typeface for body text
+  (founder, 18 October 2026).
+- The designs use the current logo and the unapproved monogram until the
+  logo, stamp and monogram are decided.
+- QR code, access code, company and contact details are placeholders.

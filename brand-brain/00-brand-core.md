@@ -85,14 +85,14 @@ the line for the game. The consumer line for the whole brand is `TODO` (see
 
 Source: founder, 11 October 2026.
 
-### Strategic principles `PROPOSED`
+### Strategic principles `CONFIRMED`
 
 What the founder wants nailed across everything Entre Amis does. Internal,
 not consumer copy.
 
 | Principle | Where it's already covered | Still to define |
 | --- | --- | --- |
-| **A clear point of view** | [The idea](#the-idea-confirmed), [positioning](#one-line-positioning-confirmed), [purpose](#brand-purpose-confirmed) and [what Entre Amis is not](#what-entre-amis-is-not-confirmed) | Extended below: [our point of view](#our-point-of-view-proposed) |
+| **A clear point of view** | [The idea](#the-idea-confirmed), [positioning](#one-line-positioning-confirmed), [purpose](#brand-purpose-confirmed) and [what Entre Amis is not](#what-entre-amis-is-not-confirmed) | Extended below: [our point of view](#our-point-of-view-confirmed) |
 | **Consistent visual and verbal identity** | Verbal: [brand voice](02-brand-voice.md), "Consistent everywhere" guardrail. Visual: [visual identity](04-visual-identity.md) | `TODO` Whether anything beyond the existing rules is needed |
 | **Positioning before content** | This section | Content is always run through the positioning, never post-rationalised. |
 | **A focused communication plan** | Not yet | The plan comes later. The audiences are identified first, as we go through testing. `TODO` The plan itself |
@@ -100,7 +100,7 @@ not consumer copy.
 
 Source: founder, 18 October 2026.
 
-### Our point of view `PROPOSED`
+### Our point of view `CONFIRMED`
 
 What Entre Amis stands for, and what it believes about wine and the people
 who drink it. Internal, not consumer copy.
@@ -258,6 +258,9 @@ What each one is (founder, 12 October 2026).
 - `CONFIRMED` **Corks are printed on the cards.** Each card shows what it is
   worth in corks; the cards a player wins are their score. Corks are not
   separate pieces.
+- `CONFIRMED` **Award cards don't carry corks.** Awards are given at the
+  Final Pour and don't count towards the score (founder, 18 October 2026).
+- `CONFIRMED` **Play passes to the left, clockwise** (founder, 18 October 2026).
 - `CONFIRMED` **One spinner.** The spinner decides which card family is drawn,
   including when a Secret Mission comes up, so missions arrive at random.
 
@@ -338,7 +341,7 @@ not as launched (see Current stage).
 | **Players** `CONFIRMED` | Adults (18+) who enjoy wine with friends, whatever they know about it. Hosts and Guests. Deliberately broad while we user-test. | [Brand voice](02-brand-voice.md) |
 | **Gift buyers** `CONFIRMED` | Adults (18+) buying the game for someone else — not always players themselves. | [Brand voice](02-brand-voice.md) |
 | **Partners** `CONFIRMED` | Partner Mode: single vineyards, wine brands, bars, restaurants, retailers and wine clubs. Event Mode: organisers of combined events — wine festivals, tasting events and regional wine bodies. See [Partner Mode and Event Mode](#partner-mode-and-event-mode-confirmed). | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
-| **Player personas** `TODO` | To be identified through testing. No more than four. Working ideas from the founder (18 October 2026, not yet defined): New to wine, Wine experts, Here for the game. Never use them in output until confirmed. | — |
+| **Player personas** `CONFIRMED` | To be identified through testing. No more than four. `TODO` The personas themselves: working ideas from the founder (18 October 2026, not yet defined) are New to wine, Wine experts and Here for the game. Never use them in output until confirmed. | — |
 | **Investors** `CONFIRMED` | Deferred. Not a current audience; revisit only if the founder decides to seek investment. Until then, no investor-specific material. | — |
 
 ## Proof points
