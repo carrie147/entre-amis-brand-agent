@@ -92,15 +92,11 @@ not consumer copy.
 
 | Principle | Where it's already covered | Still to define |
 | --- | --- | --- |
-| **A clear point of view** | [The idea](#the-idea-confirmed), [positioning](#one-line-positioning-confirmed), [purpose](#brand-purpose-confirmed) and [what Entre Amis is not](#what-entre-amis-is-not-confirmed) | `TODO` Whether these together are the point of view, or it needs its own statement |
+| **A clear point of view** | [The idea](#the-idea-confirmed), [positioning](#one-line-positioning-confirmed), [purpose](#brand-purpose-confirmed) and [what Entre Amis is not](#what-entre-amis-is-not-confirmed) | `TODO` The founder wants it extended; how is still to be defined |
 | **Consistent visual and verbal identity** | Verbal: [brand voice](02-brand-voice.md), "Consistent everywhere" guardrail. Visual: [visual identity](04-visual-identity.md) | `TODO` Whether anything beyond the existing rules is needed |
-| **Positioning before content** | Not yet | `TODO` What this means in practice (e.g. whether content work must start from the positioning) |
-| **A focused communication plan** | Not yet. Channels approved for the founder voice are still needed | `TODO` The plan itself: audiences, channels, focus |
-| **Growth through clarity** | Not yet | `TODO` What this means in practice |
-
-Order as the founder gave it: point of view and identity first, then
-positioning before content, then a focused communication plan, then growth
-through clarity.
+| **Positioning before content** | This section | Content is always run through the positioning, never post-rationalised. |
+| **A focused communication plan** | Not yet | The plan comes later. The audiences are identified first, as we go through testing. `TODO` The plan itself |
+| **Growth through clarity** | This section | Growth is the outcome, not an input. |
 
 Source: founder, 18 October 2026.
 
