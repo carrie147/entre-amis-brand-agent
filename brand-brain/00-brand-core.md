@@ -260,6 +260,7 @@ What each one is (founder, 12 October 2026).
   separate pieces.
 - `CONFIRMED` **Award cards don't carry corks.** Awards are given at the
   Final Pour and don't count towards the score (founder, 18 October 2026).
+- `CONFIRMED` **Play passes to the left, clockwise** (founder, 18 October 2026).
 - `CONFIRMED` **One spinner.** The spinner decides which card family is drawn,
   including when a Secret Mission comes up, so missions arrive at random.
 

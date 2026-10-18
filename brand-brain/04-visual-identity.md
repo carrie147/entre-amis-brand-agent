@@ -186,4 +186,3 @@ the in-box pieces: QR card (95 mm square), How to Play (two sides, 190 ×
 - The designs use the current logo and the unapproved monogram until the
   logo, stamp and monogram are decided.
 - QR code, access code, company and contact details are placeholders.
-- How to Play: which way play passes is still `TODO`.
