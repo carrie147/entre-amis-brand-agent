@@ -85,6 +85,58 @@ the line for the game. The consumer line for the whole brand is `TODO` (see
 
 Source: founder, 11 October 2026.
 
+### Strategic principles `PROPOSED`
+
+What the founder wants nailed across everything Entre Amis does. Internal,
+not consumer copy.
+
+| Principle | Where it's already covered | Still to define |
+| --- | --- | --- |
+| **A clear point of view** | [The idea](#the-idea-confirmed), [positioning](#one-line-positioning-confirmed), [purpose](#brand-purpose-confirmed) and [what Entre Amis is not](#what-entre-amis-is-not-confirmed) | Extended below: [our point of view](#our-point-of-view-proposed) |
+| **Consistent visual and verbal identity** | Verbal: [brand voice](02-brand-voice.md), "Consistent everywhere" guardrail. Visual: [visual identity](04-visual-identity.md) | `TODO` Whether anything beyond the existing rules is needed |
+| **Positioning before content** | This section | Content is always run through the positioning, never post-rationalised. |
+| **A focused communication plan** | Not yet | The plan comes later. The audiences are identified first, as we go through testing. `TODO` The plan itself |
+| **Growth through clarity** | This section | Growth is the outcome, not an input. |
+
+Source: founder, 18 October 2026.
+
+### Our point of view `PROPOSED`
+
+What Entre Amis stands for, and what it believes about wine and the people
+who drink it. Internal, not consumer copy.
+
+> Wine is for everyone. It's part of life, not just a purchase: shared meals,
+> celebrations, holidays, visits. It isn't about knowing the right answer;
+> it's about finding the right one for you, through taste and experience,
+> without first learning the language of the trade. Choosing it should be
+> uncomplicated, welcoming and free of judgement, whether you're new to wine
+> or know it well. That's why, at Entre Amis, conversation matters more than
+> knowledge, and wine is the first place we bring people together.
+
+What we believe:
+
+- **Wine is for everyone** of legal drinking age who can enjoy it: 18+ in
+  the UK (see [game facts](#game-facts-confirmed)); 21+ if Entre Amis ever
+  launches in the US.
+- **It's about finding the right one**, not the "best" one. The table
+  decides for itself (see [wine neutrality](02-brand-voice.md#guardrails--brand-voice)).
+- **No expertise required, no judgement.** Experts and newcomers belong at
+  the same table.
+- **Meaningful occasions, not more drinking.** We make the moment matter;
+  we never encourage people to drink more.
+- **Wine is the first expression** of a wider brand about connection,
+  shared experience and belonging.
+
+What we stand against:
+
+- Wine made intimidating: technical labels, jargon, and feeling you have to
+  know the right answer before you choose.
+- Judgement and snobbery, about the wine or the person choosing it.
+
+Source: founder, 18 October 2026, and her working document *Consumer &
+Partner Insight* (October 2026, internal draft). No market figures from that
+document are used here; they stay under [evidence still needed](#evidence-still-needed-todo).
+
 ### The offer — Play → Discover → Experience `CONFIRMED`
 
 | Part | What it is | Stage |
@@ -286,6 +338,7 @@ not as launched (see Current stage).
 | **Players** `CONFIRMED` | Adults (18+) who enjoy wine with friends, whatever they know about it. Hosts and Guests. Deliberately broad while we user-test. | [Brand voice](02-brand-voice.md) |
 | **Gift buyers** `CONFIRMED` | Adults (18+) buying the game for someone else — not always players themselves. | [Brand voice](02-brand-voice.md) |
 | **Partners** `CONFIRMED` | Partner Mode: single vineyards, wine brands, bars, restaurants, retailers and wine clubs. Event Mode: organisers of combined events — wine festivals, tasting events and regional wine bodies. See [Partner Mode and Event Mode](#partner-mode-and-event-mode-confirmed). | [Partner voice](02-brand-voice.md#partner-voice-confirmed) |
+| **Player personas** `TODO` | To be identified through testing. No more than four. Working ideas from the founder (18 October 2026, not yet defined): New to wine, Wine experts, Here for the game. Never use them in output until confirmed. | — |
 | **Investors** `CONFIRMED` | Deferred. Not a current audience; revisit only if the founder decides to seek investment. Until then, no investor-specific material. | — |
 
 ## Proof points
