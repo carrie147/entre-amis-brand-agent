@@ -115,8 +115,9 @@ who drink it. Internal, not consumer copy.
 
 What we believe:
 
-- **Wine is for everyone** of legal drinking age who can enjoy it. For
-  Entre Amis that means 18+ (see [game facts](#game-facts-confirmed)).
+- **Wine is for everyone** of legal drinking age who can enjoy it: 18+ in
+  the UK (see [game facts](#game-facts-confirmed)); 21+ if Entre Amis ever
+  launches in the US.
 - **It's about finding the right one**, not the "best" one. The table
   decides for itself (see [wine neutrality](02-brand-voice.md#guardrails--brand-voice)).
 - **No expertise required, no judgement.** Experts and newcomers belong at
