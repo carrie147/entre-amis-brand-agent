@@ -85,6 +85,25 @@ the line for the game. The consumer line for the whole brand is `TODO` (see
 
 Source: founder, 11 October 2026.
 
+### Strategic principles `PROPOSED`
+
+What the founder wants nailed across everything Entre Amis does. Internal,
+not consumer copy.
+
+| Principle | Where it's already covered | Still to define |
+| --- | --- | --- |
+| **A clear point of view** | [The idea](#the-idea-confirmed), [positioning](#one-line-positioning-confirmed), [purpose](#brand-purpose-confirmed) and [what Entre Amis is not](#what-entre-amis-is-not-confirmed) | `TODO` Whether these together are the point of view, or it needs its own statement |
+| **Consistent visual and verbal identity** | Verbal: [brand voice](02-brand-voice.md), "Consistent everywhere" guardrail. Visual: [visual identity](04-visual-identity.md) | `TODO` Whether anything beyond the existing rules is needed |
+| **Positioning before content** | Not yet | `TODO` What this means in practice (e.g. whether content work must start from the positioning) |
+| **A focused communication plan** | Not yet. Channels approved for the founder voice are still needed | `TODO` The plan itself: audiences, channels, focus |
+| **Growth through clarity** | Not yet | `TODO` What this means in practice |
+
+Order as the founder gave it: point of view and identity first, then
+positioning before content, then a focused communication plan, then growth
+through clarity.
+
+Source: founder, 18 October 2026.
+
 ### The offer — Play → Discover → Experience `CONFIRMED`
 
 | Part | What it is | Stage |
