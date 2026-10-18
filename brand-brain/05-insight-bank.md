@@ -4,7 +4,8 @@ Market and consumer evidence that shapes the point of view and what Entre Amis
 stands for. Each entry is checked against its original source before it goes
 in.
 
-> Everything in this file is `PROPOSED` until the founder confirms it.
+> Confirmed by the founder, 18 October 2026, with each insight's caveats.
+> New insights are added as `PROPOSED` until she confirms them.
 >
 > These are third-party findings about the market. They are **never**
 > evidence of Entre Amis results, and they are not proof points (see
@@ -13,7 +14,7 @@ in.
 
 ---
 
-## How to use an insight `PROPOSED`
+## How to use an insight `CONFIRMED`
 
 - **Cite it every time:** source, date and, where known, sample size.
 - **Quote it as the source reported it.** Don't combine, round or restate
@@ -27,7 +28,7 @@ in.
   lists intimidating" may be stated; "so Entre Amis will grow sales" may not.
   Sales, loyalty and partner return are pilot hypotheses.
 
-## Verified insights `PROPOSED`
+## Verified insights `CONFIRMED`
 
 Checked against the original source on 18 October 2026.
 
@@ -40,7 +41,7 @@ Checked against the original source on 18 October 2026.
 | 5 | France has an estimated 12 million wine tourists a year. | Atout France, wine tourism page | No year on the page (a linked article suggests 2023) and no definition of a wine tourist. |
 | 6 | Moderation is mainstream: in 2023, one in two wine drinkers in selected markets said they were moderating, rising to 67% of Gen Z. Drinkers are drinking less often but trading up. UK wine drinking per adult is about 14% below 2000. | IWSR, *What's driving wine's structural decline?*, 22 Jul 2024 | Selected markets, not UK only. 2023 data. |
 
-## New insights to consider `PROPOSED`
+## Further insights `CONFIRMED`
 
 Not in the working document. Found and checked on 18 October 2026 (12 to 15 added the same day, after the first review).
 
@@ -56,7 +57,7 @@ Not in the working document. Found and checked on 18 October 2026 (12 to 15 adde
 | 14 | 56% say tabletop games take the pressure out of socialising; 51% say games make meaningful or awkward conversations easier; 65% say they bring family and friends closer; 57% would rather spend a Saturday night playing a tabletop game at home than going out. | Asmodee with Kantar, *Tabletop Game Barometer*, 5,000 adults in the UK, US, France, Germany and Sweden (fieldwork May 2026, published 4 Jun 2026) | Commissioned by a games publisher. Five countries combined; no UK-only figures published. | Closest evidence that a game makes conversation easier, which is our idea. Never present it as evidence about Entre Amis. |
 | 15 | 51% of British adults would like to learn more about wine, and about a quarter say they know "absolutely nothing" about it. | Ginger Research for WSET, 1,500 British adults, Aug 2019 | Commissioned by a wine educator; dated (2019). | Curiosity is there alongside low confidence. Needs a current source. |
 
-## What the evidence does and doesn't show `PROPOSED`
+## What the evidence does and doesn't show `CONFIRMED`
 
 - **It supports** easier, less intimidating choice; choosing by taste and
   occasion; shared, meaningful occasions; drinking less but better; and

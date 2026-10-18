@@ -49,7 +49,7 @@ comment, a past message, an agent's own judgement), **the Brand Brain wins**.
 | [`02-brand-voice.md`](02-brand-voice.md) | How Entre Amis sounds as a brand, and its guardrails |
 | [`03-guardrails.md`](03-guardrails.md) | Hard rules for all output: claims, responsible drinking, Partner Mode data, pre-publish check |
 | [`04-visual-identity.md`](04-visual-identity.md) | Master logo and the Sous-bois palette (core and game-only colours) |
-| [`05-insight-bank.md`](05-insight-bank.md) | `PROPOSED` Checked market and consumer insights, and how to use them |
+| [`05-insight-bank.md`](05-insight-bank.md) | Checked market and consumer insights, and how to use them |
 | [`samples/`](samples/) | Real reference writing used as voice benchmarks (not content to reuse) |
 | [`CHANGELOG.md`](CHANGELOG.md) | Every approved change, dated |
 
