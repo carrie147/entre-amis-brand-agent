@@ -258,6 +258,8 @@ What each one is (founder, 12 October 2026).
 - `CONFIRMED` **Corks are printed on the cards.** Each card shows what it is
   worth in corks; the cards a player wins are their score. Corks are not
   separate pieces.
+- `CONFIRMED` **Award cards don't carry corks.** Awards are given at the
+  Final Pour and don't count towards the score (founder, 18 October 2026).
 - `CONFIRMED` **One spinner.** The spinner decides which card family is drawn,
   including when a Secret Mission comes up, so missions arrive at random.
 
