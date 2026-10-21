@@ -41,37 +41,24 @@ const OLIVE = C.text1, CREAM = C.background2, WHITE = C.background1;
 const MID = C.accent2, SAGE = C.accent3, BLUSH = C.accent4;
 const BOLD = "Raleway SemiBold";
 const W = 13.333, H = 7.5, M = 0.6, CW = W - 2 * M;
-const FOOT = FINAL ? "Entre Amis × Fizz Fest 2027" : "Entre Amis × Fizz Fest 2027 · DRAFT for founder approval";
 
 // ---------- Placeholder images (swap with Change Picture) ----------
 const shots = [];
 function shot(file, w, h, kind, text) { shots.push({ file, w, h, kind, text }); return path.join(IMG_DIR, file); }
 
-// ---------- Layouts ----------
-function footer(x) {
-  return [
-    { text: { text: FOOT, options: { x, y: 6.98, w: 6, h: 0.28, fontSize: 10, color: OLIVE, margin: 0, isTextBox: true } } },
-    { image: { path: LOGO, x: W - M - 0.95, y: 6.82, w: 0.95, h: 0.95 * LOGO_RATIO, altText: "Entre Amis logo" } },
-  ];
-}
-function titleBox(x, w, size = 36) {
-  return [
-    { placeholder: { options: { name: "kicker", type: "body", x: x + 0.45, y: 0.5, w: w - 0.45, h: 0.32, fontSize: 12, fontFace: BOLD, color: OLIVE, charSpacing: 2, valign: "middle", align: "left", margin: 0 }, text: "" } },
-    { placeholder: { options: { name: "title", type: "title", x, y: 0.95, w, h: size > 32 ? 1.05 : 1.3, fontSize: size, color: OLIVE, fontFace: THEME.headFontFace, valign: "top", align: "left", margin: 0 }, text: "" } },
-  ];
-}
-pres.defineSlideMaster({ title: "FF Cover", background: { color: CREAM }, objects: [] });
-pres.defineSlideMaster({ title: "FF Close", background: { color: OLIVE }, objects: [] });
+// ---------- Layouts (house style: decks/source/build.js) ----------
+pres.defineSlideMaster({ title: "EA Cover", background: { color: CREAM }, objects: [] });
 pres.defineSlideMaster({
-  title: "FF Content", background: { color: CREAM },
-  objects: [...titleBox(M, CW), ...footer(M)],
-  slideNumber: { x: W - M - 1.5, y: 6.98, w: 0.4, h: 0.28, fontSize: 10, color: OLIVE, fontFace: THEME.bodyFontFace },
-});
-const PL = 5.2, PX = PL + 0.6, PW = W - PX - M; // photo-left: photo width, text x, text width
-pres.defineSlideMaster({
-  title: "FF Photo Left", background: { color: CREAM },
-  objects: [...titleBox(PX, PW, 30), ...footer(PX)],
-  slideNumber: { x: W - M - 1.5, y: 6.98, w: 0.4, h: 0.28, fontSize: 10, color: OLIVE, fontFace: THEME.bodyFontFace },
+  title: "EA Content",
+  background: { color: CREAM },
+  margin: [0.5, 0.6, 0.75, 0.6],
+  objects: [
+    { text: { text: "Say what you really think.", options: { x: M, y: 6.95, w: 5, h: 0.3, fontSize: 10, color: OLIVE, margin: 0, isTextBox: true } } },
+    { image: { path: LOGO, x: W - M - 1.1, y: 6.72, w: 1.1, h: 1.1 * LOGO_RATIO, altText: "Entre Amis logo" } },
+    { placeholder: { options: { name: "title", type: "title", x: M, y: 0.45, w: 8.9, h: 0.75, fontSize: 36, color: OLIVE, fontFace: THEME.headFontFace, valign: "top", align: "left", margin: 0 }, text: "" } },
+    { placeholder: { options: { name: "subtitle", type: "body", x: M, y: 1.22, w: CW, h: 0.45, fontSize: 18, color: OLIVE, fontFace: THEME.bodyFontFace, valign: "top", align: "left", margin: 0 }, text: "" } },
+  ],
+  slideNumber: { x: W - M - 1.6, y: 6.95, w: 0.4, h: 0.3, fontSize: 10, color: OLIVE, fontFace: THEME.bodyFontFace },
 });
 
 // ---------- Helpers ----------
@@ -86,15 +73,15 @@ const gap = (n = 6) => ({ text: " ", options: { fontSize: n, breakLine: true } }
 function card(s, x, y, w, h, name, fill = WHITE) {
   s.addShape(pres.shapes.ROUNDED_RECTANGLE, { x, y, w, h, fill: { color: fill }, line: { color: fill, width: 0 }, rectRadius: 0.1, shadow: fill === WHITE ? sh() : undefined, objectName: name });
 }
-// Motif: the slide number in a blush disc, ahead of the small-caps kicker.
-function kicker(s, n, text, x) {
-  s.addText(String(n), { x, y: 0.5, w: 0.32, h: 0.32, shape: pres.shapes.OVAL, fill: { color: BLUSH }, line: { color: BLUSH, width: 0 }, fontFace: BOLD, fontSize: 11, color: OLIVE, align: "center", valign: "middle", margin: 0, isTextBox: true, objectName: "Motif: number disc" });
-  s.addText(text, { placeholder: "kicker" });
+// Marker in the top-right corner: this is Event Mode material (blush signals partners).
+function marker(s, w = 2.6, h = 0.42) {
+  s.addText("EVENT MODE", { x: W - M - w, y: 0.5, w, h, isTextBox: true, shape: pres.shapes.ROUNDED_RECTANGLE, rectRadius: h / 2, fill: { color: BLUSH }, color: OLIVE, fontFace: BOLD, fontSize: 14, charSpacing: 1.5, align: "center", valign: "middle", margin: 0, objectName: "Expression marker: EVENT MODE" });
 }
-function content(n, kick, title, master = "FF Content") {
-  const s = pres.addSlide({ masterName: master });
-  kicker(s, n, kick, master === "FF Photo Left" ? PX : M);
-  s.addText(title, { placeholder: "title" });
+function content(title, subtitle, size) {
+  const s = pres.addSlide({ masterName: "EA Content" });
+  s.addText(size ? [{ text: title, options: { fontSize: size } }] : title, { placeholder: "title" });
+  if (subtitle) s.addText(subtitle, { placeholder: "subtitle" });
+  marker(s);
   return s;
 }
 function photo(s, file, x, y, w, h, text, alt) {
@@ -123,61 +110,56 @@ function flag(s, x, y, w, h, kind, text, size = 11) {
     { text, options: { color: OLIVE } },
   ], { x, y, w, h, isTextBox: true, fontSize: size, margin: [3, 6, 3, 6], valign: "middle", fill: { color: WHITE }, line: { color: BLUSH, width: 2 }, objectName: "FLAG — delete before sharing" });
 }
-// Review flags sit top right, level with the kicker.
-function topFlag(s, w, kind, text) { flag(s, W - M - w, 0.42, w, 0.46, kind, text, 10); }
 const KEY = "Built in the prototype: working in our prototype, not yet run with many visitors.";
 
 // ---------- 1 · Make more of every discovery ----------
 {
-  const s = pres.addSlide({ masterName: "FF Cover" });
-  const px = 6.2;
-  photo(s, "01-cover.png", px, 0, W - px, H, "An atmospheric festival table: glasses of sparkling wine catching the light, people leaning in to talk", "Atmospheric photograph of a festival tasting table");
-  const lw = 2.0;
-  s.addImage({ path: LOGO, x: M, y: 0.6, w: lw, h: lw * LOGO_RATIO, altText: "Entre Amis logo" });
+  const s = pres.addSlide({ masterName: "EA Cover" });
+  const lw = 2.8, lh = lw * LOGO_RATIO;
+  s.addImage({ path: LOGO, x: (W - lw) / 2, y: 0.45, w: lw, h: lh, altText: "Entre Amis logo" });
+  s.addText("EVENT MODE", { x: (W - 3) / 2, y: 2.0, w: 3, h: 0.45, isTextBox: true, shape: pres.shapes.ROUNDED_RECTANGLE, rectRadius: 0.225, fill: { color: BLUSH }, color: OLIVE, fontFace: BOLD, fontSize: 14, charSpacing: 1.5, align: "center", valign: "middle", margin: 0, objectName: "Expression marker: EVENT MODE" });
+  txt(s, "Make more of every discovery", { x: M, y: 2.6, w: CW, h: 0.6, fontSize: 32, align: "center" });
   txt(s, [
-    { text: "ENTRE AMIS ", options: { fontFace: BOLD, charSpacing: 2 } },
-    { text: "×", options: { fontFace: BOLD, color: BLUSH, fontSize: 18 } },
-    { text: " FIZZ FEST 2027", options: { fontFace: BOLD, charSpacing: 2 } },
-  ], { x: M, y: 2.2, w: px - M - 0.4, h: 0.4, fontSize: 13, valign: "middle" });
-  txt(s, "Make more of every discovery", { x: M, y: 2.75, w: px - M - 0.5, h: 1.9, fontSize: 48, valign: "top" });
-  txt(s, "More discovery. More connection. More understanding.", { x: M, y: 4.75, w: px - M - 0.6, h: 0.8, fontSize: 20 });
-  txt(s, FINAL ? "A founding Event Partner proposal · October 2026" : "A founding Event Partner proposal · DRAFT, 21 October 2026", { x: M, y: 6.75, w: px - M - 0.4, h: 0.3, fontSize: 11 });
-  flag(s, M, 5.65, px - M - 0.5, 0.85, "CLAIM", "\"Make more of every discovery\" and \"More discovery. More connection. More understanding.\" are claims: kept as written.");
-  s.addNotes("Opening: the partnership opportunity, with one atmospheric image.\n\nFrom the v2 copy, not on the slide (kept for what you say): more engaging for visitors, more valuable for vineyards, more memorable beyond the day. These are comparative claims and need founder approval before use.\n\nNo Fizz Fest logo is used. The deck is a proposal: nothing implies Fizz Fest has agreed to anything.");
+    { text: "Entre Amis × Fizz Fest 2027", options: { breakLine: true } },
+    { text: "More discovery. More connection. More understanding.", options: { italic: true } },
+  ], { x: M, y: 3.25, w: CW, h: 0.8, fontSize: 16, align: "center" });
+  photo(s, "01-cover.png", 0, 4.3, W, H - 4.3, "An atmospheric festival table: glasses of sparkling wine catching the light, people leaning in to talk", "Atmospheric photograph of a festival tasting table");
+  flag(s, M, 4.5, 6.2, 0.6, "CLAIM", "\"Make more of every discovery\" and \"More discovery. More connection. More understanding.\" are claims: kept as written.");
+  s.addNotes("Opening: the partnership opportunity, with one atmospheric image. Cover follows the Event Mode pack: logo, Event Mode marker, line.\n\nFrom the v2 copy, not on the slide (kept for what you say): more engaging for visitors, more valuable for vineyards, more memorable beyond the day.\n\nNo Fizz Fest logo is used. The deck is a proposal: nothing implies Fizz Fest has agreed to anything.");
 }
 
 // ---------- 2 · Why we created Entre Amis ----------
 {
-  const s = content(2, "WHY WE CREATED ENTRE AMIS", "Great wines deserve to be discovered. And remembered.", "FF Photo Left");
-  photo(s, "02-why.png", 0, 0, PL, H, "Close up: a glass raised at a stand, the maker pouring and talking", "Photograph of a producer pouring at a tasting stand");
-  const cw = (PW - 0.3) / 2, y = 2.6, h = 1.65;
+  const s = content("Why we created Entre Amis", "Great wines deserve to be discovered. And remembered.");
+  const lw = 7.0, cw = (lw - 0.3) / 2, y = 1.95, h = 1.75;
   [["FOR YOUR VISITORS", "Discover, learn and remember."], ["FOR PRODUCERS", "Be noticed, and gain useful feedback."]].forEach(([hd, b], i) => {
-    const x = PX + i * (cw + 0.3);
+    const x = M + i * (cw + 0.3);
     card(s, x, y, cw, h, "Card: " + hd);
     txt(s, [label(hd), gap(8), { text: b }], { x: x + 0.3, y: y + 0.3, w: cw - 0.6, h: h - 0.5, fontSize: 20 });
   });
-  card(s, PX, 4.55, PW, 1.95, "Brand promise", OLIVE);
-  txt(s, [label("OUR PROMISE", CREAM), gap(8), { text: "Any wine. Any table. Everyone has something worth saying.", options: { fontSize: 26 } }], { x: PX + 0.4, y: 4.8, w: PW - 0.8, h: 1.55, color: CREAM });
+  card(s, M, 4.0, lw, 2.35, "Brand promise", OLIVE);
+  txt(s, [label("OUR PROMISE", CREAM), gap(8), { text: "Any wine. Any table. Everyone has something worth saying.", options: { fontSize: 26 } }], { x: M + 0.4, y: 4.3, w: lw - 0.8, h: 1.85, color: CREAM, valign: "middle" });
+  photo(s, "02-why.png", M + lw + 0.3, 1.95, CW - lw - 0.3, 4.4, "Close up: a glass raised at a stand, the maker pouring and talking", "Photograph of a producer pouring at a tasting stand");
   s.addNotes("The emotional proposition for visitors and the opportunity for producers, from the v2 copy.\n\nThe promise is confirmed supporting line 3 (Brand Brain 02), used exactly as written.");
 }
 
 // ---------- 3 · The Entre Amis world ----------
 {
-  const s = content(3, "THE ENTRE AMIS WORLD", "Connection doesn't end when tasting does.");
+  const s = content("The Entre Amis world", "Connection doesn't end when tasting does.");
   const steps = ["Inspire", "Discover", "Experience", "Belong"];
-  const runs = [];
+  const sw = 1.95, ag = 0.5;
   steps.forEach((t, i) => {
-    runs.push({ text: t, options: { fontSize: 22 } });
-    if (i < steps.length - 1) runs.push({ text: "   →   ", options: { fontSize: 18, color: MID } });
+    const x = M + i * (sw + ag);
+    s.addText(t, { x, y: 1.95, w: sw, h: 0.5, isTextBox: true, shape: pres.shapes.ROUNDED_RECTANGLE, rectRadius: 0.25, fill: { color: OLIVE }, color: CREAM, fontSize: 18, align: "center", valign: "middle", margin: 0, objectName: "Journey: " + t });
+    if (i < steps.length - 1) s.addShape(pres.shapes.RIGHT_ARROW, { x: x + sw + 0.12, y: 2.08, w: 0.31, h: 0.24, fill: { color: MID }, line: { color: MID, width: 0 } });
   });
-  txt(s, runs, { x: M, y: 1.9, w: CW, h: 0.5, valign: "middle" });
   const tiles = [
     ["THE GAME", "A table game that turns any wine into conversation, for two to eight players.", "dev", "The boxed game on a table: cards, spinner and crown, glasses beside it"],
     ["THE APP", "Hosts the game, explains wine in plain English, and keeps My wines: a record of tastings and favourites.", "dev", "A phone on the table showing a wine in My wines"],
     ["PARTNER MODE", "A hosted tasting that guests join, for a vineyard, bar, restaurant, retailer or wine club.", "dev", "A hosted tasting at a vineyard: the host presenting, guests with phones and glasses"],
     ["EVENT MODE", "Entre Amis across a whole event, for organisers, producers and visitors. We're looking for a launch partner.", "dev", "Visitors at a stand scanning a QR card with their phones"],
   ];
-  const g = 0.3, tw = (CW - 3 * g) / 4, ty = 2.6, ih = 1.55, th = 3.95;
+  const g = 0.3, tw = (CW - 3 * g) / 4, ty = 2.7, ih = 1.5, th = 3.85;
   tiles.forEach(([hd, b, st, ph], i) => {
     const x = M + i * (tw + g);
     card(s, x, ty, tw, th, "Tile: " + hd);
@@ -190,13 +172,13 @@ const KEY = "Built in the prototype: working in our prototype, not yet run with 
 
 // ---------- 4 · What if Fizz Fest lasted beyond the day? ----------
 {
-  const s = content(4, "WHAT IF FIZZ FEST LASTED BEYOND THE DAY?", "One day of discovery. A longer relationship.");
+  const s = content("What if Fizz Fest lasted beyond the day?", "One day of discovery. A longer relationship.", 28);
   const cols = [
     ["BEFORE", "Build anticipation. Visitors discover the vineyards and wines they'll meet.", "proposed", "PLANNING PROPOSED", "Hands holding a festival programme and a phone, a garden table"],
     ["DURING", "Capture discoveries and conversations, stand by stand, as visitors taste.", "built", null, "A busy hall: people talking at a stand, glasses in hand"],
     ["AFTER", "Visitors revisit their favourites in My wines, and stay connected where they've given permission.", "built", "MY WINES BUILT", "Back at home: a phone beside a glass, a saved wine on screen"],
   ];
-  const g = 0.3, cw = (CW - 2 * g) / 3, y = 2.2, ih = 1.75, ch = 4.3;
+  const g = 0.3, cw = (CW - 2 * g) / 3, y = 1.95, ih = 1.75, ch = 4.4;
   // A quiet thread through the three moments.
   s.addShape(pres.shapes.LINE, { x: M + cw / 2, y: y + ih + 0.35, w: CW - cw, h: 0, line: { color: SAGE, width: 1.5 }, objectName: "Timeline" });
   cols.forEach(([hd, b, st, stText, ph], i) => {
@@ -211,7 +193,7 @@ const KEY = "Built in the prototype: working in our prototype, not yet run with 
 
 // ---------- 5 · Simple for visitors ----------
 {
-  const s = content(5, "SIMPLE FOR VISITORS. USEFUL BEYOND THE DAY.", "Discover → Plan → Experience → Remember");
+  const s = content("Simple for visitors. Useful beyond the day.", "Discover → Plan → Experience → Remember", 28);
   const steps = [
     ["DISCOVER", "Meet the vineyards and their wines, and read each producer's story.", "built", null, "Producer page: story and wines"],
     ["PLAN", "Plan a personal visit around the stands.", "proposed", null, "Visit plan (proposed screen)"],
@@ -237,7 +219,7 @@ const KEY = "Built in the prototype: working in our prototype, not yet run with 
 
 // ---------- 6 · A clearer picture of Fizz Fest ----------
 {
-  const s = content(6, "A CLEARER PICTURE OF FIZZ FEST", "Insight beyond ticket sales.");
+  const s = content("A clearer picture of Fizz Fest", "Insight beyond ticket sales.");
   const rows = [
     ["ATTENTION", "Which wines and vineyards visitors explored.", "built"],
     ["ENJOYMENT", "Reactions, favourites and Wine of the Day crowns, in total.", "built"],
@@ -245,9 +227,9 @@ const KEY = "Built in the prototype: working in our prototype, not yet run with 
     ["RETURN ENGAGEMENT", "Who comes back to their saved day, and interest in buying.", "proposed"],
     ["YOUR AUDIENCE", "More than the ticket buyer: visitors can opt in, separately, to hear from you.", "consent"],
   ];
-  const lw = 6.0, rh = 0.84;
+  const lw = 6.0, rh = 0.82;
   rows.forEach(([hd, b, st], i) => {
-    const y = 1.85 + i * rh;
+    const y = 1.95 + i * rh;
     txt(s, [label(hd, OLIVE, 11), { text: b }], { x: M, y, w: lw - 2.45, h: rh - 0.08, fontSize: 13 });
     status(s, M + lw - 2.3, y + 0.02, st === "consent" ? "setup" : st, 2.3, { built: "BUILT IN THE PROTOTYPE", proposed: "PROPOSED", consent: "WITH SEPARATE CONSENT" }[st]);
     if (i < rows.length - 1) s.addShape(pres.shapes.LINE, { x: M, y: y + rh - 0.08, w: lw, h: 0, line: { color: SAGE, width: 0.75 }, objectName: "Row rule" });
@@ -255,7 +237,7 @@ const KEY = "Built in the prototype: working in our prototype, not yet run with 
   txt(s, "Anonymised and combined. No result is shown for fewer than five people.", { x: M, y: 6.1, w: lw, h: 0.3, fontSize: 12, fontFace: BOLD });
 
   // Illustrative organiser view: shapes only, no figures.
-  const dx = M + lw + 0.5, dw = CW - lw - 0.5, dy = 2.0, dh = 4.3;
+  const dx = M + lw + 0.5, dw = CW - lw - 0.5, dy = 1.95, dh = 4.3;
   card(s, dx, dy, dw, dh, "Illustrative organiser dashboard");
   status(s, dx + dw - 2.05, dy + 0.25, "illustrative", 1.8, "ILLUSTRATIVE ONLY");
   txt(s, [label("THE DAY AT A GLANCE", OLIVE, 11)], { x: dx + 0.35, y: dy + 0.3, w: dw - 2.6, h: 0.3 });
@@ -283,8 +265,9 @@ const KEY = "Built in the prototype: working in our prototype, not yet run with 
 
 // ---------- 7 · More value for every vineyard ----------
 {
-  const s = content(7, "MORE VALUE FOR EVERY VINEYARD", "Beyond being tasted. Being remembered.", "FF Photo Left");
-  photo(s, "07-vineyard.png", 0, 0, PL, H, "A maker among the vines, or a vineyard's stand dressed with its bottles", "Photograph of a winemaker in the vineyard");
+  const s = content("More value for every vineyard", "Beyond being tasted. Being remembered.");
+  const PX = M, PW = 8.3;
+  photo(s, "07-vineyard.png", M + PW + 0.3, 1.95, CW - PW - 0.3, 4.4, "A maker among the vines, or a vineyard's stand dressed with its bottles", "Photograph of a winemaker in the vineyard");
   const rows = [
     ["BE DISCOVERED", "Each vineyard's story and wines, on visitors' phones at its stand.", "built"],
     ["BE REMEMBERED", "Their wines saved in visitors' own My wines, to revisit after the day.", "built"],
@@ -292,12 +275,12 @@ const KEY = "Built in the prototype: working in our prototype, not yet run with 
   ];
   const rw = PW - 2.95, rh = 1.2;
   rows.forEach(([hd, b, st], i) => {
-    const y = 2.25 + i * rh;
+    const y = 1.95 + i * rh;
     txt(s, [label(hd, OLIVE, 12), { text: b }], { x: PX, y, w: rw, h: 0.75, fontSize: 14 });
     status(s, PX, y + 0.78, st);
   });
   // Illustrative producer summary.
-  const sx = PX + rw + 0.3, sw = PW - rw - 0.3, sy = 2.25, shh = 3.5;
+  const sx = PX + rw + 0.3, sw = PW - rw - 0.3, sy = 1.95, shh = 3.5;
   card(s, sx, sy, sw, shh, "Illustrative producer summary");
   txt(s, [label("PRODUCER SUMMARY", OLIVE, 10), { text: "Illustrative example", options: { fontSize: 11, italic: true } }], { x: sx + 0.25, y: sy + 0.2, w: sw - 0.5, h: 0.55 });
   ["Saved as a favourite", "Crowned Wine of the Day", "Answered your question"].forEach((t, j) => {
@@ -306,15 +289,15 @@ const KEY = "Built in the prototype: working in our prototype, not yet run with 
     s.addShape(pres.shapes.RECTANGLE, { x: sx + 0.25, y: yy + 0.3, w: (sw - 0.5) * [0.7, 0.35, 0.55][j], h: 0.12, fill: { color: j === 1 ? BLUSH : MID }, line: { color: MID, width: 0 }, objectName: "Illustrative bar" });
   });
   txt(s, "Every result shows how many people it's based on. Nothing under five.", { x: sx + 0.25, y: sy + 2.8, w: sw - 0.5, h: 0.6, fontSize: 10, italic: true });
-  txt(s, "Anonymised responses. Contact details only with a visitor's opt-in.", { x: PX, y: 5.88, w: PW, h: 0.35, fontSize: 13, fontFace: BOLD });
-  flag(s, PX, 6.27, PW - 1.25, 0.5, "CLAIM", "\"More value for every vineyard\" is a claim: kept as written.", 10);
+  txt(s, "Anonymised responses. Contact details only with a visitor's opt-in.", { x: PX, y: 5.6, w: PW, h: 0.35, fontSize: 13, fontFace: BOLD });
+  flag(s, PX, 6.05, PW, 0.45, "CLAIM", "\"More value for every vineyard\" is a claim: kept as written.", 10);
   s.addNotes("Saved wine memories, producer stories and aggregate insight, from the v2 copy.\n\nAudit, 21 October: producer pages with stories are built (stories entered by Entre Amis for now); Save my day to My wines is built; a producer report sees only its own wines and questions, never the votes, and refuses anything under five people. Built in code, not yet live-tested. Meet the Maker videos are not built, so 'videos' is left off the slide.\n\nNothing suggests personal data is shared automatically. Producer contact permission is separate, unticked by default and explicit, per the contact-details rule the founder confirmed on 21 October; the wording still needs legal review. The producer summary is illustrative.");
 }
 
 // ---------- 8 · Imagine Fizz Fest with Entre Amis ----------
 {
-  const s = content(8, "IMAGINE FIZZ FEST WITH ENTRE AMIS", "A more connected experience, live on the day.");
-  const hx = M, hy = 2.0, hw = 5.4, hh = 4.35;
+  const s = content("Imagine Fizz Fest with Entre Amis", "A more connected experience, live on the day.");
+  const hx = M, hy = 1.95, hw = 5.4, hh = 4.35;
   photo(s, "08-table.png", hx, hy, hw, hh, "The Entre Amis Table: guests seated around a long table, glasses, the game laid out, mid-conversation", "Photograph of the Entre Amis Table at an event");
   const zones = [
     ["AT VINEYARD STANDS", "QR discovery, reactions, favourites and a personal Wine of the Day.", "built"],
@@ -335,22 +318,20 @@ const KEY = "Built in the prototype: working in our prototype, not yet run with 
 
 // ---------- 9 · Be the first ----------
 {
-  const s = pres.addSlide({ masterName: "FF Close" });
-  const px = 7.6;
-  photo(s, "09-close.png", px, 0, W - px, H, "Golden hour at the festival: two glasses raised across a table, faces softly in view", "Photograph of guests raising a glass together");
-  s.addText("9", { x: M, y: 0.6, w: 0.32, h: 0.32, shape: pres.shapes.OVAL, fill: { color: BLUSH }, line: { color: BLUSH, width: 0 }, fontFace: BOLD, fontSize: 11, color: OLIVE, align: "center", valign: "middle", margin: 0, isTextBox: true, objectName: "Motif: number disc" });
-  txt(s, "BE THE FIRST", { x: M + 0.45, y: 0.6, w: 4, h: 0.32, fontFace: BOLD, fontSize: 12, color: CREAM, charSpacing: 2, valign: "middle" });
-  txt(s, "Fizz Fest: founding Entre Amis Event Partner", { x: M, y: 1.2, w: px - M - 0.6, h: 1.7, fontSize: 40, color: CREAM });
-  const lines = ["Co-shape the experience.", "Learn from your visitors.", "Create something worth remembering."];
-  txt(s, lines.map((t, i) => ({ text: t, options: { breakLine: i < lines.length - 1 } })), { x: M, y: 3.2, w: px - M - 0.6, h: 1.4, fontSize: 22, color: CREAM, paraSpaceAfter: 8 });
-  s.addText("Let's explore the first activation together.", { x: M, y: 4.95, w: 5.6, h: 0.6, isTextBox: true, shape: pres.shapes.ROUNDED_RECTANGLE, rectRadius: 0.3, fill: { color: BLUSH }, line: { color: BLUSH, width: 0 }, color: OLIVE, fontFace: BOLD, fontSize: 16, align: "center", valign: "middle", margin: 0, objectName: "Invitation" });
-  const lw = 1.5;
-  s.addShape(pres.shapes.ROUNDED_RECTANGLE, { x: M, y: 5.95, w: lw + 0.5, h: lw * LOGO_RATIO + 0.4, fill: { color: CREAM }, line: { color: CREAM, width: 0 }, rectRadius: 0.08, objectName: "Logo panel" });
-  s.addImage({ path: LOGO, x: M + 0.25, y: 6.15, w: lw, h: lw * LOGO_RATIO, altText: "Entre Amis logo" });
-  txt(s, "Caroline, founder", { x: M + lw + 0.8, y: 6.2, w: 3.0, h: 0.3, fontSize: 13, color: CREAM, fontFace: BOLD });
-  txt(s, FINAL ? "" : "DRAFT · not for sharing until approved", { x: M + lw + 0.8, y: 6.55, w: 3.6, h: 0.3, fontSize: 11, color: CREAM });
-  flag(s, M + 3.0, 0.5, px - M - 3.0 - 0.4, 0.46, "CLAIM", "\"Be the first\" is a claim: kept as written.", 10);
-  s.addNotes("Closing invitation from the v2 copy. No pricing, no financial projections, no exclusivity: 'founding partner' describes being first to shape it, not an exclusive arrangement.\n\nContact details to add once you confirm which to use. 'First' is in the Brand Brain list of claims to flag.");
+  const s = content("Be the first", "Fizz Fest: founding Entre Amis Event Partner.");
+  const lw = 7.0;
+  ["Co-shape the experience.", "Learn from your visitors.", "Create something worth remembering."].forEach((t, i) => {
+    const y = 1.95 + i * 0.95;
+    card(s, M, y, lw, 0.75, "Promise: " + t);
+    s.addText(String(i + 1), { x: M + 0.25, y: y + 0.17, w: 0.42, h: 0.42, shape: pres.shapes.OVAL, fill: { color: OLIVE }, line: { color: OLIVE, width: 0 }, color: CREAM, fontFace: BOLD, fontSize: 14, align: "center", valign: "middle", margin: 0, isTextBox: true });
+    txt(s, t, { x: M + 0.9, y, w: lw - 1.2, h: 0.75, fontSize: 20, valign: "middle" });
+  });
+  card(s, M, 4.85, lw, 0.85, "Invitation", OLIVE);
+  txt(s, "Let's explore the first activation together.", { x: M + 0.4, y: 4.85, w: lw - 0.8, h: 0.85, fontSize: 22, color: CREAM, valign: "middle" });
+  txt(s, "Caroline, founder", { x: M, y: 5.9, w: 3, h: 0.3, fontSize: 14, fontFace: BOLD });
+  flag(s, M, 6.25, lw, 0.45, "CLAIM", "\"Be the first\" is a claim: kept as written. TO ADD: contact details.", 10);
+  photo(s, "09-close.png", M + lw + 0.3, 1.95, CW - lw - 0.3, 4.4, "Golden hour at the festival: two glasses raised across a table, faces softly in view", "Photograph of guests raising a glass together");
+  s.addNotes("Closing invitation from the v2 copy. No pricing, no financial projections, no exclusivity: 'founding partner' describes being first to shape it, not an exclusive arrangement.\n\nContact details to add once you confirm which to use.");
 }
 
 (async () => {
