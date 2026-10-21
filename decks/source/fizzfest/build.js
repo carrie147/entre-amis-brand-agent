@@ -181,21 +181,20 @@ function flag(s, x, y, w, h, kind, text, size = 11) {
 {
   const s = content("What if Fizz Fest lasted beyond the day?", "One day of discovery. A longer relationship.", 28);
   const cols = [
-    ["BEFORE", "Build anticipation. Visitors discover the vineyards and wines they'll meet.", "proposed", "PLANNING PROPOSED", "Hands holding a festival programme and a phone, a garden table"],
-    ["DURING", "Capture discoveries and conversations, stand by stand, as visitors taste.", "built", null, "A busy hall: people talking at a stand, glasses in hand"],
-    ["AFTER", "Visitors revisit their favourites in My wines, and stay connected where they've given permission.", "built", "MY WINES BUILT", "Back at home: a phone beside a glass, a saved wine on screen"],
+    ["BEFORE", "Build anticipation. Visitors discover the vineyards and wines they'll meet.", "Hands holding a festival programme and a phone, a garden table"],
+    ["DURING", "Capture discoveries and conversations, stand by stand, as visitors taste.", "A busy hall: people talking at a stand, glasses in hand"],
+    ["AFTER", "Visitors revisit their favourites in My wines, and stay connected where they've given permission.", "Back at home: a phone beside a glass, a saved wine on screen"],
   ];
   const g = 0.3, cw = (CW - 2 * g) / 3, y = 1.95, ih = 1.75, ch = 4.4;
   // A quiet thread through the three moments.
   s.addShape(pres.shapes.LINE, { x: M + cw / 2, y: y + ih + 0.35, w: CW - cw, h: 0, line: { color: SAGE, width: 1.5 }, objectName: "Timeline" });
-  cols.forEach(([hd, b, st, stText, ph], i) => {
+  cols.forEach(([hd, b, ph], i) => {
     const x = M + i * (cw + g);
     photo(s, `04-beyond-${i + 1}.png`, x, y, cw, ih, ph);
     s.addShape(pres.shapes.OVAL, { x: x + cw / 2 - 0.11, y: y + ih + 0.24, w: 0.22, h: 0.22, fill: { color: i === 1 ? BLUSH : OLIVE }, line: { color: CREAM, width: 2 }, objectName: "Timeline dot: " + hd });
     txt(s, [label(hd, OLIVE, 13), gap(5), { text: b }], { x, y: y + ih + 0.6, w: cw, h: ch - ih - 0.6 - 0.4, fontSize: 16 });
-    status(s, x, y + ch - 0.3, st, null, stText);
   });
-  s.addNotes("Before / During / After, from the v2 copy.\n\nAudit, 21 October: producer and wine discovery are built in the prototype for the day itself; there is no planning or pre-event programme (not found). During is built in the prototype, not yet run live. After: Save my day to My wines is built (Event save not yet founder-tested).\n\n'Stay connected where they've given permission' uses the contact-details rule: separate, unticked consent per business, contact details only (founder confirmed, 21 October). Legal review of the wording still comes before it's used with visitors.");
+  s.addNotes("Before / During / After, from the v2 copy. Status tags are off the slide (founder, v4 review).\n\nAudit, 21 October: producer and wine discovery are built in the prototype for the day itself; there is no planning or pre-event programme (not found). During is built in the prototype, not yet run live. After: Save my day to My wines is built (Event save not yet founder-tested).\n\n'Stay connected where they've given permission' uses the contact-details rule: separate, unticked consent per business, contact details only (founder confirmed, 21 October). Legal review of the wording still comes before it's used with visitors.");
 }
 
 // ---------- 5 · Simple for visitors ----------
@@ -290,16 +289,14 @@ function flag(s, x, y, w, h, kind, text, size = 11) {
   const PX = M, PW = 8.3;
   photo(s, "07-vineyard.png", M + PW + 0.3, 1.95, CW - PW - 0.3, 4.4, "A maker among the vines, or a vineyard's stand dressed with its bottles", "Photograph of a winemaker in the vineyard");
   const rows = [
-    ["BE DISCOVERED", "Each vineyard's story and wines, on visitors' phones at its stand.", "built"],
-    ["BE REMEMBERED", "Their wines saved in visitors' own My wines, to revisit after the day.", "built"],
-    ["UNDERSTAND", "What visitors thought of their wines, anonymised and combined.", "illustrative"],
+    ["BE DISCOVERED", "Each vineyard's story and wines, on visitors' phones at its stand."],
+    ["BE REMEMBERED", "Their wines saved in visitors' own My wines, to revisit after the day."],
+    ["UNDERSTAND", "What visitors thought of their wines, anonymised and combined."],
   ];
   const rw = PW - 2.95, rh = 1.05;
-  rows.forEach(([hd, b, st], i) => {
+  rows.forEach(([hd, b], i) => {
     const y = 1.95 + i * rh;
     txt(s, [label(hd, OLIVE, 12), { text: b }], { x: PX, y, w: rw, h: 0.9, fontSize: 13 });
-    const tw = 0.4 + STATUS[st].text.length * 0.09;
-    status(s, PX + rw - tw, y - 0.04, st, tw);
   });
   // Illustrative producer summary.
   const sx = PX + rw + 0.3, sw = PW - rw - 0.3, sy = 1.95, shh = 3.35;
@@ -322,7 +319,7 @@ function flag(s, x, y, w, h, kind, text, size = 11) {
     txt(s, q, { x: qx + 0.18, y: 5.65, w: qw - 0.36, h: 0.7, fontSize: 12, italic: true, valign: "middle" });
   });
   txt(s, "Anonymised responses. Contact details only with a visitor's opt-in.", { x: PX, y: 6.48, w: PW, h: 0.3, fontSize: 12, fontFace: BOLD });
-  s.addNotes("Saved wine memories, producer stories and aggregate insight, from the v2 copy.\n\nAudit, 21 October: producer pages with stories are built (stories entered by Entre Amis for now); Save my day to My wines is built; a producer report sees only its own wines and questions, never the votes, and refuses anything under five people. Built in code, not yet live-tested. Meet the Maker videos are not built, so 'videos' is left off the slide.\n\nNothing suggests personal data is shared automatically. Producer contact permission is separate, unticked by default and explicit, per the contact-details rule the founder confirmed on 21 October; the wording still needs legal review. The producer summary and the visitor comments are illustrative: made up to show the kind of feedback a vineyard would see, never attributed to anyone (founder, v4 review). Title shortened to 'Value for every vineyard' (founder, v4 review).");
+  s.addNotes("Saved wine memories, producer stories and aggregate insight, from the v2 copy.\n\nAudit, 21 October: producer pages with stories are built (stories entered by Entre Amis for now); Save my day to My wines is built; a producer report sees only its own wines and questions, never the votes, and refuses anything under five people. Built in code, not yet live-tested. Meet the Maker videos are not built, so 'videos' is left off the slide.\n\nNothing suggests personal data is shared automatically. Producer contact permission is separate, unticked by default and explicit, per the contact-details rule the founder confirmed on 21 October; the wording still needs legal review. The producer summary and the visitor comments are illustrative: made up to show the kind of feedback a vineyard would see, never attributed to anyone (founder, v4 review). Title shortened to 'Value for every vineyard' and row status tags removed (founder, v4 review).");
 }
 
 // ---------- 8 · Imagine Fizz Fest with Entre Amis ----------
