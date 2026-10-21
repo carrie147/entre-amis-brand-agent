@@ -5,7 +5,7 @@ one PNG per entry. In PowerPoint, right-click > Change Picture swaps the real
 image in at the same size and crop.
 """
 import json, sys, os
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 FONTS = os.path.expanduser("~/.fonts")
 BOLD = os.path.join(FONTS, "raleway-latin-600-normal.ttf")
@@ -31,7 +31,22 @@ def wrap(draw, text, font, width):
     return lines
 
 
+def crop(spec, out_dir):
+    """Cover-crop a real photo to the frame's shape, around focus (fx, fy: 0-1)."""
+    im = ImageOps.exif_transpose(Image.open(spec["src"])).convert("RGB")
+    fx, fy = spec.get("focus", (0.5, 0.5))
+    target = spec["w"] / spec["h"]
+    w, h = im.size
+    if w / h > target:
+        nw = int(h * target); x = min(max(int(fx * w - nw / 2), 0), w - nw); im = im.crop((x, 0, x + nw, h))
+    else:
+        nh = int(w / target); y = min(max(int(fy * h - nh / 2), 0), h - nh); im = im.crop((0, y, w, y + nh))
+    im.save(os.path.join(out_dir, spec["file"]), quality=92)
+
+
 def make(spec, out_dir):
+    if spec.get("src"):
+        return crop(spec, out_dir)
     W, H = int(spec["w"] * DPI), int(spec["h"] * DPI)
     photo = spec["kind"] == "photo"
     top, bottom = (MID, DEEP) if photo else (CREAM, SAGE)

@@ -43,8 +43,26 @@ const BOLD = "Raleway SemiBold";
 const W = 13.333, H = 7.5, M = 0.6, CW = W - 2 * M;
 
 // ---------- Placeholder images (swap with Change Picture) ----------
+// Founder's photos (project files, entre-amis/fizz-fest/photos), by placeholder file. focus = crop centre (0-1).
+const PHOTO_DIR = "/mnt/project-files/entre-amis/fizz-fest/photos";
+const PHOTOS = {
+  "01-cover.png": ["09-fizz-fest-letters.jpeg", [0.5, 0.45]],
+  "02-why.png": ["10-glass-in-vineyard.jpeg", [0.3, 0.5]],
+  "03-world-3.png": ["04-terrace-bistrot-sign.jpeg", [0.8, 0.5]],
+  "03-world-4.png": ["02-stand-sparkling-bottles.jpeg", [0.5, 0.45]],
+  "04-beyond-1.png": ["01-vineyard-rows.jpeg", [0.5, 0.55]],
+  "04-beyond-2.png": ["12-stand-ice-bucket.jpeg", [0.5, 0.82]],
+  "04-beyond-3.png": ["06-table-written-on-2.jpeg", [0.5, 0.9]],
+  "07-vineyard.png": ["05-vineyard-rows-post.jpeg", [0.5, 0.5]],
+  "08-table.png": ["03-table-written-on.jpeg", [0.5, 0.55]],
+  "09-close.png": ["07-terrace-orange-table.jpg", [0.5, 0.45]],
+};
 const shots = [];
-function shot(file, w, h, kind, text) { shots.push({ file, w, h, kind, text }); return path.join(IMG_DIR, file); }
+function shot(file, w, h, kind, text) {
+  const real = PHOTOS[file] && fs.existsSync(path.join(PHOTO_DIR, PHOTOS[file][0]));
+  shots.push(real ? { file: file.replace(".png", ".jpg"), w, h, src: path.join(PHOTO_DIR, PHOTOS[file][0]), focus: PHOTOS[file][1] } : { file, w, h, kind, text });
+  return path.join(IMG_DIR, real ? file.replace(".png", ".jpg") : file);
+}
 
 // ---------- Layouts (house style: decks/source/build.js) ----------
 pres.defineSlideMaster({ title: "EA Cover", background: { color: CREAM }, objects: [] });
