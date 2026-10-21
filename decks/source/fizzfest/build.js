@@ -125,7 +125,7 @@ function flag(s, x, y, w, h, kind, text, size = 11) {
 }
 // Review flags sit top right, level with the kicker.
 function topFlag(s, w, kind, text) { flag(s, W - M - w, 0.42, w, 0.46, kind, text, 10); }
-const KEY = "Built in the prototype: working in our prototype and its tests, not yet run with visitors at a live event.";
+const KEY = "Built in the prototype: working in our prototype, not yet run with many visitors.";
 
 // ---------- 1 · Make more of every discovery ----------
 {
@@ -142,7 +142,7 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
   txt(s, "Make more of every discovery", { x: M, y: 2.75, w: px - M - 0.5, h: 1.9, fontSize: 48, valign: "top" });
   txt(s, "More discovery. More connection. More understanding.", { x: M, y: 4.75, w: px - M - 0.6, h: 0.8, fontSize: 20 });
   txt(s, FINAL ? "A founding Event Partner proposal · October 2026" : "A founding Event Partner proposal · DRAFT, 21 October 2026", { x: M, y: 6.75, w: px - M - 0.4, h: 0.3, fontSize: 11 });
-  flag(s, M, 5.65, px - M - 0.5, 0.85, "CLAIM", "needs founder approval: \"Make more of every discovery\" and \"More discovery. More connection. More understanding.\"");
+  flag(s, M, 5.65, px - M - 0.5, 0.85, "CLAIM", "\"Make more of every discovery\" and \"More discovery. More connection. More understanding.\" are claims: kept as written.");
   s.addNotes("Opening: the partnership opportunity, with one atmospheric image.\n\nFrom the v2 copy, not on the slide (kept for what you say): more engaging for visitors, more valuable for vineyards, more memorable beyond the day. These are comparative claims and need founder approval before use.\n\nNo Fizz Fest logo is used. The deck is a proposal: nothing implies Fizz Fest has agreed to anything.");
 }
 
@@ -174,8 +174,8 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
   const tiles = [
     ["THE GAME", "A table game that turns any wine into conversation, for two to eight players.", "dev", "The boxed game on a table: cards, spinner and crown, glasses beside it"],
     ["THE APP", "Hosts the game, explains wine in plain English, and keeps My wines: a record of tastings and favourites.", "dev", "A phone on the table showing a wine in My wines"],
-    ["EVENT MODE", "Entre Amis across a whole event: for organisers, every producer and every visitor.", "dev", "Visitors at a stand scanning a QR card with their phones"],
-    ["FUTURE EXPERIENCES", "Entre Amis stays: Entre Amis lived for a few days, rather than played for an evening.", "future", "A long table outdoors in Provence, late light"],
+    ["PARTNER MODE", "A hosted tasting that guests join, for a vineyard, bar, restaurant, retailer or wine club.", "dev", "A hosted tasting at a vineyard: the host presenting, guests with phones and glasses"],
+    ["EVENT MODE", "Entre Amis across a whole event, for organisers, producers and visitors. We're looking for a launch partner.", "dev", "Visitors at a stand scanning a QR card with their phones"],
   ];
   const g = 0.3, tw = (CW - 3 * g) / 4, ty = 2.6, ih = 1.55, th = 3.95;
   tiles.forEach(([hd, b, st, ph], i) => {
@@ -185,8 +185,7 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
     txt(s, [label(hd), gap(5), { text: b }], { x: x + 0.22, y: ty + ih + 0.2, w: tw - 0.44, h: th - ih - 0.75, fontSize: 14 });
     status(s, x + 0.22, ty + th - 0.45, st);
   });
-  topFlag(s, 5.2, "TO DECIDE", "Show stays here? Future ambition only, with your approval.");
-  s.addNotes("The journey is the confirmed Inspire → Discover → Experience → Belong (Brand Brain 00; founder, 21 October). The v2 line 'Discover → Play → Remember → Experience → Belong' is replaced: Play is not shown as a step.\n\nCurrent products are tagged In development (nothing is launched). Stays may only be described as a future ambition, with founder approval (Brand Brain 00).");
+  s.addNotes("The journey is the confirmed Inspire → Discover → Experience → Belong (Brand Brain 00; founder, 21 October). The v2 line 'Discover → Play → Remember → Experience → Belong' is replaced: Play is not shown as a step.\n\nFour parts of the Entre Amis world, all in development (nothing is launched). Stays are left off (founder, 21 October). Event Mode: in development, and we're looking for a launch partner (founder, 21 October).");
 }
 
 // ---------- 4 · What if Fizz Fest lasted beyond the day? ----------
@@ -207,8 +206,7 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
     txt(s, [label(hd, OLIVE, 13), gap(5), { text: b }], { x, y: y + ih + 0.6, w: cw, h: ch - ih - 0.6 - 0.4, fontSize: 16 });
     status(s, x, y + ch - 0.3, st, null, stText);
   });
-  topFlag(s, 5.0, "TO DECIDE", "\"Stay connected where they've given permission\": contact rule PROPOSED.");
-  s.addNotes("Before / During / After, from the v2 copy.\n\nAudit, 21 October: producer and wine discovery are built in the prototype for the day itself; there is no planning or pre-event programme (not found). During is built in the prototype, not yet run live. After: Save my day to My wines is built (Event save not yet founder-tested).\n\n'Stay connected where they've given permission' depends on the contact-details rule, which is PROPOSED in the Brand Brain and needs UK GDPR review. Until confirmed, no material may offer partners contact details.");
+  s.addNotes("Before / During / After, from the v2 copy.\n\nAudit, 21 October: producer and wine discovery are built in the prototype for the day itself; there is no planning or pre-event programme (not found). During is built in the prototype, not yet run live. After: Save my day to My wines is built (Event save not yet founder-tested).\n\n'Stay connected where they've given permission' uses the contact-details rule: separate, unticked consent per business, contact details only (founder confirmed, 21 October). Legal review of the wording still comes before it's used with visitors.");
 }
 
 // ---------- 5 · Simple for visitors ----------
@@ -232,9 +230,9 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
     txt(s, [label(hd, OLIVE, 12), gap(4), { text: b }], { x: x + 0.25, y: fy + phH + 0.2, w: cw - 0.5, h: ch - phH - 1.0, fontSize: 14 });
     status(s, x + 0.25, y + ch - 0.45, st, null, stText, cw - 0.5);
   });
-  txt(s, KEY, { x: M, y: 6.5, w: 9, h: 0.3, fontSize: 10, italic: true });
-  topFlag(s, 5.2, "HELD BACK", "\"Crown your Wine of the Day. Be in with a chance to win.\" Prize draw not claimable until the legal check.");
-  s.addNotes("Visitor flow from the v2 copy. Audit, 21 October: producer discovery with stories, wine discovery, QR stand links, reactions, favourites, one question per wine with the room's answers, Wine of the Day crown and Save my day to My wines are all built, not yet run live. Not found: Meet the Maker videos, event programme, visit planning, shopping list. So Plan is tagged Proposed, and videos are not shown.\n\nThe prize line is held back: the Event Mode prize draw is not claimable until the legal check (UK prize draw rules, CAP, Portman Group) and short terms are done (Brand Brain 00 and 03). The audit also flags a two-phones fairness decision.\n\nThe 45–60 second captioned walkthrough (storyboard to follow) would sit on this slide once filmed.");
+  s.addText("Crown your Wine of the Day. Be in with a chance to win.", { x: M, y: 6.45, w: 5.6, h: 0.42, isTextBox: true, shape: pres.shapes.ROUNDED_RECTANGLE, rectRadius: 0.21, fill: { color: BLUSH }, line: { color: BLUSH, width: 0 }, color: OLIVE, fontFace: BOLD, fontSize: 13, align: "center", valign: "middle", margin: 0, objectName: "Visitor incentive" });
+  txt(s, [{ text: "We'll work with each partner to make sure any prize draw is legal and appropriate.", options: { breakLine: true } }, { text: KEY }], { x: M + 5.85, y: 6.42, w: 5.0, h: 0.5, fontSize: 10, italic: true, valign: "middle", paraSpaceAfter: 0 });
+  s.addNotes("Visitor flow from the v2 copy. Audit, 21 October: producer discovery with stories, wine discovery, QR stand links, reactions, favourites, one question per wine with the room's answers, Wine of the Day crown and Save my day to My wines are all built, not yet run live. Not found: Meet the Maker videos, event programme, visit planning, shopping list. So Plan is tagged Proposed, and videos are not shown.\n\nPrize line kept, with the note that we'll work with each partner to make sure it's legal and appropriate (founder, 21 October). Audit: the draw is built (organiser taps Draw) and needs the legal check (UK prize draw rules, 18+, alcohol promotion) and terms; it also flags a two-phones fairness decision.\n\nThe 45–60 second captioned walkthrough (storyboard to follow) would sit on this slide once filmed.");
 }
 
 // ---------- 6 · A clearer picture of Fizz Fest ----------
@@ -244,16 +242,17 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
     ["ATTENTION", "Which wines and vineyards visitors explored.", "built"],
     ["ENJOYMENT", "Reactions, favourites and Wine of the Day crowns, in total.", "built"],
     ["TASTING RESPONSES", "How the room answered each wine's question.", "built"],
-    ["RETURN ENGAGEMENT", "Who comes back to their saved day, and interest in buying where it's added.", "proposed"],
+    ["RETURN ENGAGEMENT", "Who comes back to their saved day, and interest in buying.", "proposed"],
+    ["YOUR AUDIENCE", "More than the ticket buyer: visitors can opt in, separately, to hear from you.", "consent"],
   ];
-  const lw = 5.6, rh = 0.98;
+  const lw = 6.0, rh = 0.84;
   rows.forEach(([hd, b, st], i) => {
-    const y = 1.95 + i * rh;
-    txt(s, [label(hd, OLIVE, 11), { text: b }], { x: M, y, w: lw - 2.45, h: rh - 0.1, fontSize: 14 });
-    status(s, M + lw - 2.3, y + 0.02, st, 2.3, st === "built" ? "BUILT IN THE PROTOTYPE" : "PROPOSED");
+    const y = 1.85 + i * rh;
+    txt(s, [label(hd, OLIVE, 11), { text: b }], { x: M, y, w: lw - 2.45, h: rh - 0.08, fontSize: 13 });
+    status(s, M + lw - 2.3, y + 0.02, st === "consent" ? "setup" : st, 2.3, { built: "BUILT IN THE PROTOTYPE", proposed: "PROPOSED", consent: "WITH SEPARATE CONSENT" }[st]);
     if (i < rows.length - 1) s.addShape(pres.shapes.LINE, { x: M, y: y + rh - 0.08, w: lw, h: 0, line: { color: SAGE, width: 0.75 }, objectName: "Row rule" });
   });
-  txt(s, "Anonymised and combined. No result is shown for fewer than five people.", { x: M, y: 5.95, w: lw, h: 0.6, fontSize: 13, fontFace: BOLD });
+  txt(s, "Anonymised and combined. No result is shown for fewer than five people.", { x: M, y: 6.1, w: lw, h: 0.3, fontSize: 12, fontFace: BOLD });
 
   // Illustrative organiser view: shapes only, no figures.
   const dx = M + lw + 0.5, dw = CW - lw - 0.5, dy = 2.0, dh = 4.3;
@@ -279,8 +278,7 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
     s.addShape(pres.shapes.ROUNDED_RECTANGLE, { x: tx, y: ty, w: tw, h: 0.9, fill: { color: CREAM }, line: { color: CREAM, width: 0 }, rectRadius: 0.08, objectName: "Tile: " + t });
     txt(s, [{ text: "—", options: { fontSize: 20, breakLine: true } }, { text: t, options: { fontSize: 11 } }], { x: tx + 0.2, y: ty + 0.1, w: tw - 0.4, h: 0.75 });
   });
-  topFlag(s, 6.6, "TO DECIDE", "Reports aren't claimable yet. HELD BACK: audience relationships by separate opt-in (contact rule PROPOSED).");
-  s.addNotes("Aggregate engagement, reactions, favourites and tasting responses, from the v2 copy.\n\nAudit, 21 October: organiser and producer reports are built in code, refuse anything under five people, and are tested on a local database and a simulated app, not yet live. Purchase interest is not built (no shopping list or purchase offers). The dashboard is illustrative, with no figures, so nothing reads as a result.\n\nBrand Brain 00 lists reports for businesses as not claimable, so this slide needs your decision. 'Separately permissioned audience relationships' is held back: the contact-details rule is PROPOSED and needs UK GDPR review (Brand Brain 03).");
+  s.addNotes("Aggregate engagement, reactions, favourites and tasting responses, from the v2 copy.\n\nAudit, 21 October: organiser and producer reports are built in code, refuse anything under five people, and are tested on a local database and a simulated app, not yet live. Purchase interest is not built (no shopping list or purchase offers). The dashboard is illustrative, with no figures, so nothing reads as a result.\n\nReports are shown as illustrative only, and not described as in development (founder, 21 October). Audience relationships use the contact-details rule the founder confirmed on 21 October: separate, unticked consent per business; opinions and tasting responses never attached to contact details. Legal review of the wording comes before use.");
 }
 
 // ---------- 7 · More value for every vineyard ----------
@@ -296,7 +294,7 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
   rows.forEach(([hd, b, st], i) => {
     const y = 2.25 + i * rh;
     txt(s, [label(hd, OLIVE, 12), { text: b }], { x: PX, y, w: rw, h: 0.75, fontSize: 14 });
-    status(s, PX, y + 0.78, st, null, st === "illustrative" ? "BUILT IN CODE · NOT YET LIVE-TESTED" : null);
+    status(s, PX, y + 0.78, st);
   });
   // Illustrative producer summary.
   const sx = PX + rw + 0.3, sw = PW - rw - 0.3, sy = 2.25, shh = 3.5;
@@ -308,9 +306,9 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
     s.addShape(pres.shapes.RECTANGLE, { x: sx + 0.25, y: yy + 0.3, w: (sw - 0.5) * [0.7, 0.35, 0.55][j], h: 0.12, fill: { color: j === 1 ? BLUSH : MID }, line: { color: MID, width: 0 }, objectName: "Illustrative bar" });
   });
   txt(s, "Every result shows how many people it's based on. Nothing under five.", { x: sx + 0.25, y: sy + 2.8, w: sw - 0.5, h: 0.6, fontSize: 10, italic: true });
-  txt(s, "Vineyards see combined, anonymised responses. Never names.", { x: PX, y: 5.88, w: PW, h: 0.35, fontSize: 13, fontFace: BOLD });
-  flag(s, PX, 6.27, PW - 1.25, 0.5, "CLAIM", "\"More value for every vineyard\" needs approval. HELD BACK: separate, unticked producer contact permission (contact rule PROPOSED).", 10);
-  s.addNotes("Saved wine memories, producer stories and aggregate insight, from the v2 copy.\n\nAudit, 21 October: producer pages with stories are built (stories entered by Entre Amis for now); Save my day to My wines is built; a producer report sees only its own wines and questions, never the votes, and refuses anything under five people. Built in code, not yet live-tested. Meet the Maker videos are not built, so 'videos' is left off the slide.\n\nNothing suggests personal data is shared automatically. The separate, unticked contact box exists in the prototype, but the contact-details rule is PROPOSED (Brand Brain 03) and needs legal review, so it is held back.");
+  txt(s, "Anonymised responses. Contact details only with a visitor's opt-in.", { x: PX, y: 5.88, w: PW, h: 0.35, fontSize: 13, fontFace: BOLD });
+  flag(s, PX, 6.27, PW - 1.25, 0.5, "CLAIM", "\"More value for every vineyard\" is a claim: kept as written.", 10);
+  s.addNotes("Saved wine memories, producer stories and aggregate insight, from the v2 copy.\n\nAudit, 21 October: producer pages with stories are built (stories entered by Entre Amis for now); Save my day to My wines is built; a producer report sees only its own wines and questions, never the votes, and refuses anything under five people. Built in code, not yet live-tested. Meet the Maker videos are not built, so 'videos' is left off the slide.\n\nNothing suggests personal data is shared automatically. Producer contact permission is separate, unticked by default and explicit, per the contact-details rule the founder confirmed on 21 October; the wording still needs legal review. The producer summary is illustrative.");
 }
 
 // ---------- 8 · Imagine Fizz Fest with Entre Amis ----------
@@ -320,9 +318,9 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
   photo(s, "08-table.png", hx, hy, hw, hh, "The Entre Amis Table: guests seated around a long table, glasses, the game laid out, mid-conversation", "Photograph of the Entre Amis Table at an event");
   const zones = [
     ["AT VINEYARD STANDS", "QR discovery, reactions, favourites and a personal Wine of the Day.", "built"],
-    ["ON THE HALL SCREEN", "Interactive questions, live votes and the room's results, moderated.", "setup"],
-    ["AT THE ENTRE AMIS TABLE", "A welcoming table for eight to ten guests: short games, conversation and a moment to relax. Never a sales stand.", "concept"],
-    ["AFTER THE EVENT", "Saved discoveries in each visitor's My wines.", "built"],
+    ["ON THE HALL SCREEN", "Votes by wine type, an overall winner of the day, and prize moments.", "setup"],
+    ["AT THE ENTRE AMIS TABLE", "A welcoming place to sit, talk and play a short game. A moment to relax, never a sales stand.", "concept"],
+    ["AFTER THE EVENT", "Saved discoveries in each visitor's My wines, and the prize draw.", "built"],
   ];
   const gx = hx + hw + 0.4, gw = (W - M - gx - 0.3) / 2, gh = 2.05;
   zones.forEach(([hd, b, st], i) => {
@@ -331,9 +329,8 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
     txt(s, [label(hd, OLIVE, 11), gap(4), { text: b }], { x: x + 0.25, y: y + 0.22, w: gw - 0.5, h: gh - 0.75, fontSize: 14 });
     status(s, x + 0.25, y + gh - 0.45, st, st === "setup" ? gw - 0.5 : null);
   });
-  txt(s, "Personal crowns aren't turned into a public league table of vineyards by default.", { x: M, y: 6.45, w: 8, h: 0.3, fontSize: 11, italic: true });
-  topFlag(s, 5.6, "TO DECIDE", "Table for eight to ten (the game is for 2–8). Prize moments held back.");
-  s.addNotes("Live on the day, from the v2 copy.\n\nAudit, 21 October: stand QR links, reactions, favourites and the crown are built, not run live. The hall screen is built (join QR, phones joined, crowns, votes, newest comments with Hide), with its laptop and TV layout not yet uploaded; moderation is partly built, and the polling and load work must be done before a festival-sized crowd. These are noted here, not on the slide.\n\nThe Entre Amis Table: the Brand Brain describes a small Entre Amis area with comfortable seats, a place to connect, never a sales space. The game is for two to eight players, and 'a signature Entre Amis table setting' is early thinking that must not be described externally. Eight to ten guests needs your decision.\n\nCrowns: the audit says crown totals are shown to visitors after the end of the day, and organiser votes (e.g. 'Best red of the day') exist. Whether either counts as a public league table of vineyards needs your decision (wine neutrality, Brand Brain 02).\n\nHeld back: 'curated prize moments' and 'eligible prize-draw follow-up' (prize draw not claimable until the legal check).");
+  txt(s, "Votes are tailored to each event. Personal crowns aren't turned into a public league table by default.", { x: M, y: 6.45, w: 10, h: 0.3, fontSize: 11, italic: true });
+  s.addNotes("Live on the day, from the v2 copy.\n\nAudit, 21 October: stand QR links, reactions, favourites and the crown are built, not run live. The hall screen is built (join QR, phones joined, crowns, votes, newest comments with Hide), with its laptop and TV layout not yet uploaded; moderation is partly built, and the polling and load work must be done before a festival-sized crowd. These are noted here, not on the slide.\n\nThe Entre Amis Table: the Brand Brain describes a small Entre Amis area with comfortable seats, a place to connect, never a sales space. Language kept loose on purpose (founder, 21 October): no guest number. 'A signature Entre Amis table setting' is early thinking and isn't described.\n\nVotes: visitors vote by wine type and for an overall winner of the day, tailored to each event (founder, 21 October). These are visitors' own votes, not Entre Amis judging wines. Personal crowns stay private by default.\n\nPrize moments and prize-draw follow-up: we'll work with each partner to make sure any prize draw is legal and appropriate.");
 }
 
 // ---------- 9 · Be the first ----------
@@ -352,7 +349,7 @@ const KEY = "Built in the prototype: working in our prototype and its tests, not
   s.addImage({ path: LOGO, x: M + 0.25, y: 6.15, w: lw, h: lw * LOGO_RATIO, altText: "Entre Amis logo" });
   txt(s, "Caroline, founder", { x: M + lw + 0.8, y: 6.2, w: 3.0, h: 0.3, fontSize: 13, color: CREAM, fontFace: BOLD });
   txt(s, FINAL ? "" : "DRAFT · not for sharing until approved", { x: M + lw + 0.8, y: 6.55, w: 3.6, h: 0.3, fontSize: 11, color: CREAM });
-  flag(s, M + 3.0, 0.5, px - M - 3.0 - 0.4, 0.46, "CLAIM", "\"Be the first\" uses \"first\": needs approval.", 10);
+  flag(s, M + 3.0, 0.5, px - M - 3.0 - 0.4, 0.46, "CLAIM", "\"Be the first\" is a claim: kept as written.", 10);
   s.addNotes("Closing invitation from the v2 copy. No pricing, no financial projections, no exclusivity: 'founding partner' describes being first to shape it, not an exclusive arrangement.\n\nContact details to add once you confirm which to use. 'First' is in the Brand Brain list of claims to flag.");
 }
 
