@@ -139,15 +139,19 @@ Source: founder decision, 11 October 2026.
 ### Third businesses and partner data `PROPOSED`
 
 Entre Amis and Clarity for Growth are separate businesses (see
-[06](06-commercial.md#entre-amis-and-clarity-are-separate-businesses-proposed)).
+[06](06-commercial.md#entre-amis-and-clarity-for-growth-proposed)).
 
 - No other business, Clarity for Growth included, receives personal data or
   the underlying data behind partner insight.
+- The optional advisory (see [06](06-commercial.md#2-an-optional-advisory-offered-by-entre-amis))
+  uses only the insight that partner receives, plus public or paid-for
+  industry research and observations. Nothing that belongs to another
+  individual partner is ever used in advice to a partner.
 - Any wider access needs a rule the founder confirms here, clear consent,
   the privacy notice and legal review first.
 - Until then, the rules above stand.
 
-Source: founder's note, 23 October 2026, reviewed in this project.
+Source: founder's note and answers, 23 October 2026, reviewed in this project.
 
 ## Escalate to the founder
 
