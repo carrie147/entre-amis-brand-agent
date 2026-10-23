@@ -52,6 +52,7 @@ a decision unless the linked section says so.
 | Partner Mode and Event Mode | Partners pay; insight is what they pay for ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)) | Pricing `TODO` |
 | Standard insight package | Part of the Partner and Event relationship | [Hypothesis](#1-a-standard-entre-amis-insight-package) |
 | Optional advisory | See [hypothesis 2](#2-an-optional-advisory-offered-by-entre-amis) | Whether it is Entre Amis revenue or a related opportunity is open |
+| Advisory panel and referrals | A cost, not revenue: commission for introductions that convert | [Proposal](#commercial-advisory-panel-and-referral-model-proposed); nothing agreed |
 
 ## Physical game: route to market `PROPOSED`
 
@@ -183,6 +184,91 @@ licence terms hold only if that route is chosen.
 
 `TODO` Which partners may see the production cost and royalty (for example,
 publishers and licensing partners only). Founder to decide.
+
+## Commercial advisory panel and referral model `PROPOSED`
+
+Founder's update, 23 October 2026. A proposed part of the Entre Amis
+commercial operating model: senior expertise and a commercially connected
+business, with fixed overheads kept low. Nothing here is agreed: no
+appointment, rate or commission. Never described externally, and nobody is
+presented as an Entre Amis adviser until the founder confirms it.
+
+### Commercial advisory panel (hypothesis)
+
+- A small, selective panel to support Entre Amis as it develops and
+  commercialises, without a large permanent team or unnecessary fixed costs.
+- Complementary expertise: buying, premium brands, retail distribution,
+  licensing, wine industry relationships and commercial partnerships.
+- Purpose: experienced challenge, opening relevant doors, and support on
+  important commercial decisions.
+- **Sarah**, an experienced Buying Director / Brand Director, is a potential
+  founding member. A proposal, not an agreed appointment.
+
+### Referral and introduction commissions (hypothesis)
+
+Sarah, and potentially other approved commercial advisers, could earn
+commission for introductions that result in successfully onboarded, paying
+Entre Amis partners or customers. The model needs to settle:
+
+| Element | To settle |
+| --- | --- |
+| Qualifying revenue streams | For example vineyard partnerships, events, commercial licensing, other B2B relationships |
+| Qualifying introduction and conversion | What counts as an introduction, and as a successful, paying, onboarded partner or customer |
+| Period | First-year revenue only, or a defined later period too |
+| Rate | Relative to contribution, gross margin and cost of delivery (cost to serve, Work Tracker PO4) |
+| Recording and approval | How introductions are recorded, attributed and approved. Written terms agreed before any commission is payable |
+
+### Three separate roles
+
+Each is agreed on its own terms. None automatically carries the same
+remuneration as another.
+
+| Role | What it is |
+| --- | --- |
+| Advisory participation | Sitting on the panel: challenge, perspective, support on decisions |
+| Paid project support | Specific, scoped pieces of work |
+| Referral commission | Payment only for qualifying introductions that convert |
+
+### Financial implications (illustrative, no figures)
+
+Commission is a cost of winning revenue, not revenue. No rate is assumed
+here; scenarios are shown as structures to fill once the founder sets
+working figures.
+
+| Scenario | What changes | What to assess |
+| --- | --- | --- |
+| Partner or Event deal introduced by an adviser | Commission comes out of that partner's revenue | Partner profitability after commission and cost to serve |
+| Licensing deal introduced by an adviser | Commission comes out of licence income (royalty and any guarantee) | Net licensing income; whether commission applies to the guarantee, royalties, or both, and for how long |
+| Direct B2B customer introduced | Commission sits alongside other ways of winning customers | Customer acquisition cost, compared with winning the same customer without an introduction |
+| No introduction | No commission | The baseline for each comparison above |
+
+### Guardrails for the panel and referrals
+
+- Nothing is promised, implied or paid without written terms the founder
+  has approved.
+- Advisers are never presented externally as part of Entre Amis, and no
+  partnership is implied, until the founder confirms it
+  ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)).
+- Advisers see partner information only as the data rules in
+  [03](03-guardrails.md#partner-mode-data-confirmed) allow.
+- A commission interest in an introduction is disclosed to the founder, and
+  advisers' own businesses (for example The Commercial Eye) stay separate.
+- The [licensing rule](#licensing-rule-confirmed) applies to any licensing
+  deal an adviser introduces.
+
+### Decisions for the founder `TODO`
+
+- Whether to set up a panel at all, its size and the expertise it needs.
+- Whether to invite Sarah, and on which of the three roles.
+- Whether Sarah is the same contact as in the licensing discussion above.
+- The qualifying revenue streams, introduction and conversion definitions,
+  commission period and rates.
+- How introductions are recorded, attributed and approved, and the written
+  terms.
+- Whether panel members get anything for advisory participation, and on
+  what basis.
+- Whether commission comes from Entre Amis or, where relevant, is shared
+  with a licensee.
 
 ## Commercial hypotheses — not for external use `PROPOSED`
 
