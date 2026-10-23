@@ -84,11 +84,11 @@ Already `CONFIRMED` elsewhere in the Brand Brain:
   agreed. (The commercial pack's licence terms say the same: physical game
   only.)
 
-> **Conflict to resolve:** the commercial pack (below) holds "15%, with an
-> upfront guarantee" as its royalty working assumption, and lists an
-> exclusive production licence as confirmed. The 23 October update treats
-> licensing itself as a hypothesis and opens at 20–25%. Until the founder
-> decides, neither is a position to use with partners.
+> **All figures are working hypotheses to resolve** (founder, 23 October
+> 2026). That includes the commercial pack's 15% royalty and £8.50 unit
+> cost, the 20–25% opening position and the May 2027 availability. None is a
+> position to use with partners until the founder resolves it. The only
+> confirmed figure is the £40 RRP in 00.
 
 ### Research needed
 
@@ -109,8 +109,9 @@ fulfilment and the rest, below) feed the same comparison.
 ### Decisions pending `TODO`
 
 - Licensing or self-manufacture (after the research above).
-- The royalty basis (retail price ex VAT, or licensee net sales) and the
-  opening position; and which of 15% or 20–25% stands.
+- Every figure: royalty (15% or 20–25%) and its basis (retail price ex VAT,
+  or licensee net sales), unit cost, guarantee, availability. All working
+  hypotheses until resolved.
 - Whether the commercial pack's licence terms stay as they are while the
   route is open.
 
@@ -134,18 +135,19 @@ never imply a partnership that isn't confirmed).
 
 Moved here from the draft commercial pack (founder, 23 October 2026). The
 "Pack status" column is the status the pack gave each term from the
-founder's answers; here every term stays `PROPOSED` until she confirms it,
-and the conflict above applies to the licence terms.
+founder's answers. Every figure is now a working hypothesis to resolve
+(founder, 23 October 2026), and licensing itself is a hypothesis, so the
+licence terms hold only if that route is chosen.
 
 #### Licensing (publishers and licensing partners)
 
 | Term | Position | Pack status |
 | --- | --- | --- |
-| Licence type | Exclusive production partner for the physical game | Confirmed |
+| Licence type | Exclusive production partner for the physical game | Confirmed in the pack; now a hypothesis while the route is open |
 | Rights covered | The physical game only. Entre Amis keeps the app, all digital rights and the brand | Confirmed |
-| Production cost per unit | £8.50 for the standard box, without the game mat | Confirmed |
+| Production cost per unit | £8.50 for the standard box, without the game mat | Working hypothesis to resolve |
 | Production specification | Set out in the separate production pack | Confirmed |
-| Royalty | 15%, with an upfront guarantee, subject to negotiation | Working assumption |
+| Royalty | 15%, with an upfront guarantee, subject to negotiation; the 23 October opening position is 20–25% (above) | Working hypothesis to resolve |
 | Further bespoke games | The partner may be invited to produce these in future | Working assumption |
 | Royalty basis and guarantee amount | — | `TODO` |
 | Territory and term | — | `TODO` |
@@ -159,7 +161,7 @@ and the conflict above applies to the licence terms.
 | Term | Position | Pack status |
 | --- | --- | --- |
 | Direct sales | Entre Amis keeps the right to sell the game directly through its website and at events | Confirmed |
-| Availability | Stock likely from May 2027, subject to production | Working assumption |
+| Availability | Stock likely from May 2027, subject to production | Working hypothesis to resolve |
 | Retailer exclusivity | Possible exclusivity against retailers of a similar size | Working assumption |
 | Trade price and margin structure (distributor and retailer) | — | `TODO` |
 | Minimum order quantity | — | `TODO` |
