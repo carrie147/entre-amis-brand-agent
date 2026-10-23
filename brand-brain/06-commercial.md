@@ -9,10 +9,11 @@ Growth. Internal, never consumer or partner copy.
 > make this file the commercial home. Its content waits for her review; until
 > a section is marked `CONFIRMED`, nothing here may be used in output.
 >
-> Sources: founder's note *Entre Amis / Clarity for Growth: Commercial
-> Strategy Update* (23 October 2026, "for Brand Brain consideration"), the
-> review of it in this project, the founder's answers the same day, and the
-> draft commercial pack (founder answers, October 2026).
+> Sources: founder's notes *Entre Amis / Clarity for Growth: Commercial
+> Strategy Update* and *Entre Amis | Commercial Strategy Update: Physical
+> game licensing and commercial relationships* (both 23 October 2026), the
+> review in this project, the founder's answers the same day, and the draft
+> commercial pack (founder answers, October 2026).
 
 ---
 
@@ -37,13 +38,106 @@ here:
   [03](03-guardrails.md#partner-mode-data-confirmed).
 - "Insight" allowed in partner materials only — [02](02-brand-voice.md#partner-materials--who-were-talking-to-confirmed).
 
-## Physical game: trade and licensing terms `PROPOSED`
+## The commercial model at a glance `PROPOSED`
+
+How each part of Entre Amis may earn, as far as it is known. Nothing here is
+a decision unless the linked section says so.
+
+| Part | How it may earn | Where it stands |
+| --- | --- | --- |
+| Physical game | A licence royalty, or Entre Amis manufacturing and selling it | Route not chosen; see [physical game](#physical-game-route-to-market-proposed) |
+| Direct sales of the game | Website and events | Right kept by Entre Amis (commercial pack) |
+| App | Kept outside any physical-game licence. Payment options still to be explored (Work Tracker) | `TODO` |
+| Partner Mode and Event Mode | Partners pay; insight is what they pay for ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)) | Pricing `TODO` |
+| Standard insight package | Part of the Partner and Event relationship | [Hypothesis](#1-a-standard-entre-amis-insight-package) |
+| Optional advisory | See [hypothesis 2](#2-an-optional-advisory-offered-by-entre-amis) | Whether it is Entre Amis revenue or a related opportunity is open |
+
+## Physical game: route to market `PROPOSED`
+
+Founder's update, 23 October 2026, after a discussion with an experienced
+buying and brand director. Separated into confirmed facts, hypotheses,
+research and decisions, as the founder asked.
+
+### Confirmed facts
+
+Already `CONFIRMED` elsewhere in the Brand Brain:
+
+- £40 is the RRP of the standard box; partners may see it, consumers only
+  once on sale — [00](00-brand-core.md#current-stage-confirmed).
+- Box contents, and the game mat as an optional extra sold separately —
+  [00](00-brand-core.md#box-contents-confirmed).
+- The game is a playable prototype; nothing is launched —
+  [00](00-brand-core.md#current-stage-confirmed).
+
+### Hypotheses
+
+- **Licensing over self-manufacture.** Licensing the physical game to an
+  established manufacturer or distributor may be preferable to Entre Amis
+  managing manufacturing, inventory, distribution and retail relationships
+  itself. A strategic hypothesis, not a decision.
+- **Opening royalty position: 20–25% of the selling price excluding VAT.**
+  At the £40 RRP, if calculated against the ex-VAT retail price (£40 at 20%
+  VAT is £33.33 ex VAT), that is about £6.67–£8.33 a game. An opening
+  hypothesis from the discussion, not an established industry benchmark.
+- **Scope of any licence:** the Entre Amis app, platform, data and wider
+  brand ecosystem stay outside any physical-game licence unless explicitly
+  agreed. (The commercial pack's licence terms say the same: physical game
+  only.)
+
+> **Conflict to resolve:** the commercial pack (below) holds "15%, with an
+> upfront guarantee" as its royalty working assumption, and lists an
+> exclusive production licence as confirmed. The 23 October update treats
+> licensing itself as a hypothesis and opens at 20–25%. Until the founder
+> decides, neither is a position to use with partners.
+
+### Research needed
+
+Identified only. Not commissioned, and no supplier or licensee is
+approached.
+
+| Area | What to find out |
+| --- | --- |
+| Premium games market | Comparable games, retail prices, positioning, market size, distribution, and the licensing arrangements behind them |
+| Production economics | Manufacturing, component sourcing, assembly, packaging, shipping, landed costs, and expected margins through the distribution chain |
+| Licensing economics | Royalty structures, minimum guarantees, volume assumptions, territories, exclusivity and responsibilities |
+| Royalty levels and basis | Typical royalty levels for table games, and the difference between retail selling price and licensee net sales as the basis |
+| Licensing vs self-manufacture | The financial and operational implications of each route, compared side by side |
+
+The open terms in the commercial pack (trade price, quantities, lead times,
+fulfilment and the rest, below) feed the same comparison.
+
+### Decisions pending `TODO`
+
+- Licensing or self-manufacture (after the research above).
+- The royalty basis (retail price ex VAT, or licensee net sales) and the
+  opening position; and which of 15% or 20–25% stands.
+- Whether the commercial pack's licence terms stay as they are while the
+  route is open.
+
+### Leads and relationships
+
+Exploratory. No commitment, agreement or arrangement exists, and none is
+implied externally (see [00](00-brand-core.md#partner-mode-and-event-mode-confirmed):
+never imply a partnership that isn't confirmed).
+
+- **Possible manufacturing introduction.** The discussion may lead to an
+  introduction to a production contact. Awaiting follow-up. No supplier
+  relationship or manufacturing capability is confirmed.
+- **Commercial expertise.** The contact has substantial buying and brand
+  leadership experience. Possibilities discussed: involving her selectively
+  in important commercial or licensing meetings; drawing on her buying,
+  product and retail expertise when assessing proposals; exploring
+  introductions and opportunities through The Commercial Eye. Exploratory
+  only.
+
+### Terms from the commercial pack
 
 Moved here from the draft commercial pack (founder, 23 October 2026). The
 "Pack status" column is the status the pack gave each term from the
-founder's answers; here every term stays `PROPOSED` until she confirms it.
+founder's answers; here every term stays `PROPOSED` until she confirms it,
+and the conflict above applies to the licence terms.
 
-### Licensing (publishers and licensing partners)
+#### Licensing (publishers and licensing partners)
 
 | Term | Position | Pack status |
 | --- | --- | --- |
@@ -60,7 +154,7 @@ founder's answers; here every term stays `PROPOSED` until she confirms it.
 | Manufacturing lead time | — | `TODO` |
 | Whether the game mat sits inside the licence, and its price | — | `TODO` |
 
-### Distribution and retail
+#### Distribution and retail
 
 | Term | Position | Pack status |
 | --- | --- | --- |
@@ -167,6 +261,9 @@ Founder to decide. Nothing here may be filled in by an agent.
   contracted and paid).
 - Whether Clarity for Growth may be named in Entre Amis partner materials
   (see [02, internal language](02-brand-voice.md#internal-language--never-external-confirmed)).
+- Whether the optional advisory is part of Entre Amis's revenue model (founder,
+  23 October, 12:17) or a related Clarity opportunity outside it (founder's
+  licensing update, same day).
 - Who is the data controller once the company is formed.
 - Pricing for Partner Mode and Event Mode, and for the advisory.
 
