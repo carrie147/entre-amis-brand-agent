@@ -52,6 +52,7 @@ a decision unless the linked section says so.
 | Partner Mode and Event Mode | Partners pay; insight is what they pay for ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)) | Pricing `TODO` |
 | Standard insight package | Part of the Partner and Event relationship | [Hypothesis](#1-a-standard-entre-amis-insight-package) |
 | Optional advisory | See [hypothesis 2](#2-an-optional-advisory-offered-by-entre-amis) | Whether it is Entre Amis revenue or a related opportunity is open |
+| Anonymised trend reports | Shared with, and possibly sold to, the wine trade | [Hypothesis 3](#3-anonymised-trend-reports-for-the-wine-trade); not offered |
 | Advisory panel and referrals | A cost, not revenue: commission for introductions that convert | [Proposal](#commercial-advisory-panel-and-referral-model-proposed); nothing agreed |
 
 ## Physical game: route to market `PROPOSED`
@@ -322,6 +323,30 @@ described to partners — not even as "coming". Same rule as
 - Pricing, packaging and demand are unvalidated. No development is
   authorised.
 
+### 3. Anonymised trend reports for the wine trade
+
+- **Decided for the privacy notice (22 October 2026, draft):** Entre Amis
+  will share, and may sell, anonymised trend reports to the wine trade. The
+  draft privacy notice says so, and the legal review (L1) is to confirm the
+  wording.
+- **What they are:** anonymised, aggregated trends across Entre Amis (for
+  example group taste profiles), never anything about an individual, with a
+  minimum group size (such as the 5-person floor in the draft notice).
+- **How it fits the data rules:** [03](03-guardrails.md#partner-mode-data-confirmed)
+  says what someone says at the table is never sold or passed on as
+  *individual* data. Anonymised, aggregated trends are outside that rule
+  only if they truly can't identify anyone; the legal review confirms the
+  method.
+- **How it fits Partner Mode:** wider trends are not promised in Partner
+  Mode, and Event Mode materials may describe them
+  ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)). Trend
+  reports are a separate product, not part of a partner's own package.
+- **No partner's own results are sold to another partner.** Trends draw on
+  many tastings and events, and no single partner, tasting or event can be
+  picked out.
+- Who buys, what they get, pricing and demand are unvalidated. Not offered,
+  not in development.
+
 ### How the two differ
 
 | | Standard insight package | Optional advisory |
@@ -385,4 +410,5 @@ Founder to decide. Nothing here may be filled in by an agent.
 | Hypothesis | With partners | Elsewhere |
 | --- | --- | --- |
 | Standard insight package | Which measures they value; whether in-house teams can act on it; whether it affects willingness to pay | Reports built and claimable; minimum group size; consent wording and privacy notice (L1) |
+| Anonymised trend reports | Who in the trade would buy them, what they need, and whether they pay | Anonymisation method and minimum group size (L1); enough tastings and events to make trends meaningful |
 | Optional advisory | Demand; price; the 2–3 hours; how many partners; comfort with the founder advising competing partners | Conflict of interest between competing partners; research licence terms; legal review |
