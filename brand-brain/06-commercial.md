@@ -69,6 +69,16 @@ Already `CONFIRMED` elsewhere in the Brand Brain:
 - The game is a playable prototype; nothing is launched —
   [00](00-brand-core.md#current-stage-confirmed).
 
+### Licensing rule `PROPOSED`
+
+> Any licensing deal is about finding the best commercial route for the
+> physical game, not surrendering control of the Entre Amis brand or assets.
+
+Source: founder, 23 October 2026. It applies to every licence discussion and
+every term below: the brand, the app, the platform, the data and the wider
+Entre Amis ecosystem stay with Entre Amis, and any exception needs the
+founder's explicit agreement.
+
 ### Hypotheses
 
 - **Licensing over self-manufacture.** Licensing the physical game to an
