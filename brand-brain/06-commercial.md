@@ -136,7 +136,9 @@ never imply a partnership that isn't confirmed).
 - **Possible manufacturing introduction.** The discussion may lead to an
   introduction to a production contact. Awaiting follow-up. No supplier
   relationship or manufacturing capability is confirmed.
-- **Commercial expertise.** The contact has substantial buying and brand
+- **Commercial expertise.** The contact (Sarah, the Buying Director / Brand
+  Director in the [advisory panel](#commercial-advisory-panel-and-referral-model-proposed)
+  proposal; founder, 23 October 2026) has substantial buying and brand
   leadership experience. Possibilities discussed: involving her selectively
   in important commercial or licensing meetings; drawing on her buying,
   product and retail expertise when assessing proposals; exploring
@@ -242,17 +244,30 @@ working figures.
 | Direct B2B customer introduced | Commission sits alongside other ways of winning customers | Customer acquisition cost, compared with winning the same customer without an introduction |
 | No introduction | No commission | The baseline for each comparison above |
 
-### Guardrails for the panel and referrals
+### Rules for advisers `CONFIRMED`
 
-- Nothing is promised, implied or paid without written terms the founder
-  has approved.
-- Advisers are never presented externally as part of Entre Amis, and no
-  partnership is implied, until the founder confirms it
-  ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)).
+Founder, 23 October 2026.
+
+- **Written terms before payment.** No commission or fee is payable until
+  written terms are agreed.
+- **An adviser is a partner to Entre Amis, not Entre Amis.** Advisers never
+  speak or act as Entre Amis, and are never presented externally as part of
+  it.
+
+### Further guardrails for the panel and referrals `PROPOSED`
+
+- Nothing is promised or implied to an adviser without written terms the
+  founder has approved.
+- No partnership with an adviser is implied externally until the founder
+  confirms it ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)).
 - Advisers see partner information only as the data rules in
   [03](03-guardrails.md#partner-mode-data-confirmed) allow.
-- A commission interest in an introduction is disclosed to the founder, and
-  advisers' own businesses (for example The Commercial Eye) stay separate.
+- **Commission and advice on the same deal.** Only when an adviser
+  introduced a deal and is also advising the founder on it, they say they
+  would earn commission if it closes. General support and advice need no
+  disclosure.
+- Advisers' own businesses (for example The Commercial Eye) stay separate
+  from Entre Amis.
 - The [licensing rule](#licensing-rule-confirmed) applies to any licensing
   deal an adviser introduces.
 
@@ -260,7 +275,6 @@ working figures.
 
 - Whether to set up a panel at all, its size and the expertise it needs.
 - Whether to invite Sarah, and on which of the three roles.
-- Whether Sarah is the same contact as in the licensing discussion above.
 - The qualifying revenue streams, introduction and conversion definitions,
   commission period and rates.
 - How introductions are recorded, attributed and approved, and the written
