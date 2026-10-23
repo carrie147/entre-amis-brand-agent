@@ -5,9 +5,10 @@ events, pricing, revenue models, distribution, licensing, physical-game
 economics, insights and reporting, and the relationship with Clarity for
 Growth. Internal, never consumer or partner copy.
 
-> **This whole file is `PROPOSED`.** The founder chose on 23 October 2026 to
-> make this file the commercial home. Its content waits for her review; until
-> a section is marked `CONFIRMED`, nothing here may be used in output.
+> **This file is `PROPOSED` except where a section is marked `CONFIRMED`.**
+> The founder chose on 23 October 2026 to make this file the commercial home.
+> Its content waits for her review; until a section is marked `CONFIRMED`,
+> nothing in it may be used in output.
 >
 > Sources: founder's notes *Entre Amis / Clarity for Growth: Commercial
 > Strategy Update* and *Entre Amis | Commercial Strategy Update: Physical
@@ -69,12 +70,12 @@ Already `CONFIRMED` elsewhere in the Brand Brain:
 - The game is a playable prototype; nothing is launched —
   [00](00-brand-core.md#current-stage-confirmed).
 
-### Licensing rule `PROPOSED`
+### Licensing rule `CONFIRMED`
 
 > Any licensing deal is about finding the best commercial route for the
 > physical game, not surrendering control of the Entre Amis brand or assets.
 
-Source: founder, 23 October 2026. It applies to every licence discussion and
+Source: founder, 23 October 2026 (confirmed the same day). It applies to every licence discussion and
 every term below: the brand, the app, the platform, the data and the wider
 Entre Amis ecosystem stay with Entre Amis, and any exception needs the
 founder's explicit agreement.
