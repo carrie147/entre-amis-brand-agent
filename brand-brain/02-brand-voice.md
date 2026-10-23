@@ -157,6 +157,10 @@ materials — see [partner materials](#partner-materials--who-were-talking-to-co
   or public copy
 - Platform or supplier names behind features (e.g. FastCork)
 
+`TODO` Whether **Clarity for Growth** (Caroline's separate business) may be
+named in Entre Amis partner materials. Until the founder decides, it isn't
+(see [06](06-commercial.md#open-questions-todo)).
+
 Brand architecture is still evolving (a Group may become an umbrella brand).
 **When it changes, this list must be updated before anything new is used.**
 
