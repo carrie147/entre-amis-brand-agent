@@ -95,6 +95,9 @@ colours are added and game card colours are not used.
 - Brand-level material (no single part of the offer) stays deep olive on
   cream, with no marker.
 - Blush stays the single accent; here its accent role is signalling partners.
+- `CONFIRMED` The app follows this from 24 October 2026 (founder): Partner tastings and Events
+  are marked in blush (rules and markers only; the words beside them stay deep olive), and
+  the rest of the app uses the core colours and Raleway only.
 - If more distinction is wanted later, new colours go to the designer and
   come back here as `PROPOSED`.
 
@@ -151,6 +154,10 @@ Contrast ratios checked against WCAG AA (4.5:1 for normal text):
 
 No other typefaces. The logo is artwork, not typed out — never recreate it in
 Raleway or any other font.
+
+`CONFIRMED` **In the app, small reading text uses Raleway Regular (400)**, because Light is
+too thin to read at phone size. Light stays for large text and display lines (founder,
+24 October 2026).
 
 ### How to use the weights `PROPOSED`
 

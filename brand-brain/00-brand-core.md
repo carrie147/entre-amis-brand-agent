@@ -302,7 +302,7 @@ not as launched (see Current stage).
 | Partner Mode | Prototype, working live (tested 15 October 2026) | Yes — as in development, to partners only |
 | Event Mode | Prototype, working live (15 October 2026) | Yes — as in development |
 | Event Mode: prize draw for visitors who crown | Built in the prototype | **No** — not until the legal check (UK prize draw rules, CAP, Portman Group) and short terms are done |
-| Partner Mode and Event Mode: reports for businesses | Totals recorded; the screen that shows them is not built | **No** |
+| Partner Mode and Event Mode: reports for businesses | `CONFIRMED` Built in the prototype (16 October 2026): totals are shown only once 5 or more people have taken part, and a producer sees only its own wines. Not yet seen by a partner | **No** |
 | Partner Mode and Event Mode: contact details to businesses | Built in the prototype as unticked boxes, one per business | **No** — the contact rule in [guardrails](03-guardrails.md) is still `PROPOSED` and needs legal review |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
