@@ -80,7 +80,7 @@ These sit alongside the core tone. The core tone wins if they ever conflict.
 - **Emoji set — the only emoji we use, everywhere:** 👍 thumbs up ·
   🤞 fingers crossed · 👎 thumbs down · ❤️ hearts · 🍷 wine glass · 😊 smiley ·
   😂 laughing · 🤔 thinking. `CONFIRMED`
-- `PROPOSED` **Reactions in the app** use four emoji from this set: ❤️ Love it ·
+- `CONFIRMED` **Reactions in the app** use four emoji from this set: ❤️ Love it ·
   👍 Like it · 🤔 Not sure · 👎 Not for me (founder, 24 October 2026). The heart is
   drawn in red; the others are softened to sit with the palette.
 - **French:** short, everyday French words where they fit naturally (e.g.
@@ -114,7 +114,7 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | **Wine of the Night / Wine of the Day** | The wine the table chooses together at the end. The app uses the right one for the time of day. In time-neutral copy (e.g. the physical game), don't assume it's evening. |
 | **Savour, Pour, Mischief, Wild** | The four main card families (physical game and app). **Savour** is about the flavours, tastes and look of the wine. **Pour** is about the events, occasions and places a wine might be enjoyed. **Mischief** changes the course of the game, with corks won or lost. **Wild** are questions that simply provoke conversation; some refer to the wine, many don't. |
 | **Word Play, Wine Knowledge** | Card families in the app only |
-| **Secret Missions** | Private cards, completed before your next turn. A family in their own right, outside the four main families. They come up when the spinner lands on Secret Mission; the table decides whether the mission was completed and the corks won. `PROPOSED` In the app, the table rules on a mission six cards after it is dealt, which keeps it clear of a change of wine (founder, 24 October 2026). |
+| **Secret Missions** | Private cards, completed before your next turn. A family in their own right, outside the four main families. They come up when the spinner lands on Secret Mission; the table decides whether the mission was completed and the corks won. `CONFIRMED` In the app, the table rules on a mission six cards after it is dealt, which keeps it clear of a change of wine (founder, 24 October 2026). |
 | **Award Cards** (Today's Award) | Given out by the table at the end. "Today's" is deliberate — it works for lunch or evening. |
 | **First Sip** | The card that starts the game |
 | **The Bin** | Where cards go when they aren't won or are lost |
