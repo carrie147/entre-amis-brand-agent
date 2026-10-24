@@ -95,6 +95,9 @@ colours are added and game card colours are not used.
 - Brand-level material (no single part of the offer) stays deep olive on
   cream, with no marker.
 - Blush stays the single accent; here its accent role is signalling partners.
+- `PROPOSED` The app follows this from 24 October 2026 (founder): Partner tastings and Events
+  are marked in blush (rules and markers only; the words beside them stay deep olive), and
+  the rest of the app uses the core colours and Raleway only.
 - If more distinction is wanted later, new colours go to the designer and
   come back here as `PROPOSED`.
 
