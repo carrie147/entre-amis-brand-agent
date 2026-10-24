@@ -325,26 +325,77 @@ consumers to subscribe or compromising the independence of Entre Amis.
   on the strength of this file, and no partnership is implied
   ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)).
 
-### Collaborations and Partner Mode
+### Partner Mode, Curated Collaborations and Artist Editions
 
-Founder, 24 October 2026:
+Founder's clarification, 24 October 2026. Three distinct propositions; none
+is to be confused with another.
 
-- **Partner Mode is only for the tastings a partner hosts.** Its content
-  reaches the guests at that tasting, not everyone on the app.
-- **A Curated Collaboration reaches all app users**, not only one tasting.
-  It is less about play than about content relating to that partner (for
-  example a producer or distributor) in the app.
-- What guests receive at a tasting is already kept for them by the app (My
-  wines).
-- So a collaboration is a way for partners **without physical tastings** to
-  reach Entre Amis players, and for partners **with physical tastings** to
-  reach beyond the people who taste with them.
-- **"Reach" means exposure to more potential drinkers** (founder). `PROPOSED`
-  It never gives a partner access to players' data or contact details; the data rules in
-  [03](03-guardrails.md#partner-mode-data-confirmed) and the contact rule
-  (still `PROPOSED`) apply as they are.
-- `TODO` Whether further partner content could be added after a tasting, for
-  the guests who took part (founder's open question, 24 October 2026).
+| | Partner Mode | Curated Collaborations | Artist Editions |
+| --- | --- | --- | --- |
+| What | Entre Amis at a partner's own hosted tasting or event | Invitation-led, Entre Amis-curated themed editions within the game (e.g. Entre Amis × Mirabeau, illustrative) | Limited-edition, artist-designed playmats: physical collaborations |
+| Reach | The people taking part in that tasting or event only. No automatic access to the wider Entre Amis audience | The wider app audience: exposure to more potential drinkers | Buyers of the physical game and mat |
+| Partner gets | The agreed engagement and insight reporting for that activity | Featuring of its content, stories and discovery in the app | — (artist terms `TODO`) |
+| Players get | Their own discoveries and memories, kept in their personal Entre Amis experience, subject to account and data permissions | Discovery of producers, wines and regions; more variety | A special edition of the physical game mat |
+| Possible revenue | Partner pays for the hosted tasting or event and its reporting (pricing `TODO`) | Separate commissioning, featuring or promotional fees; possibly consumer pack sales | Physical product sales, with their own production economics |
+| Stage | Prototype, claimable to partners as in development | Concept for exploration | **Early thinking, never described externally** ([00](00-brand-core.md#early-thinking--not-for-external-use-confirmed)) |
+
+- **Featuring content does not transfer Entre Amis's customer
+  relationships** to a collaborator. Any customer-level information or
+  marketing contact stays permission-based.
+- **Who it opens the door to:** producers with no physical tastings can take
+  part through curated digital discovery; existing tasting partners can reach
+  beyond their own visitors and build ongoing engagement with interested
+  consumers.
+- **Special Editions portfolio (naming hypothesis):** Artist Editions may sit
+  alongside Curated Collaborations under a broader "Entre Amis Special
+  Editions" portfolio, but they have different economics, production needs
+  and customer experiences.
+- **Artist Editions stay part of the physical-game proposition** and stay
+  early thinking. The founder's note doesn't change their status: they are
+  still never described externally, not even as "coming", until she
+  confirms otherwise in 00.
+
+### How they complement each other (assessment, for review)
+
+- **Each answers a different partner need.** Partner Mode: "understand the
+  people at my tasting". Collaborations: "be discovered by people who
+  haven't met us yet". Artist Editions: a physical object worth giving.
+  Because the needs differ, a partner can take more than one without paying
+  twice for the same thing.
+- **They feed each other.** People who first meet Entre Amis at a tasting
+  can go on to find other editions in the app; people who discover a
+  producer through an edition may want to visit one of its tastings. That
+  loop is the Discover and Belong stages of the
+  [brand journey](00-brand-core.md#the-brand-journey--inspire--discover--experience--belong-confirmed).
+- **The risk to manage** is that Collaborations start to feel like
+  advertising inside the game; the brand-protection principles above are the
+  guard.
+
+### Possible future connection (hypothesis, not approved functionality)
+
+- A player who discovers a producer through an edition could choose to hear
+  more, visit, book an experience, or access a partner benefit.
+- Someone who first meets Entre Amis at a tasting could later discover other
+  editions in the app.
+- **Dependencies and limits:** hearing from a partner depends on the
+  contact rule (still `PROPOSED`, legal review first,
+  [03](03-guardrails.md#partner-mode-data-confirmed)). Nothing is bookable,
+  and no price, discount or offer may appear in consumer copy until the
+  founder confirms it ([00](00-brand-core.md#current-stage-confirmed)), so a
+  "partner benefit" needs its own decision and legal check (alcohol
+  promotion rules).
+
+### Genuine technical dependencies (no new development)
+
+| Proposition | Already in place | To check, not build |
+| --- | --- | --- |
+| Partner Mode | Prototype, working live; host content; tasting kept in My wines | Reports screen (not built; already on the tracker) |
+| Curated Collaborations | Optional packs decided (FD5); optional extra card level exists | Whether the app can show partner content to all users, and add, unlock or time-limit a pack (ED3) |
+| Artist Editions | None needed in the app | Physical production, and whether they sit inside or outside a game licence (ED8) |
+| Future connection | Contact boxes exist in the prototype, unticked, not claimable | Contact rule and legal review (L1) before anything is offered |
+
+`TODO` Whether further partner content could be added after a tasting, for
+the guests who took part (founder's open question, 24 October 2026).
 
 ### Commercial models to explore (hypothesis)
 
@@ -397,8 +448,8 @@ Points that apply before any edition is written:
 | 3 | Wine neutrality | Never says one wine is better ([02](02-brand-voice.md#guardrails--brand-voice)) | Matches principle 5. Producer content describes, never ranks. |
 | 4 | "Content for partners" | Entre Amis is not content for partners: it adds connection ([00](00-brand-core.md#what-entre-amis-is-not-confirmed)) | Principle 4 covers it; a collaboration sells an experience, not ad space. |
 | 5 | Partner voice limits | Partner voice is restricted to Savour, Pour, flavours and occasions; anything else is escalated ([02](02-brand-voice.md#partner-voice-confirmed)) | Edition cards are consumer-facing brand voice, not partner voice. Partner stories, places and regions go beyond partner-voice topics, so each edition's content goes to the founder. |
-| 6 | Early thinking | "Artist editions and collaborations (artist, event, gifting)" are early thinking, never described externally ([00](00-brand-core.md#early-thinking--not-for-external-use-confirmed)) | **Resolved (founder, 24 October 2026): separate.** Curated Collaborations are within the game. The artist editions are the game mat's, and stay early thinking; they could be grouped together with the mat. |
-| 7 | Partner Mode and Event Mode | Partners already get host-specific questions, quizzes and Meet the Maker; what they pay for is insight ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)) | **Resolved (founder, 24 October 2026): the reach is different.** See [Collaborations and Partner Mode](#collaborations-and-partner-mode). |
+| 6 | Early thinking | "Artist editions and collaborations (artist, event, gifting)" are early thinking, never described externally ([00](00-brand-core.md#early-thinking--not-for-external-use-confirmed)) | **Resolved (founder, 24 October 2026): separate.** Curated Collaborations are within the game; Artist Editions are physical (the mat) and stay early thinking. See [the three propositions](#partner-mode-curated-collaborations-and-artist-editions). |
+| 7 | Partner Mode and Event Mode | Partners already get host-specific questions, quizzes and Meet the Maker; what they pay for is insight ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)) | **Resolved (founder, 24 October 2026): the reach is different.** See [Partner Mode, Curated Collaborations and Artist Editions](#partner-mode-curated-collaborations-and-artist-editions). |
 | 8 | Physical game licence | Licensing rule: the brand and assets stay with Entre Amis ([licensing rule](#licensing-rule-confirmed)) | If editions ever come as physical card packs, say whether they sit inside or outside a game licence. |
 | 9 | Consumer price | Nothing priced for consumers ([00](00-brand-core.md#current-stage-confirmed)) | £0.55 / £0.95 are internal hypotheses only. |
 | 10 | Brand journey | The journey is Inspire → Discover → Experience → Belong; Play → Discover → Experience is not shown as a process ([00](00-brand-core.md#the-brand-journey--inspire--discover--experience--belong-confirmed)) | Internal note only: editions fit the journey, mostly Discover and Belong (reasons to return). |
