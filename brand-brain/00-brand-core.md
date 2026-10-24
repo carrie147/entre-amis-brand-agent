@@ -306,6 +306,30 @@ not as launched (see Current stage).
 | Partner Mode and Event Mode: contact details to businesses | Built in the prototype as unticked boxes, one per business | **No** — the contact rule in [guardrails](03-guardrails.md) is still `PROPOSED` and needs legal review |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
+### Proposed changes from the Fizz Fest deck `PROPOSED`
+
+Founder answers on the Fizz Fest 2027 founding Event Partner deck (21 October
+2026), checked against the Event and Partner readiness audit of the same day.
+Proposed here for the founder to confirm; until then the table above stands.
+
+- **Event Mode stage:** prototype. It runs live, but hasn't yet run with many
+  players. Described as **in development, and we're looking for a launch
+  partner**. Replaces "working live (15 October 2026)" in the table above.
+- **Event Mode prize draw:** may be described in partner materials (e.g.
+  "Crown your Wine of the Day. Be in with a chance to win."), always with the
+  note that we'll work with each partner to make sure any prize draw is legal
+  and appropriate. Consumer use still waits for the legal check and terms.
+- **Reports for businesses:** may be shown in partner materials as
+  **illustrative** only, with no figures. Not described as in development.
+- **Event Mode votes:** visitors can vote by wine type and for an overall
+  winner of the day, tailored to each event. These are visitors' own votes,
+  never Entre Amis judging wines. Personal crowns are not turned into a public
+  league table of vineyards by default.
+- **Claims approved for the Fizz Fest partner deck only:** "Make more of every
+  discovery"; "More discovery. More connection. More understanding."; "More
+  value for every vineyard"; "A more connected experience, live on the day";
+  "Be the first". Partner use, as written; not general proof points.
+
 ## What Entre Amis is not `CONFIRMED`
 
 | Entre Amis is not… | Because… |
