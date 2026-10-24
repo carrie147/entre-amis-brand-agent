@@ -325,6 +325,26 @@ consumers to subscribe or compromising the independence of Entre Amis.
   on the strength of this file, and no partnership is implied
   ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)).
 
+### Collaborations and Partner Mode
+
+Founder, 24 October 2026:
+
+- **Partner Mode is only for the tastings a partner hosts.** Its content
+  reaches the guests at that tasting, not everyone on the app.
+- **A Curated Collaboration reaches all app users** who play it, not only one
+  tasting.
+- What guests receive at a tasting is already kept for them by the app (My
+  wines).
+- So a collaboration is a way for partners **without physical tastings** to
+  reach Entre Amis players, and for partners **with physical tastings** to
+  reach beyond the people who taste with them.
+- `PROPOSED` "Reach" means through the game itself. It never gives a partner
+  access to players' data or contact details; the data rules in
+  [03](03-guardrails.md#partner-mode-data-confirmed) and the contact rule
+  (still `PROPOSED`) apply as they are.
+- `TODO` Whether further partner content could be added after a tasting, for
+  the guests who took part (founder's open question, 24 October 2026).
+
 ### Commercial models to explore (hypothesis)
 
 The funding model and the consumer access model need not be the same.
@@ -367,7 +387,7 @@ create, not something a producer has bought.
 
 ### Checks against the Brand Brain
 
-Points that apply, or need the founder, before any edition is written:
+Points that apply before any edition is written:
 
 | # | Point | Brand Brain | What it means for editions |
 | --- | --- | --- | --- |
@@ -376,8 +396,8 @@ Points that apply, or need the founder, before any edition is written:
 | 3 | Wine neutrality | Never says one wine is better ([02](02-brand-voice.md#guardrails--brand-voice)) | Matches principle 5. Producer content describes, never ranks. |
 | 4 | "Content for partners" | Entre Amis is not content for partners: it adds connection ([00](00-brand-core.md#what-entre-amis-is-not-confirmed)) | Principle 4 covers it; a collaboration sells an experience, not ad space. |
 | 5 | Partner voice limits | Partner voice is restricted to Savour, Pour, flavours and occasions; anything else is escalated ([02](02-brand-voice.md#partner-voice-confirmed)) | Edition cards are consumer-facing brand voice, not partner voice. Partner stories, places and regions go beyond partner-voice topics, so each edition's content goes to the founder. |
-| 6 | Early thinking | "Artist editions and collaborations (artist, event, gifting)" are early thinking, never described externally ([00](00-brand-core.md#early-thinking--not-for-external-use-confirmed)) | **Overlap to resolve:** say whether Curated Collaborations is a separate idea or replaces that line. Until then, both stay internal. |
-| 7 | Partner Mode and Event Mode | Partners already get host-specific questions, quizzes and Meet the Maker; what they pay for is insight ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)) | **Overlap to resolve:** a Producer Collaboration used at a vineyard looks like Partner Mode content. Decide whether it is part of Partner Mode, an add-on, or separate, so partners aren't sold the same thing twice. |
+| 6 | Early thinking | "Artist editions and collaborations (artist, event, gifting)" are early thinking, never described externally ([00](00-brand-core.md#early-thinking--not-for-external-use-confirmed)) | **Resolved (founder, 24 October 2026): separate.** Curated Collaborations are within the game. The artist editions are the game mat's, and stay early thinking; they could be grouped together with the mat. |
+| 7 | Partner Mode and Event Mode | Partners already get host-specific questions, quizzes and Meet the Maker; what they pay for is insight ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)) | **Resolved (founder, 24 October 2026): the reach is different.** See [Collaborations and Partner Mode](#collaborations-and-partner-mode). |
 | 8 | Physical game licence | Licensing rule: the brand and assets stay with Entre Amis ([licensing rule](#licensing-rule-confirmed)) | If editions ever come as physical card packs, say whether they sit inside or outside a game licence. |
 | 9 | Consumer price | Nothing priced for consumers ([00](00-brand-core.md#current-stage-confirmed)) | £0.55 / £0.95 are internal hypotheses only. |
 | 10 | Brand journey | The journey is Inspire → Discover → Experience → Belong; Play → Discover → Experience is not shown as a process ([00](00-brand-core.md#the-brand-journey--inspire--discover--experience--belong-confirmed)) | Internal note only: editions fit the journey, mostly Discover and Belong (reasons to return). |
@@ -391,8 +411,8 @@ Points that apply, or need the founder, before any edition is written:
    what it makes with partners (Collaborations, governed by the principles
    above). That mirrors the existing split between the game and the app for
    players and Partner Mode and Event Mode for businesses, and keeps
-   sponsorship out of the everyday game. Two overlaps need settling first:
-   checks 6 and 7.
+   sponsorship out of the everyday game. The two overlaps (checks 6 and 7)
+   are now settled by the founder.
 2. **Umbrella name?** Recommendation: keep **Curated Collaborations** for
    partnered editions only, so "collaboration" always means a commercial
    partner is involved (principle 3, transparency). The family as a whole
@@ -455,8 +475,8 @@ a launch requirement, and each is weighed against the physical game, app
 launch, partner acquisition, events and licensing work.
 
 1. Record the two families and hypotheses (this section).
-2. Founder confirms the brand-protection principles, and settles the
-   overlaps in checks 6 and 7.
+2. Founder confirms the brand-protection principles (the overlaps in
+   checks 6 and 7 are settled).
 3. Confirm the app's themed-pack capabilities and limits, at the next
    technical review.
 4. Define a minimum viable Seasonal Mini-Edition format.
