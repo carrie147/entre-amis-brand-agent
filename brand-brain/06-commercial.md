@@ -12,7 +12,8 @@ Growth. Internal, never consumer or partner copy.
 >
 > Sources: founder's notes *Entre Amis / Clarity for Growth: Commercial
 > Strategy Update* and *Entre Amis | Commercial Strategy Update: Physical
-> game licensing and commercial relationships* (both 23 October 2026), the
+> game licensing and commercial relationships* (both 23 October 2026),
+> *Themed Editions & Curated Collaborations* (24 October 2026), the
 > review in this project, the founder's answers the same day, and the draft
 > commercial pack (founder answers, October 2026).
 
@@ -53,6 +54,8 @@ a decision unless the linked section says so.
 | Standard insight package | Part of the Partner and Event relationship | [Hypothesis](#1-a-standard-entre-amis-insight-package) |
 | Optional advisory | See [hypothesis 2](#2-an-optional-advisory-offered-by-entre-amis) | Whether it is Entre Amis revenue or a related opportunity is open |
 | Anonymised trend reports | Shared with, and possibly sold to, the wine trade | [Hypothesis 3](#3-anonymised-trend-reports-for-the-wine-trade); not offered |
+| Seasonal Mini-Editions | Small card packs: £0.55 / £0.95 hypotheses, or free | [Concept](#themed-editions-and-curated-collaborations-proposed); not approved for implementation |
+| Curated Collaborations | Partner-funded or consumer-paid themed editions | [Concept](#themed-editions-and-curated-collaborations-proposed); partners illustrative only |
 | Advisory panel and referrals | A cost, not revenue: commission for introductions that convert | [Proposal](#commercial-advisory-panel-and-referral-model-proposed); nothing agreed |
 
 ## Physical game: route to market `PROPOSED`
@@ -285,6 +288,260 @@ Founder, 23 October 2026.
 - Whether commission comes from Entre Amis or, where relevant, is shared
   with a licensee.
 
+## Themed editions and curated collaborations `PROPOSED`
+
+Founder's update, 24 October 2026. **Status: a commercial concept defined
+for exploration, not approved for implementation.** Nothing here triggers
+development without a specific approved requirement. Never described
+externally, not even as "coming".
+
+Guiding principle (founder): Entre Amis should remain a game people love
+returning to. Additional editions must enrich that experience first, with
+commercial value built around it rather than the other way around.
+
+Objective: repeat engagement and additional revenue without requiring
+consumers to subscribe or compromising the independence of Entre Amis.
+
+### What is already decided
+
+- Optional paid packs are kept, and are never part of the main game
+  (Work Tracker decision FD5, approved 13 October 2026).
+- In the app today, Word Play and Wine Knowledge are an optional extra level
+  ([00, feature status](00-brand-core.md#feature-status--what-may-be-claimed-confirmed)).
+
+### Two product families (hypothesis)
+
+| | A. Seasonal Mini-Editions | B. Curated Collaborations |
+| --- | --- | --- |
+| What | Small, affordable card packs that add personality, freshness and variety | Larger or more distinctive themed editions with carefully selected commercial partners |
+| Who creates | Entre Amis, not dependent on sponsorship | Entre Amis with the partner, Entre Amis leading |
+| Initial concepts | Christmas Edition; Holiday Edition. Avoid unnecessary proliferation | Illustrative only: Entre Amis × Mirabeau (producer-led), × Vins de Provence (regional discovery), × WineGB (English and Welsh wine) |
+| Price | Hypotheses £0.55 or £0.95 a pack, or free as goodwill. Not agreed | Depends on the model below |
+| Main benefit | Repeat use, goodwill, more game occasions, customer lifetime value, more than direct revenue | B2B and B2C revenue, partner relationships, reach |
+
+- **Naming hypothesis:** "Entre Amis × Partner".
+- The named organisations are illustrative potential partners, **not**
+  confirmed collaborations or commercial relationships. Nobody is contacted
+  on the strength of this file, and no partnership is implied
+  ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)).
+
+### Partner Mode, Curated Collaborations and Artist Editions
+
+Founder's clarification, 24 October 2026. Three distinct propositions; none
+is to be confused with another.
+
+| | Partner Mode | Curated Collaborations | Artist Editions |
+| --- | --- | --- | --- |
+| What | Entre Amis at a partner's own hosted tasting or event | Invitation-led, Entre Amis-curated themed editions within the game (e.g. Entre Amis × Mirabeau, illustrative) | Limited-edition, artist-designed playmats: physical collaborations |
+| Reach | The people taking part in that tasting or event only. No automatic access to the wider Entre Amis audience | The wider app audience: exposure to more potential drinkers | Buyers of the physical game and mat |
+| Partner gets | The agreed engagement and insight reporting for that activity | Featuring of its content, stories and discovery in the app | — (artist terms `TODO`) |
+| Players get | Their own discoveries and memories, kept in their personal Entre Amis experience, subject to account and data permissions | Discovery of producers, wines and regions; more variety | A special edition of the physical game mat |
+| Possible revenue | Partner pays for the hosted tasting or event and its reporting (pricing `TODO`) | Separate commissioning, featuring or promotional fees; possibly consumer pack sales | Physical product sales, with their own production economics |
+| Stage | Prototype, claimable to partners as in development | Concept for exploration | **Early thinking, never described externally** ([00](00-brand-core.md#early-thinking--not-for-external-use-confirmed)) |
+
+- **Featuring content does not transfer Entre Amis's customer
+  relationships** to a collaborator. Any customer-level information or
+  marketing contact stays permission-based.
+- **Who it opens the door to:** producers with no physical tastings can take
+  part through curated digital discovery; existing tasting partners can reach
+  beyond their own visitors and build ongoing engagement with interested
+  consumers.
+- **Special Editions portfolio (naming hypothesis):** Artist Editions may sit
+  alongside Curated Collaborations under a broader "Entre Amis Special
+  Editions" portfolio, but they have different economics, production needs
+  and customer experiences.
+- **Artist Editions stay part of the physical-game proposition** and stay
+  early thinking. The founder's note doesn't change their status: they are
+  still never described externally, not even as "coming", until she
+  confirms otherwise in 00.
+
+### How they complement each other (assessment, for review)
+
+- **Each answers a different partner need.** Partner Mode: "understand the
+  people at my tasting". Collaborations: "be discovered by people who
+  haven't met us yet". Artist Editions: a physical object worth giving.
+  Because the needs differ, a partner can take more than one without paying
+  twice for the same thing.
+- **They feed each other.** People who first meet Entre Amis at a tasting
+  can go on to find other editions in the app; people who discover a
+  producer through an edition may want to visit one of its tastings. That
+  loop is the Discover and Belong stages of the
+  [brand journey](00-brand-core.md#the-brand-journey--inspire--discover--experience--belong-confirmed).
+- **The risk to manage** is that Collaborations start to feel like
+  advertising inside the game; the brand-protection principles above are the
+  guard.
+
+### Possible future connection (hypothesis, not approved functionality)
+
+- A player who discovers a producer through an edition could choose to hear
+  more, visit, book an experience, or access a partner benefit.
+- Someone who first meets Entre Amis at a tasting could later discover other
+  editions in the app.
+- **Dependencies and limits:** hearing from a partner depends on the
+  contact rule (still `PROPOSED`, legal review first,
+  [03](03-guardrails.md#partner-mode-data-confirmed)). Nothing is bookable,
+  and no price, discount or offer may appear in consumer copy until the
+  founder confirms it ([00](00-brand-core.md#current-stage-confirmed)), so a
+  "partner benefit" needs its own decision and legal check (alcohol
+  promotion rules).
+
+### Genuine technical dependencies (no new development)
+
+| Proposition | Already in place | To check, not build |
+| --- | --- | --- |
+| Partner Mode | Prototype, working live; host content; tasting kept in My wines | Reports screen (not built; already on the tracker) |
+| Curated Collaborations | Optional packs decided (FD5); optional extra card level exists | Whether the app can show partner content to all users, and add, unlock or time-limit a pack (ED3) |
+| Artist Editions | None needed in the app | Physical production, and whether they sit inside or outside a game licence (ED8) |
+| Future connection | Contact boxes exist in the prototype, unticked, not claimable | Contact rule and legal review (L1) before anything is offered |
+
+`TODO` Whether further partner content could be added after a tasting, for
+the guests who took part (founder's open question, 24 October 2026).
+
+### Commercial models to explore (hypothesis)
+
+The funding model and the consumer access model need not be the same.
+
+| Proposition | Potential payer | Potential consumer access |
+| --- | --- | --- |
+| Seasonal Mini-Edition | Consumer or Entre Amis | £0.55 / £0.95, or free |
+| Entre Amis Curated Collection | Consumer | One-off purchase |
+| Invited Producer Collaboration | Producer | Free, paid or partner-unlocked |
+| Regional / Industry Collaboration | Regional organisation or industry body | Free or paid |
+| Time-Limited Featured Edition | Commercial partner | Free for a defined period, or included in an event |
+
+Examples (founder): a regional organisation commissions an edition for all
+users for three months; a producer funds one for visitors at its vineyard or
+an event; a partner-funded edition stays on sale as a paid pack after an
+agreed period, subject to rights.
+
+### Editorial independence and brand protection `PROPOSED`
+
+The founder's principles, for her to confirm. **Entre Amis retains control
+over which producers, regions and organisations are featured: invitation or
+selective approval, never open paid inclusion.** Funding supports worthwhile
+experiences; it never buys preferential treatment.
+
+1. Entre Amis retains editorial and creative control over the game
+   experience.
+2. Partners are selected for their relevance, quality, stories and fit with
+   Entre Amis's brand values.
+3. Collaborations are transparent about commercial involvement.
+4. The content stays inclusive, playful and enjoyable, never advertising or
+   a promotional brochure.
+5. A paid collaboration does not imply that the partner's wines are
+   objectively superior.
+6. Entre Amis remains the lead experience brand, with the partner
+   appropriately recognised.
+7. Content and rights are agreed before publication.
+
+The collaboration should feel like something Entre Amis has chosen to
+create, not something a producer has bought.
+
+### Checks against the Brand Brain
+
+Points that apply before any edition is written:
+
+| # | Point | Brand Brain | What it means for editions |
+| --- | --- | --- | --- |
+| 1 | Any wine, a single glass | Any wine works; a single glass is enough ([00, game facts](00-brand-core.md#game-facts-confirmed)) | Every edition, including a producer's, plays with whatever wine is on the table. Needing the partner's wine would make it a sales tool. |
+| 2 | Responsible drinking | Never a drinking game; no "another round"; no link to driving, sport or work ([03](03-guardrails.md#responsible-drinking-confirmed)) | Christmas and Holiday content needs the responsible-drinking pass (Work Tracker 10.1); festive and travel themes are where the risk sits. |
+| 3 | Wine neutrality | Never says one wine is better ([02](02-brand-voice.md#guardrails--brand-voice)) | Matches principle 5. Producer content describes, never ranks. |
+| 4 | "Content for partners" | Entre Amis is not content for partners: it adds connection ([00](00-brand-core.md#what-entre-amis-is-not-confirmed)) | Principle 4 covers it; a collaboration sells an experience, not ad space. |
+| 5 | Partner voice limits | Partner voice is restricted to Savour, Pour, flavours and occasions; anything else is escalated ([02](02-brand-voice.md#partner-voice-confirmed)) | Edition cards are consumer-facing brand voice, not partner voice. Partner stories, places and regions go beyond partner-voice topics, so each edition's content goes to the founder. |
+| 6 | Early thinking | "Artist editions and collaborations (artist, event, gifting)" are early thinking, never described externally ([00](00-brand-core.md#early-thinking--not-for-external-use-confirmed)) | **Resolved (founder, 24 October 2026): separate.** Curated Collaborations are within the game; Artist Editions are physical (the mat) and stay early thinking. See [the three propositions](#partner-mode-curated-collaborations-and-artist-editions). |
+| 7 | Partner Mode and Event Mode | Partners already get host-specific questions, quizzes and Meet the Maker; what they pay for is insight ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)) | **Resolved (founder, 24 October 2026): the reach is different.** See [Partner Mode, Curated Collaborations and Artist Editions](#partner-mode-curated-collaborations-and-artist-editions). |
+| 8 | Physical game licence | Licensing rule: the brand and assets stay with Entre Amis ([licensing rule](#licensing-rule-confirmed)) | If editions ever come as physical card packs, say whether they sit inside or outside a game licence. |
+| 9 | Consumer price | Nothing priced for consumers ([00](00-brand-core.md#current-stage-confirmed)) | £0.55 / £0.95 are internal hypotheses only. |
+| 10 | Brand journey | The journey is Inspire → Discover → Experience → Belong; Play → Discover → Experience is not shown as a process ([00](00-brand-core.md#the-brand-journey--inspire--discover--experience--belong-confirmed)) | Internal note only: editions fit the journey, mostly Discover and Belong (reasons to return). |
+| 11 | Partner contacts | Contact details to partners are still `PROPOSED` and need legal review ([03](03-guardrails.md#partner-mode-data-confirmed)) | "Longer-term relationships, subject to permissions" waits for that rule. |
+| 12 | Core app purchase | App payment options are still to explore (one-off Host unlock, free trial; Work Tracker) | "After the initial one-off app purchase" is a hypothesis too. |
+
+### Assessment of the founder's questions (for review)
+
+1. **Does the split strengthen the architecture?** Yes. It separates what
+   Entre Amis makes for players (Mini-Editions, no partner, low risk) from
+   what it makes with partners (Collaborations, governed by the principles
+   above). That mirrors the existing split between the game and the app for
+   players and Partner Mode and Event Mode for businesses, and keeps
+   sponsorship out of the everyday game. The two overlaps (checks 6 and 7)
+   are now settled by the founder.
+2. **Umbrella name?** Recommendation: keep **Curated Collaborations** for
+   partnered editions only, so "collaboration" always means a commercial
+   partner is involved (principle 3, transparency). The family as a whole
+   needs its own umbrella name, the founder's to choose; the name of the
+   whole range isn't settled anywhere in the Brand Brain yet.
+3. **Most promising first pilot?** Recommendation: a **free Seasonal
+   Mini-Edition** first. It needs no payments, no partner, no rights
+   agreement and no consent changes, and it tests the format and repeat play
+   on its own. The first commercial pilot would then be a **Time-Limited
+   Featured Edition inside an Event Mode relationship already in
+   discussion**: the partner pays, access comes through the event, and no
+   consumer payment is needed. Paid packs come last, because payments, a
+   secure paid-access record and the pricing checks aren't built yet. No pilot
+   runs with real players until the readiness level 1 gate (including the
+   company being formed) is met.
+4. **Invitation-led and premium, but welcoming?** The invitation applies to
+   partners, never to players. For players: free or low-price access; plain
+   English, no expertise needed; playable with any wine and a single glass;
+   no edition required to enjoy the core game; partner content as discovery
+   and stories, never as a sales pitch.
+5. **Genuine dependencies on the existing app?** Known: optional packs are
+   already a decision (FD5), and the app already runs an optional extra card
+   level. Not known from here: whether the app can add, unlock, time-limit or
+   restrict a pack to one event or partner. That is the technical review
+   task. Genuine dependencies for paid packs: payments, a secure
+   paid-access record and the codes check (G2), all still to build. The app
+   is a web app today; a native app is on hold, so app-store rules matter
+   only if that changes.
+6. **Financial model without overstating income?** There is no financial
+   model yet. When there is: Mini-Editions as engagement first, with direct
+   revenue at zero in the base case and pack sales only as an upside
+   scenario; free editions as a cost. Partner-funded editions as B2B
+   scenarios only once a partner has agreed terms, never as forecast income.
+   Show creation, review and maintenance costs against each scenario, and
+   keep editions outside near-term income until a pilot has run.
+
+### Questions to investigate `TODO`
+
+The founder's list, 24 October 2026, in four groups:
+
+- **Product and experience:** mini-edition versus larger collection; cards
+  or prompts per edition; permanent, temporary or both; how players discover,
+  buy, unlock and replay; what the existing app supports.
+- **Pricing and economics:** whether £0.55 and £0.95 work; payment fees and
+  platform rules; the cost to create, review and maintain an edition;
+  commissioning or sponsorship fees; partner pricing by reach, exclusivity,
+  duration and promotion; revenue sharing when several partners take part.
+- **Rights and commercial arrangements:** content ownership; brand and
+  imagery rights; what happens when a time-limited partnership ends; whether
+  Entre Amis can keep or adapt content; exclusivity, approval rights and
+  disclosure; how this interacts with any physical-game licence.
+- **Partner selection:** criteria for inviting collaborators; who approves;
+  protecting editorial independence alongside funding; what makes a
+  collaboration worthwhile for players.
+
+### Suggested validation sequence
+
+Tasks are on the Work Tracker; this is the order they make sense in. None is
+a launch requirement, and each is weighed against the physical game, app
+launch, partner acquisition, events and licensing work.
+
+1. Record the two families and hypotheses (this section).
+2. Founder confirms the brand-protection principles (the overlaps in
+   checks 6 and 7 are settled).
+3. Confirm the app's themed-pack capabilities and limits, at the next
+   technical review.
+4. Define a minimum viable Seasonal Mini-Edition format.
+5. Establish the editorial selection and approval process, before
+   approaching any collaborator.
+6. Develop indicative partner-funded edition economics, alongside cost to
+   serve (PO4).
+7. Validate pack pricing and payment economics, before any consumer price
+   is confirmed (depends on payments being explored).
+8. Define commercial rights and contract requirements, before any agreement.
+9. Explore potential partners only as part of existing partner outreach.
+10. Decide which edition, if any, to pilot first.
+
 ## Commercial hypotheses — not for external use `PROPOSED`
 
 Recorded as hypotheses only. Not offered, not in development, and never
@@ -393,6 +650,12 @@ the advisory held by Entre Amis, these rules apply:
 ## Open questions `TODO`
 
 Founder to decide. Nothing here may be filled in by an agent.
+
+- **How it all works together.** The founder plans a commercial sit-down
+  (24 October 2026) to work through how the strands fit: the physical game
+  and licensing, the app, Partner Mode and Event Mode, insight and trend
+  reports, the advisory, themed editions and collaborations, and the
+  advisory panel.
 
 - How Clarity for Growth is involved when Entre Amis holds the advisory (for
   example, whether Caroline delivers it through Clarity, and how that is
