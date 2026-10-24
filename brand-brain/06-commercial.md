@@ -331,15 +331,16 @@ Founder, 24 October 2026:
 
 - **Partner Mode is only for the tastings a partner hosts.** Its content
   reaches the guests at that tasting, not everyone on the app.
-- **A Curated Collaboration reaches all app users** who play it, not only one
-  tasting.
+- **A Curated Collaboration reaches all app users**, not only one tasting.
+  It is less about play than about content relating to that partner (for
+  example a producer or distributor) in the app.
 - What guests receive at a tasting is already kept for them by the app (My
   wines).
 - So a collaboration is a way for partners **without physical tastings** to
   reach Entre Amis players, and for partners **with physical tastings** to
   reach beyond the people who taste with them.
-- `PROPOSED` "Reach" means through the game itself. It never gives a partner
-  access to players' data or contact details; the data rules in
+- **"Reach" means exposure to more potential drinkers** (founder). `PROPOSED`
+  It never gives a partner access to players' data or contact details; the data rules in
   [03](03-guardrails.md#partner-mode-data-confirmed) and the contact rule
   (still `PROPOSED`) apply as they are.
 - `TODO` Whether further partner content could be added after a tasting, for
@@ -598,6 +599,12 @@ the advisory held by Entre Amis, these rules apply:
 ## Open questions `TODO`
 
 Founder to decide. Nothing here may be filled in by an agent.
+
+- **How it all works together.** The founder plans a commercial sit-down
+  (24 October 2026) to work through how the strands fit: the physical game
+  and licensing, the app, Partner Mode and Event Mode, insight and trend
+  reports, the advisory, themed editions and collaborations, and the
+  advisory panel.
 
 - How Clarity for Growth is involved when Entre Amis holds the advisory (for
   example, whether Caroline delivers it through Clarity, and how that is
