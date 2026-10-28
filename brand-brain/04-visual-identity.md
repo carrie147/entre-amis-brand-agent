@@ -98,6 +98,14 @@ colours are added and game card colours are not used.
 - `CONFIRMED` The app follows this from 24 October 2026 (founder): Partner tastings and Events
   are marked in blush (rules and markers only; the words beside them stay deep olive), and
   the rest of the app uses the core colours and Raleway only.
+- `PROPOSED` **Decks follow this too** (founder approved the section colours
+  in the Full Story master, 28 October 2026). Each content slide carries a
+  pill marker, top right, letter-spaced Raleway SemiBold: THE GAME (deep
+  olive, cream text), THE APP (mid olive, white text), STAYS (light sage,
+  deep olive text), PARTNER MODE, EVENT MODE or PARTNER + EVENT (blush, deep
+  olive text). Brand-level slides carry no marker, as above. New: internal
+  slides carry an INTERNAL marker in cream with a deep olive outline and deep
+  olive text, which uses no new colour.
 - If more distinction is wanted later, new colours go to the designer and
   come back here as `PROPOSED`.
 
