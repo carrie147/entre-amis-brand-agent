@@ -197,6 +197,12 @@ There are two ways partners take part.
   host and its wines, never a test of the guest — keep "no wrong answers" in
   spirit: answers are revealed as discoveries, and nobody is told they were
   wrong.
+- `PROPOSED` **Quizzes in Event Mode too.** Quizzes are part of Event Mode
+  as well as Partner Mode (founder, 28 October 2026, Full Story master
+  review). The same rule applies: a way of learning about the producers and
+  their wines, never a test; answers are revealed as discoveries. The Event
+  Mode prize draw stays not claimable until the legal check (see the feature
+  status table).
 - **Guest notes belong to the guest.** Sharing them is the guest's choice.
   Notes are not part of partner insight unless the guest consents.
 - **Guest profile:** each guest has an account identified by their email.
@@ -305,6 +311,16 @@ not as launched (see Current stage).
 | Partner Mode and Event Mode: reports for businesses | `CONFIRMED` Built in the prototype (16 October 2026): totals are shown only once 5 or more people have taken part, and a producer sees only its own wines. Not yet seen by a partner | **No** |
 | Partner Mode and Event Mode: contact details to businesses | Built in the prototype as unticked boxes, one per business | **No** — the contact rule in [guardrails](03-guardrails.md) is still `PROPOSED` and needs legal review |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
+
+### Stays as part of the vision `PROPOSED`
+
+- Entre Amis stays may be referenced as part of the Entre Amis vision
+  (founder, 28 October 2026, Full Story master review). This is the founder
+  approval the feature status table asks for.
+- Always as a future ambition: never as in development, launched, bookable
+  or priced. "Not in development for launch" (the offer table) still stands.
+- Responsible drinking applies: no "pour another glass" or anything about
+  quantity in stays copy.
 
 ## What Entre Amis is not `CONFIRMED`
 
