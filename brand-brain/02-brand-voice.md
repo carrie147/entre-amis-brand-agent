@@ -110,8 +110,8 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | Term | What it is |
 | --- | --- |
 | **Corks** | How scores are counted. Never "points". |
-| **Crown** | Placed on the Wine of the Night / Day at the end |
-| **Wine of the Night / Wine of the Day** | The wine the table chooses together at the end. The app uses the right one for the time of day. In time-neutral copy (e.g. the physical game), don't assume it's evening. |
+| **Crown** | Placed on the Wine of the Evening / Day at the end |
+| **Wine of the Evening / Wine of the Day** | The wine the table chooses together at the end. The app uses the right one for the time of day ("Wine of the Night" is no longer used; founder, 29 October 2026). In time-neutral copy (e.g. the physical game), don't assume it's evening. |
 | **Savour, Pour, Mischief, Wild** | The four main card families (physical game and app). **Savour** is about the flavours, tastes and look of the wine. **Pour** is about the events, occasions and places a wine might be enjoyed. **Mischief** changes the course of the game, with corks won or lost. **Wild** are questions that simply provoke conversation; some refer to the wine, many don't. |
 | **Word Play, Wine Knowledge** | Card families in the app only |
 | **Secret Missions** | Private cards, completed before your next turn. A family in their own right, outside the four main families. They come up when the spinner lands on Secret Mission; the table decides whether the mission was completed and the corks won. `CONFIRMED` In the app, the table rules on a mission six cards after it is dealt, which keeps it clear of a change of wine (founder, 24 October 2026). |
