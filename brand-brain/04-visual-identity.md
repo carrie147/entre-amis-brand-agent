@@ -7,17 +7,63 @@ the name is written in copy.
 
 ## Logo
 
+The designer's final logo files are in [`assets/logo/`](assets/logo/README.md),
+with a guide to which file to use where.
+
 ### Master logo `CONFIRMED`
 
-- **The stacked olive caps with the leaf:** `ENTRE` over `AMIS`, bold
-  capitals in olive, with a fine-line leaf/sprig drawn across the letters.
-- This is the current logo. It may be updated and formalised later — when it
-  is, this section is updated first.
+- **The horizontal lockup:** the leaf with its tendril, `ENTRE` in bold
+  capitals and a script `amis`, in deep olive. This is the master logo (founder,
+  29 October 2026, from the designer's final files).
+- `ENTRE` is drawn from Raleway Bold; the script `amis` is drawn from the
+  Malvides font. Both are outlined into shapes in the artwork, so no font file
+  is needed to use the logo. Never retype either part.
+- Use it where the whole mark has room: the app's age gate, front door and save
+  screens, shared and hall screens, the website, decks, print.
+- The earlier stacked olive caps with a fine-line leaf (`ENTRE` over `AMIS`,
+  September 2026) is **retired**. It is kept in
+  [`assets/logo/archive/`](assets/logo/archive/) for the record only and must
+  not be used.
 
-### Not approved `CONFIRMED`
+### Logo set `CONFIRMED`
 
-- The script lockups (`ENTRE` with a script `amis` and flourish, with or
-  without leaf/vine artwork) are **not correct** and must not be used.
+The designer supplied four parts, each in olive, black and white (white is for
+dark backgrounds):
+
+| Part | What it is | File name |
+| --- | --- | --- |
+| Master | Leaf, `ENTRE`, script `amis` | `entre-amis-master-…` |
+| Stacked | Leaf above `ENTRE AMIS` in capitals | `entre-amis-stacked-…` |
+| Leaf | The leaf and its tendril, alone | `entre-amis-leaf-…` |
+| Brand name | `ENTRE AMIS` in capitals, no leaf | `entre-amis-brand-name-…` |
+
+### Small-format mark `CONFIRMED`
+
+- **The leaf is the small mark** (founder, 29 October 2026). There is no
+  letter monogram.
+- In the app it sits on the left of every top bar, in the same place on every
+  way to play.
+- **App icon:** the leaf alone, cream on deep olive. Not the leaf with the
+  name: the words can't be read at app-icon sizes (founder, 29 October 2026).
+- **The Wine of the Day seal** carries the leaf with its tendril, with its words
+  centred between the seal's two rings. **The cork stamp** carries the leaf
+  without its tendril, because the tendril can't be seen at that size (founder,
+  29 October 2026).
+- **The brand name** (`ENTRE AMIS` in capitals) is used small, for example in
+  the app's footer (founder, 29 October 2026).
+- The monogram in the draft stationery (see below) is still **not approved**
+  (founder, 18 October 2026).
+
+### Minimum sizes `PROPOSED`
+
+From a readability check on phone screens (29 October 2026), not yet confirmed:
+
+| Part | Smallest size on screen | Why |
+| --- | --- | --- |
+| Master | 120 px wide, ideally 160 px or more | Below this the script `amis` and the thin tendril blur |
+| Stacked | 64 px tall | Below this `ENTRE AMIS` can't be read; use the leaf instead |
+| Brand name | 60–90 px wide | |
+| Leaf | 24 px | At 16 px the tendril and veins disappear; a simpler favicon version is wanted |
 
 ### Name styling in the logo vs copy `CONFIRMED`
 
@@ -28,34 +74,20 @@ the name is written in copy.
 - **Written copy always uses "Entre Amis"** — see
   [`00-brand-core.md`](00-brand-core.md#name).
 
-### Small-format mark `TODO`
-
-A separate small mark is planned for formats where the full stacked logo is
-too big to read. Until it's approved, don't create or improvise one.
-
-To define when it's ready:
-
-- What it is (e.g. monogram, leaf, initials).
-- Where it's used — e.g. app icon, favicon, social avatar, card backs,
-  components, stamps.
-- The size at which you switch from the full logo to the small mark.
-- Approved colour versions.
-
-- `CONFIRMED` A monogram appears in the draft stationery (see below). It is
-  **not approved**: it needs the founder's approval before any use (founder,
-  18 October 2026).
-
-### Still being decided `TODO`
-
-The main logo, the stamp and any visual devices are still being decided by
-the founder (18 October 2026). Until then, use the current master logo and
-don't create new devices.
-
 ### Still needed `TODO`
 
-- Master logo artwork files (SVG / PNG) added to the repo.
-- Clear space, minimum size, and approved colour versions (olive on cream,
-  cream on deep olive, single colour).
+To ask the designer, once the logo is applied in the app (founder, 29 October
+2026):
+
+- Files trimmed to the artwork (the master sits on an A4-sized canvas).
+- A square app icon (the leaf on deep olive) and a 16 / 32 px favicon.
+- The RGB JPGs use a greyer olive (`#636445`) than the PNGs and SVGs
+  (`#565A33`): intended or not?
+- Charcoal (`#35363A`) appears in the RGB JPGs but is not in the Sous-bois
+  palette: is it an official colourway?
+- Print (CMYK) files exist only for the stacked logo and the leaf; the other
+  parts have none yet.
+- Clear space and the full set of approved colour versions.
 
 ## Colour
 
@@ -198,6 +230,6 @@ the in-box pieces: QR card (95 mm square), How to Play (two sides, 190 ×
   chosen (founder, 18 October 2026).
 - `CONFIRMED` **Raleway only**, as above. No second typeface for body text
   (founder, 18 October 2026).
-- The designs use the current logo and the unapproved monogram until the
-  logo, stamp and monogram are decided.
+- The designs still show the retired stacked logo and the unapproved
+  monogram; they move to the designer's master logo when they are next revised.
 - QR code, access code, company and contact details are placeholders.
