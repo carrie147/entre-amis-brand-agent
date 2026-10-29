@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-10-29 | 02 | "Wine of the Night" becomes "Wine of the Evening", as in the app; "Wine of the Day" unchanged. | Caroline |
 | 2026-10-24 | 00, 02, 04 | Brought into line with the app: in the app the table rules on a Secret Mission six cards after it is dealt (the physical rule is unchanged); the app's reaction row uses ❤️ 👍 🤔 👎 from the emoji set; reports for businesses are built in the prototype (still not claimable); the app marks Partner tastings and Events in blush with deep olive words, and uses only the core colours and Raleway; small reading text in the app uses Raleway Regular. | Caroline |
 | 2026-10-23 | 06 | Rules for advisers confirmed: no commission or fee is payable until written terms are agreed; an adviser is a partner to Entre Amis, not Entre Amis, and never speaks, acts or is presented as Entre Amis. The rest of the advisory panel and referral model stays PROPOSED. | Caroline |
 | 2026-10-23 | 06 | Licensing rule confirmed: any licensing deal is about finding the best commercial route for the physical game, not surrendering control of the Entre Amis brand or assets. The brand, app, platform, data and wider ecosystem stay with Entre Amis unless the founder explicitly agrees otherwise. The rest of 06 stays PROPOSED. | Caroline |
