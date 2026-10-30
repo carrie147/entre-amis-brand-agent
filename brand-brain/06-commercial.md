@@ -49,7 +49,7 @@ a decision unless the linked section says so.
 | --- | --- | --- |
 | Physical game | A licence royalty, or Entre Amis manufacturing and selling it | Route not chosen; see [physical game](#physical-game-route-to-market-proposed) |
 | Direct sales of the game | Website and events | Right kept by Entre Amis (commercial pack) |
-| App | Kept outside any physical-game licence. Payment options still to be explored (Work Tracker) | `TODO` |
+| App | Kept outside any physical-game licence. Payment options still to be explored (Work Tracker). Working scenario: a one-off Host purchase at £20, Guests free ([commercial story](#the-commercial-story-proposed)) | `TODO` |
 | Partner Mode and Event Mode | Partners pay; insight is what they pay for ([00](00-brand-core.md#partner-mode-and-event-mode-confirmed)) | Pricing `TODO` |
 | Standard insight package | Part of the Partner and Event relationship | [Hypothesis](#1-a-standard-entre-amis-insight-package) |
 | Optional advisory | See [hypothesis 2](#2-an-optional-advisory-offered-by-entre-amis) | Whether it is Entre Amis revenue or a related opportunity is open |
@@ -57,6 +57,39 @@ a decision unless the linked section says so.
 | Seasonal Mini-Editions | Small card packs: £0.55 / £0.95 hypotheses, or free | [Concept](#themed-editions-and-curated-collaborations-proposed); not approved for implementation |
 | Curated Collaborations | Partner-funded or consumer-paid themed editions | [Concept](#themed-editions-and-curated-collaborations-proposed); partners illustrative only |
 | Advisory panel and referrals | A cost, not revenue: commission for introductions that convert | [Proposal](#commercial-advisory-panel-and-referral-model-proposed); nothing agreed |
+
+## The commercial story `PROPOSED`
+
+Founder's five-slide commercial story, 30 October 2026, for the master brand
+deck. **Internal only for now** (founder, 30 October 2026): the full version
+goes to no partner, publisher or investor. Partner packs use a separate
+partner-safe version, built only from `CONFIRMED` content. Investors stay a
+deferred audience ([00](00-brand-core.md#audiences)).
+
+| # | Position | Status |
+| --- | --- | --- |
+| 1 | **Three markets, one network.** Trade partners (vineyards and experience venues, paying partner fees), events (organisers and producers, paying event fees) and people who play (Guests, and Hosts who make a one-off purchase). Each has its own proposition and revenue; together they build one network. | Strategy hypothesis. Partner, event and app pricing stay `TODO` |
+| 2 | **Build the network before charging for it.** Partners and events introduce Entre Amis to people already enjoying shared experiences. The first five partners test the proposition, bring in revenue and form the first real-world distribution network. | Strategy hypothesis. "Five" is the founder's working number |
+| 3 | **Participation creates the Host opportunity.** The commercial question is how many active, eligible people choose to become paid Hosts. Working scenario: £20 a one-off Host purchase, 5% or 10% of 1,000 to 20,000 unique, eligible people (10,000 gives £10k or £20k gross, before VAT, selling fees and costs). | Illustrative, not a forecast. £20 and the conversion rates are working hypotheses; app payment options stay `TODO` |
+| 4 | **A network flywheel.** More partners bring more people; participation can improve privacy-conscious aggregate insight; stronger value supports retention and referrals. | Hypothesis to validate, not a claim. Wider insight depends on [hypothesis 3](#3-anonymised-trend-reports-for-the-wine-trade) and the data rules in [03](03-guardrails.md#partner-mode-data-confirmed) |
+| 5 | **The physical game extends the opportunity.** A distinct route to new people and revenue (gifting, retail, home entertainment; direct sales, distribution or licensing), not required for the platform to be sustainable. | Hypothesis. The route stays open ([physical game](#physical-game-route-to-market-proposed)) |
+
+Notes for the founder's review:
+
+- **"Wine is the first launch category, not the limit"** goes further than
+  [the idea](00-brand-core.md#the-idea-confirmed) ("the first place"), and
+  non-wine expressions are [early thinking](00-brand-core.md#early-thinking--not-for-external-use-confirmed).
+  Internal only.
+- **Internal language** stays internal: "commercial model", "monetising",
+  "consumers" and "users" never go into partner copy
+  ([02](02-brand-voice.md#internal-language--never-external-confirmed)).
+- **Claims in the story** to approve before any external use: "together,
+  they strengthen the same network"; "events create concentrated discovery
+  and participation"; "stronger value supports retention and referrals";
+  "introduce new people to Entre Amis"; "engaging customer experiences,
+  useful insight and lasting relationships".
+- Slide files: project folder `entre-amis/master-deck/commercial/`
+  (internal and partner-safe drafts, 30 October 2026).
 
 ## Physical game: route to market `PROPOSED`
 
