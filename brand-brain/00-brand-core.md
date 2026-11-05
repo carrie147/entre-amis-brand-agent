@@ -262,8 +262,9 @@ What each one is (founder, 12 October 2026).
 - `CONFIRMED` **Complete without the app.** The physical game can be played in
   full without the app. Scoring, play and types of play are the same either way.
 - `CONFIRMED` **Corks are printed on the cards.** Each card shows what it is
-  worth in corks; the cards a player wins are their score. Corks are not
-  separate pieces.
+  worth in corks; the cards a player wins are their score. The box also
+  carries cork tokens, used only where a Mischief card needs a player to take
+  two corks (founder, 5 November 2026).
 - `CONFIRMED` **Award cards don't carry corks.** Awards are given at the
   Final Pour and don't count towards the score (founder, 18 October 2026).
 - `CONFIRMED` **Play passes to the left, clockwise** (founder, 18 October 2026).
@@ -299,12 +300,10 @@ loses. What exactly the caller loses, and whether a call can be made once the
 mission is revealed, is still to decide. How to Play and the app's mission
 ruling would both change.
 
-`PROPOSED` **Why the box carries cork tokens** (founder, 5 November 2026).
+`CONFIRMED` **Why the box carries cork tokens** (founder, 5 November 2026).
 Corks are still printed on the cards, and the cards a player wins are still
 their score. The box also carries cork tokens because some Mischief cards
-need a player to take two corks, which doesn't work without a token. When
-confirmed, the line above that corks "are not separate pieces" needs
-rewording to match.
+need a player to take two corks, which doesn't work without a token.
 
 Quantities, dimensions, materials and finishes belong in the production pack.
 
