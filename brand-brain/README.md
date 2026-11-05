@@ -51,6 +51,7 @@ comment, a past message, an agent's own judgement), **the Brand Brain wins**.
 | [`04-visual-identity.md`](04-visual-identity.md) | Master logo and the Sous-bois palette (core and game-only colours); logo files in [`assets/logo/`](assets/logo/README.md) |
 | [`05-insight-bank.md`](05-insight-bank.md) | Checked market and consumer insights, and how to use them |
 | [`06-commercial.md`](06-commercial.md) | The commercial home: partner propositions, pricing positions, revenue models, the Clarity relationship and hypotheses to validate (`PROPOSED`) |
+| [`07-applications.md`](07-applications.md) | How the identity is applied to company documents, printed box pieces and decks (`PROPOSED`) |
 | [`samples/`](samples/) | Real reference writing used as voice benchmarks (not content to reuse) |
 | [`CHANGELOG.md`](CHANGELOG.md) | Every approved change, dated |
 

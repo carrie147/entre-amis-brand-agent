@@ -291,6 +291,14 @@ per game); four A6 guidance cards; an activation card. 140 gameplay cards are
 on the quotes; which 3 cards take the locked deck from 137 to 140 is open for
 the founder to decide.
 
+`PROPOSED` **The bell and Secret Missions** (suggested by a player, raised by
+the founder on 17 October 2026). If someone thinks you are doing your
+mission, they ring the bell and call it out. Called correctly mid-mission:
+the holder gets no corks and the caller gets them. Called wrongly: the caller
+loses. What exactly the caller loses, and whether a call can be made once the
+mission is revealed, is still to decide. How to Play and the app's mission
+ruling would both change.
+
 `PROPOSED` **Why the box carries cork tokens** (founder, 5 November 2026).
 Corks are still printed on the cards, and the cards a player wins are still
 their score. The box also carries cork tokens because some Mischief cards
