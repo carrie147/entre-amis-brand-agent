@@ -53,6 +53,9 @@ dark backgrounds):
   the app's footer (founder, 29 October 2026).
 - The monogram in the draft stationery (see below) is still **not approved**
   (founder, 18 October 2026).
+- `PROPOSED` **The monogram is retired** (founder, 5 November 2026). The base
+  small sign-off is the leaf with a small Raleway `ENTRE AMIS` wherever
+  possible. Size may dictate something different.
 
 ### Minimum sizes `PROPOSED`
 
@@ -106,6 +109,12 @@ packaging, partner materials.
 | Light sage | `#B9BC9A` | 185, 188, 154 | 2, 0, 18, 26 | |
 | Cream | `#EFEAE0` | 239, 234, 224 | 0, 2, 6, 6 | |
 | Blush (single accent) | `#E3AC9A` | 227, 172, 154 | 0, 24, 32, 11 | The only accent |
+
+`PROPOSED` **Gold by exception** (founder, 5 November 2026; Open Decision
+Register DEC-01, 1 November 2026). Blush stays the primary highlight. Gold may
+be used only where blush doesn't make sense, by exception and with founder
+approval each time. Which gold (HEX, RGB, CMYK) is `TODO`. Until this is
+confirmed, blush remains the only accent.
 
 ### Expression colours `PROPOSED`
 
@@ -167,6 +176,14 @@ family has a fill colour and a darker text colour.
   text comfortably. Founder may override.
 - CMYK values for print: `TODO` — from the designer.
 - The colours on the earlier card-pack prototype are superseded by this table.
+- `PROPOSED` **Cream on the physical game** (founder, 5 November 2026). Every
+  leaf and logo on the card fronts is cream `#EFEAE0`, in every family, Pour
+  included. The Pour card back carries the cream logo. The spinner's family
+  labels are cream. Pour's fill stays ochre gold.
+- `PROPOSED` **The spinner** (founder, 5 November 2026). Version 5, 127 mm,
+  with the vine leaves and colour blocks, is the master. Call it "the
+  spinner": the twelve equal slices set the probability and are not
+  described to players.
 - Word Play olive (`#7A7F5A`) is a game colour, not one of the core olives —
   don't swap them.
 
@@ -233,3 +250,9 @@ the in-box pieces: QR card (95 mm square), How to Play (two sides, 190 ×
 - The designs still show the retired stacked logo and the unapproved
   monogram; they move to the designer's master logo when they are next revised.
 - QR code, access code, company and contact details are placeholders.
+- `PROPOSED` **In-box print sizes from the production brief** (provisional,
+  for costing; founder, 5 November 2026): instruction card 150 × 150 mm,
+  300 gsm; four guidance cards at A6; activation card 65 × 65 mm with
+  rounded corners; gameplay cards 70 × 121 mm (tarot size), 250–350 gsm, with
+  7 backs. The box is printed, with no belly band. These replace the sizes in
+  the 17 October drafts once confirmed.

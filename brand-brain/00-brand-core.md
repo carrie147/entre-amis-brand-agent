@@ -283,6 +283,19 @@ What each one is (founder, 12 October 2026).
 | Game mat (fabric) | No: an optional extra, sold separately, to keep the standard box simpler. Limited or artist editions stay early thinking (see below) and are never described externally. |
 | First Sip card | Yes |
 
+`PROPOSED` **Being costed, not yet in the confirmed box** (founder, 5 November
+2026; production brief sent to a manufacturing partner): 20 scoring discs
+(natural cork or card, 25 mm); a metal medal on a ribbon **or** a metal
+crown bottle stopper (one per game); a metal hand bell **or** desk bell (one
+per game); four A6 guidance cards; an activation card. 140 gameplay cards are
+on the quotes; which 3 cards take the locked deck from 137 to 140 is open for
+the founder to decide.
+
+> **Open for the founder:** separate scoring discs sit alongside the
+> `CONFIRMED` rule above that corks are printed on the cards and are not
+> separate pieces. How the discs relate to scoring needs the founder's
+> decision before either line changes.
+
 Quantities, dimensions, materials and finishes belong in the production pack.
 
 ### Feature status — what may be claimed `CONFIRMED`
