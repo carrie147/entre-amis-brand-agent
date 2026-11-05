@@ -141,6 +141,25 @@ colours are added and game card colours are not used.
 - `CONFIRMED` The app follows this from 24 October 2026 (founder): Partner tastings and Events
   are marked in blush (rules and markers only; the words beside them stay deep olive), and
   the rest of the app uses the core colours and Raleway only.
+- `CONFIRMED` **App against Master v1.0** (founder, 5 November 2026). The app
+  build checked on 5 November (`feat/beta-readiness`, commit `7255115`) uses
+  the master logo, the leaf in the top bar, Raleway and the exact Master v1.0
+  family colours. The logo, typography and colour issues raised in the earlier
+  audit (from the 28 October build) are resolved.
+- `CONFIRMED` **Two app treatments are intentional, not defects** (founder,
+  5 November 2026). Both differ from the printed cards on purpose and are
+  for founder review. Neither is to be changed before real-phone testing.
+  - **App cards:** the family colour is a thin line across the top of a
+    cream card. There is no family name label, leaf band or corks pill, as
+    there is on the printed card.
+  - **Secret Mission:** a full-screen private view in deep dusty blue
+    (`#2F4045`) behind a lock ("For your eyes only", "Hold to read"),
+    instead of the printed card's dusty blue `#6E8B93` with its header band
+    and corks value.
+- The approved physical artwork stays the master for the physical game. The
+  latest visual reference for the app is the contact sheet *App visual check
+  against Master v1.0 - 5 Nov 2026* in the creative review folder, next to
+  Master v1.0. It does not replace any physical artwork.
 - `CONFIRMED` **The PowerPoint template follows this** (founder, 5 November
   2026; template Master v1.0). Each content slide has a full-width bar in the
   arm's colour along the top edge, with the arm name right-aligned in
