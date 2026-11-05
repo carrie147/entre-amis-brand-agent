@@ -114,6 +114,10 @@ safe to do so.
 
 ### Proposed change — contact details with consent `PROPOSED`
 
+> Founder confirmed this rule on 21 October 2026 (Fizz Fest deck). Proposed
+> here to move to `CONFIRMED`; the legal review below still comes before the
+> wording is used with visitors.
+
 Partners pay for Partner Mode and Event Mode, and the names of people who
 choose to hear from them have real value — event organisers often only know
 the ticket buyer, not everyone who attends. So:
