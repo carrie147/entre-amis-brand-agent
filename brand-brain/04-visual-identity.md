@@ -51,9 +51,7 @@ dark backgrounds):
   29 October 2026).
 - **The brand name** (`ENTRE AMIS` in capitals) is used small, for example in
   the app's footer (founder, 29 October 2026).
-- The monogram in the draft stationery (see below) is still **not approved**
-  (founder, 18 October 2026).
-- `PROPOSED` **The monogram is retired** (founder, 5 November 2026). The base
+- `CONFIRMED` **The monogram is retired** (founder, 5 November 2026). The base
   small sign-off is the leaf with a small Raleway `ENTRE AMIS` wherever
   possible. Size may dictate something different.
 
@@ -98,7 +96,7 @@ Palette name: **Sous-bois**.
 
 ### Core brand colours `CONFIRMED`
 
-Near-monochrome olive tonal range with a single blush accent. These are the
+Near-monochrome olive tonal range with blush as the accent. These are the
 **only** colours for general brand use — website, app UI, social, articles,
 packaging, partner materials.
 
@@ -108,13 +106,13 @@ packaging, partner materials.
 | Mid olive | `#8B8B5C` | 139, 139, 92 | 0, 0, 34, 45 | |
 | Light sage | `#B9BC9A` | 185, 188, 154 | 2, 0, 18, 26 | |
 | Cream | `#EFEAE0` | 239, 234, 224 | 0, 2, 6, 6 | |
-| Blush (single accent) | `#E3AC9A` | 227, 172, 154 | 0, 24, 32, 11 | The only accent |
+| Blush (primary accent) | `#E3AC9A` | 227, 172, 154 | 0, 24, 32, 11 | The primary accent; gold only by exception (below) |
 
-`PROPOSED` **Gold by exception** (founder, 5 November 2026; Open Decision
+`CONFIRMED` **Gold by exception** (founder, 5 November 2026; Open Decision
 Register DEC-01, 1 November 2026). Blush stays the primary highlight. Gold may
 be used only where blush doesn't make sense, by exception and with founder
-approval each time. Which gold (HEX, RGB, CMYK) is `TODO`. Until this is
-confirmed, blush remains the only accent.
+approval each time. Which gold (HEX, RGB, CMYK) is `TODO`: until it is
+chosen, no gold is used.
 
 ### Expression colours `PROPOSED`
 
@@ -135,7 +133,7 @@ colours are added and game card colours are not used.
   text** (14pt bold or larger). Keep text on them short and SemiBold.
 - Brand-level material (no single part of the offer) stays deep olive on
   cream, with no marker.
-- Blush stays the single accent; here its accent role is signalling partners.
+- Blush stays the primary accent; here its accent role is signalling partners.
 - `CONFIRMED` The app follows this from 24 October 2026 (founder): Partner tastings and Events
   are marked in blush (rules and markers only; the words beside them stay deep olive), and
   the rest of the app uses the core colours and Raleway only.
@@ -176,11 +174,11 @@ family has a fill colour and a darker text colour.
   text comfortably. Founder may override.
 - CMYK values for print: `TODO` — from the designer.
 - The colours on the earlier card-pack prototype are superseded by this table.
-- `PROPOSED` **Cream on the physical game** (founder, 5 November 2026). Every
+- `CONFIRMED` **Cream on the physical game** (founder, 5 November 2026). Every
   leaf and logo on the card fronts is cream `#EFEAE0`, in every family, Pour
   included. The Pour card back carries the cream logo. The spinner's family
   labels are cream. Pour's fill stays ochre gold.
-- `PROPOSED` **The spinner** (founder, 5 November 2026). Version 5, 127 mm,
+- `CONFIRMED` **The spinner** (founder, 5 November 2026). Version 5, 127 mm,
   with the vine leaves and colour blocks, is the master. Call it "the
   spinner": the twelve equal slices set the probability and are not
   described to players.
@@ -242,13 +240,15 @@ Draft designs in the founder's *Entre Amis Stationery* canvas (17 October
 the in-box pieces: QR card (95 mm square), How to Play (two sides, 190 ×
 150 mm) and tasting tips (A6). All fit the 200 × 160 mm box.
 
-- `CONFIRMED` **Blush is the only highlight** on stationery and print, as in
-  the core palette. Antique gold, claret and aubergine were explored and not
-  chosen (founder, 18 October 2026).
+- `CONFIRMED` **Blush is the highlight** on stationery and print, as in the
+  core palette, with gold only by exception and with founder approval (founder,
+  5 November 2026). Claret and aubergine were explored and not chosen (founder,
+  18 October 2026).
 - `CONFIRMED` **Raleway only**, as above. No second typeface for body text
   (founder, 18 October 2026).
-- The designs still show the retired stacked logo and the unapproved
-  monogram; they move to the designer's master logo when they are next revised.
+- The designs still show the retired stacked logo and the retired monogram;
+  they move to the designer's master logo and the leaf when they are next
+  revised.
 - QR code, access code, company and contact details are placeholders.
 - `PROPOSED` **In-box print sizes from the production brief** (provisional,
   for costing; founder, 5 November 2026): instruction card 150 × 150 mm,
