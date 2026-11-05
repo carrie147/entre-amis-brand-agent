@@ -35,7 +35,7 @@
   cream, blush). Drop the burgundy headings, the aubergine and dusty-blue bars,
   and the pink side panel. Card family colours appear only on slide 7, and only
   to show the card families.
-- **Logo:** the master logo only (stacked olive caps with the leaf), with no ™.
+- **Logo:** the master logo only (the designer's horizontal lockup: leaf, ENTRE, script amis, from 29 October 2026), with no ™.
 - **Typeface:** Raleway. Light for headings, SemiBold for small labels. Keep the
   same heading weight on every slide.
 - **Footer:** "Say what you really think." can stay.

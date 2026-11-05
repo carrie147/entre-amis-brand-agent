@@ -80,6 +80,9 @@ These sit alongside the core tone. The core tone wins if they ever conflict.
 - **Emoji set — the only emoji we use, everywhere:** 👍 thumbs up ·
   🤞 fingers crossed · 👎 thumbs down · ❤️ hearts · 🍷 wine glass · 😊 smiley ·
   😂 laughing · 🤔 thinking. `CONFIRMED`
+- `CONFIRMED` **Reactions in the app** use four emoji from this set: ❤️ Love it ·
+  👍 Like it · 🤔 Not sure · 👎 Not for me (founder, 24 October 2026). The heart is
+  drawn in red; the others are softened to sit with the palette.
 - **French:** short, everyday French words where they fit naturally (e.g.
   *bientôt*), and wine terms. Always with the correct accents. Never as
   decoration. `CONFIRMED`
@@ -107,17 +110,18 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | Term | What it is |
 | --- | --- |
 | **Corks** | How scores are counted. Never "points". |
-| **Crown** | Placed on the Wine of the Night / Day at the end |
-| **Wine of the Night / Wine of the Day** | The wine the table chooses together at the end. The app uses the right one for the time of day. In time-neutral copy (e.g. the physical game), don't assume it's evening. |
+| **Crown** | Placed on the Wine of the Evening / Day at the end |
+| **Wine of the Evening / Wine of the Day** | The wine the table chooses together at the end. The app uses the right one for the time of day ("Wine of the Night" is no longer used; founder, 29 October 2026). In time-neutral copy (e.g. the physical game), don't assume it's evening. |
 | **Savour, Pour, Mischief, Wild** | The four main card families (physical game and app). **Savour** is about the flavours, tastes and look of the wine. **Pour** is about the events, occasions and places a wine might be enjoyed. **Mischief** changes the course of the game, with corks won or lost. **Wild** are questions that simply provoke conversation; some refer to the wine, many don't. |
 | **Word Play, Wine Knowledge** | Card families in the app only |
-| **Secret Missions** | Private cards, completed before your next turn. A family in their own right, outside the four main families. They come up when the spinner lands on Secret Mission; the table decides whether the mission was completed and the corks won. |
+| **Secret Missions** | Private cards, completed before your next turn. A family in their own right, outside the four main families. They come up when the spinner lands on Secret Mission; the table decides whether the mission was completed and the corks won. `CONFIRMED` In the app, the table rules on a mission six cards after it is dealt, which keeps it clear of a change of wine (founder, 24 October 2026). |
 | **Award Cards** (Today's Award) | Given out by the table at the end. "Today's" is deliberate — it works for lunch or evening. |
 | **First Sip** | The card that starts the game |
 | **The Bin** | Where cards go when they aren't won or are lost |
 | **The Final Pour** | The end of the game |
 | **Spin, Draw, Play, Pass** | The four steps of a turn |
 | **Wheel / spinner, game mat** | Game components. The game mat is fabric. Call it "game mat", never "cloth" (the first How to Play guide needs updating). |
+| **Wine fact** | `PROPOSED` The label for a wine fact on a card. Always "Wine fact", never "Wine bit" (founder, 5 November 2026). |
 | **Wine 101** | Wine facts and help with wine in general, like a directory — see [Wine 101 and My wines](00-brand-core.md#wine-101-and-my-wines-confirmed) |
 | **My wines** | The guest's personal record of tastings, favourites, events and experiences, in their account |
 
@@ -156,6 +160,10 @@ materials — see [partner materials](#partner-materials--who-were-talking-to-co
 - "insight" as a business product (e.g. "community and insight") in consumer
   or public copy
 - Platform or supplier names behind features (e.g. FastCork)
+
+`TODO` Whether **Clarity for Growth** (Caroline's separate business) may be
+named in Entre Amis partner materials. Until the founder decides, it isn't
+(see [06](06-commercial.md#open-questions-todo)).
 
 Brand architecture is still evolving (a Group may become an umbrella brand).
 **When it changes, this list must be updated before anything new is used.**

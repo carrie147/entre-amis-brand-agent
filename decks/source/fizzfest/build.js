@@ -13,8 +13,8 @@ const { applyTheme } = require("/root/.claude/skills/synced/5ee89fbe-4dd3-4dd9-b
 
 const OUT = process.argv[2] || "Entre Amis x Fizz Fest 2027 - founding Event Partner - DRAFT.pptx";
 const FINAL = process.argv.includes("--final");
-const LOGO = path.resolve(__dirname, "../logo.png"); // 304 x 153, low-res placeholder
-const LOGO_RATIO = 153 / 304;
+const LOGO = path.resolve(__dirname, "../logo-master-olive.png"); // 1600 x 676: designer master logo, 29 Oct 2026
+const LOGO_RATIO = 676 / 1600;
 const IMG_DIR = path.resolve(__dirname, "images");
 
 // Sous-bois core colours only (Brand Brain 04). Blush is the single accent.
@@ -48,7 +48,6 @@ const PHOTO_DIR = "/mnt/project-files/entre-amis/fizz-fest/photos";
 const PHOTOS = {
   "01-cover.png": ["09-fizz-fest-letters.jpeg", [0.5, 0.45]],
   "02-why.png": ["10-glass-in-vineyard.jpeg", [0.3, 0.5]],
-  "03-world-1.png": ["15-game.jpg", [0.5, 0.42]],
   "03-world-3.png": ["04-terrace-bistrot-sign.jpeg", [0.8, 0.5]],
   "03-world-4.png": ["02-stand-sparkling-bottles.jpeg", [0.5, 0.45]],
   "04-beyond-1.png": ["01-vineyard-rows.jpeg", [0.5, 0.55]],
@@ -174,7 +173,7 @@ function flag(s, x, y, w, h, kind, text, size = 11) {
     photo(s, `03-world-${i + 1}.png`, x, ty, tw, ih, ph);
     txt(s, [label(hd), gap(5), { text: b }], { x: x + 0.22, y: ty + ih + 0.2, w: tw - 0.44, h: th - ih - 0.4, fontSize: 14 });
   });
-  s.addNotes("The journey is the confirmed Inspire → Discover → Experience → Belong (Brand Brain 00; founder, 21 October). The v2 line 'Discover → Play → Remember → Experience → Belong' is replaced: Play is not shown as a step.\n\nFour parts of the Entre Amis world, all in development (nothing is launched); the tags are off the slide to let people imagine it (founder, v4 review). The game photo is the founder's prototype. Stays are left off (founder, 21 October). Event Mode: in development, and we're looking for a launch partner (founder, 21 October).");
+  s.addNotes("The journey is the confirmed Inspire → Discover → Experience → Belong (Brand Brain 00; founder, 21 October). The v2 line 'Discover → Play → Remember → Experience → Belong' is replaced: Play is not shown as a step.\n\nFour parts of the Entre Amis world, all in development (nothing is launched); the tags are off the slide to let people imagine it (founder, v4 review). The game photo is a placeholder until the final production game is photographed: the prototype shows the retired logo and superseded colours (5 November 2026). Stays are left off (founder, 21 October). Event Mode: in development, and we're looking for a launch partner (founder, 21 October).");
 }
 
 // ---------- 4 · What if Fizz Fest lasted beyond the day? ----------
@@ -311,7 +310,7 @@ function flag(s, x, y, w, h, kind, text, size = 11) {
   // Anonymous visitor comments, illustrative: no names, ever.
   txt(s, [label("WHAT VISITORS SAID", OLIVE, 10)], { x: PX, y: 5.3, w: 3, h: 0.25 });
   status(s, PX + 2.35, 5.27, "illustrative", 1.6, "ILLUSTRATIVE");
-  const quotes = ["\u201CDelicious. My first time with English sparkling.\u201D", "\u201CSurprising, in the best way.\u201D", "\u201CA new favourite. I\u2019ll look for it again.\u201D"];
+  const quotes = ["Delicious. My first time with English sparkling.", "Surprising, in the best way.", "A new favourite. I\u2019ll look for it again."];
   const qg = 0.2, qw = (PW - 2 * qg) / 3;
   quotes.forEach((q, j) => {
     const qx = PX + j * (qw + qg);
@@ -319,7 +318,7 @@ function flag(s, x, y, w, h, kind, text, size = 11) {
     txt(s, q, { x: qx + 0.18, y: 5.65, w: qw - 0.36, h: 0.7, fontSize: 12, italic: true, valign: "middle" });
   });
   txt(s, "Anonymised responses. Contact details only with a visitor's opt-in.", { x: PX, y: 6.48, w: PW, h: 0.3, fontSize: 12, fontFace: BOLD });
-  s.addNotes("Saved wine memories, producer stories and aggregate insight, from the v2 copy.\n\nAudit, 21 October: producer pages with stories are built (stories entered by Entre Amis for now); Save my day to My wines is built; a producer report sees only its own wines and questions, never the votes, and refuses anything under five people. Built in code, not yet live-tested. Meet the Maker videos are not built, so 'videos' is left off the slide.\n\nNothing suggests personal data is shared automatically. Producer contact permission is separate, unticked by default and explicit, per the contact-details rule the founder confirmed on 21 October; the wording still needs legal review. The producer summary and the visitor comments are illustrative: made up to show the kind of feedback a vineyard would see, never attributed to anyone (founder, v4 review). Title shortened to 'Value for every vineyard' and row status tags removed (founder, v4 review).");
+  s.addNotes("Saved wine memories, producer stories and aggregate insight, from the v2 copy.\n\nAudit, 21 October: producer pages with stories are built (stories entered by Entre Amis for now); Save my day to My wines is built; a producer report sees only its own wines and questions, never the votes, and refuses anything under five people. Built in code, not yet live-tested. Meet the Maker videos are not built, so 'videos' is left off the slide.\n\nNothing suggests personal data is shared automatically. Producer contact permission is separate, unticked by default and explicit, per the contact-details rule the founder confirmed on 21 October; the wording still needs legal review. The producer summary and the visitor comments are illustrative: made up to show the kind of feedback a vineyard would see, never attributed to anyone (founder, v4 review). Shown as observations, without quotation marks, as Brand Brain 02 requires (5 November 2026). Title shortened to 'Value for every vineyard' and row status tags removed (founder, v4 review).");
 }
 
 // ---------- 8 · Imagine Fizz Fest with Entre Amis ----------
@@ -356,7 +355,7 @@ function flag(s, x, y, w, h, kind, text, size = 11) {
   txt(s, "Let's explore the first activation together.", { x: M + 0.4, y: 4.85, w: lw - 0.8, h: 0.85, fontSize: 22, color: CREAM, valign: "middle" });
   txt(s, "Caroline, Founder of Entre Amis", { x: M, y: 5.9, w: lw, h: 0.3, fontSize: 14, fontFace: BOLD });
   flag(s, M, 6.25, lw, 0.45, "CLAIM", "\"Be the first\" is a claim: kept as written. TO ADD: contact details.", 10);
-  photo(s, "09-close.png", M + lw + 0.3, 1.95, CW - lw - 0.3, 4.4, "Golden hour at the festival: two glasses raised across a table, faces softly in view", "Photograph of guests raising a glass together");
+  photo(s, "09-close.png", M + lw + 0.3, 1.95, CW - lw - 0.3, 4.4, "At the festival: two glasses raised across a table, faces softly in view", "Photograph of guests raising a glass together");
   s.addNotes("Closing invitation from the v2 copy. No pricing, no financial projections, no exclusivity: 'founding partner' describes being first to shape it, not an exclusive arrangement.\n\nContact details to add once you confirm which to use.");
 }
 

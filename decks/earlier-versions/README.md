@@ -11,3 +11,6 @@ They are **earlier** than the masters in `decks/`, so don't build from them:
 
 The masters are built from `../source/`. Change the source, rebuild, then
 replace the master file.
+
+Since 29 October 2026 the current master for all deck wording is the Full Story
+master in `../master/`.

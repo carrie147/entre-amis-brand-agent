@@ -7,17 +7,66 @@ the name is written in copy.
 
 ## Logo
 
+The designer's final logo files are in [`assets/logo/`](assets/logo/README.md),
+with a guide to which file to use where.
+
 ### Master logo `CONFIRMED`
 
-- **The stacked olive caps with the leaf:** `ENTRE` over `AMIS`, bold
-  capitals in olive, with a fine-line leaf/sprig drawn across the letters.
-- This is the current logo. It may be updated and formalised later — when it
-  is, this section is updated first.
+- **The horizontal lockup:** the leaf with its tendril, `ENTRE` in bold
+  capitals and a script `amis`, in deep olive. This is the master logo (founder,
+  29 October 2026, from the designer's final files).
+- `ENTRE` is drawn from Raleway Bold; the script `amis` is drawn from the
+  Malvides font. Both are outlined into shapes in the artwork, so no font file
+  is needed to use the logo. Never retype either part.
+- Use it where the whole mark has room: the app's age gate, front door and save
+  screens, shared and hall screens, the website, decks, print.
+- The earlier stacked olive caps with a fine-line leaf (`ENTRE` over `AMIS`,
+  September 2026) is **retired**. It is kept in
+  [`assets/logo/archive/`](assets/logo/archive/) for the record only and must
+  not be used.
 
-### Not approved `CONFIRMED`
+### Logo set `CONFIRMED`
 
-- The script lockups (`ENTRE` with a script `amis` and flourish, with or
-  without leaf/vine artwork) are **not correct** and must not be used.
+The designer supplied four parts, each in olive, black and white (white is for
+dark backgrounds):
+
+| Part | What it is | File name |
+| --- | --- | --- |
+| Master | Leaf, `ENTRE`, script `amis` | `entre-amis-master-…` |
+| Stacked | Leaf above `ENTRE AMIS` in capitals | `entre-amis-stacked-…` |
+| Leaf | The leaf and its tendril, alone | `entre-amis-leaf-…` |
+| Brand name | `ENTRE AMIS` in capitals, no leaf | `entre-amis-brand-name-…` |
+
+### Small-format mark `CONFIRMED`
+
+- **The leaf is the small mark** (founder, 29 October 2026). There is no
+  letter monogram.
+- In the app it sits on the left of every top bar, in the same place on every
+  way to play.
+- **App icon:** the leaf alone, cream on deep olive. Not the leaf with the
+  name: the words can't be read at app-icon sizes (founder, 29 October 2026).
+- **The Wine of the Day seal** carries the leaf with its tendril, with its words
+  centred between the seal's two rings. **The cork stamp** carries the leaf
+  without its tendril, because the tendril can't be seen at that size (founder,
+  29 October 2026).
+- **The brand name** (`ENTRE AMIS` in capitals) is used small, for example in
+  the app's footer (founder, 29 October 2026).
+- The monogram in the draft stationery (see below) is still **not approved**
+  (founder, 18 October 2026).
+- `PROPOSED` **The monogram is retired** (founder, 5 November 2026). The base
+  small sign-off is the leaf with a small Raleway `ENTRE AMIS` wherever
+  possible. Size may dictate something different.
+
+### Minimum sizes `PROPOSED`
+
+From a readability check on phone screens (29 October 2026), not yet confirmed:
+
+| Part | Smallest size on screen | Why |
+| --- | --- | --- |
+| Master | 120 px wide, ideally 160 px or more | Below this the script `amis` and the thin tendril blur |
+| Stacked | 64 px tall | Below this `ENTRE AMIS` can't be read; use the leaf instead |
+| Brand name | 60–90 px wide | |
+| Leaf | 24 px | At 16 px the tendril and veins disappear; a simpler favicon version is wanted |
 
 ### Name styling in the logo vs copy `CONFIRMED`
 
@@ -28,34 +77,20 @@ the name is written in copy.
 - **Written copy always uses "Entre Amis"** — see
   [`00-brand-core.md`](00-brand-core.md#name).
 
-### Small-format mark `TODO`
-
-A separate small mark is planned for formats where the full stacked logo is
-too big to read. Until it's approved, don't create or improvise one.
-
-To define when it's ready:
-
-- What it is (e.g. monogram, leaf, initials).
-- Where it's used — e.g. app icon, favicon, social avatar, card backs,
-  components, stamps.
-- The size at which you switch from the full logo to the small mark.
-- Approved colour versions.
-
-- `CONFIRMED` A monogram appears in the draft stationery (see below). It is
-  **not approved**: it needs the founder's approval before any use (founder,
-  18 October 2026).
-
-### Still being decided `TODO`
-
-The main logo, the stamp and any visual devices are still being decided by
-the founder (18 October 2026). Until then, use the current master logo and
-don't create new devices.
-
 ### Still needed `TODO`
 
-- Master logo artwork files (SVG / PNG) added to the repo.
-- Clear space, minimum size, and approved colour versions (olive on cream,
-  cream on deep olive, single colour).
+To ask the designer, once the logo is applied in the app (founder, 29 October
+2026):
+
+- Files trimmed to the artwork (the master sits on an A4-sized canvas).
+- A square app icon (the leaf on deep olive) and a 16 / 32 px favicon.
+- The RGB JPGs use a greyer olive (`#636445`) than the PNGs and SVGs
+  (`#565A33`): intended or not?
+- Charcoal (`#35363A`) appears in the RGB JPGs but is not in the Sous-bois
+  palette: is it an official colourway?
+- Print (CMYK) files exist only for the stacked logo and the leaf; the other
+  parts have none yet.
+- Clear space and the full set of approved colour versions.
 
 ## Colour
 
@@ -74,6 +109,12 @@ packaging, partner materials.
 | Light sage | `#B9BC9A` | 185, 188, 154 | 2, 0, 18, 26 | |
 | Cream | `#EFEAE0` | 239, 234, 224 | 0, 2, 6, 6 | |
 | Blush (single accent) | `#E3AC9A` | 227, 172, 154 | 0, 24, 32, 11 | The only accent |
+
+`PROPOSED` **Gold by exception** (founder, 5 November 2026; Open Decision
+Register DEC-01, 1 November 2026). Blush stays the primary highlight. Gold may
+be used only where blush doesn't make sense, by exception and with founder
+approval each time. Which gold (HEX, RGB, CMYK) is `TODO`. Until this is
+confirmed, blush remains the only accent.
 
 ### Expression colours `PROPOSED`
 
@@ -95,6 +136,17 @@ colours are added and game card colours are not used.
 - Brand-level material (no single part of the offer) stays deep olive on
   cream, with no marker.
 - Blush stays the single accent; here its accent role is signalling partners.
+- `CONFIRMED` The app follows this from 24 October 2026 (founder): Partner tastings and Events
+  are marked in blush (rules and markers only; the words beside them stay deep olive), and
+  the rest of the app uses the core colours and Raleway only.
+- `PROPOSED` **Decks follow this too** (founder approved the section colours
+  in the Full Story master, 28 October 2026). Each content slide carries a
+  pill marker, top right, letter-spaced Raleway SemiBold: THE GAME (deep
+  olive, cream text), THE APP (mid olive, white text), STAYS (light sage,
+  deep olive text), PARTNER MODE, EVENT MODE or PARTNER + EVENT (blush, deep
+  olive text). Brand-level slides carry no marker, as above. New: internal
+  slides carry an INTERNAL marker in cream with a deep olive outline and deep
+  olive text, which uses no new colour.
 - If more distinction is wanted later, new colours go to the designer and
   come back here as `PROPOSED`.
 
@@ -124,6 +176,14 @@ family has a fill colour and a darker text colour.
   text comfortably. Founder may override.
 - CMYK values for print: `TODO` — from the designer.
 - The colours on the earlier card-pack prototype are superseded by this table.
+- `PROPOSED` **Cream on the physical game** (founder, 5 November 2026). Every
+  leaf and logo on the card fronts is cream `#EFEAE0`, in every family, Pour
+  included. The Pour card back carries the cream logo. The spinner's family
+  labels are cream. Pour's fill stays ochre gold.
+- `PROPOSED` **The spinner** (founder, 5 November 2026). Version 5, 127 mm,
+  with the vine leaves and colour blocks, is the master. Call it "the
+  spinner": the twelve equal slices set the probability and are not
+  described to players.
 - Word Play olive (`#7A7F5A`) is a game colour, not one of the core olives —
   don't swap them.
 
@@ -151,6 +211,10 @@ Contrast ratios checked against WCAG AA (4.5:1 for normal text):
 
 No other typefaces. The logo is artwork, not typed out — never recreate it in
 Raleway or any other font.
+
+`CONFIRMED` **In the app, small reading text uses Raleway Regular (400)**, because Light is
+too thin to read at phone size. Light stays for large text and display lines (founder,
+24 October 2026).
 
 ### How to use the weights `PROPOSED`
 
@@ -183,6 +247,12 @@ the in-box pieces: QR card (95 mm square), How to Play (two sides, 190 ×
   chosen (founder, 18 October 2026).
 - `CONFIRMED` **Raleway only**, as above. No second typeface for body text
   (founder, 18 October 2026).
-- The designs use the current logo and the unapproved monogram until the
-  logo, stamp and monogram are decided.
+- The designs still show the retired stacked logo and the unapproved
+  monogram; they move to the designer's master logo when they are next revised.
 - QR code, access code, company and contact details are placeholders.
+- `PROPOSED` **In-box print sizes from the production brief** (provisional,
+  for costing; founder, 5 November 2026): instruction card 150 × 150 mm,
+  300 gsm; four guidance cards at A6; activation card 65 × 65 mm with
+  rounded corners; gameplay cards 70 × 121 mm (tarot size), 250–350 gsm, with
+  7 backs. The box is printed, with no belly band. These replace the sizes in
+  the 17 October drafts once confirmed.

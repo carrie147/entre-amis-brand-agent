@@ -48,8 +48,9 @@ comment, a past message, an agent's own judgement), **the Brand Brain wins**.
 | [`01-founder-voice.md`](01-founder-voice.md) | How the founder sounds, and the guardrails for speaking as them |
 | [`02-brand-voice.md`](02-brand-voice.md) | How Entre Amis sounds as a brand, and its guardrails |
 | [`03-guardrails.md`](03-guardrails.md) | Hard rules for all output: claims, responsible drinking, Partner Mode data, pre-publish check |
-| [`04-visual-identity.md`](04-visual-identity.md) | Master logo and the Sous-bois palette (core and game-only colours) |
+| [`04-visual-identity.md`](04-visual-identity.md) | Master logo and the Sous-bois palette (core and game-only colours); logo files in [`assets/logo/`](assets/logo/README.md) |
 | [`05-insight-bank.md`](05-insight-bank.md) | Checked market and consumer insights, and how to use them |
+| [`06-commercial.md`](06-commercial.md) | The commercial home: partner propositions, pricing positions, revenue models, the Clarity relationship and hypotheses to validate (`PROPOSED`) |
 | [`samples/`](samples/) | Real reference writing used as voice benchmarks (not content to reuse) |
 | [`CHANGELOG.md`](CHANGELOG.md) | Every approved change, dated |
 
@@ -74,7 +75,8 @@ ask rather than guess.
 2. `00-brand-core.md` — identity and positioning
 3. `01-founder-voice.md` / `02-brand-voice.md` — voice for the relevant speaker
 4. `04-visual-identity.md` — logo and colour
-5. Everything outside `brand-brain/`
+5. `06-commercial.md` — commercial positions (internal)
+6. Everything outside `brand-brain/`
 
 ## Governance
 

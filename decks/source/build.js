@@ -2,8 +2,8 @@ const pptxgen = require("pptxgenjs");
 const path = require("path");
 const { applyTheme } = require("/root/.claude/skills/synced/5ee89fbe-4dd3-4dd9-b68c-1a3ffd397f5a_b93dcb02-b9f8-4562-a479-8ad578fc1368/pptx/scripts/apply_theme.js");
 
-const LOGO = path.resolve(__dirname, "logo.png"); // 304 x 153
-const LOGO_RATIO = 153 / 304;
+const LOGO = path.resolve(__dirname, "logo-master-olive.png"); // 1600 x 676: designer master logo, 29 Oct 2026
+const LOGO_RATIO = 676 / 1600;
 
 // Sous-bois core colours only (Brand Brain 04). White used as a neutral card fill.
 const HEX = {

@@ -17,6 +17,28 @@ trust and the most risk, so it has the tightest guardrails.
 Only use these facts about Caroline. Do not add, embellish or round them up
 (e.g. never "wine expert", "sommelier", "Master of Wine").
 
+### Founder background as written in the Full Story master `PROPOSED`
+
+Approved by Caroline on 28 October 2026 for the *Why work with Entre Amis*
+slide of the Full Story master deck. Proposed as additions to the confirmed
+facts above:
+
+- **Seniority:** "a senior marketing and commercial leader".
+- **Sectors:** consumer brands, retail, heritage and customer experience.
+- **Wine:** "a passion for wine", in brand copy about Caroline. (The founder
+  voice's proposed avoid list below suggests showing passion rather than
+  stating it; that list is still `PROPOSED`.)
+- **Creative thinking:** a distinctive approach to brand, game design,
+  digital experiences and storytelling, with access to specialist creative
+  and design expertise.
+- **A connected network:** relationships across buying, brand leadership,
+  advertising, design and the arts. Note: the commercial advisory panel in
+  [06](06-commercial.md#commercial-advisory-panel-and-referral-model-proposed)
+  is never described externally and nobody is presented as an adviser; this
+  line describes Caroline's relationships, not a panel.
+- "Over 30 years" stays the figure. The earlier deck wording "more than 25
+  years" is superseded.
+
 ## When the founder voice is used
 
 - First-person (`I`) content signed by or attributed to Caroline: founder

@@ -197,6 +197,12 @@ There are two ways partners take part.
   host and its wines, never a test of the guest — keep "no wrong answers" in
   spirit: answers are revealed as discoveries, and nobody is told they were
   wrong.
+- `PROPOSED` **Quizzes in Event Mode too.** Quizzes are part of Event Mode
+  as well as Partner Mode (founder, 28 October 2026, Full Story master
+  review). The same rule applies: a way of learning about the producers and
+  their wines, never a test; answers are revealed as discoveries. The Event
+  Mode prize draw stays not claimable until the legal check (see the feature
+  status table).
 - **Guest notes belong to the guest.** Sharing them is the guest's choice.
   Notes are not part of partner insight unless the guest consents.
 - **Guest profile:** each guest has an account identified by their email.
@@ -277,6 +283,21 @@ What each one is (founder, 12 October 2026).
 | Game mat (fabric) | No: an optional extra, sold separately, to keep the standard box simpler. Limited or artist editions stay early thinking (see below) and are never described externally. |
 | First Sip card | Yes |
 
+`PROPOSED` **Being costed, not yet in the confirmed box** (founder, 5 November
+2026; production brief sent to a manufacturing partner): 20 cork tokens
+(scoring discs: natural cork or card, 25 mm); a metal medal on a ribbon **or** a metal
+crown bottle stopper (one per game); a metal hand bell **or** desk bell (one
+per game); four A6 guidance cards; an activation card. 140 gameplay cards are
+on the quotes; which 3 cards take the locked deck from 137 to 140 is open for
+the founder to decide.
+
+`PROPOSED` **Why the box carries cork tokens** (founder, 5 November 2026).
+Corks are still printed on the cards, and the cards a player wins are still
+their score. The box also carries cork tokens because some Mischief cards
+need a player to take two corks, which doesn't work without a token. When
+confirmed, the line above that corks "are not separate pieces" needs
+rewording to match.
+
 Quantities, dimensions, materials and finishes belong in the production pack.
 
 ### Feature status — what may be claimed `CONFIRMED`
@@ -302,7 +323,7 @@ not as launched (see Current stage).
 | Partner Mode | Prototype, working live (tested 15 October 2026) | Yes — as in development, to partners only |
 | Event Mode | Prototype, working live (15 October 2026) | Yes — as in development |
 | Event Mode: prize draw for visitors who crown | Built in the prototype | **No** — not until the legal check (UK prize draw rules, CAP, Portman Group) and short terms are done |
-| Partner Mode and Event Mode: reports for businesses | Totals recorded; the screen that shows them is not built | **No** |
+| Partner Mode and Event Mode: reports for businesses | `CONFIRMED` Built in the prototype (16 October 2026): totals are shown only once 5 or more people have taken part, and a producer sees only its own wines. Not yet seen by a partner | **No** |
 | Partner Mode and Event Mode: contact details to businesses | Built in the prototype as unticked boxes, one per business | **No** — the contact rule in [guardrails](03-guardrails.md) is still `PROPOSED` and needs legal review |
 | Provence stays | Later stage | **No** — may only be described as a future ambition, with founder approval |
 
@@ -329,6 +350,16 @@ Proposed here for the founder to confirm; until then the table above stands.
   discovery"; "More discovery. More connection. More understanding."; "More
   value for every vineyard"; "A more connected experience, live on the day";
   "Be the first". Partner use, as written; not general proof points.
+
+### Stays as part of the vision `PROPOSED`
+
+- Entre Amis stays may be referenced as part of the Entre Amis vision
+  (founder, 28 October 2026, Full Story master review). This is the founder
+  approval the feature status table asks for.
+- Always as a future ambition: never as in development, launched, bookable
+  or priced. "Not in development for launch" (the offer table) still stands.
+- Responsible drinking applies: no "pour another glass" or anything about
+  quantity in stays copy.
 
 ## What Entre Amis is not `CONFIRMED`
 
