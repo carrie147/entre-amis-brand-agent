@@ -112,9 +112,13 @@ packaging, partner materials.
 Register DEC-01, 1 November 2026). Blush stays the primary highlight. Gold may
 be used only where blush doesn't make sense, by exception and with founder
 approval each time. Which gold (HEX, RGB, CMYK) is `TODO`: until it is
-chosen, no gold is used.
+chosen, no gold is used. The table scenes in the creative library use a
+working gold on the bell and crown only; it is not a chosen gold and is not
+used anywhere else.
 
-### Expression colours `PROPOSED`
+### Expression colours `CONFIRMED`
+
+Confirmed by the founder, 5 November 2026.
 
 To make it easy to see which part of Entre Amis a slide, page or panel is
 about, each part of the offer is signalled by one **core** colour. No new
@@ -137,7 +141,13 @@ colours are added and game card colours are not used.
 - `CONFIRMED` The app follows this from 24 October 2026 (founder): Partner tastings and Events
   are marked in blush (rules and markers only; the words beside them stay deep olive), and
   the rest of the app uses the core colours and Raleway only.
-- `PROPOSED` **Decks follow this too** (founder approved the section colours
+- `CONFIRMED` **The PowerPoint template follows this** (founder, 5 November
+  2026; template Master v1.0). Each content slide has a full-width bar in the
+  arm's colour along the top edge, with the arm name right-aligned in
+  letter-spaced Raleway SemiBold at 14 pt: THE GAME, THE APP, ENTRE AMIS
+  STAYS, PARTNERS. Brand-level slides carry a plain deep olive bar with no
+  name. The founder chose the bar over the pill as "very clean and slick".
+- `PROPOSED` **Older decks** (founder approved the section colours
   in the Full Story master, 28 October 2026). Each content slide carries a
   pill marker, top right, letter-spaced Raleway SemiBold: THE GAME (deep
   olive, cream text), THE APP (mid olive, white text), STAYS (light sage,
@@ -178,10 +188,18 @@ family has a fill colour and a darker text colour.
   leaf and logo on the card fronts is cream `#EFEAE0`, in every family, Pour
   included. The Pour card back carries the cream logo. The spinner's family
   labels are cream. Pour's fill stays ochre gold.
-- `CONFIRMED` **The spinner** (founder, 5 November 2026). Version 5, 127 mm,
-  with the vine leaves and colour blocks, is the master. Call it "the
-  spinner": the twelve equal slices set the probability and are not
-  described to players.
+- `CONFIRMED` **The spinner** (founder, 5 November 2026). 127 mm, with vine
+  leaves and colour blocks. Call it "the spinner", never "the wheel": the
+  twelve equal slices set the probability and are not described to players.
+- `CONFIRMED` **Spinner Master v1.0** replaces version 5 as the master
+  (founder, 5 November 2026): three larger leaves of different sizes, with the
+  bottom leaf pointing towards P. File: *Entre Amis spinner - Master v1.0* in
+  the creative library.
+- `CONFIRMED` **Card fronts and backs Master v1.0** (founder, 5 November
+  2026): style B fronts with cream leaves, and option C backs (closer shades,
+  with the cream logo and name on every family). Size stays 70 × 120 mm for
+  the design masters; the production size and stock follow the production
+  brief below.
 - Word Play olive (`#7A7F5A`) is a game colour, not one of the core olives —
   don't swap them.
 
@@ -214,6 +232,25 @@ Raleway or any other font.
 too thin to read at phone size. Light stays for large text and display lines (founder,
 24 October 2026).
 
+### Print type scale `PROPOSED`
+
+From the Master v1.0 consistency review (5 November 2026). The founder asked
+for the type scale to be made right, and the creative masters now follow it;
+the scale itself is for confirmation.
+
+- **Sizes (pt):** 7 · 8 · 9 · 11 · 14 · 18 · 24 · 36, with 48, 60 and 72 for
+  display. Nothing below 7 pt.
+- **Small text is deep olive.** Mid olive text on cream (2.95:1) and blush
+  text on cream (1.65:1) fail for normal text. Mid olive only at 24 pt and
+  above; blush text only on deep olive, large or bold.
+- **Light italic only from 10 pt.** Below that, use Regular italic.
+- **Signage and slides** keep their own sizes (they are read from a
+  distance); the colour rules still apply.
+- Open point for the founder: `07` (also `PROPOSED`) asks for 9 pt minimum on
+  captions and 10.5 pt for instructions read during play. The current
+  masters set the How to Play body at 9 pt and the QR card's small lines at
+  7 pt. One of the two needs to give.
+
 ### How to use the weights `PROPOSED`
 
 | Use | Weight | Notes |
@@ -237,8 +274,15 @@ too thin to read at phone size. Light stays for large text and display lines (fo
 
 Draft designs in the founder's *Entre Amis Stationery* canvas (17 October
 2026): letterhead and invoice (A4), printed and embossed business cards, and
-the in-box pieces: QR card (95 mm square), How to Play (two sides, 190 ×
-150 mm) and tasting tips (A6). All fit the 200 × 160 mm box.
+the in-box pieces: QR card, How to Play and tasting tips (A6). All fit the
+200 × 160 mm box.
+
+- `CONFIRMED` **In-box formats for the design masters** (founder, 5 November
+  2026): the How to Play card is square, 150 × 150 mm, two sides ("square is
+  going to look more impactful"); the QR card follows the production brief at
+  65 × 65 mm with rounded corners. The 190 × 150 mm How to Play and the
+  95 mm QR card are retired. Stock and finish stay with the production brief
+  below.
 
 - `CONFIRMED` **Blush is the highlight** on stationery and print, as in the
   core palette, with gold only by exception and with founder approval (founder,

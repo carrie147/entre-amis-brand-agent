@@ -25,6 +25,9 @@ What Entre Amis is, and what it isn't. Everything else builds on this file.
   'between friends'") where helpful.
 - `CONFIRMED` "Among friends" may also be used to explain the name. The two are
   interchangeable; "between friends" remains the default.
+- `CONFIRMED` **Web address: entreamis.co.uk** (founder, 5 November 2026).
+  Written in lower case, with no `www.` or `https://`. Email addresses and other
+  contact details stay placeholders until the founder supplies them.
 
 ## Current stage `CONFIRMED`
 
