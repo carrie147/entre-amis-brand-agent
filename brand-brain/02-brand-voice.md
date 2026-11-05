@@ -120,7 +120,7 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | **The Bin** | Where cards go when they aren't won or are lost |
 | **The Final Pour** | The end of the game |
 | **Spin, Draw, Play, Pass** | The four steps of a turn |
-| **Wheel / spinner, game mat** | Game components. The game mat is fabric. Call it "game mat", never "cloth" (the first How to Play guide needs updating). |
+| **Spinner, game mat** | Game components. `CONFIRMED` Always "the spinner", never "the wheel": the turn step is "Spin the spinner" (founder, 5 November 2026). The game mat is fabric. Call it "game mat", never "cloth" (the first How to Play guide needs updating). |
 | **Wine fact** | `CONFIRMED` The label for a wine fact on a card. Always "Wine fact", never "Wine bit" (founder, 5 November 2026). |
 | **Wine 101** | Wine facts and help with wine in general, like a directory — see [Wine 101 and My wines](00-brand-core.md#wine-101-and-my-wines-confirmed) |
 | **My wines** | The guest's personal record of tastings, favourites, events and experiences, in their account |

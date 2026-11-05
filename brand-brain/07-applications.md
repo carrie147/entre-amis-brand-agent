@@ -4,7 +4,8 @@ How the visual identity in [`04-visual-identity.md`](04-visual-identity.md)
 is applied to company documents, the printed pieces in the game box, and
 presentations. Where anything here conflicts with `04`, `04` wins.
 
-> Everything in this file is `PROPOSED`. It carries forward the parts of the
+> Everything in this file is `PROPOSED` unless a section is marked
+> `CONFIRMED`. It carries forward the parts of the
 > 17 October 2026 drafts (closed PR #7) that still stand after the founder's
 > decisions of 5 November 2026. Nothing here may be used as final output
 > until the founder confirms it.
@@ -72,6 +73,20 @@ clearance.
 - Copy on these pieces follows `00`, `02` and `03`: corks, never points; a
   single glass is enough; no fixed time of day.
 
+## PowerPoint template Master v1.0 `CONFIRMED`
+
+Locked in by the founder as Master v1.0 (5 November 2026): *Entre Amis
+PowerPoint template - Master v1.0.pptx* in the creative library.
+
+- **Type scale** (founder: "Agree on sizing", checked for reading on a
+  laptop and when projected): display 48 pt, slide title 40 pt, subtitle and
+  card heading 24 pt, body 20 pt, card text and bullets 18 pt (the smallest
+  text people read), labels and chart axes 14 pt, footer and slide number
+  12 pt. Titles in Raleway Light, body in Raleway Regular.
+- **Arm bars:** see expression colours in `04`.
+- Web address on the closing slide: entreamis.co.uk. Other contact details
+  are placeholders.
+
 ## Presentations `PROPOSED` (records the styling as built in the deck source)
 
 The decks are built from [`decks/source/build.js`](../decks/source/build.js),
@@ -89,4 +104,60 @@ which is the reference for deck styling:
   there).
 - Blush-bordered boxes are review flags and are removed before sharing.
 
-Confirming this section makes it the house style for future decks.
+Confirming this section makes it the house style for future decks. Where it
+differs from the PowerPoint template Master v1.0 above, the template wins.
+
+## Creative library Master v1.0 `CONFIRMED`
+
+Banked by the founder on 5 November 2026. Banked means these are the agreed
+design masters to build from. It does not mean production artwork: print
+files and specifications follow the production brief, and nothing here is
+marked production-ready.
+
+| Set | What it holds |
+| --- | --- |
+| The game | Card fronts and backs, spinner, table scenes (see `04`) |
+| Stationery and in-box print | Letterhead, invoice, printed and embossed business cards, QR card 65 mm, tasting tips card |
+| How to Play | 150 × 150 mm card, two sides. Wording is the current draft: "Spin the spinner" |
+| PowerPoint template | As above |
+| Everyday brand | Compliment slip, email signature, A4 document template, DL envelope, mailing label, A6 note card, three stickers (olive seal, cream line, blush box seal) |
+| Digital starter set | Profile icon, app icon (cream leaf on deep olive), favicon, link preview, four social posts, three stories. To evolve once full photography and lifestyle imagery exist |
+| Partner and event | Five partner slides, pull-up banner, A1 poster, QR counter sign, table tent, A3 wayfinding sign, 5 × 7 in invitation, A4 one-pager. Placeholder wording on signage is fine for now (founder) |
+| Co-brand lockup | Kept as a benchmark (see below) |
+
+- Simplify, but not overly (founder, 5 November 2026): pieces were pared back
+  to fewer decorations, and partner and How to Play pieces lost their extra
+  watermarks and detail lines.
+- The library lives in the project's creative library folder
+  (`masters/v1.0/`), with a single overview PDF: *Entre Amis Master v1.0
+  creative library - 5 Nov 2026.pdf*. Retired and superseded pieces are kept
+  there in their own folders, not deleted.
+
+### Co-brand lockup (benchmark) `PROPOSED`
+
+Kept as a Master v1.0 benchmark by the founder (5 November 2026). The rules
+are for confirmation:
+
+- **A, side by side:** both logos at equal visual height, a blush divider,
+  clear space equal to the leaf height.
+- **B, partner leads:** the partner's logo first; Entre Amis endorses with the
+  leaf and `ENTRE AMIS`.
+- Logos of any shape are matched by height. On deep olive, use a one-colour
+  partner logo, or put a full-colour one on a cream panel. Never recolour a
+  partner's logo, and never put it on blush.
+- The "with" and "Hosted by" wording is a placeholder.
+
+### Consistency rules from the Master v1.0 review `PROPOSED`
+
+- **One accent, one decoration, one message per surface.** The accent is a
+  blush rule, bubble or badge; the decoration is a leaf watermark, scattered
+  leaves, a tilted card or the spinner. Leaf watermarks on covers and hero
+  pieces only. At most one scattered leaf per social post, none behind text.
+- **One small sign-off:** the master logo where it fits, otherwise the leaf
+  with `ENTRE AMIS` in a line (`04`); the stacked logo for square spaces only.
+- **One top bar:** print uses a 3 mm deep olive bar, with the blush hairline on
+  the letterhead family only; slides as the template; digital has none.
+- `ENTRE AMIS` letter spacing 0.2 em everywhere.
+- **Three corner radii:** small (labels and stickers), medium (cards and
+  panels), large (bubbles).
+- Short blush rules on covers, dividers and quotes only.
