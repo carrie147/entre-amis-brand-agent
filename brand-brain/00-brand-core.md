@@ -283,6 +283,21 @@ What each one is (founder, 12 October 2026).
 | Game mat (fabric) | No: an optional extra, sold separately, to keep the standard box simpler. Limited or artist editions stay early thinking (see below) and are never described externally. |
 | First Sip card | Yes |
 
+`PROPOSED` **Being costed, not yet in the confirmed box** (founder, 5 November
+2026; production brief sent to a manufacturing partner): 20 cork tokens
+(scoring discs: natural cork or card, 25 mm); a metal medal on a ribbon **or** a metal
+crown bottle stopper (one per game); a metal hand bell **or** desk bell (one
+per game); four A6 guidance cards; an activation card. 140 gameplay cards are
+on the quotes; which 3 cards take the locked deck from 137 to 140 is open for
+the founder to decide.
+
+`PROPOSED` **Why the box carries cork tokens** (founder, 5 November 2026).
+Corks are still printed on the cards, and the cards a player wins are still
+their score. The box also carries cork tokens because some Mischief cards
+need a player to take two corks, which doesn't work without a token. When
+confirmed, the line above that corks "are not separate pieces" needs
+rewording to match.
+
 Quantities, dimensions, materials and finishes belong in the production pack.
 
 ### Feature status — what may be claimed `CONFIRMED`
