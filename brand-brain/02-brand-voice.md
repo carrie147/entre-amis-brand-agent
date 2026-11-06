@@ -15,6 +15,12 @@ then, where a piece needs a brand-level line, use supporting line 1.
 "Where human connection thrives." is the brand purpose and is **not** a
 consumer line (see [brand purpose](00-brand-core.md#brand-purpose-confirmed)).
 
+`PROPOSED` **Brand line: "The setting changes. The spirit never does."**
+(founder, 6 November 2026, website mock-up review: "Leave The setting changes.
+The spirit never does as the brand line."). Supporting line 1 becomes the line
+for the whole brand. To confirm here; until then the rule above stands, which
+uses the same line.
+
 ### Game line `CONFIRMED`
 
 > **Talk. Laugh. Remember.**
