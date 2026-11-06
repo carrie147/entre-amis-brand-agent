@@ -163,9 +163,13 @@ colours are added and game card colours are not used.
 - `CONFIRMED` **The PowerPoint template follows this** (founder, 5 November
   2026; template Master v1.0). Each content slide has a full-width bar in the
   arm's colour along the top edge, with the arm name right-aligned in
-  letter-spaced Raleway SemiBold at 14 pt: THE GAME, THE APP, ENTRE AMIS
+  Raleway SemiBold at 14 pt: THE GAME, THE APP, ENTRE AMIS
   STAYS, PARTNERS. Brand-level slides carry a plain deep olive bar with no
   name. The founder chose the bar over the pill as "very clean and slick".
+- `CONFIRMED` **No letter spacing on slides** (founder, 6 November 2026).
+  Slides and the PowerPoint template use normal letter spacing everywhere,
+  including the arm bars, labels and section numbers, because Google Slides
+  cannot show it. Labels keep SemiBold capitals.
 - `PROPOSED` **Older decks** (founder approved the section colours
   in the Full Story master, 28 October 2026). Each content slide carries a
   pill marker, top right, letter-spaced Raleway SemiBold: THE GAME (deep
