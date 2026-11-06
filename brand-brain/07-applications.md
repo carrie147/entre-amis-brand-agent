@@ -162,3 +162,25 @@ are for confirmation:
 - **Three corner radii:** small (labels and stickers), medium (cards and
   panels), large (bubbles).
 - Short blush rules on covers, dividers and quotes only.
+
+## Website `PROPOSED`
+
+Founder decisions on the website mock-up (6 November 2026), recorded here to
+confirm. The mock-up is a draft; none of its copy is approved.
+
+- **Brand line on the home page:** "The setting changes. The spirit never
+  does." (see [02](02-brand-voice.md#brand-line-and-supporting-lines)).
+- **Age gate:** essential. The website opens with an 18+ screen, as the app
+  does.
+- **Email sign-up:** yes, "Keep me posted". A privacy notice is to be
+  developed first; no email is collected until it exists.
+- **Partner page:** a public Partners page (Partner Mode and Event Mode), with
+  a gated partner area to follow in time.
+- **Prices:** none on the website for now, the £40 RRP included. How the game
+  is sold (direct or another way) is to be decided later.
+- **Founder note:** Caroline writes the note on the Our story page herself.
+- **No Entre Amis stays content** on the website.
+- **French:** the founder likes the everyday French touches (e.g. *bientôt*)
+  and wants more of them, within the brand voice mechanics in
+  [02](02-brand-voice.md#mechanics).
+
