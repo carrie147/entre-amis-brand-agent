@@ -96,8 +96,9 @@ which is the reference for deck styling:
 - Theme colours: deep olive (text and dark), white and cream (light), mid
   olive, light sage and blush as accents. Game family colours only on the
   slide that explains the card families.
-- Raleway Light for titles (36 pt) and subtitles (18 pt); Raleway SemiBold,
-  letter-spaced, for labels.
+- Raleway Light for titles (36 pt) and subtitles (18 pt); Raleway SemiBold
+  for labels, with no letter spacing (founder, 6 November 2026: Google
+  Slides cannot show it; see `04`).
 - Content slides carry the master logo (29 October 2026) bottom right and a
   short line bottom left at 10 pt, with the slide number.
 - Expression markers for each part of the offer follow `04` (`PROPOSED`
