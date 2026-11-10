@@ -182,6 +182,16 @@ never imply a partnership that isn't confirmed).
   introductions and opportunities through The Commercial Eye. Exploratory
   only.
 
+- `PROPOSED` **Mirabeau conversation (24 November 2026).** Caroline and
+  Pete are meeting Stephen from Mirabeau for an informal, exploratory
+  conversation: to share the concept, show what exists and ask for his honest
+  advice and industry perspective. Not an investment pitch, a proposal, or a
+  request to invest in or buy the business. No partnership exists or is
+  implied, and Mirabeau's illustrative use in the themed editions work below
+  is never shown to him. Working preparation notes:
+  [`decks/mirabeau-24-nov-2026/`](../decks/mirabeau-24-nov-2026/README.md)
+  (founder brief, 10 November 2026).
+
 ### Terms from the commercial pack
 
 Moved here from the draft commercial pack (founder, 23 October 2026). The
