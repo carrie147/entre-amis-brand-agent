@@ -71,8 +71,8 @@ of the same day.
      wine industry?
   2. What would you challenge or want us to prove?
   3. Who do you think we should be speaking to?
-- Pete receives the eight slides as a PDF, and the video storyboard
-  separately, by Thursday 12 November.
+- Pete receives the eight slides as a PDF by Thursday 12 November (see the
+  deadline clarification below: the video storyboard is not due then).
 - A clearly labelled Mirabeau meeting-specific copy in the existing Google
   Drive folder is agreed in principle. The Full Story remains the single
   comprehensive master. Neither is to be edited or made until Caroline
@@ -127,6 +127,15 @@ Production still waits for Caroline's separate authorisation.
    still being gathered. Not evidence for the Brand Brain proof points.
 
 Full detail: [Mirabeau conversation: 8 slides and video plan (DRAFT)](https://claude.ai/artifact/LywJYo9jVtLauvWYo62dD4).
+
+## Deadline clarification (Caroline, 10 November 2026, 12:50)
+
+Thursday 12 November is the deadline for the **eight-slide presentation only**:
+first for Caroline's review, then as a PDF to share with Pete. The
+customer-experience video (and its storyboard) is a separate workstream,
+developed and reviewed ahead of the meeting on 24 November; it stays placed
+between slides 7 and 8. All other slide decisions and approval boundaries are
+unchanged, and the Full Story master stays untouched.
 
 ## Sources preserved
 
