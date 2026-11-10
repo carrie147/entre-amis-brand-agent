@@ -106,11 +106,25 @@ changed. Brand Master v1.0 only; no Circle of Friends or alternative game
 names. Pete gets the eight-slide PDF and the storyboard by Thursday
 12 November, once production is authorised.
 
-Points flagged back to Caroline (not decided here): slide 2's headline
-repeats its title; Brand Brain spelling "Just tasting" and "My wines"; whether
-slide 6 keeps "fee, agreed with you"; slide 6's closing insight line; and
-that the Brand Brain still records £40 as the CONFIRMED price, so a pricing
-review would need a PROPOSED change there.
+## Final decisions on the flagged points (Caroline, 10 November 2026, 12:48)
+
+Approve the wording and direction for the Mirabeau meeting version only.
+Production still waits for Caroline's separate authorisation.
+
+1. Slide 2: title "People love sharing wine"; headline "They don't always
+   feel confident talking about it."
+2. Use the approved "Just tasting" and "My wines" throughout.
+3. Slide 6 keeps the Partner and Event fee references, presented as proposed
+   commercial arrangements, not existing contracts. No prices or projections.
+4. Slide 6 closing line: "With the potential to learn more about what
+   visitors genuinely think." A proposed benefit, not a proven outcome.
+5. No RRP anywhere in the Mirabeau version. £45 is a working alternative to
+   the recorded £40 (see `brand-brain/06-commercial.md`, Price under review,
+   `PROPOSED`). No permanent pricing decision; CONFIRMED pricing unchanged.
+6. Slide 7 keeps "Initial physical-game playtesting completed." Context: a
+   two-person game was played on 7 November 2026 using an earlier card set.
+   Initial experience testing, not validation of the final game; feedback is
+   still being gathered. Not evidence for the Brand Brain proof points.
 
 Full detail: [Mirabeau conversation: 8 slides and video plan (DRAFT)](https://claude.ai/artifact/LywJYo9jVtLauvWYo62dD4).
 

@@ -108,6 +108,14 @@ Already `CONFIRMED` elsewhere in the Brand Brain:
 - The game is a playable prototype; nothing is launched —
   [00](00-brand-core.md#current-stage-confirmed).
 
+### Price under review `PROPOSED`
+
+Founder, 10 November 2026 (Mirabeau meeting preparation). **£45 is a
+working alternative** to the £40 RRP currently recorded as `CONFIRMED` in
+[00](00-brand-core.md#current-stage-confirmed). No permanent pricing decision
+has been made, and £40 stays the confirmed price until the founder separately
+authorises a change there. No RRP appears in the Mirabeau meeting version.
+
 ### Licensing rule `CONFIRMED`
 
 > Any licensing deal is about finding the best commercial route for the
