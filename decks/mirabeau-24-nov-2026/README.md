@@ -83,28 +83,36 @@ of the same day.
 - Objective unchanged: a credible, interesting conversation showing a serious
   business solving a real problem; not an investment or acquisition pitch.
 
-## Recommendations (revised draft, 10 November 2026, awaiting approval)
+## Consolidated amendments (Caroline, 10 November 2026, 12:46)
 
-Full detail and exact copy changes:
-[Mirabeau conversation: 8 slides and video plan (DRAFT)](https://claude.ai/artifact/LywJYo9jVtLauvWYo62dD4).
-Summary:
+These supersede the earlier decisions above where they differ. Production
+(the meeting copy, the PDF, any export) waits for Caroline's explicit
+authorisation.
 
-| # | Slide | Built from | Status |
+| # | Slide | From | Agreed treatment |
 | --- | --- | --- | --- |
-| 1 | Why now | 40 | Retained, trimmed |
-| 2 | What we often hear (people love sharing wine) | 3 | Retained, figures, quote and source line removed |
-| 3 | Conversation, not knowledge. | 4 | Retained, unchanged |
-| 4 | The game, and the app beside it | 11 + 12, lines from 39 and 13 | Combined |
-| 5 | Your wines, your story. We add the conversation. | 15 + steps from 16 | Combined |
-| 6 | One brand. Three ways to take part. | 37 + stays line from 7 | Combined |
-| 7 | Where we are today (Created, Testing, Next to prove) | New, from 38 and 39 | New |
-| - | Video, about 100 seconds | - | Plays here |
-| 8 | We'd value your view | New | New |
+| 1 | Why now | 40 | Title, subtitle, DIGITAL EVERYWHERE and TIME TOGETHER panels kept; long paragraph and MEMORIES THAT LAST removed. An opening perspective, not a statistical claim. |
+| 2 | People love sharing wine | 3 | Title "People love sharing wine". Headline "People love sharing wine. They don't always feel confident talking about it." Opportunity panel: "Help people explore, talk about and remember the wines they enjoy, without needing to be an expert." (an intended benefit). 78%, 56%, quote and source line removed. |
+| 3 | Conversation, not knowledge. | 4 | Unchanged. |
+| 4 | The game, and the app beside it | 11 + 12 | Visually led, game and app side by side. Game: premium table game for gifting and sharing, 2-8 players; cards, Secret Missions, spinner and crown; corks for conversation, not drinking; complete without the app. App: Hosts and Guests play together; guides the game and supports the table; Just tasting, Wine 101 and My wines. Status: game a playable prototype, app in private testing. Not to imply manufacture or availability, or that My wines saves everything. |
+| 5 | Your wines, your story. We add the conversation. | 15 + 16 | Proposition and four boxes kept; five-step tasting as a small strip; causal line removed; Partner Mode a working prototype not yet used with a commercial partner; Useful insight as a proposed capability. No sales, loyalty or performance claims. |
+| 6 | One brand. Three ways to take part. | 37 | Partner experiences; Event experiences; The game and app. **No RRP** (not £40, not £45; consumer pricing under review). **No Entre Amis stays** in this deck. No projections, prices, commitments or validated outcomes. |
+| 7 | Where we are today | New | CREATED: playable physical-game prototype; connected app with Host and Guest journeys, Just tasting, Wine 101 and My wines; Partner Mode and Event Mode as working prototypes; brand and creative Master v1.0. TESTING: controlled private app beta with invited testers; founder-verified Host and Guest journeys; initial physical-game playtesting completed. NEXT TO PROVE: player enjoyment, repeat use and willingness to host; value to vineyards, producers and event organisers; the right commercial route for the physical game. No tester count or unverified outcomes. |
+| - | Video | - | About 100 seconds, between slides 7 and 8; real people and genuine app screens; silent. No filming schedule or production yet. |
+| 8 | We'd value your view | New | Exactly the three questions; no investment, acquisition or terms; stays on screen. |
 
-Video: about 100 seconds, silent with burned-in captions, built around one
-filmed real game and a fresh screen recording of the current app build. The
-28 October play-through is reusable for structure only (its screens predate
-Master v1.0 in the app and use retired wording).
+Governance: the Full Story stays the single 51-slide master and is not
+changed. Brand Master v1.0 only; no Circle of Friends or alternative game
+names. Pete gets the eight-slide PDF and the storyboard by Thursday
+12 November, once production is authorised.
+
+Points flagged back to Caroline (not decided here): slide 2's headline
+repeats its title; Brand Brain spelling "Just tasting" and "My wines"; whether
+slide 6 keeps "fee, agreed with you"; slide 6's closing insight line; and
+that the Brand Brain still records £40 as the CONFIRMED price, so a pricing
+review would need a PROPOSED change there.
+
+Full detail: [Mirabeau conversation: 8 slides and video plan (DRAFT)](https://claude.ai/artifact/LywJYo9jVtLauvWYo62dD4).
 
 ## Sources preserved
 
