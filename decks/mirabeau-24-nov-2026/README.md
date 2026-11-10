@@ -52,25 +52,57 @@ of the same day.
 - Must work **without sound** (public space) and play **locally on a laptop**.
 - At this stage: no generated images, no video production, no app changes.
 
-## Recommendations (draft, 10 November 2026)
+## Caroline's decisions (10 November 2026, after review)
 
-Full detail, for Caroline's approval:
+- Open with both the wider opportunity and the consumer problem: Full Story
+  **40** Why now, then **3** Early consumer insight (problem and opportunity
+  message kept; the 78% and 56% figures and the respondent quote removed from
+  the meeting version), then **4** Conversation, not knowledge, as the
+  response. The three work as one opening without repetition.
+- Still no more than eight slides. The other five keep the strongest of: the
+  game and the app; why Entre Amis matters to producers; the broader business
+  and commercial potential (the commercial story is not dropped); where we are
+  today; an invitation for Stephen's advice.
+- Entre Amis stays only as a clearly labelled future ambition.
+- Progress slide headings: **Created**, **Testing**, **Next to prove**. No
+  tester count.
+- Closing slide headed **"We'd value your view"** with three questions:
+  1. Where do you see the greatest opportunity for something like this in the
+     wine industry?
+  2. What would you challenge or want us to prove?
+  3. Who do you think we should be speaking to?
+- Pete receives the eight slides as a PDF, and the video storyboard
+  separately, by Thursday 12 November.
+- A clearly labelled Mirabeau meeting-specific copy in the existing Google
+  Drive folder is agreed in principle. The Full Story remains the single
+  comprehensive master. Neither is to be edited or made until Caroline
+  approves the final structure and wording.
+- Video: keep the 100-second customer-experience approach, with real people
+  and the actual app at its centre, shown before the closing slide. No
+  filming schedule committed and nothing produced yet.
+- Objective unchanged: a credible, interesting conversation showing a serious
+  business solving a real problem; not an investment or acquisition pitch.
+
+## Recommendations (revised draft, 10 November 2026, awaiting approval)
+
+Full detail and exact copy changes:
 [Mirabeau conversation: 8 slides and video plan (DRAFT)](https://claude.ai/artifact/LywJYo9jVtLauvWYo62dD4).
 Summary:
 
-| # | Theme | Full Story slide | Use |
+| # | Slide | Built from | Status |
 | --- | --- | --- | --- |
-| 1 | Problem and opportunity | 3 Early consumer insight (or 40 Why now) | Amend: survey figures and quote out unless Caroline decides otherwise |
-| 2 | Vision | 4 Conversation, not knowledge. | Unchanged |
-| 3 | Physical game | 11 The physical game | Add "A playable prototype" (from 39); flag "beautifully made", "premium packaging" |
-| 4 | App | 12 One app, wherever Entre Amis happens | Add a stage marker; Partner and Event Mode as prototypes |
-| 5 | Vineyard opportunity | 15 Your wines, your story | Qualify insight: reports for businesses are not claimable |
-| 6 | Broader business | 7 One connected brand, two audiences | Light: consider removing the "personalisation" strip; stays as the vision |
-| 7 | Progress | New, from 38, 39, 48 | New wording, facts confirmed by Caroline |
-| 8 | The conversation | New | Three open questions; no ask, prices or terms |
+| 1 | Why now | 40 | Retained, trimmed |
+| 2 | What we often hear (people love sharing wine) | 3 | Retained, figures, quote and source line removed |
+| 3 | Conversation, not knowledge. | 4 | Retained, unchanged |
+| 4 | The game, and the app beside it | 11 + 12, lines from 39 and 13 | Combined |
+| 5 | Your wines, your story. We add the conversation. | 15 + steps from 16 | Combined |
+| 6 | One brand. Three ways to take part. | 37 + stays line from 7 | Combined |
+| 7 | Where we are today (Created, Testing, Next to prove) | New, from 38 and 39 | New |
+| - | Video, about 100 seconds | - | Plays here |
+| 8 | We'd value your view | New | New |
 
-Video: about 100 seconds, silent with burned-in captions, built from one
-filmed real game plus a fresh screen recording of the current app build. The
+Video: about 100 seconds, silent with burned-in captions, built around one
+filmed real game and a fresh screen recording of the current app build. The
 28 October play-through is reusable for structure only (its screens predate
 Master v1.0 in the app and use retired wording).
 
