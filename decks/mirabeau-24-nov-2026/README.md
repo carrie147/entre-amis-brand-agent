@@ -152,3 +152,10 @@ unchanged, and the Full Story master stays untouched.
 - The exploratory Circle of Friends naming ideas are **not** implemented
   here or anywhere else.
 - No approved brand decision is changed, restructured or replaced.
+
+## Update, 10 Nov 2026 (evening)
+
+- Final meeting deck: Caroline's edited version, renamed "ENTRE AMIS – Mirabeau conversation – 24 Nov 2026 – FINAL (meeting deck, not the master)" (Drive id 1XFDxPKay6z_KxTycvJ0vvoHL8BHwAJPNq7u_Royuhz4). Nine slides.
+- The original meeting copy (1pw9SJzDa5aFxk49BrkMRObPx9SAdvidQxLYm7nHl0b4) is renamed ARCHIVE and kept unchanged.
+- The Full Story master is unchanged. None of the Mirabeau wording goes into the Full Story.
+- Two mini films replace the single video: a consumer run-through (Host + Guest) after slide 5, and a Partner Mode run-through (Guest + hall screen) after slide 6. The frame lists are in [mini-films-frame-lists.md](mini-films-frame-lists.md).
