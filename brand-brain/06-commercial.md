@@ -181,7 +181,6 @@ never imply a partnership that isn't confirmed).
   product and retail expertise when assessing proposals; exploring
   introductions and opportunities through The Commercial Eye. Exploratory
   only.
-
 - `PROPOSED` **Mirabeau conversation (24 November 2026).** Caroline and
   Pete are meeting Stephen from Mirabeau for an informal, exploratory
   conversation: to share the concept, show what exists and ask for his honest
