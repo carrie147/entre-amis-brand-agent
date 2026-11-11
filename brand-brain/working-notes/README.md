@@ -10,6 +10,10 @@ so they are built on it, but **nothing in this folder is truth**.
   `CONFIRMED` wording, the numbered file stays the source; where it needs
   something that isn't there, it flags the gap.
 - These are not production priorities. They change no deck, slide or asset.
+- **Status (founder, 11 November 2026):** both notes are banked as internal
+  references for future decisions, with the founder's decisions recorded in
+  each. No further strategic development is needed at this stage. They stay
+  `PROPOSED` until moved into the numbered files.
 
 | Note | What it is | Added |
 | --- | --- | --- |

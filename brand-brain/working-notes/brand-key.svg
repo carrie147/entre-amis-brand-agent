@@ -3,7 +3,7 @@
   <rect width="1200" height="1120" fill="#F6F1E7"/>
 
   <text x="40" y="52" font-size="28" font-weight="700" fill="#565A32">Entre Amis Brand Key</text>
-  <text x="40" y="80" font-size="15" fill="#565A32">PROPOSED working note · existing strategy only · not for use · 11 November 2026</text>
+  <text x="40" y="80" font-size="15" fill="#565A32">PROPOSED working note · internal reference · not for use · 11 November 2026</text>
   <text x="40" y="100" font-size="12" fill="#8B8B5C">Frame: Brand Key model, Beloved Brands. Internal thinking tool.</text>
 
   <!-- legend -->
@@ -21,14 +21,14 @@
 
   <!-- 6 Values (top left) -->
   <g fill="#565A32" transform="translate(-40,20)">
-    <rect x="392" y="196" width="22" height="22" rx="4" fill="#E3AC9A"/><text x="403" y="212" font-size="13" font-weight="700" text-anchor="middle">6</text>
+    <rect x="392" y="196" width="22" height="22" rx="4"/><text x="403" y="212" font-size="13" font-weight="700" fill="#F6F1E7" text-anchor="middle">6</text>
     <text x="422" y="213" font-size="16" font-weight="700">Values</text>
     <text x="400" y="240" font-size="12.5">Wine is for everyone</text>
     <text x="400" y="258" font-size="12.5">Finding the right one</text>
     <text x="400" y="276" font-size="12.5">No expertise, no judgement</text>
     <text x="400" y="294" font-size="12.5">Meaningful occasions,</text>
     <text x="400" y="310" font-size="12.5">not more drinking</text>
-    <text x="400" y="334" font-size="11" font-style="italic">Decision: use as values?</text>
+    <text x="400" y="334" font-size="11" font-style="italic">Founder choice, 11 Nov</text>
   </g>
 
   <!-- 7 RTB (top right) -->
@@ -40,8 +40,9 @@
     <text x="808" y="276" font-size="12.5" text-anchor="end">A single glass is enough</text>
     <text x="808" y="296" font-size="12.5" text-anchor="end">18+, age-gated app</text>
     <text x="808" y="316" font-size="12.5" text-anchor="end">Founder: 30+ yrs, WSET L3</text>
-    <rect x="652" y="324" width="160" height="20" rx="4" fill="none" stroke="#565A32" stroke-dasharray="3 2"/>
-    <text x="732" y="338" font-size="11" font-style="italic" text-anchor="middle">No playtest evidence yet</text>
+    <rect x="656" y="324" width="156" height="36" rx="4" fill="none" stroke="#565A32" stroke-dasharray="3 2"/>
+    <text x="734" y="338" font-size="11" font-style="italic" text-anchor="middle">Early playtests done;</text>
+    <text x="734" y="352" font-size="11" font-style="italic" text-anchor="middle">formal feedback outstanding</text>
   </g>
 
   <!-- 5 Benefits (bottom left) -->
@@ -65,9 +66,9 @@
     <text x="808" y="432" font-size="12.5" text-anchor="end">Opinion wins corks,</text>
     <text x="808" y="448" font-size="12.5" text-anchor="end">not knowledge</text>
     <text x="808" y="468" font-size="12.5" text-anchor="end">No wrong answers</text>
-    <text x="808" y="488" font-size="12.5" text-anchor="end">One account, home</text>
-    <text x="808" y="504" font-size="12.5" text-anchor="end">to partner tasting</text>
-    <text x="808" y="524" font-size="12.5" text-anchor="end">Consent-first insight</text>
+    <text x="808" y="488" font-size="12.5" text-anchor="end">One account across</text>
+    <text x="808" y="504" font-size="12.5" text-anchor="end">modes (intended)</text>
+    <text x="808" y="524" font-size="12.5" text-anchor="end">Consent-first insight (intended)</text>
     <text x="800" y="550" font-size="11" font-style="italic" text-anchor="end">"Only" or "first" = claim</text>
   </g>
 
@@ -78,7 +79,7 @@
   <text x="600" y="336" font-size="13" font-weight="600" fill="#F6F1E7" text-anchor="middle">BRAND IDEA</text>
   <text x="600" y="364" font-size="18" font-weight="700" fill="#F6F1E7" text-anchor="middle">Conversation,</text>
   <text x="600" y="386" font-size="18" font-weight="700" fill="#F6F1E7" text-anchor="middle">not knowledge</text>
-  <text x="600" y="412" font-size="11" font-style="italic" fill="#F6F1E7" text-anchor="middle">Why: where human</text>
+  <text x="600" y="412" font-size="11" font-style="italic" fill="#F6F1E7" text-anchor="middle">Purpose: where human</text>
   <text x="600" y="426" font-size="11" font-style="italic" fill="#F6F1E7" text-anchor="middle">connection thrives</text>
   </g>
 
@@ -121,10 +122,10 @@
     <rect x="452" y="812" width="22" height="22" rx="4"/><text x="463" y="828" font-size="13" font-weight="700" fill="#F6F1E7" text-anchor="middle">1</text>
     <text x="482" y="829" font-size="16" font-weight="700">Root strength</text>
     <text x="600" y="852" font-size="12.5" text-anchor="middle">Founder's brand and wine expertise; game, app and partner modes</text>
-    <text x="600" y="868" font-size="12.5" text-anchor="middle">built and tested as prototypes · not yet proven in play</text>
+    <text x="600" y="868" font-size="12.5" text-anchor="middle">built as prototypes · initial playtests done, validation outstanding</text>
   </g>
 
   </g>
   </g>
-  <text x="40" y="1095" font-size="12" fill="#8B8B5C">Draft for founder review. Every answer comes from CONFIRMED Brand Brain content (00, 02, 05); nothing new is written. Full sources in brand-key.md.</text>
+  <text x="40" y="1095" font-size="12" fill="#8B8B5C">Banked as an internal reference (founder, 11 November 2026). Every answer comes from CONFIRMED Brand Brain content (00, 02, 05); nothing new is written. Full sources in brand-key.md.</text>
 </svg>

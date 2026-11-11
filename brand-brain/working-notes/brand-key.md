@@ -1,7 +1,8 @@
 # Entre Amis Brand Key `PROPOSED`
 
-> **Working note, banked for later.** Founder request, 11 November 2026. Not
-> confirmed, not for output, not a new brand platform.
+> **Working note, banked as an internal reference** (founder, 11 November
+> 2026). Not confirmed, not for output, not a new brand platform. No further
+> strategic development is needed at this stage.
 >
 > The frame is the Brand Key model by Beloved Brands (reference image supplied
 > by the founder): 1 Root strength, 2 Competition, 3 Target, 4 Consumer
@@ -21,15 +22,15 @@
 
 | # | Box | Proposed Entre Amis answer (short) | How solid |
 | --- | --- | --- | --- |
-| 9 | **Brand idea** | Conversation, not knowledge | Confirmed wording |
+| 9 | **Brand idea** | Conversation, not knowledge, with "Where human connection thrives" as the purpose | Confirmed wording; founder approved for the Brand Key, 11 November 2026 |
 | 8 | **Discriminator** | Corks are won for conversation, not knowing; no wrong answers | Confirmed facts; "only" or "first" would be a claim |
-| 7 | **Reasons to believe** | The confirmed proof points and the founder's credentials | Confirmed, but no evidence from play yet |
-| 6 | **Values** | What we believe (wine is for everyone; finding the right one; no expertise, no judgement; meaningful occasions, not more drinking) | Confirmed content; choosing it as "values" is a decision |
+| 7 | **Reasons to believe** | The confirmed proof points and the founder's credentials | Confirmed. Initial physical-game playtests done; formal feedback and wider validation outstanding |
+| 6 | **Values** | What we believe (wine is for everyone; finding the right one; no expertise, no judgement; meaningful occasions, not more drinking) | Confirmed content; founder chose it as the values, 11 November 2026 |
 | 5 | **Benefits** | Functional: easy to start and join, any wine, a single glass. Emotional: nobody has to prove they belong | Confirmed content; emotional benefits are claims to approve |
 | 4 | **Consumer insight** | Wine is made to feel like a test you have to pass first | Draws on confirmed point of view; market evidence is dated |
 | 3 | **Target** | Adults 18+ who enjoy wine with friends, whatever they know; gift buyers; partners | Confirmed and deliberately broad; personas `TODO` |
 | 2 | **Competition** | Against intimidation, jargon and snobbery | Confirmed stance; no competitor set |
-| 1 | **Root strength** | A founder who knows both brands and wine, and a game, app and partner modes built and tested as prototypes | Confirmed facts; the strength itself is not yet proven |
+| 1 | **Root strength** | A founder who knows both brands and wine, and a game, app and partner modes built as prototypes | Confirmed facts; initial playtests done, wider validation outstanding |
 
 ## Box by box
 
@@ -48,7 +49,9 @@ What the brand can do well that is hard to copy.
 - **Proposed reading:** designing play that gets people talking about wine
   without needing to know about it, across the table, the app and partner
   tastings.
-- **Gap:** this is our view of the strength, not evidence of it. Playtest
+- **Gap:** this is our view of the strength, not evidence of it. Initial
+  physical-game playtesting has taken place (founder, 11 November 2026), but
+  formal feedback and wider validation are still outstanding, and playtest
   results and partner feedback are still `TODO`
   ([evidence still needed](../00-brand-core.md#evidence-still-needed-todo)).
 
@@ -103,8 +106,9 @@ The space we compete in, and what we stand against.
 - **Functional, from the Brand Brain** (`CONFIRMED`): easy to start and easy to
   join; 2–8 players; any wine, and a single glass is enough; complete without
   the app; the app adds plain-English wine information when curiosity
-  appears and keeps My wines. For partners: understanding what visitors
-  genuinely think, in their own words, with consent and anonymised
+  appears and keeps My wines. For partners (intended, not yet shown to a
+  partner): understanding what visitors genuinely think, in their own words,
+  with consent and anonymised
   ([00](../00-brand-core.md#the-offer--play--discover--experience-confirmed)).
 - **Emotional, from the Brand Brain** (`CONFIRMED` wording, internal): "nobody
   has to prove they belong there"; the friend you want at the table; wines
@@ -124,8 +128,9 @@ The space we compete in, and what we stand against.
   about connection ([00 point of view](../00-brand-core.md#our-point-of-view-confirmed)).
   The tone (warm, curious, premium, playful) is how we sound
   ([02](../02-brand-voice.md#core-tone--premium-accessible-and-never-judgemental-confirmed)).
-- **Proposed:** use *What we believe* as the values, and leave the tone words
-  as voice. Founder decision.
+- **Founder decision (11 November 2026):** use the existing *What we believe*
+  principles as the values, rather than inventing new formal brand values.
+  Warm, curious, premium and playful stay as brand personality and tone.
 
 ### 7. Reasons to believe
 
@@ -134,8 +139,10 @@ The space we compete in, and what we stand against.
   single glass are enough; founded by Caroline (30+ years in marketing and
   commercial leadership; WSET Level 3 with Distinction). Features claimable
   as in development ([00](../00-brand-core.md#feature-status--what-may-be-claimed-confirmed)).
-- **Gap:** no evidence from play yet: playtest results, player feedback,
-  partner and organiser feedback are all `TODO`. Market insights in 05 are
+- **Playtesting:** initial physical-game playtesting has taken place (founder,
+  11 November 2026). Formal feedback and wider validation remain outstanding,
+  so no playtest finding is a reason to believe yet; playtest results, player
+  feedback and partner and organiser feedback stay `TODO`. Market insights in 05 are
   never evidence about Entre Amis.
 
 ### 8. Discriminator
@@ -144,9 +151,10 @@ What sets Entre Amis apart.
 
 - **From the Brand Brain** (`CONFIRMED`): corks are won for sharing, not for
   knowing, and never for drinking; no wrong answers; experts and newcomers at
-  the same table; one game that plays the same with or without the app; the
-  same account carrying a Guest's favourites from a friend's table to a
-  partner's tasting; consent-first, anonymised insight for partners.
+  the same table; one game that plays the same with or without the app.
+  Intended, not yet demonstrated: the same account carrying a Guest's
+  favourites from a friend's table to a partner's tasting, and consent-first,
+  anonymised insight for partners.
 - **Proposed reading:** *a wine game where opinion wins, not knowledge.*
 - **Flag:** saying any of this is unique ("the only", "first") is a claim, and
   there's no competitive review to support it yet. `CLAIM — needs founder approval`.
@@ -157,13 +165,14 @@ What sets Entre Amis apart.
   knowledge** (also supporting line 2). The purpose is **Where human
   connection thrives** (internal). The brand positioning is "Where
   conversation matters more than knowledge" (internal).
-- **Proposed:** *Conversation, not knowledge* at the centre, with the purpose
-  as the why behind it. Nothing new is written. The consumer brand line stays
+- **Founder decision (11 November 2026):** *Conversation, not knowledge* is
+  the brand idea at the centre, with *Where human connection thrives* as the
+  underlying purpose. Nothing new is written. The consumer brand line stays
   `TODO` and is not decided here.
 
 ## Gaps to close before this could be confirmed
 
-1. Entre Amis's own evidence: playtests, player and partner feedback.
+1. Entre Amis's own evidence: formal feedback from the initial playtests, wider validation, and partner feedback.
 2. A current UK source on wine intimidation and confidence.
 3. A defined competitive set (founder to name, or approve naming).
 4. Player personas, through testing.

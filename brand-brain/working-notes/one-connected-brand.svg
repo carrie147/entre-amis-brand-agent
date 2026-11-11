@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" font-family="Raleway, 'Helvetica Neue', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 730" width="1200" height="730" font-family="Raleway, 'Helvetica Neue', Arial, sans-serif">
   <title>One connected brand, two audiences (PROPOSED working note)</title>
   <defs>
     <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#565A32"/></marker>
   </defs>
-  <rect width="1200" height="700" fill="#F6F1E7"/>
+  <rect width="1200" height="730" fill="#F6F1E7"/>
 
   <!-- header -->
   <text x="40" y="52" font-size="28" font-weight="700" fill="#565A32">One connected brand, two audiences</text>
-  <text x="40" y="80" font-size="15" fill="#565A32">PROPOSED working note · not for use · 11 November 2026</text>
+  <text x="40" y="80" font-size="15" fill="#565A32">PROPOSED working note · internal reference · not for use · 11 November 2026</text>
 
   <!-- People who play -->
   <rect x="40" y="120" width="300" height="330" rx="14" fill="#FFFFFF" stroke="#565A32" stroke-width="1.5"/>
@@ -33,9 +33,10 @@
   <rect x="606" y="204" width="166" height="74" rx="8" fill="#8B8B5C"/>
   <text x="689" y="236" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">The app</text>
   <text x="689" y="258" font-size="12" fill="#FFFFFF" text-anchor="middle">prototype, tested</text>
-  <rect x="428" y="294" width="344" height="74" rx="8" fill="#8B8B5C"/>
-  <text x="600" y="326" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">One account: My wines</text>
-  <text x="600" y="348" font-size="12" fill="#FFFFFF" text-anchor="middle">favourites and tastings, at home or with a partner</text>
+  <rect x="428" y="294" width="344" height="74" rx="8" fill="#565A32" stroke="#F6F1E7" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="600" y="322" font-size="16" font-weight="600" fill="#F6F1E7" text-anchor="middle">One account: My wines</text>
+  <text x="600" y="344" font-size="12" fill="#F6F1E7" text-anchor="middle">Intended: one record across home and partner tastings</text>
+  <text x="600" y="360" font-size="11" font-style="italic" fill="#F6F1E7" text-anchor="middle">not yet demonstrated</text>
   <text x="600" y="404" font-size="14" font-style="italic" fill="#F6F1E7" text-anchor="middle">The thread between occasions.</text>
   <text x="600" y="424" font-size="14" font-style="italic" fill="#F6F1E7" text-anchor="middle">It supports the table, never replaces it.</text>
 
@@ -49,8 +50,10 @@
   <rect x="884" y="282" width="252" height="70" rx="8" fill="#E3AC9A"/>
   <text x="1010" y="312" font-size="16" font-weight="600" fill="#565A32" text-anchor="middle">Event Mode</text>
   <text x="1010" y="334" font-size="12" fill="#565A32" text-anchor="middle">a combined event · prototype</text>
-  <text x="1010" y="402" font-size="14" font-style="italic" fill="#565A32" text-anchor="middle">They get: what visitors genuinely</text>
-  <text x="1010" y="422" font-size="14" font-style="italic" fill="#565A32" text-anchor="middle">think · consent first, anonymised</text>
+  <rect x="884" y="370" width="252" height="66" rx="8" fill="none" stroke="#565A32" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="1010" y="392" font-size="13" font-weight="600" fill="#565A32" text-anchor="middle">Intended: insight for partners</text>
+  <text x="1010" y="410" font-size="12" fill="#565A32" text-anchor="middle">what visitors genuinely think</text>
+  <text x="1010" y="426" font-size="12" fill="#565A32" text-anchor="middle">consent first, anonymised · not yet shown</text>
 
   <!-- connectors -->
   <line x1="340" y1="285" x2="396" y2="285" stroke="#565A32" stroke-width="2" marker-end="url(#a)" marker-start="url(#a)"/>
@@ -64,6 +67,7 @@
   <rect x="800" y="514" width="360" height="64" rx="10" fill="#B9BC9A" stroke="#565A32" stroke-width="1.5" stroke-dasharray="6 4"/>
   <text x="820" y="542" font-size="15" font-weight="600" fill="#565A32">Future ambition</text>
   <text x="820" y="564" font-size="13" fill="#565A32">Entre Amis stays. Never in development or bookable.</text>
-  <text x="40" y="612" font-size="13" fill="#565A32">Not shown: reports for businesses, contact details and the prize draw (not claimable yet); editions, collaborations and early thinking (internal).</text>
-  <text x="40" y="660" font-size="12" fill="#8B8B5C">Draft for founder review. Colours: the game deep olive, the app mid olive, partners blush, stays light sage (Brand Brain 04).</text>
+  <text x="40" y="612" font-size="13" fill="#565A32">Dashed outlines are intended capabilities or ambition, not demonstrated. No partner outcomes are implied.</text>
+  <text x="40" y="636" font-size="13" fill="#565A32">Not shown: reports for businesses, contact details and the prize draw (not claimable yet); editions, collaborations and early thinking (internal).</text>
+  <text x="40" y="690" font-size="12" fill="#8B8B5C">Banked as an internal reference (founder, 11 November 2026). Colours: the game deep olive, the app mid olive, partners blush, stays light sage (Brand Brain 04).</text>
 </svg>
