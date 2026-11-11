@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" font-family="Raleway, 'Helvetica Neue', Arial, sans-serif">
+  <title>One connected brand, two audiences (PROPOSED working note)</title>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#565A32"/></marker>
+  </defs>
+  <rect width="1200" height="700" fill="#F6F1E7"/>
+
+  <!-- header -->
+  <text x="40" y="52" font-size="28" font-weight="700" fill="#565A32">One connected brand, two audiences</text>
+  <text x="40" y="80" font-size="15" fill="#565A32">PROPOSED working note · not for use · 11 November 2026</text>
+
+  <!-- People who play -->
+  <rect x="40" y="120" width="300" height="330" rx="14" fill="#FFFFFF" stroke="#565A32" stroke-width="1.5"/>
+  <text x="190" y="156" font-size="13" font-weight="600" fill="#565A32" text-anchor="middle">PEOPLE WHO PLAY</text>
+  <text x="190" y="178" font-size="13" fill="#565A32" text-anchor="middle">Hosts, Guests and gift buyers · 18+</text>
+  <g font-size="15" fill="#565A32">
+    <rect x="64" y="200" width="252" height="54" rx="8" fill="#F6F1E7"/>
+    <text x="190" y="232" text-anchor="middle">At a table, at home or a friend's</text>
+    <rect x="64" y="266" width="252" height="54" rx="8" fill="#F6F1E7"/>
+    <text x="190" y="298" text-anchor="middle">On their own (Just tasting)</text>
+    <rect x="64" y="332" width="252" height="54" rx="8" fill="#F6F1E7"/>
+    <text x="190" y="364" text-anchor="middle">Giving the game as a gift</text>
+  </g>
+  <text x="190" y="420" font-size="14" font-style="italic" fill="#565A32" text-anchor="middle">They get: the experience</text>
+
+  <!-- Entre Amis centre -->
+  <rect x="400" y="120" width="400" height="330" rx="14" fill="#565A32"/>
+  <text x="600" y="158" font-size="20" font-weight="700" fill="#F6F1E7" text-anchor="middle">ENTRE AMIS</text>
+  <text x="600" y="182" font-size="15" font-style="italic" fill="#F6F1E7" text-anchor="middle">Conversation, not knowledge</text>
+  <rect x="428" y="204" width="166" height="74" rx="8" fill="#F6F1E7"/>
+  <text x="511" y="236" font-size="16" font-weight="600" fill="#565A32" text-anchor="middle">The game</text>
+  <text x="511" y="258" font-size="12" fill="#565A32" text-anchor="middle">prototype, playable</text>
+  <rect x="606" y="204" width="166" height="74" rx="8" fill="#8B8B5C"/>
+  <text x="689" y="236" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">The app</text>
+  <text x="689" y="258" font-size="12" fill="#FFFFFF" text-anchor="middle">prototype, tested</text>
+  <rect x="428" y="294" width="344" height="74" rx="8" fill="#8B8B5C"/>
+  <text x="600" y="326" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">One account: My wines</text>
+  <text x="600" y="348" font-size="12" fill="#FFFFFF" text-anchor="middle">favourites and tastings, at home or with a partner</text>
+  <text x="600" y="404" font-size="14" font-style="italic" fill="#F6F1E7" text-anchor="middle">The thread between occasions.</text>
+  <text x="600" y="424" font-size="14" font-style="italic" fill="#F6F1E7" text-anchor="middle">It supports the table, never replaces it.</text>
+
+  <!-- Partners -->
+  <rect x="860" y="120" width="300" height="330" rx="14" fill="#FFFFFF" stroke="#E3AC9A" stroke-width="3"/>
+  <text x="1010" y="156" font-size="13" font-weight="600" fill="#565A32" text-anchor="middle">PARTNERS</text>
+  <text x="1010" y="178" font-size="13" fill="#565A32" text-anchor="middle">Vineyards, venues, retailers, events</text>
+  <rect x="884" y="200" width="252" height="70" rx="8" fill="#E3AC9A"/>
+  <text x="1010" y="230" font-size="16" font-weight="600" fill="#565A32" text-anchor="middle">Partner Mode</text>
+  <text x="1010" y="252" font-size="12" fill="#565A32" text-anchor="middle">one host's tasting · prototype</text>
+  <rect x="884" y="282" width="252" height="70" rx="8" fill="#E3AC9A"/>
+  <text x="1010" y="312" font-size="16" font-weight="600" fill="#565A32" text-anchor="middle">Event Mode</text>
+  <text x="1010" y="334" font-size="12" fill="#565A32" text-anchor="middle">a combined event · prototype</text>
+  <text x="1010" y="402" font-size="14" font-style="italic" fill="#565A32" text-anchor="middle">They get: what visitors genuinely</text>
+  <text x="1010" y="422" font-size="14" font-style="italic" fill="#565A32" text-anchor="middle">think · consent first, anonymised</text>
+
+  <!-- connectors -->
+  <line x1="340" y1="285" x2="396" y2="285" stroke="#565A32" stroke-width="2" marker-end="url(#a)" marker-start="url(#a)"/>
+  <line x1="860" y1="285" x2="804" y2="285" stroke="#565A32" stroke-width="2" marker-end="url(#a)" marker-start="url(#a)"/>
+
+  <!-- stage band -->
+  <text x="40" y="500" font-size="13" font-weight="600" fill="#565A32">WHERE EACH PART STANDS</text>
+  <rect x="40" y="514" width="740" height="64" rx="10" fill="#FFFFFF" stroke="#565A32" stroke-width="1.5"/>
+  <text x="60" y="542" font-size="15" font-weight="600" fill="#565A32">Now: prototypes, in development</text>
+  <text x="60" y="564" font-size="13" fill="#565A32">The game · the app · Partner Mode · Event Mode. Nothing launched or priced.</text>
+  <rect x="800" y="514" width="360" height="64" rx="10" fill="#B9BC9A" stroke="#565A32" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="820" y="542" font-size="15" font-weight="600" fill="#565A32">Future ambition</text>
+  <text x="820" y="564" font-size="13" fill="#565A32">Entre Amis stays. Never in development or bookable.</text>
+  <text x="40" y="612" font-size="13" fill="#565A32">Not shown: reports for businesses, contact details and the prize draw (not claimable yet); editions, collaborations and early thinking (internal).</text>
+  <text x="40" y="660" font-size="12" fill="#8B8B5C">Draft for founder review. Colours: the game deep olive, the app mid olive, partners blush, stays light sage (Brand Brain 04).</text>
+</svg>
