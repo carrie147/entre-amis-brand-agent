@@ -306,14 +306,15 @@ ruling would both change.
 `PROPOSED` **Master v1.1 game rules** (founder, 14 November 2026, in the
 Master v1.0 review; amends 47 and 49 in the review log). Not yet confirmed:
 
-- **Secret Missions last until the end of the game.** "Before your next turn"
-  is too quick with two or three players. Players have until the end of the
-  game to pull their mission off; at the end, everyone reveals their missions
-  together and the table decides, as one set. If confirmed, this replaces
-  "completed before your next turn" in `02`.
-- **The app still rules on a mission six cards after it is dealt** (`02`,
-  `CONFIRMED`). Whether the app moves to the end-of-game rule now, or after
-  phone testing, is for the founder to decide.
+- **In the physical game, Secret Missions last until the end of the game.**
+  "Before your next turn" is too quick with two or three players. Players
+  have until the end of the game to pull their mission off; at the end,
+  everyone reveals their missions together and the table decides, as one
+  set. If confirmed, this replaces "completed before your next turn" for the
+  physical game in `02`.
+- **The app is unchanged.** The app still rules on a mission six cards after
+  it is dealt (`02`, `CONFIRMED`). The end-of-game rule is for the physical
+  game only (founder, 14 November 2026).
 - **The bell stays.** How to Play Master v1.1 reads: "Spotted someone on a
   mission? Ring the bell and call it. Right: you win their 2 corks and their
   mission fails. Wrong: you lose 2 corks." If confirmed, this settles the open

@@ -133,9 +133,10 @@ From the Master v1.0 review (founder, 14 November 2026). Not yet confirmed:
   card, front and back. The example Award reads THE AWARDS, then BROUGHT
   EVERYONE IN.
 - **Secret Mission header:** "Shh. This one's yours." If the end-of-game rule
-  in `00` is confirmed, the Secret Missions entry above changes from
-  "completed before your next turn" to "kept secret until the end of the game,
-  then revealed together".
+  in `00` is confirmed, the Secret Missions entry above changes, for the
+  physical game only, from "completed before your next turn" to "kept secret
+  until the end of the game, then revealed together". The app's six-card
+  ruling stays as it is.
 - **"Always among friends."** goes into the word bank as a short line. It
   replaces "Friends old and new." in new copy; "among friends" is already
   `CONFIRMED` for explaining the name (`00`).
