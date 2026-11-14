@@ -108,6 +108,14 @@ Already `CONFIRMED` elsewhere in the Brand Brain:
 - The game is a playable prototype; nothing is launched —
   [00](00-brand-core.md#current-stage-confirmed).
 
+### Price under review `PROPOSED`
+
+Founder, 10 November 2026 (Mirabeau meeting preparation). **£45 is a
+working alternative** to the £40 RRP currently recorded as `CONFIRMED` in
+[00](00-brand-core.md#current-stage-confirmed). No permanent pricing decision
+has been made, and £40 stays the confirmed price until the founder separately
+authorises a change there. No RRP appears in the Mirabeau meeting version.
+
 ### Licensing rule `CONFIRMED`
 
 > Any licensing deal is about finding the best commercial route for the
@@ -181,6 +189,15 @@ never imply a partnership that isn't confirmed).
   product and retail expertise when assessing proposals; exploring
   introductions and opportunities through The Commercial Eye. Exploratory
   only.
+- `PROPOSED` **Mirabeau conversation (24 November 2026).** Caroline and
+  Pete are meeting Stephen from Mirabeau for an informal, exploratory
+  conversation: to share the concept, show what exists and ask for his honest
+  advice and industry perspective. Not an investment pitch, a proposal, or a
+  request to invest in or buy the business. No partnership exists or is
+  implied, and Mirabeau's illustrative use in the themed editions work below
+  is never shown to him. Working preparation notes:
+  [`decks/mirabeau-24-nov-2026/`](../decks/mirabeau-24-nov-2026/README.md)
+  (founder brief, 10 November 2026).
 
 ### Terms from the commercial pack
 
