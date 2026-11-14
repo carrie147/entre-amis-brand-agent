@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1120" width="1200" height="1120" font-family="Raleway, 'Helvetica Neue', Arial, sans-serif">
+  <title>Entre Amis Brand Key (PROPOSED working note)</title>
+  <rect width="1200" height="1120" fill="#F6F1E7"/>
+
+  <text x="40" y="52" font-size="28" font-weight="700" fill="#565A32">Entre Amis Brand Key</text>
+  <text x="40" y="80" font-size="15" fill="#565A32">PROPOSED working note · internal reference · not for use · 11 November 2026</text>
+  <text x="40" y="100" font-size="12" fill="#8B8B5C">Frame: Brand Key model, Beloved Brands. Internal thinking tool.</text>
+
+  <!-- legend -->
+  <g font-size="13" fill="#565A32">
+    <rect x="860" y="38" width="16" height="16" rx="3" fill="#565A32"/><text x="884" y="51">Confirmed content</text>
+    <rect x="860" y="62" width="16" height="16" rx="3" fill="#E3AC9A"/><text x="884" y="75">Decision or claim to approve</text>
+    <rect x="860" y="86" width="16" height="16" rx="3" fill="none" stroke="#565A32" stroke-dasharray="3 2"/><text x="884" y="99">Gap: evidence still needed</text>
+  </g>
+
+  <g transform="translate(0,50)">
+  <!-- circle -->
+  <circle cx="600" cy="400" r="320" fill="#FFFFFF" stroke="#565A32" stroke-width="2"/>
+  <line x1="600" y1="80" x2="600" y2="720" stroke="#565A32" stroke-width="1.5"/>
+  <line x1="280" y1="400" x2="920" y2="400" stroke="#565A32" stroke-width="1.5"/>
+
+  <!-- 6 Values (top left) -->
+  <g fill="#565A32" transform="translate(-40,20)">
+    <rect x="392" y="196" width="22" height="22" rx="4"/><text x="403" y="212" font-size="13" font-weight="700" fill="#F6F1E7" text-anchor="middle">6</text>
+    <text x="422" y="213" font-size="16" font-weight="700">Values</text>
+    <text x="400" y="240" font-size="12.5">Wine is for everyone</text>
+    <text x="400" y="258" font-size="12.5">Finding the right one</text>
+    <text x="400" y="276" font-size="12.5">No expertise, no judgement</text>
+    <text x="400" y="294" font-size="12.5">Meaningful occasions,</text>
+    <text x="400" y="310" font-size="12.5">not more drinking</text>
+    <text x="400" y="334" font-size="11" font-style="italic">Founder choice, 11 Nov</text>
+  </g>
+
+  <!-- 7 RTB (top right) -->
+  <g fill="#565A32" transform="translate(40,20)">
+    <rect x="786" y="196" width="22" height="22" rx="4"/><text x="797" y="212" font-size="13" font-weight="700" fill="#F6F1E7" text-anchor="middle">7</text>
+    <text x="778" y="213" font-size="16" font-weight="700" text-anchor="end">Reasons to believe</text>
+    <text x="808" y="240" font-size="12.5" text-anchor="end">Corks for conversation,</text>
+    <text x="808" y="256" font-size="12.5" text-anchor="end">never volume</text>
+    <text x="808" y="276" font-size="12.5" text-anchor="end">A single glass is enough</text>
+    <text x="808" y="296" font-size="12.5" text-anchor="end">18+, age-gated app</text>
+    <text x="808" y="316" font-size="12.5" text-anchor="end">Founder: 30+ yrs, WSET L3</text>
+    <rect x="656" y="324" width="156" height="36" rx="4" fill="none" stroke="#565A32" stroke-dasharray="3 2"/>
+    <text x="734" y="338" font-size="11" font-style="italic" text-anchor="middle">Early playtests done;</text>
+    <text x="734" y="352" font-size="11" font-style="italic" text-anchor="middle">formal feedback outstanding</text>
+  </g>
+
+  <!-- 5 Benefits (bottom left) -->
+  <g fill="#565A32" transform="translate(-40,30)">
+    <rect x="392" y="388" width="22" height="22" rx="4"/><text x="403" y="404" font-size="13" font-weight="700" fill="#F6F1E7" text-anchor="middle">5</text>
+    <text x="422" y="405" font-size="16" font-weight="700">Benefits</text>
+    <text x="400" y="430" font-size="12" font-weight="600">Functional</text>
+    <text x="400" y="447" font-size="12.5">Easy to start and join</text>
+    <text x="400" y="464" font-size="12.5">Any wine, one glass</text>
+    <text x="400" y="481" font-size="12.5">Plays with or without the app</text>
+    <text x="400" y="503" font-size="12" font-weight="600">Emotional</text>
+    <text x="400" y="520" font-size="12.5">Nobody has to prove</text>
+    <text x="400" y="536" font-size="12.5">they belong</text>
+    <text x="400" y="558" font-size="11" font-style="italic">Benefits said aloud are claims</text>
+  </g>
+
+  <!-- 8 Discriminator (bottom right) -->
+  <g fill="#565A32" transform="translate(40,30)">
+    <rect x="786" y="388" width="22" height="22" rx="4"/><text x="797" y="404" font-size="13" font-weight="700" fill="#F6F1E7" text-anchor="middle">8</text>
+    <text x="778" y="405" font-size="16" font-weight="700" text-anchor="end">Discriminator</text>
+    <text x="808" y="432" font-size="12.5" text-anchor="end">Opinion wins corks,</text>
+    <text x="808" y="448" font-size="12.5" text-anchor="end">not knowledge</text>
+    <text x="808" y="468" font-size="12.5" text-anchor="end">No wrong answers</text>
+    <text x="808" y="488" font-size="12.5" text-anchor="end">One account across</text>
+    <text x="808" y="504" font-size="12.5" text-anchor="end">modes (intended)</text>
+    <text x="808" y="524" font-size="12.5" text-anchor="end">Consent-first insight (intended)</text>
+    <text x="800" y="550" font-size="11" font-style="italic" text-anchor="end">"Only" or "first" = claim</text>
+  </g>
+
+  <!-- 9 Brand idea (centre) -->
+  <g transform="translate(0,30)">
+  <circle cx="600" cy="370" r="88" fill="#565A32"/>
+  <rect x="589" y="292" width="22" height="22" rx="4" fill="#F6F1E7"/><text x="600" y="308" font-size="13" font-weight="700" fill="#565A32" text-anchor="middle">9</text>
+  <text x="600" y="336" font-size="13" font-weight="600" fill="#F6F1E7" text-anchor="middle">BRAND IDEA</text>
+  <text x="600" y="364" font-size="18" font-weight="700" fill="#F6F1E7" text-anchor="middle">Conversation,</text>
+  <text x="600" y="386" font-size="18" font-weight="700" fill="#F6F1E7" text-anchor="middle">not knowledge</text>
+  <text x="600" y="412" font-size="11" font-style="italic" fill="#F6F1E7" text-anchor="middle">Purpose: where human</text>
+  <text x="600" y="426" font-size="11" font-style="italic" fill="#F6F1E7" text-anchor="middle">connection thrives</text>
+  </g>
+
+  <g transform="translate(0,105)">
+  <!-- pyramid -->
+  <path d="M492,595 L708,595 L790,700 L410,700 Z" fill="#FFFFFF" stroke="#565A32" stroke-width="2"/>
+  <path d="M410,700 L790,700 L860,800 L340,800 Z" fill="#FFFFFF" stroke="#565A32" stroke-width="2"/>
+  <line x1="600" y1="700" x2="600" y2="800" stroke="#565A32" stroke-width="1.5"/>
+  <path d="M340,800 L860,800 L910,880 L290,880 Z" fill="#FFFFFF" stroke="#565A32" stroke-width="2"/>
+
+  <!-- 4 insight -->
+  <g fill="#565A32">
+    <rect x="489" y="612" width="22" height="22" rx="4" fill="#E3AC9A"/><text x="500" y="628" font-size="13" font-weight="700" text-anchor="middle">4</text>
+    <text x="518" y="629" font-size="16" font-weight="700">Consumer insight</text>
+    <text x="600" y="655" font-size="12.5" text-anchor="middle">"Wine feels like a test you have to pass</text>
+    <text x="600" y="671" font-size="12.5" text-anchor="middle">before you can join in" (draft)</text>
+    <text x="600" y="690" font-size="11" font-style="italic" text-anchor="middle">Evidence 2017-19; needs current UK source</text>
+  </g>
+
+  <!-- 2 competition -->
+  <g fill="#565A32">
+    <rect x="430" y="714" width="22" height="22" rx="4"/><text x="441" y="730" font-size="13" font-weight="700" fill="#F6F1E7" text-anchor="middle">2</text>
+    <text x="460" y="731" font-size="16" font-weight="700">Competition</text>
+    <text x="586" y="755" font-size="12.5" text-anchor="end">Against intimidation,</text>
+    <text x="586" y="771" font-size="12.5" text-anchor="end">jargon and snobbery</text>
+    <text x="586" y="791" font-size="11" font-style="italic" text-anchor="end">No competitor set defined</text>
+  </g>
+
+  <!-- 3 target -->
+  <g fill="#565A32">
+    <rect x="614" y="714" width="22" height="22" rx="4"/><text x="625" y="730" font-size="13" font-weight="700" fill="#F6F1E7" text-anchor="middle">3</text>
+    <text x="644" y="731" font-size="16" font-weight="700">Target</text>
+    <text x="614" y="755" font-size="12.5">Adults 18+ who enjoy wine with</text>
+    <text x="614" y="771" font-size="12.5">friends; gift buyers; partners</text>
+    <text x="614" y="791" font-size="11" font-style="italic">Personas still TODO</text>
+  </g>
+
+  <!-- 1 root -->
+  <g fill="#565A32">
+    <rect x="452" y="812" width="22" height="22" rx="4"/><text x="463" y="828" font-size="13" font-weight="700" fill="#F6F1E7" text-anchor="middle">1</text>
+    <text x="482" y="829" font-size="16" font-weight="700">Root strength</text>
+    <text x="600" y="852" font-size="12.5" text-anchor="middle">Founder's brand and wine expertise; game, app and partner modes</text>
+    <text x="600" y="868" font-size="12.5" text-anchor="middle">built as prototypes · initial playtests done, validation outstanding</text>
+  </g>
+
+  </g>
+  </g>
+  <text x="40" y="1095" font-size="12" fill="#8B8B5C">Banked as an internal reference (founder, 11 November 2026). Every answer comes from CONFIRMED Brand Brain content (00, 02, 05); nothing new is written. Full sources in brand-key.md.</text>
+</svg>
