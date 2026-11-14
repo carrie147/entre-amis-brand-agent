@@ -303,6 +303,26 @@ loses. What exactly the caller loses, and whether a call can be made once the
 mission is revealed, is still to decide. How to Play and the app's mission
 ruling would both change.
 
+`PROPOSED` **Master v1.1 game rules** (founder, 14 November 2026, in the
+Master v1.0 review; amends 47 and 49 in the review log). Not yet confirmed:
+
+- **In the physical game, Secret Missions last until the end of the game.**
+  "Before your next turn" is too quick with two or three players. Players
+  have until the end of the game to pull their mission off; at the end,
+  everyone reveals their missions together and the table decides, as one
+  set. If confirmed, this replaces "completed before your next turn" for the
+  physical game in `02`.
+- **The app is unchanged.** The app still rules on a mission six cards after
+  it is dealt (`02`, `CONFIRMED`). The end-of-game rule is for the physical
+  game only (founder, 14 November 2026).
+- **The bell stays.** How to Play Master v1.1 reads: "Spotted someone on a
+  mission? Ring the bell and call it. Right: you win their 2 corks and their
+  mission fails. Wrong: you lose 2 corks." If confirmed, this settles the open
+  points in the bell rule above.
+- **How to Play keeps the ending without the words "Final Pour"**: reveal the
+  Secret Missions, crown the Wine of the Day, give out the Awards, count the
+  corks.
+
 `CONFIRMED` **Why the box carries cork tokens** (founder, 5 November 2026).
 Corks are still printed on the cards, and the cards a player wins are still
 their score. The box also carries cork tokens because some Mischief cards

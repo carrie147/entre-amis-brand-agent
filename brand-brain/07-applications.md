@@ -134,6 +134,33 @@ marked production-ready.
   creative library - 5 Nov 2026.pdf*. Retired and superseded pieces are kept
   there in their own folders, not deleted.
 
+### Creative library Master v1.1 `PROPOSED`
+
+Banked by the founder on 14 November 2026 as the current master, after a
+one-by-one review of Master v1.0 (56 numbered amends). The Brand Brain
+changes it brings are `PROPOSED` until the founder confirms them:
+
+- **Grounds:** cream, not white, for every print piece, letters and invoices
+  included; print on cream stock.
+- **Stationery:** full master logo on both business card fronts; "Kind
+  regards" sign-off.
+- **Everyday brand:** note card front carries the full logo; a new Sticker D
+  (50 mm square, cream, blind-embossed stacked logo) seals envelope backs;
+  printed DL envelopes are retired.
+- **How to Play:** side 1 is set-up, four turn steps with no icons, and the
+  ending; side 2 is Secret Missions and the bell. Body text is 11 pt.
+- **Digital:** elements never touch; one scattered leaf per post; a bigger
+  ENTRE AMIS sign-off.
+- **App photography:** never on the front door, the home tiles or the
+  favourites list. A wine thumbnail only if it is the label from the
+  occasion. Memories and the crowned header only from the player's own photo
+  of the occasion. Wine 101: colour landing pages and possibly regions, never
+  individual grapes.
+- **Photography casting:** mid 30s to 40s, bigger tables, less about faces.
+  Lifestyle images on social with discipline, so the feed has one feeling.
+- **To follow, not in v1.1:** table scenes, QR card, tips cards, wayfinding
+  sign and all final photography.
+
 ### Co-brand lockup (benchmark) `PROPOSED`
 
 Kept as a Master v1.0 benchmark by the founder (5 November 2026). The rules
