@@ -125,6 +125,22 @@ rework or rename them. Only add explanation where a consumer needs it to play.
 | **Wine 101** | Wine facts and help with wine in general, like a directory — see [Wine 101 and My wines](00-brand-core.md#wine-101-and-my-wines-confirmed) |
 | **My wines** | The guest's personal record of tastings, favourites, events and experiences, in their account |
 
+### Master v1.1 wording `PROPOSED`
+
+From the Master v1.0 review (founder, 14 November 2026). Not yet confirmed:
+
+- **"The Awards"** replaces "Award Cards (Today's Award)" as the name on the
+  card, front and back. The example Award reads THE AWARDS, then BROUGHT
+  EVERYONE IN.
+- **Secret Mission header:** "Shh. This one's yours." If the end-of-game rule
+  in `00` is confirmed, the Secret Missions entry above changes from
+  "completed before your next turn" to "kept secret until the end of the game,
+  then revealed together".
+- **"Always among friends."** goes into the word bank as a short line. It
+  replaces "Friends old and new." in new copy; "among friends" is already
+  `CONFIRMED` for explaining the name (`00`).
+- **Sign-off:** "Kind regards" on letters, documents and the email signature.
+
 ### Partner vocabulary `CONFIRMED`
 
 | Term | What it is |

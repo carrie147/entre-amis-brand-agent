@@ -230,6 +230,26 @@ family has a fill colour and a darker text colour.
 Outside the game itself (e.g. in an article, social post or the app), a card
 family colour may only appear when it is signifying that gameplay family.
 
+### Master v1.1 colour and game changes `PROPOSED`
+
+From the Master v1.0 review (founder, 14 November 2026). Not yet confirmed:
+
+- **Cream replaces white everywhere.** "Cream is a brand colour. White is
+  not." This covers print grounds (letterhead, invoice, compliment slip,
+  document pages, mailing label), the email signature and, ideally, the app.
+  If confirmed, it changes "White" to cream in the expression colours table
+  (the app) and in the Awards row of the card family table.
+- **Cream on paler fills is weak** (cream on Pour 2.1:1, Savour 2.9:1, Secret
+  Mission 3.0:1, mid olive 2.95:1; on deep olive 6.0:1). Master v1.1 sets the
+  card family names one size up in SemiBold. Suggestion for the app: cream
+  text on deep olive only, with deep olive text on mid olive.
+- **Spinner Master v1.1** replaces Spinner Master v1.0: no vine, the leaf with
+  a small ENTRE AMIS in the centre, no dividing lines between the letters,
+  and the letters centred in the rim. File: *Entre Amis spinner - Master
+  v1.1*.
+- **Card fronts and backs Master v1.1:** THE AWARDS on the Awards card, front
+  and back; the new Secret Mission header (`02`).
+
 ### Accessibility check `PROPOSED`
 
 Contrast ratios checked against WCAG AA (4.5:1 for normal text):
