@@ -343,3 +343,122 @@ the in-box pieces: QR card, How to Play and tasting tips (A6). All fit the
   rounded corners; gameplay cards 70 × 121 mm (tarot size), 250–350 gsm, with
   7 backs. The box is printed, with no belly band. These replace the sizes in
   the 17 October drafts once confirmed.
+
+## Photography `PROPOSED`
+
+The written photography brief from Master v1.1 sheets 12.7 and 12.8
+(p. 76a and 76b), supplied by the founder on 15 November 2026. It summarises
+the photography boards (sheets 12.1 to 12.6). Everything here is `PROPOSED`
+until the founder confirms it; once confirmed, this becomes the Brand Brain's
+photography section. Numbers in brackets are kept pictures on Boards 1 to 4,
+used as references for mood only, never as pictures to copy or use. Nothing
+on the boards or sheets is licensed. The app and social photography rules
+already proposed with Master v1.1 are in
+[`07`](07-applications.md#creative-library-master-v11-proposed).
+
+### The style (sheet 12.7)
+
+**The feeling: one world, two distances.** Friends around wine and food,
+caught in the middle of a conversation. The viewer has just sat down at the
+table. Conversation matters more than faces, and more than the wine.
+
+- **Close** (Boards 1 and 3): three to eight people, or one glass, in tight
+  crops that also work in the app.
+- **Stepped back** (Board 2): longer tables, a visible host, the place becomes
+  part of the story. The same light and the same people in both.
+
+**Light and colour**
+
+- Low sun, open shade or candlelight. Soft, warm, natural.
+- Natural colour that sits with olive, cream and blush. No heavy orange casts,
+  nothing over-vivid.
+- Real food, linen, wood and greenery. Settings that feel European without
+  being postcard views.
+- Space in the frame for a crop or a line of text.
+- Sharp and full resolution: no softness, banding or upscaled phone shots.
+
+**Camera and moment**
+
+- Eye level, often over a guest's shoulder, so the viewer is at the table.
+- People look at each other, never at the lens.
+- Moments in the middle of a story: listening, reacting, laughing, passing a
+  dish.
+- Hands and gestures carry a lot of the picture.
+- Glasses sit at the edge of the frame, not in the middle of it.
+
+**Casting**
+
+- Mid 30s to 40s for any new picture; a real mix of backgrounds.
+- Friends, not models: natural, not styled to perfection.
+- Nobody who is, or might look, under 25.
+- No AI-generated people, ever.
+
+**The wine**
+
+- One glass in view per person. Final picks keep a single glass in shot where
+  the wine is the subject.
+- Bottles never the hero. No readable third-party labels.
+- Food on the table; no overpouring, nothing that suggests drinking too much.
+
+**Light and shadow (Board 3 detail).** Within Board 3, one or two still lifes
+where the light does the work: a glass and its shadow on linen or a warm,
+plain wall. No face, lots of space, one idea. A quiet accent, not a strand of
+its own. References: 23 (Board 3) and R1.
+
+- **R1 is a style reference only.** It is a social media screenshot (The House
+  Outfit), not licensed, and must never be used. Its production standard is
+  too low for use in any case.
+
+**What we are not**
+
+- Toasts aimed at the camera; bottles as the hero.
+- Tastings that feel like a class or an exam (31); barrel rooms.
+- Conferences, networking, crowded parties.
+- "Old friends" who are literally old (02).
+- One person carrying the picture (01); unclear focus (08).
+- Busy backgrounds (29); over-vivid colour (20).
+- Festive props; lavender and straw-hat clichés.
+- Anyone who might look under 25.
+
+Every picture turned down is on sheet 12.6.
+
+### The shots (sheet 12.8)
+
+For a photographer or a stock search, read with the style above.
+
+| Board | What to shoot or find | Source |
+| --- | --- | --- |
+| 1 Around the Table (close) | Three to eight friends at a table, tight crops that work in a phone frame. Candlelit table, faces half-lit (03); hands reaching across a laid table from above (04); terrace with greenery (06); a shared dish mid-serve (07); evening under string lights (09) | Stock is mostly enough. Keep to a few photographers' series so the set feels like one shoot |
+| 2 Shared Experiences (stepped back) | Long tables outdoors in low sun (10, 11, 14); a host visibly serving or leading (13); an indoor partner venue (41); hands and plates along a long table (12); mixed, lively tables (15, 17, 40). Maybes: 18 only cropped with less background; 43 only with a smile. **Must have:** a hosted table with the Entre Amis game in play: cards, spinner and game mat on the table, a host leading | Commission. Stock cannot show the game, and authentic hosted events in stock look staged |
+| 3 The Wine, Close Up | One glass in good light, in a hand or at a place setting (19, 21, 24, 27). A glass with simple food (22, 26). One or two light-and-shadow still lifes (23; R1 as style reference only). Not over-vivid (20 out) | Stock, or add to the commissioned day |
+| 4 My Wines and Wine 101 | Colour set: white, rosé, amber, red and sparkling as one matching still life, with the same glass shape, background and light, shot together; 28, 30 and 32 set the look; rosé and red to shoot. Place: wine regions, if used (33 to 37); from the vine (38, 39). Never individual grapes | Colour set commissioned; places from stock |
+
+**Where pictures may appear**
+
+- **Website and social:** lifestyle photography with discipline, so the feed
+  has one feeling. One scattered leaf per post.
+- **App, never:** the front door, the home tiles or the favourites list.
+- **App, only:** a wine thumbnail if it is the label from that occasion;
+  memories and the crowned header from the player's own photo of the
+  occasion; Wine 101 colour landing pages, and possibly regions.
+
+**Before any picture is used** (licence and release checklist)
+
+- The licence covers website, social (including paid), app, print, packaging
+  and partner decks, with no end date.
+- Model releases for everyone recognisable, allowing alcohol-related
+  advertising; location releases for venues.
+- Everyone shown drinking is 25 or over and looks it (UK CAP code). Check
+  against the licence terms.
+- Commissioned shoot: full-resolution files, an agreed number of selects, and
+  Entre Amis may crop and adapt.
+- Record each licensed picture and its terms before use.
+
+### Still to decide `TODO`
+
+- The founder confirms this brief, then it moves into the Brand Brain as
+  `CONFIRMED`.
+- Stock budget, and whether to commission; venue for a shoot.
+- To follow: the commissioned shoot (a hosted table with the game in play,
+  and the rosé and red for the matching colour set); licences, releases and
+  the CAP 25+ check before any picture is used.
