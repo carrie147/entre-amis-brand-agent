@@ -177,6 +177,30 @@ and the founder's follow-up emails to vineyards. To confirm here.
 
 Source: founder, 20 November 2026 (vineyard card follow-up thread).
 
+### Ways partners can get involved `PROPOSED`
+
+Agreed by the founder on 20 November 2026 for the vineyard follow-up emails
+("There are a few ways in, and we're shaping them now"). To confirm here.
+
+- **Feature the game** in the partner's shop or tasting room.
+- **Give your visitors the app,** so the partner's wines and story go home with
+  them. The partner might offer it free to its visitors; there would be a fee
+  to the partner. Fee not set: partner pricing stays `TODO` in
+  [06](06-commercial.md).
+- **Run your tastings or events with us,** and hear what your visitors really
+  think (Partner Mode and Event Mode, `CONFIRMED` in `00`).
+
+These describe ideas being shaped with partners, never anything launched,
+available or priced.
+
+### Benefit lines approved for vineyard emails `PROPOSED`
+
+The founder heard the flags and approved these for the vineyard follow-up
+emails (20 November 2026): "what people really think, in their own words";
+"your wines stay with them long after the day"; "hear what your visitors
+really think". From the Mirabeau short deck (November 2026). To add to the
+proof points in `00` if confirmed for wider use.
+
 ## Unattributed observations `CONFIRMED`
 
 Some lines in founder materials are things the founder has heard people say
