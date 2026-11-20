@@ -462,3 +462,28 @@ For a photographer or a stock search, read with the style above.
 - To follow: the commissioned shoot (a hosted table with the game in play,
   and the rosé and red for the matching colour set); licences, releases and
   the CAP 25+ check before any picture is used.
+
+## Illustration `PROPOSED`
+
+From the game mat exploration (founder, 16 November 2026). Not yet confirmed:
+
+- **The Proverbial Hare's line-and-wash wine illustrations may be used for
+  Entre Amis.** The founder approved borrowing the wine glasses illustration
+  from her Clarity for Growth A6 postcard for an Entre Amis game mat test:
+  "I know the artist. So let's try it. That's a very specific Clarity in the
+  wine space so I can use more if needed for EA". This is the founder approval
+  that the project's Clarity rule asks for; the artwork, not Clarity for
+  Growth's name or copy, comes across. Clarity for Growth is still not named in
+  Entre Amis materials (see `02`, internal language).
+- The artist is credited as on the founder's cards (© The Proverbial Hare
+  2026). Rights for each new use, including print on a product such as the
+  game mat, and the artist's original files are to be confirmed with the
+  artist.
+- The responsible drinking rules apply to the art as to copy. Leave out
+  anything that names a time of day or prompts drinking (the postcard bottle
+  reads "wine o'clock", so it is not used). Prefer one glass per person to
+  rows of bottles.
+- Used on the game mat exploration (route C, DRAFT, 16 November 2026): eight
+  glasses round the edge, one per seat, with a blank cream centre.
+- Open: whether the illustrations join the visual identity more widely, and
+  in which places.
