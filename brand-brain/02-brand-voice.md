@@ -158,6 +158,25 @@ From the Master v1.0 review (founder, 14 November 2026). Not yet confirmed:
 
 See [Partner Mode and Event Mode](00-brand-core.md#partner-mode-and-event-mode-confirmed).
 
+### Launch partners `PROPOSED`
+
+Agreed by the founder on 20 November 2026, for the Entre Amis A6 partner card
+and the founder's follow-up emails to vineyards. To confirm here.
+
+- **"Launch partners"** may be used in partner-facing material (cards, emails,
+  decks) to invite a partner to work with Entre Amis before launch: e.g. "Get in
+  touch to be one of our launch partners." and "I'd love to talk to you about
+  being one of our launch partners."
+- It describes an invitation, not an existing partnership. Never imply anyone
+  is already a launch partner unless the founder confirms it.
+- It doesn't change the stage: nothing is launched, available or priced (see
+  [current stage](00-brand-core.md#current-stage-confirmed)). A launch date
+  isn't confirmed by this entry.
+- Builds on the Fizz Fest answers (21 October 2026, `PROPOSED` in `00`):
+  "in development, and we're looking for a launch partner".
+
+Source: founder, 20 November 2026 (vineyard card follow-up thread).
+
 ## Unattributed observations `CONFIRMED`
 
 Some lines in founder materials are things the founder has heard people say
