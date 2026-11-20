@@ -158,6 +158,49 @@ From the Master v1.0 review (founder, 14 November 2026). Not yet confirmed:
 
 See [Partner Mode and Event Mode](00-brand-core.md#partner-mode-and-event-mode-confirmed).
 
+### Launch partners `PROPOSED`
+
+Agreed by the founder on 20 November 2026, for the Entre Amis A6 partner card
+and the founder's follow-up emails to vineyards. To confirm here.
+
+- **"Launch partners"** may be used in partner-facing material (cards, emails,
+  decks) to invite a partner to work with Entre Amis before launch: e.g. "Get in
+  touch to be one of our launch partners." and "I'd love to talk to you about
+  being one of our launch partners."
+- It describes an invitation, not an existing partnership. Never imply anyone
+  is already a launch partner unless the founder confirms it.
+- It doesn't change the stage: nothing is launched, available or priced (see
+  [current stage](00-brand-core.md#current-stage-confirmed)). A launch date
+  isn't confirmed by this entry.
+- Builds on the Fizz Fest answers (21 October 2026, `PROPOSED` in `00`):
+  "in development, and we're looking for a launch partner".
+
+Source: founder, 20 November 2026 (vineyard card follow-up thread).
+
+### Ways partners can get involved `PROPOSED`
+
+Agreed by the founder on 20 November 2026 for the vineyard follow-up emails
+("There are a few ways in, and we're shaping them now"). To confirm here.
+
+- **Feature the game** in the partner's shop or tasting room.
+- **Give your visitors the app,** so the partner's wines and story go home with
+  them. The partner might offer it free to its visitors; there would be a fee
+  to the partner. Fee not set: partner pricing stays `TODO` in
+  [06](06-commercial.md).
+- **Run your tastings or events with us,** and hear what your visitors really
+  think (Partner Mode and Event Mode, `CONFIRMED` in `00`).
+
+These describe ideas being shaped with partners, never anything launched,
+available or priced.
+
+### Benefit lines approved for vineyard emails `PROPOSED`
+
+The founder heard the flags and approved these for the vineyard follow-up
+emails (20 November 2026): "what people really think, in their own words";
+"your wines stay with them long after the day"; "hear what your visitors
+really think". From the Mirabeau short deck (November 2026). To add to the
+proof points in `00` if confirmed for wider use.
+
 ## Unattributed observations `CONFIRMED`
 
 Some lines in founder materials are things the founder has heard people say
