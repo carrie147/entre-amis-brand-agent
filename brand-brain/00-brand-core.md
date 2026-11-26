@@ -321,10 +321,18 @@ framework, not the experience.
 **Decisions 5 and 6** (UK proof of concept; commercial principles) are in
 [06](06-commercial.md#strategic-scope-founder-decisions-26-november-2026).
 
-**What this means for partner conversations.** The direction above may be
-described to partners as Entre Amis's direction and ambition, clearly
-labelled as not yet available. It is never described as a current
-capability, a package or an entitlement.
+**What this means for partner conversations** (founder, 26 November 2026,
+14:51). The strategic direction and wider ambition **can be shared with
+potential partners**: this is fundamental to validating the business
+proposition, not just current product functionality. Partners are invited
+to help shape Entre Amis. The narrative makes the difference between
+**current capabilities, intended experience and future opportunities**
+clear through how it is told (for example, "today", "what we're building
+with partners", "where this goes"), not through repeated "not yet
+available" disclaimers that undermine the proposition. Direction is never
+presented as a current capability, a package or an entitlement, and the
+[feature status table](#feature-status--what-may-be-claimed-confirmed)
+still decides what is claimed as existing.
 
 #### 2. Confirmed current product capabilities
 
