@@ -74,6 +74,12 @@ deferred audience ([00](00-brand-core.md#audiences)).
 | 4 | **A network flywheel.** More partners bring more people; participation can improve privacy-conscious aggregate insight; stronger value supports retention and referrals. | Hypothesis to validate, not a claim. Wider insight depends on [hypothesis 3](#3-anonymised-trend-reports-for-the-wine-trade) and the data rules in [03](03-guardrails.md#partner-mode-data-confirmed) |
 | 5 | **The physical game extends the opportunity.** A distinct route to new people and revenue (gifting, retail, home entertainment; direct sales, distribution or licensing), not required for the platform to be sustainable. | Hypothesis. The route stays open ([physical game](#physical-game-route-to-market-proposed)) |
 
+`PROPOSED` Founder decisions, 26 November 2026: **ten diverse UK vineyards**
+is the initial ambition for discovery and proposition validation. The number,
+format and timing of live trials are open. How row 2's "first five partners"
+reads against this is for the founder to confirm. See
+[strategic scope](#strategic-scope-founder-decisions-26-november-2026-proposed).
+
 Notes for the founder's review:
 
 - **"Wine is the first launch category, not the limit"** goes further than
@@ -405,6 +411,16 @@ is to be confused with another.
   still never described externally, not even as "coming", until she
   confirms otherwise in 00.
 
+`PROPOSED` **To be reconciled** (founder decisions, 26 November 2026). The
+founder asks that previous decisions restricting wider intelligence to
+particular modes, or wider discovery to Curated Collaborations, be reconciled
+with the evolved direction: discovery and connection, and wider market
+intelligence, are not permanently restricted to a mode, product or
+commercial arrangement. The Reach row above (24 October 2026) is the decision
+in question. Until the founder confirms the new wording, the table stands as
+the description of what each proposition is today; nothing gives a Partner
+Mode partner reach beyond its own guests.
+
 ### How they complement each other (assessment, for review)
 
 - **Each answers a different partner need.** Partner Mode: "understand the
@@ -592,6 +608,91 @@ launch, partner acquisition, events and licensing work.
 9. Explore potential partners only as part of existing partner outreach.
 10. Decide which edition, if any, to pilot first.
 
+## Strategic scope: founder decisions, 26 November 2026 `PROPOSED`
+
+From the founder's *Consolidated Founder Decisions*, 26 November 2026. Kept
+in three parts on purpose: what the founder has approved as direction, what
+stays a commercial hypothesis, and what is not yet decided. **Nothing here is
+a product claim or a partner entitlement,** and nothing here may be used in
+output until the founder confirms it. The ecosystem, three areas of value and
+personalisation decisions are recorded in
+[00](00-brand-core.md#partner-proposition-founder-decisions-26-november-2026-proposed);
+memories, intelligence and profiling in
+[03](03-guardrails.md#memories-intelligence-and-profiling-proposed).
+
+### Approved strategic direction
+
+- **We are defining our commercial scope, not finalising our commercial
+  model.** The three areas of value (own business intelligence, wider market
+  intelligence, discovery and connection) are within scope.
+- **No potential commercial route is excluded prematurely.** Partner
+  conversations may show some revenue models to be more valuable,
+  acceptable or scalable than expected.
+- **Wine neutrality, editorial independence and consumer trust must be
+  protected.**
+- **Commercial arrangements should reflect the value created and the cost of
+  delivering it.**
+- **Initial partner conversations use a credible commercial narrative,
+  without predetermined pricing or packages.**
+- **Marketing and commercial advisory is a complementary opportunity, not
+  part of the initial partner sales pitch.**
+- **No lifetime access or other irreversible commercial commitment has been
+  agreed.**
+- **The UK proof of concept validates the business proposition, not just
+  product functionality.** Ten diverse UK vineyards is the initial ambition
+  for discovery and proposition validation. Three stages: discovery
+  (partner challenges, ambitions and needs); proposition validation
+  (responses to the consumer experience, wider ecosystem, intelligence and
+  ways of working); live proof of concept (the experience and commercial
+  value in practice). The number, format and timing of live trials follow
+  from what is learnt and readiness to deliver.
+- **What the proof of concept should help us understand:** consumer
+  enjoyment and engagement; consumer interest in continuing their wine life
+  beyond the vineyard; the usefulness and commercial value of partner
+  intelligence; the attractiveness of the wider ecosystem; partner
+  willingness to invest; preferred commercial arrangements; operational
+  scalability and cost to serve.
+- **Success measures, and the minimum capabilities needed to measure them,
+  are agreed before live trials.**
+
+### Commercial hypotheses
+
+Potential opportunities the founder has named, "including, but not limited
+to". All remain subject to commercial validation and brand, legal and
+operational considerations. None is chosen, priced or offered.
+
+- Consumer app purchases.
+- Physical game purchases.
+- Partner licences.
+- Setup and configuration fees.
+- Usage-based fees.
+- Managed services.
+- Wider market intelligence (see
+  [hypothesis 3](#3-anonymised-trend-reports-for-the-wine-trade)).
+- Discovery and curated collaborations.
+- Affiliate revenue from wine sales.
+- Marketing and commercial advisory services (see
+  [hypothesis 2](#2-an-optional-advisory-offered-by-entre-amis)).
+
+### Not yet decided `TODO`
+
+Founder to decide. Nothing here may be filled in by an agent.
+
+- The commercial model, pricing and packages, and what any partner is
+  entitled to.
+- Founding-partner incentives, and their terms.
+- How affiliate or referral revenue would sit with wine neutrality and the
+  rule that Entre Amis is never "selling or intrusive"
+  ([00](00-brand-core.md)), and with
+  [editorial independence](#editorial-independence-and-brand-protection-proposed),
+  which is still `PROPOSED`.
+- How paid discovery for partners fits "selective approval, never open paid
+  inclusion".
+- Proof-of-concept success measures and minimum product readiness.
+- Partner configuration and self-service boundaries.
+- Which vineyards, how they are chosen, and the terms of taking part.
+- Company formation and data controller before live trials.
+
 ## Commercial hypotheses — not for external use `PROPOSED`
 
 Recorded as hypotheses only. Not offered, not in development, and never
@@ -716,6 +817,9 @@ Founder to decide. Nothing here may be filled in by an agent.
   23 October, 12:17) or a related Clarity opportunity outside it (founder's
   licensing update, same day).
 - Who is the data controller once the company is formed.
+- How the 26 November 2026 founder decisions fit with the commercial story,
+  the propositions table and the hypotheses below (see
+  [strategic scope](#strategic-scope-founder-decisions-26-november-2026-proposed)).
 - Pricing for Partner Mode and Event Mode, and for the advisory.
 
 ## To validate `TODO`

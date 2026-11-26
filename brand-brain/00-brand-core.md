@@ -220,6 +220,75 @@ There are two ways partners take part.
 
 Source: founder, 11 October 2026.
 
+### Partner proposition: founder decisions, 26 November 2026 `PROPOSED`
+
+> Founder's consolidated decisions of 26 November 2026, recorded here for
+> confirmation. Until the founder confirms them, the `CONFIRMED` text above
+> stands, and nothing here may be used in output. **None of this is a
+> product claim.** Feature status (below) is unchanged: nothing here makes
+> wider insight, wider discovery, self-service or any partner entitlement
+> claimable.
+
+**Approved strategic direction (founder decisions 1 to 4):**
+
+- **One connected consumer experience.** Entre Amis is a connected consumer
+  experience that lets people build their own wine life across different
+  wines, brands, places and social occasions. Partner experiences are
+  individual entry points into that wider ecosystem, not isolated products.
+- **The relationship continues, the partner's is respected.** A person's
+  relationship with Entre Amis continues beyond an individual partner
+  experience, while respecting the partner's own customer relationships.
+- **The power of the many** is fundamental to the strategic proposition.
+- **Three areas of commercial value** are within the strategic scope of
+  Entre Amis: own business intelligence (how people experience and respond
+  to a partner's own wines); wider market intelligence (tastes, preferences,
+  occasions and emerging trends across Entre Amis); and discovery and
+  connection (opportunities for wine businesses to reach and engage with
+  people beyond their existing customers). They are deliberately **not
+  permanently restricted** to particular modes, products or commercial
+  arrangements.
+- **No entitlements yet.** This establishes no immediate partner
+  entitlements, data access rights, delivery commitments or commercial
+  packages. The nature, scope, permissions and commercial arrangements
+  evolve as the business develops.
+- **What stays fundamental:** privacy, consumer trust, editorial
+  independence and wine neutrality.
+- **Experience first.** Enjoyment, conversation and human connection come
+  first. Every interaction should offer something meaningful to the
+  participant, not exist solely to collect data. Not every interaction needs
+  to capture data. The vineyard provides its expertise and educational
+  content; Entre Amis facilitates discovery, enjoyment and connection.
+- **Interaction direction:** quick-touch sensory discovery; personal
+  reactions; occasions, food associations and preferences; optional notes
+  and comments; conversation and shared discovery; personal wine memories.
+  Interactions vary across several wines rather than repeating an extensive
+  sequence for every wine. The Just Tasting mock-ups (23 November 2026) show
+  the intended direction; development was deliberately deferred.
+- **Personalisation and the shared platform:** we standardise the framework,
+  not the experience. One shared platform, not multiple bespoke products;
+  partner-led personalisation, visibly Powered by Entre Amis; configuration
+  rather than rebuilding; flexibility for partners to create and adapt their
+  own experiences; self-service as an intended capability; managed services
+  where partners prefer or need support; consistent consumer experience
+  standards; appropriate and scalable content governance. The boundaries of
+  personalisation, design flexibility, self-service and managed services are
+  open. No partner portal or other development is authorised.
+
+**If confirmed, this changes these `CONFIRMED` points above** (the founder's
+instruction is to reconcile them with the evolved direction):
+
+| `CONFIRMED` today | Proposed reconciliation |
+| --- | --- |
+| "**Wider trends** … are not promised in Partner Mode … Event Mode materials may describe them." | Wider market intelligence is within strategic scope and not restricted to a mode. Still **not promised** to any partner: no entitlement, method or permission exists yet (see [03](03-guardrails.md)). |
+| Partner Mode is "a hosted tasting that guests join" | Unchanged as the description of the current prototype. Partner experiences are additionally recorded as entry points into the wider ecosystem. |
+
+Not changed by these decisions: Partner Mode and Event Mode as defined
+above; "what the partner gets: insight"; quizzes as discoveries, never a
+test; guest notes belong to the guest; stage, feature status and every
+claimability rule; the £40 RRP rule.
+
+Source: founder, *Consolidated Founder Decisions*, 26 November 2026.
+
 ### Early thinking — not for external use `CONFIRMED`
 
 Ideas being explored, mostly around the physical game mat. Not decided, not
@@ -248,6 +317,25 @@ What each one is (founder, 12 October 2026).
   pulls from and what it records is a data logic piece of work still to do.
   Never mention this externally, and don't describe either feature as
   complete.
+
+`PROPOSED` **My wines decisions kept in place** (founder, 12 November 2026,
+reaffirmed 26 November 2026). Recorded here for confirmation; until then the
+table above stands and these are not used in output.
+
+- **Four reactions stay:** ❤️ Love it · 👍 Like it · 🤔 Not sure · 👎 Not for
+  me, each tied to its occasion.
+- **The favourite star is removed** in every way of playing. Love it
+  surfaces a wine in "Ones to remember" (working name). Existing star records
+  are kept, not converted into Love it. Removal is not yet built.
+- **The crown is a collective choice only:** a shared occasion memory, never
+  an individual taste signal and never "Your pick". The per-phone crown in
+  Partner tasting and Event Mode, and the Event prize draw built on it, are
+  existing product inconsistencies to resolve; nothing is changed until then.
+- Implementation of the wider My wines direction (Your wine story, Still to
+  try, Ones to remember, personal photos) is not authorised.
+
+Source: *My wines: founder position*, 12 November 2026; *Consolidated
+Founder Decisions*, 26 November 2026.
 
 ### Game facts `CONFIRMED`
 

@@ -157,6 +157,45 @@ Entre Amis and Clarity for Growth are separate businesses (see
 
 Source: founder's note and answers, 23 October 2026, reviewed in this project.
 
+### Memories, intelligence and profiling `PROPOSED`
+
+Founder decisions, 26 November 2026. Recorded for confirmation; until then
+the `CONFIRMED` rules above stand. These add to the rules above; none
+loosens them.
+
+- **Three distinct activities, never treated as interchangeable:**
+  - **Personal wine memories:** help a person remember what they enjoyed,
+    noticed and associated with a wine.
+  - **Consumer intelligence:** helps businesses understand collective
+    responses through appropriately governed and aggregated information.
+  - **Personal profiling:** analyses one person's preferences across their
+    wine life.
+- **Profiling is optional, opt-in and outside the tasting or game flow.**
+- **Design the right experience first,** then establish the permissions and
+  governance around it. Profiling restrictions should not unnecessarily
+  constrain valuable consumer experiences.
+- **Private notes remain private.** Sharing a note with the room does **not**
+  by itself count as consent to share it with a commercial partner.
+- **No analysis of drinking frequency or quantity.**
+- **The five-person reporting threshold** (reports show nothing under five
+  people) is the current prototype behaviour. It is **not** an approved
+  privacy or commercial data-sharing policy.
+- **Reports in partner materials stay without figures** for now, until the
+  data capture and reporting principles are agreed. Reporting distinguishes
+  reactions and preferences from purchase intention, selected vocabulary
+  from people's own spontaneous words, and observations from causal
+  conclusions.
+
+**Open, to be settled at the right stage** (founder, 26 November 2026; none
+is resolved by this section): company and data controller; legal review,
+privacy, consent and data-sharing policies; partner access to personal
+information (the contact rule above stays `PROPOSED`); shared-notes consent
+and existing product inconsistencies; the method and permissions for wider
+aggregated intelligence, including people's home play; partner content
+governance and terms.
+
+Source: founder, *Consolidated Founder Decisions*, 26 November 2026.
+
 ## Escalate to the founder
 
 Stop and ask — don't draft around it — when:
