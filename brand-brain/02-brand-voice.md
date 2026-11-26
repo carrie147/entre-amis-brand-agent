@@ -158,7 +158,7 @@ From the Master v1.0 review (founder, 14 November 2026). Not yet confirmed:
 
 See [Partner Mode and Event Mode](00-brand-core.md#partner-mode-and-event-mode-confirmed).
 
-`PROPOSED` **Powered by Entre Amis** (founder, 26 November 2026): the
+`CONFIRMED` **Powered by Entre Amis** (founder, 26 November 2026): the
 intended partner endorsement wording on partner-personalised experiences.
 It sits alongside the co-brand lockup rules in [04](04-visual-identity.md),
 whose "with" and "Hosted by" wording stays a placeholder. Partner use only;
@@ -281,16 +281,17 @@ never as better than other wines.
 Outside those topics, partner-facing output must be escalated to the founder.
 Internal language rules still apply.
 
-`PROPOSED` **Open: partner-supplied content** (from the founder decisions of
-26 November 2026). The decisions intend partners to provide their own
-expertise and educational content (people, place, soil, grapes, winemaking,
-stories, food pairings) and to change it regularly without relying on Entre
-Amis, under "appropriate and scalable content governance". The rule above
-escalates anything beyond Savour, Pour, flavours and occasions to the
-founder. How the two fit (for example, whether partner-authored content is
-the partner's own voice, labelled as theirs and checked against the claims
-and responsible-drinking rules, rather than Entre Amis partner voice) is
-**for the founder to decide**. Until then the rule above stands.
+`CONFIRMED` **Partner-supplied content** (founder decisions, 26 November
+2026). Partners provide their own expertise and educational content, and
+the direction is for them to create and adapt it themselves, under
+appropriate and scalable content governance. The rule above governs what
+**Entre Amis** writes in partner voice; it does not make Entre Amis the
+author of a partner's own content. How partner content is governed (for
+example labelling, and checks against the claims and responsible-drinking
+rules) is an open question (`TODO`, see
+[00](00-brand-core.md#4-open-questions-todo)). Until it is settled, no
+partner self-service exists, and any partner content Entre Amis prepares
+follows the rule above.
 
 ### Partner materials — who we're talking to `CONFIRMED`
 
