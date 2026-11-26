@@ -157,6 +157,55 @@ Entre Amis and Clarity for Growth are separate businesses (see
 
 Source: founder's note and answers, 23 October 2026, reviewed in this project.
 
+### Memories, intelligence and profiling `CONFIRMED`
+
+Founder decisions, 26 November 2026. These add to the rules above; none
+loosens them. **Existing privacy, legal and consumer protection safeguards
+stay in place until the founder explicitly reviews and amends them.** That
+includes Partner Mode data (consent first, anonymised only, never sold);
+the contact rule stays `PROPOSED`, and contact details stay not claimable.
+
+- **Three distinct activities, never treated as interchangeable:**
+  - **Personal wine memories:** help a person remember what they enjoyed,
+    noticed and associated with a wine.
+  - **Consumer intelligence:** helps businesses understand collective
+    responses through appropriately governed and aggregated information.
+  - **Personal profiling:** analyses one person's preferences across their
+    wine life.
+- **Profiling is optional, opt-in and outside the tasting or game flow.**
+- **Design the right experience first,** then establish the permissions and
+  governance around it. Profiling restrictions should not unnecessarily
+  constrain valuable consumer experiences.
+- **Private notes remain private.** Sharing a note with the room does **not**
+  by itself count as consent to share it with a commercial partner.
+- **No analysis of drinking frequency or quantity.**
+- **The five-person reporting threshold** (reports show nothing under five
+  people) is the current prototype behaviour. It is **not** an approved
+  privacy or commercial data-sharing policy.
+- **Reports in partner materials stay without figures** for now, until the
+  data capture and reporting principles are agreed. Reporting distinguishes
+  reactions and preferences from purchase intention, selected vocabulary
+  from people's own spontaneous words, and observations from causal
+  conclusions.
+
+**Open, to be settled at the right stage** (`TODO`, founder, 26 November
+2026; none is resolved by this section):
+
+- Company and data controller; legal review, privacy, consent and
+  data-sharing policies.
+- Partner access to personal information (the contact rule above stays
+  `PROPOSED`).
+- Shared-notes consent. Existing product inconsistencies are recorded, not
+  fixed: in the prototype, notes shared with the room can reach the
+  business report, and reports count favourite stars.
+- Wider aggregated intelligence: the method and permissions, including
+  people's home play and how it sits with "never sold".
+- Whether account-linked capture across occasions (Wine profiler layer 2)
+  is intelligence or profiling. If profiling, the rules above apply.
+- Partner content governance and terms.
+
+Source: founder, *Consolidated Founder Decisions*, 26 November 2026.
+
 ## Escalate to the founder
 
 Stop and ask — don't draft around it — when:

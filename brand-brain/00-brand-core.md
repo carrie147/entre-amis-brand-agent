@@ -212,13 +212,154 @@ There are two ways partners take part.
   Wines they favourite are stored under **My wines** in that account
   (founder, 12 October). My wines is separate from Wine 101 — see
   [Wine 101 and My wines](#wine-101-and-my-wines-confirmed).
-- **Wider trends** (anonymised insight across Entre Amis) are not promised
+- ~~**Wider trends** (anonymised insight across Entre Amis) are not promised
   in Partner Mode; whether they're offered depends on how it is built.
-  Event Mode materials may describe them.
+  Event Mode materials may describe them.~~ **Superseded, 26 November
+  2026:** wider market intelligence is within strategic scope and not
+  restricted to a mode (see
+  [strategic direction](#strategic-direction-founder-decisions-26-november-2026-confirmed)).
+  It is still not a current capability and is promised to no partner.
+  Struck-through text kept for the record.
+- **Partner experiences are entry points** into the wider Entre Amis
+  ecosystem (founder, 26 November 2026). The description of Partner Mode
+  above is unchanged as the description of the current prototype.
 - **Stage and claimability of Event Mode:** prototype; may be described as in
   development (founder, 16 October 2026). See the feature status table.
 
 Source: founder, 11 October 2026.
+
+### Strategic direction: founder decisions, 26 November 2026 `CONFIRMED`
+
+Caroline's six *Consolidated Founder Decisions* of 26 November 2026 are the
+authoritative strategic direction for Entre Amis. Where an earlier strategic
+restriction conflicts with them, they take precedence; the earlier text is
+kept, marked as superseded, for the record. **Existing privacy, legal and
+consumer protection safeguards stay in place until the founder explicitly
+reviews and amends them** ([03](03-guardrails.md)).
+
+Four things are kept apart, and must never be blurred in output:
+
+1. **Confirmed strategic direction:** the six decisions and their
+   implications (below). Direction, not product.
+2. **Confirmed current product capabilities:** what exists and may be
+   demonstrated or claimed today. Only the
+   [feature status table](#feature-status--what-may-be-claimed-confirmed)
+   decides this, and these decisions change nothing in it.
+3. **Commercial hypotheses:** opportunities kept open without commitment
+   ([06](06-commercial.md#strategic-scope-founder-decisions-26-november-2026)).
+4. **Open operational and governance questions:** resolved when there is
+   enough evidence or a decision is needed (end of this section, and 06).
+
+The purpose of this direction is enough strategic clarity for partner
+discovery and proposition validation, not a finished business, commercial
+or operating model.
+
+#### 1. Confirmed strategic direction
+
+**Decision 1: the ecosystem.**
+
+- Entre Amis is a connected consumer experience that lets people build their
+  own wine life across different wines, brands, places and social occasions.
+- Partner experiences are individual entry points into that wider
+  ecosystem, not isolated products.
+- A person's relationship with Entre Amis continues beyond an individual
+  partner experience, while respecting the partner's own customer
+  relationships.
+- As the ecosystem evolves, shared consumer intelligence and wider
+  discovery are intended to become part of its commercial value. Their
+  nature, scope, permissions and commercial arrangements evolve with the
+  business.
+- **The power of the many** is fundamental to the strategic proposition.
+
+**Decision 2: three areas of commercial value**, all within strategic scope
+and not permanently restricted to particular modes, products or commercial
+arrangements:
+
+- **Own business intelligence:** how people experience and respond to a
+  partner's own wines.
+- **Wider market intelligence:** tastes, preferences, occasions and emerging
+  trends across Entre Amis.
+- **Discovery and connection:** opportunities for wine businesses to reach
+  and engage with people beyond their existing customers.
+
+This creates no partner entitlements, data access rights, delivery
+commitments or commercial packages. Privacy, consumer trust, editorial
+independence and wine neutrality are fundamental.
+
+**Decision 3: experience, interactions and profiling.**
+
+- Enjoyment, conversation and human connection come first. Every
+  interaction offers something meaningful to the participant, not just data
+  collection, and not every interaction needs to capture data.
+- The vineyard provides its expertise and educational content; Entre Amis
+  facilitates discovery, enjoyment and connection.
+- Interaction direction: quick-touch sensory discovery; personal reactions;
+  occasions, food associations and preferences; optional notes and
+  comments; conversation and shared discovery; personal wine memories.
+  Interactions vary across several wines rather than repeating one long
+  sequence for every wine.
+- The Just Tasting mock-ups (23 November 2026) show the intended direction.
+  Development is deliberately deferred.
+- Personal wine memories, consumer intelligence and personal profiling are
+  distinct (see
+  [03](03-guardrails.md#memories-intelligence-and-profiling-confirmed)).
+- The My wines decisions stay in place (see
+  [Wine 101 and My wines](#wine-101-and-my-wines-confirmed)).
+
+**Decision 4: personalisation and the shared platform.** We standardise the
+framework, not the experience.
+
+- One shared platform, not multiple bespoke products.
+- Partner-led personalisation, visibly **Powered by Entre Amis**.
+- Configuration rather than rebuilding; flexibility for partners to create
+  and adapt their own experiences and content.
+- Self-service is an intended capability; managed services where partners
+  prefer or need support.
+- Consistent consumer experience standards and appropriate, scalable
+  content governance.
+
+**Decisions 5 and 6** (UK proof of concept; commercial principles) are in
+[06](06-commercial.md#strategic-scope-founder-decisions-26-november-2026).
+
+**What this means for partner conversations.** The direction above may be
+described to partners as Entre Amis's direction and ambition, clearly
+labelled as not yet available. It is never described as a current
+capability, a package or an entitlement.
+
+#### 2. Confirmed current product capabilities
+
+Unchanged by these decisions. The
+[feature status table](#feature-status--what-may-be-claimed-confirmed) is
+the only source. In particular, none of these exists or may be claimed
+today: wider market intelligence; discovery or reach beyond a partner's own
+guests; partner self-service, configuration or a partner portal; personal
+profiling; Just Tasting as shown in the 23 November mock-ups. Reports for
+businesses and contact details to businesses stay **not claimable**.
+
+#### 3. Commercial hypotheses
+
+See [06](06-commercial.md#strategic-scope-founder-decisions-26-november-2026).
+
+#### 4. Open questions `TODO`
+
+To resolve at the right stage; they should not unnecessarily constrain the
+strategic ambition. None may be filled in by an agent.
+
+- Company and data controller arrangements.
+- Legal review, privacy, consent and data-sharing policies.
+- Partner access to personal information.
+- Shared-notes consent and existing product inconsistencies.
+- Wider aggregated intelligence: method and permissions.
+- Partner content governance and commercial terms.
+- Proof-of-concept measurement and minimum product readiness.
+- Partner configuration and self-service boundaries, including how far
+  partner design flexibility goes against the
+  [visual identity](04-visual-identity.md).
+- Commercial models, pricing and founding partner incentives.
+- Affiliate arrangements and protection of wine neutrality.
+
+Source: founder, *Consolidated Founder Decisions*, 26 November 2026, and
+founder instruction of the same day (14:47).
 
 ### Early thinking — not for external use `CONFIRMED`
 
@@ -248,6 +389,28 @@ What each one is (founder, 12 October 2026).
   pulls from and what it records is a data logic piece of work still to do.
   Never mention this externally, and don't describe either feature as
   complete.
+
+`CONFIRMED` **My wines decisions kept in place** (founder, 12 November 2026,
+reaffirmed 26 November 2026). Direction only: none of this is built yet, so
+the table above and the feature status table still describe the app as it
+is.
+
+- **Four reactions stay:** ❤️ Love it · 👍 Like it · 🤔 Not sure · 👎 Not for
+  me, each tied to its occasion.
+- **The favourite star is removed** in every way of playing. Love it
+  surfaces a wine in "Ones to remember" (working name). Existing star records
+  are kept, not converted into Love it. Removal is not yet built.
+- **The crown is a collective choice only:** a shared occasion memory, never
+  an individual taste signal and never "Your pick". The per-phone crown in
+  Partner tasting and Event Mode, and the Event prize draw built on it, are
+  existing product inconsistencies to resolve; nothing is changed until then.
+- Implementation of the wider My wines direction (Your wine story, Still to
+  try, Ones to remember, personal photos) is not authorised.
+- Until these are built, "favourite" in the Partner Mode description above
+  describes the prototype as it is.
+
+Source: *My wines: founder position*, 12 November 2026; *Consolidated
+Founder Decisions*, 26 November 2026.
 
 ### Game facts `CONFIRMED`
 
