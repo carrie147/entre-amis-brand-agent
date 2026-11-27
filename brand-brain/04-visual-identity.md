@@ -477,6 +477,38 @@ Still to discuss with the founder `TODO`:
 - Event cards: the current build's event demo stops at the welcome screen, so
   event cards have not been checked against the frame.
 
+### How the brand is applied in the app `CONFIRMED`
+
+Founder decisions, 27 November 2026, from the comparison of the tasting
+screen, Wine 101 "Daylight, refined" and the My wines concepts (*How the brand
+is applied, comparison and proposed kit*, DRAFT, 27 November 2026).
+
+- **Background:** brand cream `#EFEAE0` on every app screen.
+- **Text colour:** deep olive `#565A32` for all text.
+- **Wine colour dots:** each wine's colour is shown with a dot in these
+  colours, as in the built app.
+
+| Wine colour | Dot |
+| --- | --- |
+| Red | `#93404D` |
+| Rosé | `#F2B8AC` |
+| White | `#F1E3A4` |
+| Orange | `#DE9C58` |
+| Sparkling | `#F4EAC0` |
+| No or low | `#E7E1D4` |
+
+Built screens and concepts that are exceptions today, to be amended in the
+development brief: the lighter paper background `#F6F2EB` used by the app and
+all the concepts; the darker ink text `#3A3D22` in the concepts; small labels
+in mid olive.
+
+Still to discuss with the founder `TODO`:
+
+- Card question weight: the founder prefers Medium for legibility. Medium
+  (500) is not one of the brand weights above, so it needs a founder decision.
+- Type sizes: one set of text and button sizes for the app.
+- Surfaces: raised card, flat list or dashed outline, and when each is used.
+
 ## Stationery and in-box print `PROPOSED`
 
 Draft designs in the founder's *Entre Amis Stationery* canvas (17 October
