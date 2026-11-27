@@ -398,15 +398,14 @@ Founder decision, 27 November 2026. Master image:
   1. **Set up a game at home**: "Play for corks with friends"
   2. **Join someone else's event or tasting**: "Simply enter your code"
   3. **Just tasting**: "Guided notes on the wines in your glass"
+- **The game box code** is entered at account set-up, not from the home page
+  (founder, 27 November 2026). Account set-up itself is still to be designed.
 
 Still to decide `TODO`:
 
 - The picture: to be selected later. No photograph is approved yet, and the
   draft photography rule ("never on the front door or home tiles",
   `PROPOSED`) needs the founder's update to allow the home picture.
-- Where the game box code goes, now that the second option names events and
-  tastings only (today's card says "from your host, a box, a tasting or an
-  event").
 
 Idea banked `PROPOSED` (founder, 27 November 2026): the home picture could
 rotate through the person's own pictures from previous events on their
