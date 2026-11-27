@@ -355,6 +355,8 @@ Founder decision, 27 November 2026. Master image:
   gold is still `TODO`, so until it is chosen no gold is used.
 - **Signed out:** the pill holds only the burger menu, with no initial
   (founder, 27 November 2026).
+- **Shared screens** (the host's TV or laptop) follow the same top bar and
+  bottom bar rules (founder, 27 November 2026).
 - **The burger menu holds** (founder, 27 November 2026), in this order:
   Back, Home, My wines, Wine 101, Log out, Settings.
 - **No "‹ Home" line under the top bar** (founder, 27 November 2026). Back is
@@ -375,7 +377,6 @@ under the top bar.
 
 Still to discuss with the founder `TODO`:
 
-- Whether the shared screen (host's TV or laptop) follows the same bars.
 - Which gold for Event Mode (HEX, RGB, CMYK).
 - The full-screen Secret Mission stays as it is until real-phone testing
   (`CONFIRMED` 5 November 2026).
