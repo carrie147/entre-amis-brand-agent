@@ -502,12 +502,29 @@ development brief: the lighter paper background `#F6F2EB` used by the app and
 all the concepts; the darker ink text `#3A3D22` in the concepts; small labels
 in mid olive.
 
-Still to discuss with the founder `TODO`:
+- **Type sizes:** one set for the whole app (founder, 27 November 2026).
+  Card questions are Raleway Regular, not Light or Medium, so they are easy
+  to read (founder, 27 November 2026).
 
-- Card question weight: the founder prefers Medium for legibility. Medium
-  (500) is not one of the brand weights above, so it needs a founder decision.
-- Type sizes: one set of text and button sizes for the app.
-- Surfaces: raised card, flat list or dashed outline, and when each is used.
+| Use | Size and weight | Example |
+| --- | --- | --- |
+| Page title | 36 px Light | My wines |
+| Card question | 28 px Regular | Does this feel dry or sweet? |
+| Heading | 20 px SemiBold | Clos des Amandiers Blanc |
+| Item | 16 px SemiBold | Sunday lunch |
+| Body | 15 px Regular | Ruby to garnet; tawny with age. |
+| Small | 13 px Regular | A game with family · 14 Sep |
+| Label | 11 px Bold capitals | NOW DRINKING |
+
+- **Button heights:** main button 48 px, outlined button 44 px, Next 40 px.
+- **Surfaces:** a raised card only for the thing being done now (the tasting
+  card). Everything browsed (My wines, Wine 101) is a flat list with fine
+  lines. A dashed outline only for "not yet" (such as Still to try) and the
+  note button. Line icons in deep olive. Reactions muted everywhere; no star
+  (founder, 27 November 2026).
+
+Further exceptions today: the card question in Medium; about 20 different
+text sizes across the app and concepts; surfaces used in mixed ways.
 
 ## Stationery and in-box print `PROPOSED`
 
