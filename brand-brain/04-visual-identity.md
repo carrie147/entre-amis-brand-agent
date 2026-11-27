@@ -386,6 +386,10 @@ under the top bar.
 The full-screen Secret Mission stays as it is (`CONFIRMED` 5 November 2026,
 and again by the founder on 27 November 2026).
 
+The signed-out welcome ("Scan or enter a code", "Log me in") sits outside
+the frame, as an access point. It may never be needed, depending on the
+routes in (founder, 27 November 2026).
+
 ### Home page `CONFIRMED`
 
 Founder decision, 27 November 2026. Master image:
@@ -440,8 +444,8 @@ card.
   screen that sets up the day.
 - **The note button:** "Save a note of your own", a button with a pencil,
   directly under the wine header, so players can see it is there to tap. In
-  the game and partner tastings; Just tasting keeps its note box inside the
-  card.
+  the game and partner tastings. Just tasting keeps its note box inside the
+  card, because there the question is the game (founder, 27 November 2026).
 - **The card:** the size it is now. Not made smaller. Every card is the same
   size, including in partner tastings.
 - **No card titles.** No family or format heading on a card (for example
@@ -471,16 +475,25 @@ than in the game (all screens take the game's gap); the partner header ("In
 your glass · 3 of 6"), its name row under the top bar, its card titles and its
 cards of different heights.
 
-Still to discuss with the founder `TODO`:
+- **Wine colour at set-up** (founder, 27 November 2026): the colour is asked
+  for at set-up with the six colour dots, as one tap. If it is skipped, the
+  header shows "Now drinking" with no dot.
+- **Tap the wine header to reveal more** (founder, 27 November 2026): tapping
+  the wine's name opens one line under it (for example producer, vintage,
+  grape), as *Taps only reveal more*.
+- **Event cards** fit the same frame and screens (founder, 27 November 2026).
+- **A game survives** a page reload or a dropped connection (founder,
+  27 November 2026).
 
-- Relative sizes of each part on screen, to be checked on real phones.
-- What the wine header shows when the wine's colour is not known (for
-  example a wine typed in at game set-up without one).
-- A tap on the wine header to reveal more about the wine (producer, vintage,
-  grape): to revisit.
-- Whether Just tasting also takes the note button.
-- Event cards: the current build's event demo stops at the welcome screen, so
-  event cards have not been checked against the frame.
+Still to do `TODO`:
+
+- Relative sizes of each part on screen: check on a small phone (iPhone SE
+  size) and a large one before the development brief (founder, 27 November
+  2026).
+- Event cards: the event demo stops at the welcome screen and needs to be
+  completed so event cards can be checked against the frame.
+- The timer: still to be solved so it fits the card (founder, 27 November
+  2026).
 
 ### My wines `CONFIRMED`
 
@@ -512,14 +525,24 @@ decisions.
 - **Pictures** in memories are the person's own photos. The master uses
   stand-ins.
 
+How My wines behaves (founder, 27 November 2026):
+
+- **All my wines** shows each wine once, with its latest occasion and
+  latest reaction. Wines with no reaction are not shown. Search and colour
+  filters are added once the list is longer than one screen.
+- **Ones to remember** shows a wine once, with its latest occasion and "and
+  once more" when it was loved more than once.
+- **Tapping a wine** opens a wine page: the name, its colour dot, each
+  occasion with the reaction and note, and a link to its grape or colour in
+  Wine 101.
+- **Still to try** is filled from "Save for another day" on a scanned wine in
+  Wine 101.
+- **The favourite star:** its functionality goes; existing star records stay.
+
 Still to discuss with the founder `TODO`:
 
 - All wording on these screens, which is provisional.
-- A wine tasted at more than one occasion: one row in All my wines, or one
-  per occasion.
-- Whether wines with no reaction are shown in All my wines.
-- Search and colour filters once All my wines gets long.
-- What opens when a wine is tapped.
+- Personal photos: storage, cost and privacy. Still to be decided.
 
 ### Wine 101 `CONFIRMED`
 
@@ -531,7 +554,8 @@ screen holds less.
 - **Frame:** the top bar and bottom bar above, with Wine 101 underlined. Back
   is in the burger menu.
 - **Front page:** a short picture band, the page title and line, then search
-  and Scan a wine at the top (with the scans left), then "Or start with a
+  and Scan a wine at the top (with the scans left: 5 a month to start with,
+  outside game play; founder, 27 November 2026), then "Or start with a
   colour" with the six colours.
 - **Fewer taps:** as *Taps only reveal more* above. Every Wine 101 page
   shows its short content straight away, one line or short paragraph each.
@@ -551,6 +575,8 @@ screen holds less.
 - **Word meanings** (for example "acidity"): the word is highlighted in
   blush. Tapping it opens the meaning in the page, under the line, with a
   blush rule. No overlay or pop-up.
+- **Nothing found:** search shows the "Nothing on … yet" page, with Scan a
+  wine and Start with a colour as other ways in (founder, 27 November 2026).
 - **Pictures** only on the Wine 101 front page, a colour, or a region. Never
   on a grape page and never of individual grapes (founder, 27 November 2026).
 
@@ -563,7 +589,9 @@ Still to discuss with the founder `TODO`:
 
 - All wording on these screens, which is provisional.
 - Which pictures go on the front page and each colour (the Red picture in the
-  master is a stand-in).
+  master is a stand-in): later.
+- "Add to today's game" on a scanned wine: the founder suggests it reads
+  "Add to my next game" or "Still to try". Wording to confirm.
 
 ### How the brand is applied in the app `CONFIRMED`
 
