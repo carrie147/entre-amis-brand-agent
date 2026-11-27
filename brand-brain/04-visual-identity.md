@@ -381,6 +381,38 @@ Still to discuss with the founder `TODO`:
 - The full-screen Secret Mission stays as it is until real-phone testing
   (`CONFIRMED` 5 November 2026).
 
+### Home page `CONFIRMED`
+
+Founder decision, 27 November 2026. Master image:
+[`assets/app-ui/master-home-page-27-nov-2026.png`](assets/app-ui/master-home-page-27-nov-2026.png).
+
+- **Layout:** the Wine 101 style welcome (a picture band under the top bar,
+  then a large greeting) with the three options as rounded cards
+  ("lozenges"). The confirmed top bar and bottom bar apply. Nothing else on
+  the page: My wines and Wine 101 are reached from the bottom bar.
+- **Greeting:** "Hi [first name]", which also works at first log-in.
+- **Words under the greeting:** "Entre Amis is all about having a place where
+  you can store your wine life, the details and the memories. Let's get
+  started."
+- **The three options, in order:**
+  1. **Set up a game at home**: "Play for corks with friends"
+  2. **Join someone else's event or tasting**: "Simply enter your code"
+  3. **Just tasting**: "Guided notes on the wines in your glass"
+
+Still to decide `TODO`:
+
+- The picture: to be selected later. No photograph is approved yet, and the
+  draft photography rule ("never on the front door or home tiles",
+  `PROPOSED`) needs the founder's update to allow the home picture.
+- Where the game box code goes, now that the second option names events and
+  tastings only (today's card says "from your host, a box, a tasting or an
+  event").
+
+Idea banked `PROPOSED` (founder, 27 November 2026): the home picture could
+rotate through the person's own pictures from previous events on their
+device, so it feels theirs and fresh. Not to be designed or built until the
+personal photos decision (storage, cost and privacy) is made.
+
 ## Stationery and in-box print `PROPOSED`
 
 Draft designs in the founder's *Entre Amis Stationery* canvas (17 October
