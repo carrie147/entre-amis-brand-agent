@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-11-27 | 04 | App wine colour dots: every dot has a fine light sage outline so the paler colours show on cream. | Caroline |
 | 2026-11-27 | 04 | App type sizes (36 Light, 28 Regular card question, 20 and 16 SemiBold, 15 and 13 Regular, 11 Bold capitals), button heights 48 / 44 / 40, and surfaces (raised card only for the tasting card, flat lists for browsing, dashed only for "not yet" and the note button). | Caroline |
 | 2026-11-27 | 04 | App brand application: cream `#EFEAE0` background on every screen; deep olive for all text; wine colour dots (red, rosé, white, orange, sparkling, no or low) added with their colours. Card weight, type sizes and surfaces still to discuss. | Caroline |
 | 2026-11-27 | 04 | App tasting screen: the wine header shows the wine's colour with its colour dot after "Now drinking" (for example "Now drinking · White") on every screen. Home page picture on hold. | Caroline |
