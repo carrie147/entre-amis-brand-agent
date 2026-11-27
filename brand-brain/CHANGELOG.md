@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-11-27 | 04, assets | App Wine 101 locked: search and Scan a wine at the top of the front page, colours below; colour, grape and wine pages show the name and one line, with sections that open on tap; word meanings open in the page with a blush rule; pictures only on the front page, colours and regions, never grapes. Master image in `assets/app-ui/`. | Caroline |
 | 2026-11-27 | 04, assets | App My wines design direction locked (build still not authorised): option 2's look with the 12 November decisions; memories as picture cards, Ones to remember (Love it) with colour dots, Still to try, and an All my wines row; an opened memory opens like option 2's second screen; All my wines lists every wine tasted with muted reaction filters. Master image in `assets/app-ui/`. | Caroline |
 | 2026-11-27 | 04 | App wine colour dots: every dot has a fine light sage outline so the paler colours show on cream. | Caroline |
 | 2026-11-27 | 04 | App type sizes (36 Light, 28 Regular card question, 20 and 16 SemiBold, 15 and 13 Regular, 11 Bold capitals), button heights 48 / 44 / 40, and surfaces (raised card only for the tasting card, flat lists for browsing, dashed only for "not yet" and the note button). | Caroline |
