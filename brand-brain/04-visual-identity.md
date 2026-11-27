@@ -458,8 +458,12 @@ card.
   does not fit.
 - **"Change or finish"** is for the host only: an outlined button under the
   card. Guests do not see it.
-- **The timer** fits on the same card size; the glass is made smaller and
-  simpler.
+- **The timer** (founder, 27 November 2026; master image
+  [`assets/app-ui/master-timer-27-nov-2026.png`](assets/app-ui/master-timer-27-nov-2026.png)):
+  a simple circle with the seconds, in the card's colour, so the timer card is
+  the same size as every other card. The glass is gone: size matters more.
+  "Tap to start" under the circle; while it runs, the number counts down and
+  the ring empties.
 - **The Secret Mission** private screen stays as it is.
 - **Partner tastings** follow the same structure: the Now drinking header with
   reactions, and no repeat of the partner's name under the top bar.
@@ -492,8 +496,6 @@ Still to do `TODO`:
   2026).
 - Event cards: the event demo stops at the welcome screen and needs to be
   completed so event cards can be checked against the frame.
-- The timer: still to be solved so it fits the card (founder, 27 November
-  2026).
 
 ### My wines `CONFIRMED`
 
