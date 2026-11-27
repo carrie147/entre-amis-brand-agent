@@ -550,6 +550,8 @@ Still to discuss with the founder `TODO`:
 - All wording on these screens, which is provisional.
 - Which pictures go on the front page and each colour (the Red picture in the
   master is a stand-in).
+- How much a grape page shows without a tap, so it does not get clunky
+  (founder, 27 November 2026).
 
 ### How the brand is applied in the app `CONFIRMED`
 
