@@ -331,6 +331,11 @@ Review* (DRAFT, 27 November 2026).
 - No rolling back. The built app and earlier decisions stay as they are until
   the development brief applies these rules.
 
+`CONFIRMED` **Taps only reveal more** (founder, 27 November 2026). Across the
+whole app, a tap only ever reveals more. Essential information is always on
+the screen without a tap, so people use what is there. Short content shows
+straight away; only longer, extra content opens on tap.
+
 ### Top bar and bottom bar `CONFIRMED`
 
 Founder decision, 27 November 2026. Master image:
@@ -527,9 +532,9 @@ screen holds less.
 - **Front page:** a short picture band, the page title and line, then search
   and Scan a wine at the top (with the scans left), then "Or start with a
   colour" with the six colours.
-- **Fewer taps** (founder, 27 November 2026): every Wine 101 page shows its
-  short content straight away, one line or short paragraph each, so people
-  use what is there. Only longer content opens on tap.
+- **Fewer taps:** as *Taps only reveal more* above. Every Wine 101 page
+  shows its short content straight away, one line or short paragraph each.
+  Only longer content opens on tap.
 - **A colour, at a glance:** the name with its colour dot, then In the glass,
   Scent, Taste, With food and Serve shown straight away. Longer content opens
   on tap (for example Regions and wines of note).

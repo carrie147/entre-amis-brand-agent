@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-11-27 | 04 | App-wide rule: taps only reveal more. Essential information is always on screen without a tap; only longer, extra content opens on tap. | Caroline |
 | 2026-11-27 | 04, assets | App Wine 101 fewer taps: every page shows its short content straight away and only longer content opens on tap; colour pages and scanned wines at a glance. Master image updated. | Caroline |
 | 2026-11-27 | 04, assets | App Wine 101 grape pages at a glance: short facts shown without a tap, long lists show the first three, only longer content opens on tap. Master image updated. | Caroline |
 | 2026-11-27 | 04, assets | App Wine 101 locked: search and Scan a wine at the top of the front page, colours below; colour, grape and wine pages show the name and one line, with sections that open on tap; word meanings open in the page with a blush rule; pictures only on the front page, colours and regions, never grapes. Master image in `assets/app-ui/`. | Caroline |
