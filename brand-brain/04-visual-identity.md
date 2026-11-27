@@ -535,7 +535,7 @@ How My wines behaves (founder, 27 November 2026):
 - **Tapping a wine** opens a wine page: the name, its colour dot, each
   occasion with the reaction and note, and a link to its grape or colour in
   Wine 101.
-- **Still to try** is filled from "Save for another day" on a scanned wine in
+- **Still to try** is filled from the "Still to try" button on a scanned wine in
   Wine 101.
 - **The favourite star:** its functionality goes; existing star records stay.
 
@@ -569,8 +569,8 @@ screen holds less.
   shows its first three, then "and 3 more" (for example Where it grows). Only
   longer content opens on tap (for example Grows best in).
 - **A scanned wine:** the name, producer and year, where it is from, and the
-  tasting guide, then "Save for another day" as the main button and "Add to
-  today's game" as an outlined button. Short detail shows straight away (for
+  tasting guide, then one button, "Still to try", which saves it to Still to
+  try in My wines (founder, 27 November 2026). Short detail shows straight away (for
   example On the label).
 - **Word meanings** (for example "acidity"): the word is highlighted in
   blush. Tapping it opens the meaning in the page, under the line, with a
@@ -590,8 +590,6 @@ Still to discuss with the founder `TODO`:
 - All wording on these screens, which is provisional.
 - Which pictures go on the front page and each colour (the Red picture in the
   master is a stand-in): later.
-- "Add to today's game" on a scanned wine: the founder suggests it reads
-  "Add to my next game" or "Still to try". Wording to confirm.
 
 ### How the brand is applied in the app `CONFIRMED`
 
