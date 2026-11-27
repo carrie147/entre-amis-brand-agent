@@ -313,62 +313,64 @@ the scale itself is for confirmation.
   column, switch on lining figures (`font-variant-numeric: lining-nums`) so
   numbers sit level.
 
-## App interface foundations `PROPOSED`
+## App interface foundations
 
 One set of interface rules for every part of the app (game, Partner, Event,
-Just tasting, My wines, Wine 101), locked one at a time in this order: top
-bar, navigation, home, how the experience works, how the brand is applied.
-Background: the founder's requirement of 27 November 2026 for one consistent
-design language, and the *Integrated App UI, Stage 1 Visual Review* (DRAFT,
-27 November 2026).
+Just tasting, My wines, Wine 101), locked one at a time: top bar and
+navigation first, then home, how the experience works, and how the brand is
+applied. Background: the founder's requirement of 27 November 2026 for one
+consistent design language, and the *Integrated App UI, Stage 1 Visual
+Review* (DRAFT, 27 November 2026).
 
-How these rules work:
+`CONFIRMED` **How these rules work** (founder, 27 November 2026):
 
-- Once a rule is confirmed, later screen work is checked against it. A design
-  that breaks a rule is flagged to the founder; the rule only changes when the
-  founder reopens it.
-- No rolling back. The built app and earlier decisions stay as they are; these
-  rules apply going forward. Built screens that differ go on a "to align" list
-  for the development brief.
+- Any screen found that does not follow a confirmed rule is an exception and
+  is amended to match the rule.
+- Any problem with applying a rule is raised with the founder and discussed.
+  Claude never decides it.
+- No rolling back. The built app and earlier decisions stay as they are until
+  the development brief applies these rules.
 
-### Top bar and navigation `PROPOSED`
+### Top bar and bottom bar `CONFIRMED`
 
-The founder's direction (27 November 2026), awaiting her confirmation of
-this wording:
+Founder decision, 27 November 2026. Master image:
+[`assets/app-ui/master-top-bar-and-bottom-bar-27-nov-2026.png`](assets/app-ui/master-top-bar-and-bottom-bar-27-nov-2026.png).
 
-- **One consistent top bar** across every part of the app.
-- It shows the **logged-in state**.
-- Navigation is potentially a **"burger" menu** that drops down, as in other
-  products, for simplicity.
-- **The leaf always stays** (consistent with the leaf on the left of every top
-  bar, `CONFIRMED` 29 October 2026).
-- **A partner logo never goes in the top bar**, unless it replaces the
-  `ENTRE AMIS` words.
-- The bar is **pink or green depending on mode**: blush for Partner and Event,
-  green for the rest of the app.
+- **The base.** The current app's My wines and Wine 101 bar (the leaf with
+  `ENTRE AMIS`) and the game bar (the leaf with the table name and date) are
+  the only approved top bars. The master is built from them.
+- **One top bar everywhere.** From left to right: the leaf, the title, then
+  one pill holding the burger menu (left) and the logged-in initial (right).
+  Nothing else goes in the top bar.
+- **The leaf always stays.**
+- **Title in the Entre Amis app:** the `ENTRE AMIS` words. My wines is always
+  `ENTRE AMIS`. In the game, the table name with the date beneath, as now.
+- **Title in the partner app:** the vineyard's name on the top line. The
+  second line is either a secondary name (for example the tasting's name) or
+  the date. No partner logo in the top bar.
+- **The line under the top bar:** olive in the Entre Amis app, blush in the
+  partner app.
+- **Bottom bar everywhere:** Home · My wines · Wine 101, consistent across the
+  whole app. It replaces the game's Today / My wines / Wine 101 tabs. The
+  word is "Home", never "Today". Its top line follows the same colour rule.
 
-Still to decide `TODO`:
+Built screens that are exceptions today (build `3e338eb`), to be amended in
+the development brief: the home screen (no top bar); Just tasting (Back in the
+top bar, no title); the hosted tasting guest bar (no initial); Partner screens
+(Account pill, centred leaf, Guide, partner initials row); the game's tabs
+under the top bar.
 
-- The order in the bar: the leaf on the left is confirmed, but the position
-  of the `ENTRE AMIS` words (or partner logo), the burger and the account
-  still needs deciding.
-- How the logged-in state shows (for example an initial, as in the current
-  game and My wines, or a word), and what shows when signed out.
-- Whether the burger replaces the Today / My wines / Wine 101 tabs (current
-  game) and the bottom bar (Sales Pack v1.0), and what it holds.
-- Back: in the bar or below it, and its wording ("Back", "‹ Home", or the
-  named page).
-- Pink or green: a full bar fill or a rule or marker. The expression colours
-  rule (`CONFIRMED`) uses blush and the other expression colours for markers
-  and labels, not large backgrounds, so a full fill needs the founder's
-  decision. Also which green: mid olive (the app's expression colour) or deep
-  olive.
-- Where "Powered by Entre Amis" appears when a partner logo replaces the
-  words.
-- During a game or tasting: the same bar, and where "Leave this tasting" and
-  "Change or finish" go. The full-screen Secret Mission stays as it is until
-  real-phone testing (`CONFIRMED` 5 November 2026).
-- Whether the shared screen (host's TV or laptop) follows the same bar.
+Still to discuss with the founder `TODO`:
+
+- What the burger menu holds.
+- Back: whether the "‹ Home" line under the top bar stays now that the bottom
+  bar has Home.
+- What shows in place of the initial when signed out.
+- Event Mode: blush (as a partner, under the expression colours) or its own
+  decision.
+- Whether the shared screen (host's TV or laptop) follows the same bars.
+- The full-screen Secret Mission stays as it is until real-phone testing
+  (`CONFIRMED` 5 November 2026).
 
 ## Stationery and in-box print `PROPOSED`
 
