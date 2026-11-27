@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-11-27 | 04 | App: the game box code is entered at account set-up, not from the home page. | Caroline |
 | 2026-11-27 | 04, assets | App home page locked: Wine 101 style welcome with a picture band and "Hi [first name]"; founder copy "Entre Amis is all about having a place where you can store your wine life, the details and the memories. Let's get started."; three lozenges: Set up a game at home (Play for corks with friends), Join someone else's event or tasting (Simply enter your code), Just tasting (Guided notes on the wines in your glass). Picture to be chosen later. Master image in `assets/app-ui/`. | Caroline |
 | 2026-11-27 | 04 | The gold for Event Mode lines in the app is ochre gold #C89B3C (the Pour card fill). Scope: Event Mode in the app; the general Gold by exception rule is otherwise unchanged. | Caroline |
 | 2026-11-27 | 04 | App: signed out, the top bar pill holds only the burger menu. Event Mode lines in the app are gold, approved by the founder as an exception under Gold by exception (replaces blush for Event Mode lines in the app); which gold is still TODO, and none is used until chosen. Shared screens (host's TV or laptop) follow the same top bar and bottom bar rules. | Caroline |
