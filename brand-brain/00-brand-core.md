@@ -412,6 +412,9 @@ is.
   an individual taste signal and never "Your pick". The per-phone crown in
   Partner tasting and Event Mode, and the Event prize draw built on it, are
   existing product inconsistencies to resolve; nothing is changed until then.
+  Founder clarification, 27 November 2026: the crown stays a collective view
+  only. The Event prize draw is for anyone who nominates or crowns a wine
+  (still not claimable until its legal check).
 - Implementation of the wider My wines direction (Your wine story, Still to
   try, Ones to remember, personal photos) is not authorised.
 - Until these are built, "favourite" in the Partner Mode description above
