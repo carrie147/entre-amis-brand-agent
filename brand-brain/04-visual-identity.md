@@ -350,6 +350,8 @@ Founder decision, 27 November 2026. Master image:
   the date. No partner logo in the top bar.
 - **The line under the top bar:** olive in the Entre Amis app, blush in the
   partner app.
+- **The burger menu holds** (founder, 27 November 2026), in this order:
+  Back, Home, My wines, Wine 101, Log out, Settings.
 - **Bottom bar everywhere:** Home · My wines · Wine 101, consistent across the
   whole app. It replaces the game's Today / My wines / Wine 101 tabs. The
   word is "Home", never "Today". Its top line follows the same colour rule.
@@ -362,9 +364,10 @@ under the top bar.
 
 Still to discuss with the founder `TODO`:
 
-- What the burger menu holds.
-- Back: whether the "‹ Home" line under the top bar stays now that the bottom
-  bar has Home.
+- Settings: no settings screen exists in the app today; what it holds is not yet designed.
+- "Leave this tasting" (partner and hosted tastings) is not in the burger list: where it goes.
+- Back: whether the "‹ Home" line under the top bar stays now that Back is
+  in the burger menu and Home is in the bottom bar.
 - What shows in place of the initial when signed out.
 - Event Mode: blush (as a partner, under the expression colours) or its own
   decision.
