@@ -527,9 +527,12 @@ screen holds less.
 - **Front page:** a short picture band, the page title and line, then search
   and Scan a wine at the top (with the scans left), then "Or start with a
   colour" with the six colours.
-- **A colour:** the name with its colour dot, then sections that open on tap
-  (for example In the glass, Scent, Taste, With food, Serve). One section
-  open at a time.
+- **Fewer taps** (founder, 27 November 2026): every Wine 101 page shows its
+  short content straight away, one line or short paragraph each, so people
+  use what is there. Only longer content opens on tap.
+- **A colour, at a glance:** the name with its colour dot, then In the glass,
+  Scent, Taste, With food and Serve shown straight away. Longer content opens
+  on tap (for example Regions and wines of note).
 - **A grape, at a glance** (founder, 27 November 2026): the name with its
   colour dot and one short line, then the short facts shown straight away,
   one line each (for example Styles, On the label, Blended with). A long list
@@ -537,8 +540,8 @@ screen holds less.
   longer content opens on tap (for example Grows best in).
 - **A scanned wine:** the name, producer and year, where it is from, and the
   tasting guide, then "Save for another day" as the main button and "Add to
-  today's game" as an outlined button. Further detail sits in sections that
-  open on tap.
+  today's game" as an outlined button. Short detail shows straight away (for
+  example On the label).
 - **Word meanings** (for example "acidity"): the word is highlighted in
   blush. Tapping it opens the meaning in the page, under the line, with a
   blush rule. No overlay or pop-up.
@@ -547,7 +550,7 @@ screen holds less.
 
 Built screens and concepts that are exceptions today: the concept's "‹ Home"
 and "‹ Wine 101" lines and CW circle; the search and scan below the colours;
-all details shown at once; definitions in always-open boxes; the dashed
+definitions in always-open boxes; the dashed
 Tasting guide box; the picture on the grape page.
 
 Still to discuss with the founder `TODO`:
