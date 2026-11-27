@@ -349,7 +349,14 @@ Founder decision, 27 November 2026. Master image:
   second line is either a secondary name (for example the tasting's name) or
   the date. No partner logo in the top bar.
 - **The line under the top bar:** olive in the Entre Amis app, blush in the
-  partner app.
+  partner app, gold in Event Mode. Gold for Event Mode is the founder's
+  approved exception under *Gold by exception* (27 November 2026); for the
+  app's Event Mode lines it replaces blush from the expression colours. Which
+  gold is still `TODO`, so until it is chosen no gold is used.
+- **Signed out:** the pill holds only the burger menu, with no initial
+  (founder, 27 November 2026).
+- **Shared screens** (the host's TV or laptop) follow the same top bar and
+  bottom bar rules (founder, 27 November 2026).
 - **The burger menu holds** (founder, 27 November 2026), in this order:
   Back, Home, My wines, Wine 101, Log out, Settings.
 - **No "‹ Home" line under the top bar** (founder, 27 November 2026). Back is
@@ -370,10 +377,7 @@ under the top bar.
 
 Still to discuss with the founder `TODO`:
 
-- What shows in place of the initial when signed out.
-- Event Mode: blush (as a partner, under the expression colours) or its own
-  decision.
-- Whether the shared screen (host's TV or laptop) follows the same bars.
+- Which gold for Event Mode (HEX, RGB, CMYK).
 - The full-screen Secret Mission stays as it is until real-phone testing
   (`CONFIRMED` 5 November 2026).
 
