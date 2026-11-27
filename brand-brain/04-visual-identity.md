@@ -486,7 +486,8 @@ is applied, comparison and proposed kit*, DRAFT, 27 November 2026).
 - **Background:** brand cream `#EFEAE0` on every app screen.
 - **Text colour:** deep olive `#565A32` for all text.
 - **Wine colour dots:** each wine's colour is shown with a dot in these
-  colours, as in the built app.
+  colours, as in the built app. Every dot has a fine light sage `#B9BC9A`
+  outline, so the paler colours show on cream (founder, 27 November 2026).
 
 | Wine colour | Dot |
 | --- | --- |
