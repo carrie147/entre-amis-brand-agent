@@ -503,7 +503,8 @@ decisions.
 - **An opened memory** opens like option 2's second screen: the picture at
   the top, the date and type of occasion, the occasion's name, the Wine of the
   Evening (chosen together), your wines with colour dots and muted reactions,
-  then who was there and the Awards.
+  then who was there and the Awards, which open on tap: they are extra, not
+  essential to the memory (founder, 27 November 2026).
 - **All my wines:** every wine tasted, newest first. Each shows its colour
   dot, the occasion and the person's reaction, muted. Filters across the top:
   All plus the four reactions, shown as muted emoji only so they fit the
