@@ -313,6 +313,65 @@ the scale itself is for confirmation.
   column, switch on lining figures (`font-variant-numeric: lining-nums`) so
   numbers sit level.
 
+## App interface foundations
+
+One set of interface rules for every part of the app (game, Partner, Event,
+Just tasting, My wines, Wine 101), locked one at a time: top bar and
+navigation first, then home, how the experience works, and how the brand is
+applied. Background: the founder's requirement of 27 November 2026 for one
+consistent design language, and the *Integrated App UI, Stage 1 Visual
+Review* (DRAFT, 27 November 2026).
+
+`CONFIRMED` **How these rules work** (founder, 27 November 2026):
+
+- Any screen found that does not follow a confirmed rule is an exception and
+  is amended to match the rule.
+- Any problem with applying a rule is raised with the founder and discussed.
+  Claude never decides it.
+- No rolling back. The built app and earlier decisions stay as they are until
+  the development brief applies these rules.
+
+### Top bar and bottom bar `CONFIRMED`
+
+Founder decision, 27 November 2026. Master image:
+[`assets/app-ui/master-top-bar-and-bottom-bar-27-nov-2026.png`](assets/app-ui/master-top-bar-and-bottom-bar-27-nov-2026.png).
+
+- **The base.** The current app's My wines and Wine 101 bar (the leaf with
+  `ENTRE AMIS`) and the game bar (the leaf with the table name and date) are
+  the only approved top bars. The master is built from them.
+- **One top bar everywhere.** From left to right: the leaf, the title, then
+  one pill holding the burger menu (left) and the logged-in initial (right).
+  Nothing else goes in the top bar.
+- **The leaf always stays.**
+- **Title in the Entre Amis app:** the `ENTRE AMIS` words. My wines is always
+  `ENTRE AMIS`. In the game, the table name with the date beneath, as now.
+- **Title in the partner app:** the vineyard's name on the top line. The
+  second line is either a secondary name (for example the tasting's name) or
+  the date. No partner logo in the top bar.
+- **The line under the top bar:** olive in the Entre Amis app, blush in the
+  partner app.
+- **Bottom bar everywhere:** Home · My wines · Wine 101, consistent across the
+  whole app. It replaces the game's Today / My wines / Wine 101 tabs. The
+  word is "Home", never "Today". Its top line follows the same colour rule.
+
+Built screens that are exceptions today (build `3e338eb`), to be amended in
+the development brief: the home screen (no top bar); Just tasting (Back in the
+top bar, no title); the hosted tasting guest bar (no initial); Partner screens
+(Account pill, centred leaf, Guide, partner initials row); the game's tabs
+under the top bar.
+
+Still to discuss with the founder `TODO`:
+
+- What the burger menu holds.
+- Back: whether the "‹ Home" line under the top bar stays now that the bottom
+  bar has Home.
+- What shows in place of the initial when signed out.
+- Event Mode: blush (as a partner, under the expression colours) or its own
+  decision.
+- Whether the shared screen (host's TV or laptop) follows the same bars.
+- The full-screen Secret Mission stays as it is until real-phone testing
+  (`CONFIRMED` 5 November 2026).
+
 ## Stationery and in-box print `PROPOSED`
 
 Draft designs in the founder's *Entre Amis Stationery* canvas (17 October
