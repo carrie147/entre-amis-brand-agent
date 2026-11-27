@@ -527,9 +527,14 @@ screen holds less.
 - **Front page:** a short picture band, the page title and line, then search
   and Scan a wine at the top (with the scans left), then "Or start with a
   colour" with the six colours.
-- **A colour or a grape:** the name with its colour dot and one short line,
-  then sections that open on tap (for example In the glass, Scent, Taste,
-  With food, Serve). One section open at a time.
+- **A colour:** the name with its colour dot, then sections that open on tap
+  (for example In the glass, Scent, Taste, With food, Serve). One section
+  open at a time.
+- **A grape, at a glance** (founder, 27 November 2026): the name with its
+  colour dot and one short line, then the short facts shown straight away,
+  one line each (for example Styles, On the label, Blended with). A long list
+  shows its first three, then "and 3 more" (for example Where it grows). Only
+  longer content opens on tap (for example Grows best in).
 - **A scanned wine:** the name, producer and year, where it is from, and the
   tasting guide, then "Save for another day" as the main button and "Add to
   today's game" as an outlined button. Further detail sits in sections that
@@ -550,8 +555,6 @@ Still to discuss with the founder `TODO`:
 - All wording on these screens, which is provisional.
 - Which pictures go on the front page and each colour (the Red picture in the
   master is a stand-in).
-- How much a grape page shows without a tap, so it does not get clunky
-  (founder, 27 November 2026).
 
 ### How the brand is applied in the app `CONFIRMED`
 
