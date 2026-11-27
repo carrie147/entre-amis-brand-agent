@@ -458,7 +458,9 @@ Built screens that are exceptions today (build `3e338eb`), to be amended in
 the development brief: the wine header (star, producer line, full-colour
 reactions); Just tasting's "1 of 4" and full-width Next; the game's "Change or
 finish" under the header and "Add a note" under the card; the timer card,
-which runs under the bottom bar on a standard phone; the partner header ("In
+which runs under the bottom bar on a standard phone; the gap between the top
+bar and the wine header, which is smaller on partner and Just tasting screens
+than in the game (all screens take the game's gap); the partner header ("In
 your glass · 3 of 6"), its name row under the top bar, its card titles and its
 cards of different heights.
 
