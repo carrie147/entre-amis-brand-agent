@@ -351,8 +351,9 @@ Founder decision, 27 November 2026. Master image:
 - **The line under the top bar:** olive in the Entre Amis app, blush in the
   partner app, gold in Event Mode. Gold for Event Mode is the founder's
   approved exception under *Gold by exception* (27 November 2026); for the
-  app's Event Mode lines it replaces blush from the expression colours. Which
-  gold is still `TODO`, so until it is chosen no gold is used.
+  app's Event Mode lines it replaces blush from the expression colours. The
+  gold is **ochre gold `#C89B3C`** (RGB 200, 155, 60), the same as the Pour
+  card fill (founder, 27 November 2026).
 - **Signed out:** the pill holds only the burger menu, with no initial
   (founder, 27 November 2026).
 - **Shared screens** (the host's TV or laptop) follow the same top bar and
@@ -377,7 +378,6 @@ under the top bar.
 
 Still to discuss with the founder `TODO`:
 
-- Which gold for Event Mode (HEX, RGB, CMYK).
 - The full-screen Secret Mission stays as it is until real-phone testing
   (`CONFIRMED` 5 November 2026).
 
