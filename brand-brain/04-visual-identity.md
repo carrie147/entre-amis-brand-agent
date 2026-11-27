@@ -477,6 +477,44 @@ Still to discuss with the founder `TODO`:
 - Event cards: the current build's event demo stops at the welcome screen, so
   event cards have not been checked against the frame.
 
+### My wines `CONFIRMED`
+
+Founder decision, 27 November 2026. Master image:
+[`assets/app-ui/master-my-wines-27-nov-2026.png`](assets/app-ui/master-my-wines-27-nov-2026.png).
+Design direction only: building the wider My wines direction is still not
+authorised (see *Wine 101 and My wines* in `00-brand-core.md`). It uses the
+look of My wines option 2 (Master v1.1) with the founder's 12 November
+decisions.
+
+- **Frame:** the top bar and bottom bar above, with My wines underlined. Back
+  is in the burger menu.
+- **The My wines page**, from top to bottom: the page title; Memories, as
+  picture cards, one for each occasion; Ones to remember (the wines marked
+  Love it), each with its colour dot and a muted heart; Still to try, in a
+  dashed outline; then an "All my wines" row at the bottom, with no colour
+  dots on the row.
+- **No favourite star.** "Ones to remember" replaces option 2's "Favourite
+  wines".
+- **An opened memory** opens like option 2's second screen: the picture at
+  the top, the date and type of occasion, the occasion's name, the Wine of the
+  Evening (chosen together), your wines with colour dots and muted reactions,
+  then who was there and the Awards.
+- **All my wines:** every wine tasted, newest first. Each shows its colour
+  dot, the occasion and the person's reaction, muted. Filters across the top:
+  All plus the four reactions, shown as muted emoji only so they fit the
+  page. Each reaction also stays inside its memory.
+- **Pictures** in memories are the person's own photos. The master uses
+  stand-ins.
+
+Still to discuss with the founder `TODO`:
+
+- All wording on these screens, which is provisional.
+- A wine tasted at more than one occasion: one row in All my wines, or one
+  per occasion.
+- Whether wines with no reaction are shown in All my wines.
+- Search and colour filters once All my wines gets long.
+- What opens when a wine is tapped.
+
 ### How the brand is applied in the app `CONFIRMED`
 
 Founder decisions, 27 November 2026, from the comparison of the tasting
