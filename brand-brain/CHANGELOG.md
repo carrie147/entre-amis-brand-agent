@@ -5,6 +5,7 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-11-27 | 04, assets | App Wine 101: a scanned wine has one button, "Still to try", which saves it to Still to try in My wines. Master image updated. | Caroline |
 | 2026-11-27 | 00 | Crown clarified: a collective view only; the Event prize draw is for anyone who nominates or crowns a wine (still not claimable until its legal check). | Caroline |
 | 2026-11-27 | 04 | App functionality decisions: wine colour asked at set-up (no dot if skipped); tap the wine header to reveal more; Just tasting keeps its note box; event cards fit the frame; a game survives a reload; All my wines shows each wine once with its latest reaction, no unreacted wines; Ones to remember shows a wine once; tapping a wine opens a wine page; Still to try fed from Save for another day; star functionality goes, records stay; Wine 101 scans 5 a month to start, outside game play; "Nothing on … yet" page; signed-out welcome sits outside the frame. Timer, event demo and real-phone sizes still to do. | Caroline |
 | 2026-11-27 | 04 | App My wines: in an opened memory, who was there and the Awards open on tap (extra, not essential). | Caroline |
