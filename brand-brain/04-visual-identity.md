@@ -378,10 +378,8 @@ top bar, no title); the hosted tasting guest bar (no initial); Partner screens
 (Account pill, centred leaf, Guide, partner initials row); the game's tabs
 under the top bar.
 
-Still to discuss with the founder `TODO`:
-
-- The full-screen Secret Mission stays as it is until real-phone testing
-  (`CONFIRMED` 5 November 2026).
+The full-screen Secret Mission stays as it is (`CONFIRMED` 5 November 2026,
+and again by the founder on 27 November 2026).
 
 ### Home page `CONFIRMED`
 
@@ -413,6 +411,67 @@ Idea banked `PROPOSED` (founder, 27 November 2026): the home picture could
 rotate through the person's own pictures from previous events on their
 device, so it feels theirs and fresh. Not to be designed or built until the
 personal photos decision (storage, cost and privacy) is made.
+
+### Tasting screen `CONFIRMED`
+
+Founder decision, 27 November 2026. Master image:
+[`assets/app-ui/master-tasting-screen-27-nov-2026.png`](assets/app-ui/master-tasting-screen-27-nov-2026.png).
+
+One fixed frame for every tasting screen: Just tasting, the game (host and
+guest), partner tastings and events. From top to bottom: the top bar, the wine
+header, the note button, the card, then the bottom bar. Wine things sit at the
+top; navigation sits at the bottom. Only what is inside the card changes, and
+every card type (note questions, multiple choice and the rest) fits the same
+card.
+
+- **Top bar:** as *Top bar and bottom bar* above, and it stays fixed when the
+  screen scrolls.
+- **Wine header:** "Now drinking", then the wine's name only. No producer
+  line, no favourite star, no "1 of 4" and no wine count (such as "3 of 6").
+  Tighter spacing than the built app.
+- **Reactions:** in the wine header, muted on every screen. None on the intro
+  screen that sets up the day.
+- **The note button:** "Save a note of your own", a button with a pencil,
+  directly under the wine header, so players can see it is there to tap. In
+  the game and partner tastings; Just tasting keeps its note box inside the
+  card.
+- **The card:** the size it is now. Not made smaller. Every card is the same
+  size, including in partner tastings.
+- **No card titles.** No family or format heading on a card (for example
+  "Savour", "Wine Knowledge", "From Domaine Saint Claire").
+- **Back and Next** (where the screen moves on by itself, as in Just tasting
+  and partner tastings): "‹ Back" as a text link on the left and a smaller Next
+  button on the right, locked above the bottom bar. The card scrolls behind
+  them.
+- **Next in the game** stays on the card itself, unless a card is found that
+  does not fit.
+- **"Change or finish"** is for the host only: an outlined button under the
+  card. Guests do not see it.
+- **The timer** fits on the same card size; the glass is made smaller and
+  simpler.
+- **The Secret Mission** private screen stays as it is.
+- **Partner tastings** follow the same structure: the Now drinking header with
+  reactions, and no repeat of the partner's name under the top bar.
+- **Bottom bar:** as above, with nothing underlined while tasting.
+
+Built screens that are exceptions today (build `3e338eb`), to be amended in
+the development brief: the wine header (star, producer line, full-colour
+reactions); Just tasting's "1 of 4" and full-width Next; the game's "Change or
+finish" under the header and "Add a note" under the card; the timer card,
+which runs under the bottom bar on a standard phone; the partner header ("In
+your glass · 3 of 6"), its name row under the top bar, its card titles and its
+cards of different heights.
+
+Still to discuss with the founder `TODO`:
+
+- Relative sizes of each part on screen, to be checked on real phones.
+- The wine's colour after "Now drinking" (for example "Now drinking · White"),
+  shown in the Just tasting mock-up but not yet decided.
+- A tap on the wine header to reveal more about the wine (producer, vintage,
+  grape): to revisit.
+- Whether Just tasting also takes the note button.
+- Event cards: the current build's event demo stops at the welcome screen, so
+  event cards have not been checked against the frame.
 
 ## Stationery and in-box print `PROPOSED`
 
