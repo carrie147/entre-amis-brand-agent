@@ -515,6 +515,42 @@ Still to discuss with the founder `TODO`:
 - Search and colour filters once All my wines gets long.
 - What opens when a wine is tapped.
 
+### Wine 101 `CONFIRMED`
+
+Founder decision, 27 November 2026. Master image:
+[`assets/app-ui/master-wine-101-27-nov-2026.png`](assets/app-ui/master-wine-101-27-nov-2026.png).
+The Wine 101 "Daylight, refined" concept (12 November 2026), tidied so each
+screen holds less.
+
+- **Frame:** the top bar and bottom bar above, with Wine 101 underlined. Back
+  is in the burger menu.
+- **Front page:** a short picture band, the page title and line, then search
+  and Scan a wine at the top (with the scans left), then "Or start with a
+  colour" with the six colours.
+- **A colour or a grape:** the name with its colour dot and one short line,
+  then sections that open on tap (for example In the glass, Scent, Taste,
+  With food, Serve). One section open at a time.
+- **A scanned wine:** the name, producer and year, where it is from, and the
+  tasting guide, then "Save for another day" as the main button and "Add to
+  today's game" as an outlined button. Further detail sits in sections that
+  open on tap.
+- **Word meanings** (for example "acidity"): the word is highlighted in
+  blush. Tapping it opens the meaning in the page, under the line, with a
+  blush rule. No overlay or pop-up.
+- **Pictures** only on the Wine 101 front page, a colour, or a region. Never
+  on a grape page and never of individual grapes (founder, 27 November 2026).
+
+Built screens and concepts that are exceptions today: the concept's "‹ Home"
+and "‹ Wine 101" lines and CW circle; the search and scan below the colours;
+all details shown at once; definitions in always-open boxes; the dashed
+Tasting guide box; the picture on the grape page.
+
+Still to discuss with the founder `TODO`:
+
+- All wording on these screens, which is provisional.
+- Which pictures go on the front page and each colour (the Red picture in the
+  master is a stand-in).
+
 ### How the brand is applied in the app `CONFIRMED`
 
 Founder decisions, 27 November 2026, from the comparison of the tasting
