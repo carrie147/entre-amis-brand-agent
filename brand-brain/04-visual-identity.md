@@ -352,6 +352,12 @@ Founder decision, 27 November 2026. Master image:
   partner app.
 - **The burger menu holds** (founder, 27 November 2026), in this order:
   Back, Home, My wines, Wine 101, Log out, Settings.
+- **No "‹ Home" line under the top bar** (founder, 27 November 2026). Back is
+  in the burger menu and Home is in the bottom bar.
+- **"Leave this tasting" stays as it is now**, at the foot of the screen in
+  partner and hosted tastings (founder, 27 November 2026).
+- **Settings is on hold** (founder, 27 November 2026): it stays in the burger
+  menu; what it holds will be decided later.
 - **Bottom bar everywhere:** Home · My wines · Wine 101, consistent across the
   whole app. It replaces the game's Today / My wines / Wine 101 tabs. The
   word is "Home", never "Today". Its top line follows the same colour rule.
@@ -364,10 +370,6 @@ under the top bar.
 
 Still to discuss with the founder `TODO`:
 
-- Settings: no settings screen exists in the app today; what it holds is not yet designed.
-- "Leave this tasting" (partner and hosted tastings) is not in the burger list: where it goes.
-- Back: whether the "‹ Home" line under the top bar stays now that Back is
-  in the burger menu and Home is in the bottom bar.
 - What shows in place of the initial when signed out.
 - Event Mode: blush (as a partner, under the expression colours) or its own
   decision.
