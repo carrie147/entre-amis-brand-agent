@@ -403,7 +403,7 @@ Founder decision, 27 November 2026. Master image:
 
 Still to decide `TODO`:
 
-- The picture: to be selected later. No photograph is approved yet, and the
+- The picture: on hold (founder, 27 November 2026), to be selected later. No photograph is approved yet, and the
   draft photography rule ("never on the front door or home tiles",
   `PROPOSED`) needs the founder's update to allow the home picture.
 
@@ -426,7 +426,9 @@ card.
 
 - **Top bar:** as *Top bar and bottom bar* above, and it stays fixed when the
   screen scrolls.
-- **Wine header:** "Now drinking", then the wine's name only. No producer
+- **Wine header:** "Now drinking" followed by the wine's colour with its
+  colour dot (for example "Now drinking · White") on every screen (founder,
+  27 November 2026), then the wine's name only. No producer
   line, no favourite star, no "1 of 4" and no wine count (such as "3 of 6").
   Tighter spacing than the built app.
 - **Reactions:** in the wine header, muted on every screen. None on the intro
@@ -467,8 +469,8 @@ cards of different heights.
 Still to discuss with the founder `TODO`:
 
 - Relative sizes of each part on screen, to be checked on real phones.
-- The wine's colour after "Now drinking" (for example "Now drinking · White"),
-  shown in the Just tasting mock-up but not yet decided.
+- What the wine header shows when the wine's colour is not known (for
+  example a wine typed in at game set-up without one).
 - A tap on the wine header to reveal more about the wine (producer, vintage,
   grape): to revisit.
 - Whether Just tasting also takes the note button.
