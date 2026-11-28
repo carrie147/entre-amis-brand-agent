@@ -519,7 +519,7 @@ Points that apply before any edition is written:
 | 9 | Consumer price | Nothing priced for consumers ([00](00-brand-core.md#current-stage-confirmed)) | £0.55 / £0.95 are internal hypotheses only. |
 | 10 | Brand journey | The journey is Inspire → Discover → Experience → Belong; Play → Discover → Experience is not shown as a process ([00](00-brand-core.md#the-brand-journey--inspire--discover--experience--belong-confirmed)) | Internal note only: editions fit the journey, mostly Discover and Belong (reasons to return). |
 | 11 | Partner contacts | Contact details to partners are still `PROPOSED` and need legal review ([03](03-guardrails.md#partner-mode-data-confirmed)) | "Longer-term relationships, subject to permissions" waits for that rule. |
-| 12 | Core app purchase | App payment options are still to explore (one-off Host unlock, free trial; Work Tracker) | "After the initial one-off app purchase" is a hypothesis too. |
+| 12 | Core app purchase | App payment options are still to explore (one-off Host unlock, free trial; Work Tracker). **Host trial deferred (founder, 28 November 2026)** to the commercial model and pricing review (Work Tracker COM-03). Earlier trial ideas, including one game, four players and two wines, are reference points only, not decisions | "After the initial one-off app purchase" is a hypothesis too. |
 
 ### Assessment of the founder's questions (for review)
 
@@ -606,6 +606,37 @@ launch, partner acquisition, events and licensing work.
 8. Define commercial rights and contract requirements, before any agreement.
 9. Explore potential partners only as part of existing partner outreach.
 10. Decide which edition, if any, to pilot first.
+
+## Core Host access `CONFIRMED`
+
+Business rules for who can host a game in the app. Internal. Not
+claimable, and nothing here is built yet (Work Tracker APP-07).
+
+- **Account-based.** Permanent Core Host access belongs to the person's
+  account, not their device.
+- **What "permanent" covers.** Only the Core Host product, acquired through
+  the physical box or the one-off app purchase. It is separate from Partner
+  and Event commercial licences, and does not imply entitlement to future
+  premium products or functionality. (The 26 November line "no lifetime
+  access … has been agreed" is about commercial commitments to partners.)
+- **Many purchases, one right.** An app purchase and a physical box can both
+  be recorded against the same account, each as its own record, without
+  duplicating the right.
+- **The same however obtained.** Core Host capabilities are identical
+  whichever way access came.
+- **History is protected.** Changing device or adding another purchase
+  never affects existing wines, games or memories.
+- **Separate from businesses.** Partner, Event and Corporate access use
+  codes and are held by the business, not the person.
+- **A refund removes only its own record.** Refunding an individual purchase
+  must not remove Core Host access where another valid record still gives
+  it.
+- **Host trial: deferred.** See row 12 of the checks above.
+
+Source: founder, 14 November 2026 (Connected Business Architecture,
+decision 4, approved at the business-rule level); what "permanent" covers,
+the refund rule and the trial deferral, founder, 28 November 2026 (Stage 3
+reconciliation, Area 1).
 
 ## Strategic scope: founder decisions, 26 November 2026
 
