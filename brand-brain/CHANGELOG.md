@@ -5,6 +5,8 @@ Every approved change to the Brand Brain, newest first. Only founder-approved
 
 | Date | File | Change | Approved by |
 | --- | --- | --- | --- |
+| 2026-11-28 | 00 | Customer experience principles: purpose before process (people understand what they get before being asked to act) and one code at a time, across all modes. | Caroline |
+| 2026-11-28 | 06 | Core Host access: account-based, one right however obtained, each purchase or activation its own record, history protected, separate from Partner and Event licences (14 Nov); a refund removes only its own record (28 Nov). Host trial deferred to the commercial model and pricing review; earlier trial ideas kept as reference only. | Caroline |
 | 2026-11-27 | 04, assets | App game timer: a simple circle with the seconds, so the timer card is the same size as every other card; the glass is removed; "Tap to start". Master image in `assets/app-ui/`. | Caroline |
 | 2026-11-27 | 04, assets | App Wine 101: a scanned wine has one button, "Still to try", which saves it to Still to try in My wines. Master image updated. | Caroline |
 | 2026-11-27 | 00 | Crown clarified: a collective view only; the Event prize draw is for anyone who nominates or crowns a wine (still not claimable until its legal check). | Caroline |

@@ -593,6 +593,23 @@ Proposed here for the founder to confirm; until then the table above stands.
 
 > "When you're at an Entre Amis table, nobody has to prove they belong there."
 
+## Customer experience principles `CONFIRMED`
+
+How Entre Amis treats people in every mode: a game at home, Just tasting,
+Partner tastings and Events, My wines and Wine 101. Internal, not consumer
+copy.
+
+- **Purpose before process.** People understand what they will get before
+  they are asked to do anything: sign in, give an email, enter a code or
+  buy.
+- **One code at a time.** Nobody is ever asked for more than one code at a
+  time.
+
+Source: founder, 28 November 2026 (Stage 3 reconciliation, decision A3),
+from the beta, where testers could not activate without a written guide.
+How account set-up and onboarding apply this is not yet designed (Work
+Tracker APP-13 and ONBOARD-LEARN).
+
 ## Audiences
 
 | Audience | Who | Voice |
