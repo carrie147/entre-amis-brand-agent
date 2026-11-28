@@ -368,7 +368,9 @@ Founder decision, 27 November 2026. Master image:
 - **No "‹ Home" line under the top bar** (founder, 27 November 2026). Back is
   in the burger menu and Home is in the bottom bar.
 - **"Leave this tasting" stays as it is now**, at the foot of the screen in
-  partner and hosted tastings (founder, 27 November 2026).
+  hosted tastings (founder, 27 November 2026).
+- **A hosted tasting means a Partner tasting or an Event**, and nothing else
+  (founder, 28 November 2026). There is no private hosted tasting mode.
 - **Settings is on hold** (founder, 27 November 2026): it stays in the burger
   menu. What it will hold (founder, 28 November 2026): change name, change
   email, consent choices, add a box code later, Privacy, and Delete my
@@ -377,12 +379,12 @@ Founder decision, 27 November 2026. Master image:
 - **Bottom bar everywhere:** Home · My wines · Wine 101, consistent across the
   whole app. It replaces the game's Today / My wines / Wine 101 tabs. The
   word is "Home", never "Today". Its top line follows the same colour rule.
-- **While tasting** (a game, a hosted or partner tasting, Just tasting),
+- **While tasting** (a game, a hosted tasting, Just tasting),
   nothing in the bottom bar is underlined (founder, 27 November 2026).
 
 Built screens that are exceptions today (build `3e338eb`), to be amended in
 the development brief: the home screen (no top bar); Just tasting (Back in the
-top bar, no title); the hosted tasting guest bar (no initial); Partner screens
+top bar, no title); the Partner and Event guest bar (no initial); Partner screens
 (Account pill, centred leaf, Guide, partner initials row); the game's tabs
 under the top bar.
 
