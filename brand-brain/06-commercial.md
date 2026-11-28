@@ -614,6 +614,11 @@ claimable, and nothing here is built yet (Work Tracker APP-07).
 
 - **Account-based.** Permanent Core Host access belongs to the person's
   account, not their device.
+- **What "permanent" covers.** Only the Core Host product, acquired through
+  the physical box or the one-off app purchase. It is separate from Partner
+  and Event commercial licences, and does not imply entitlement to future
+  premium products or functionality. (The 26 November line "no lifetime
+  access … has been agreed" is about commercial commitments to partners.)
 - **Many purchases, one right.** An app purchase and a physical box can both
   be recorded against the same account, each as its own record, without
   duplicating the right.
@@ -629,8 +634,9 @@ claimable, and nothing here is built yet (Work Tracker APP-07).
 - **Host trial: deferred.** See row 12 of the checks above.
 
 Source: founder, 14 November 2026 (Connected Business Architecture,
-decision 4, approved at the business-rule level); refund rule and trial
-deferral, founder, 28 November 2026 (Stage 3 reconciliation, Area 1).
+decision 4, approved at the business-rule level); what "permanent" covers,
+the refund rule and the trial deferral, founder, 28 November 2026 (Stage 3
+reconciliation, Area 1).
 
 ## Strategic scope: founder decisions, 26 November 2026
 
