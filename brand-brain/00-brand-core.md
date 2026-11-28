@@ -415,6 +415,10 @@ is.
   Founder clarification, 27 November 2026: the crown stays a collective view
   only. The Event prize draw is for anyone who nominates or crowns a wine
   (still not claimable until its legal check).
+  Founder decision, 28 November 2026, for Partner tastings: each phone casts
+  one vote, and the room's result is the one crowned wine, shown to everyone
+  together. A personal vote is never shown as "Your pick" or kept as a
+  personal choice. The Event crown is decided separately.
 - Implementation of the wider My wines direction (Your wine story, Still to
   try, Ones to remember, personal photos) is not authorised.
 - Until these are built, "favourite" in the Partner Mode description above
