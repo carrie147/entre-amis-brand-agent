@@ -473,6 +473,13 @@ card.
 - **The Secret Mission** private screen stays as it is.
 - **Partner tastings** follow the same structure: the Now drinking header with
   reactions, and no repeat of the partner's name under the top bar.
+- **What a partner can personalise** (founder, 28 November 2026): the
+  content (their name, welcome, story, pictures, wines and their own
+  questions), not the look. The partner's logo appears on the welcome screen
+  alongside Entre Amis, both up front; never in the top bar and never
+  recoloured. The partner's own question cards may carry the partner's colour.
+  Everything else stays Entre Amis branded: the frame, Raleway and the core
+  colours. A partner's own typeface is not used.
 - **Bottom bar:** as above, with nothing underlined while tasting.
 
 Built screens that are exceptions today (build `3e338eb`), to be amended in
