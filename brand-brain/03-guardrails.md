@@ -179,9 +179,22 @@ the contact rule stays `PROPOSED`, and contact details stay not claimable.
 - **Private notes remain private.** Sharing a note with the room does **not**
   by itself count as consent to share it with a commercial partner.
 - **No analysis of drinking frequency or quantity.**
-- **The five-person reporting threshold** (reports show nothing under five
-  people) is the current prototype behaviour. It is **not** an approved
-  privacy or commercial data-sharing policy.
+- **The five-person reporting threshold is the policy** (founder, 28
+  November 2026): a report shows nothing for fewer than five people, and
+  nothing about a wine or question fewer than five people answered. It
+  still goes through the privacy and legal review before any report reaches
+  a real partner.
+- **Reports give observations, not recommendations** (founder, 28 November
+  2026). Interpretation is a separate, chargeable product. The "So what"
+  lines in the Sales Pack are labelled as illustrative interpretation.
+- **Contact only through a ticked box for each business** (founder, 28
+  November 2026), and no names or emails are released before the privacy
+  and legal review. The contact rule above stays `PROPOSED` and not
+  claimable until then.
+- **Two data rules** (founder, 28 November 2026; built with the data
+  foundations): chip answers are stored with clear labels; the table's
+  crowned wine is never copied onto a person's own record, which holds only
+  their own choices.
 - **Reports in partner materials stay without figures** for now, until the
   data capture and reporting principles are agreed. Reporting distinguishes
   reactions and preferences from purchase intention, selected vocabulary
