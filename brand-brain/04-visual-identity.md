@@ -493,7 +493,7 @@ your glass · 3 of 6"), its name row under the top bar, its card titles and its
 cards of different heights.
 
 - **Wine colour at set-up** (founder, 27 November 2026): the colour is asked
-  for at set-up with the six colour dots, as one tap. If it is skipped, the
+  for at set-up with the seven colour dots, as one tap. If it is skipped, the
   header shows "Now drinking" with no dot.
 - **Tap the wine header to reveal more** (founder, 27 November 2026): tapping
   the wine's name opens one line under it (for example producer, vintage,
@@ -583,7 +583,7 @@ screen holds less.
 - **Front page:** a short picture band, the page title and line, then search
   and Scan a wine at the top (with the scans left: 5 a month to start with,
   outside game play; founder, 27 November 2026), then "Or start with a
-  colour" with the six colours.
+  colour" with the seven colours.
 - **Fewer taps:** as *Taps only reveal more* above. Every Wine 101 page
   shows its short content straight away, one line or short paragraph each.
   Only longer content opens on tap.
@@ -637,7 +637,16 @@ is applied, comparison and proposed kit*, DRAFT, 27 November 2026).
 | White | `#F1E3A4` |
 | Orange | `#DE9C58` |
 | Sparkling | `#F4EAC0` |
-| No or low | `#E7E1D4` |
+| Sweet | TODO: colour to be chosen |
+| Fortified | TODO: colour to be chosen |
+
+- **One list of wine colours** (founder, 28 November 2026): the seven above
+  are the one list everywhere: set-up, the wine header, Wine 101, Just
+  tasting, the print card and the data. Sweet and Fortified replace No or
+  low, which is no longer a colour (it was `#E7E1D4`). The two new dot
+  colours are still to be chosen, and the Wine 101 master, which shows six
+  dots with No or low, is to be updated to match. The built app's
+  "non-alc" type is an exception, to be amended in the development brief.
 
 Built screens and concepts that are exceptions today, to be amended in the
 development brief: the lighter paper background `#F6F2EB` used by the app and
