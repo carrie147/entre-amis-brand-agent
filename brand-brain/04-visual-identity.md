@@ -370,7 +370,10 @@ Founder decision, 27 November 2026. Master image:
 - **"Leave this tasting" stays as it is now**, at the foot of the screen in
   partner and hosted tastings (founder, 27 November 2026).
 - **Settings is on hold** (founder, 27 November 2026): it stays in the burger
-  menu; what it holds will be decided later.
+  menu. What it will hold (founder, 28 November 2026): change name, change
+  email, consent choices, add a box code later, Privacy, and Delete my
+  account. Its design is banked with account set-up; the burger menu order
+  above does not change.
 - **Bottom bar everywhere:** Home · My wines · Wine 101, consistent across the
   whole app. It replaces the game's Today / My wines / Wine 101 tabs. The
   word is "Home", never "Today". Its top line follows the same colour rule.
@@ -412,9 +415,10 @@ Founder decision, 27 November 2026. Master image:
 
 Still to decide `TODO`:
 
-- The picture: on hold (founder, 27 November 2026), to be selected later. No photograph is approved yet, and the
-  draft photography rule ("never on the front door or home tiles",
-  `PROPOSED`) needs the founder's update to allow the home picture.
+- The picture: held (founder, 27 and 28 November 2026). No photograph is
+  approved yet; a separate piece of work is needed on what the picture is
+  and how it is done. The draft photography rule now allows a picture in the
+  home page picture band only (founder, 28 November 2026; see *Photography*).
 
 Idea banked `PROPOSED` (founder, 27 November 2026): the home picture could
 rotate through the person's own pictures from previous events on their
@@ -633,6 +637,13 @@ in mid olive.
 | Small | 13 px Regular | A game with family · 14 Sep |
 | Label | 11 px Bold capitals | NOW DRINKING |
 
+- **Smallest text** (founder, 28 November 2026): reading text (Body) is never
+  below 15 px on phones. Small (13 px) is only for short detail lines, such
+  as a date or a place; Label (11 px) is only for bold capital labels, such
+  as NOW DRINKING. This settles the earlier rule of 14 October 2026 (no
+  reading text below 15 px) against this type set. The small and large phone
+  check includes iPhone larger text.
+
 - **Button heights:** main button 48 px, outlined button 44 px, Next 40 px.
 - **Surfaces:** a raised card only for the thing being done now (the tasting
   card). Everything browsed (My wines, Wine 101) is a flat list with fine
@@ -767,8 +778,11 @@ For a photographer or a stock search, read with the style above.
 
 - **Website and social:** lifestyle photography with discipline, so the feed
   has one feeling. One scattered leaf per post.
-- **App, never:** the front door, the home tiles or the favourites list.
-- **App, only:** a wine thumbnail if it is the label from that occasion;
+- **App, never:** the front door (the 18+ age check and the signed-out
+  welcome), the three option cards on the home page, or the favourites list
+  (founder, 28 November 2026).
+- **App, only:** the home page picture band, once a picture is approved
+  (founder, 28 November 2026); a wine thumbnail if it is the label from that occasion;
   memories and the crowned header from the player's own photo of the
   occasion; Wine 101 colour landing pages, and possibly regions.
 
