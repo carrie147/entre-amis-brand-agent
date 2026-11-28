@@ -499,6 +499,9 @@ cards of different heights.
   the wine's name opens one line under it (for example producer, vintage,
   grape), as *Taps only reveal more*.
 - **Event cards** fit the same frame and screens (founder, 27 November 2026).
+- **The Event demo** runs on the same demo site as the Partner demo, with
+  fictional data only, so its cards can be checked against the frame without
+  touching the beta (founder, 28 November 2026).
 - **A game survives** a page reload or a dropped connection (founder,
   27 November 2026).
 

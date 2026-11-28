@@ -200,9 +200,9 @@ There are two ways partners take part.
   host and its wines, never a test of the guest — keep "no wrong answers" in
   spirit: answers are revealed as discoveries, and nobody is told they were
   wrong.
-- `PROPOSED` **Quizzes in Event Mode too.** Quizzes are part of Event Mode
+- `CONFIRMED` **Quizzes in Event Mode too.** Quizzes are part of Event Mode
   as well as Partner Mode (founder, 28 October 2026, Full Story master
-  review). The same rule applies: a way of learning about the producers and
+  review; confirmed 28 November 2026). The same rule applies: a way of learning about the producers and
   their wines, never a test; answers are revealed as discoveries. The Event
   Mode prize draw stays not claimable until the legal check (see the feature
   status table).
@@ -419,6 +419,13 @@ is.
   one vote, and the room's result is the one crowned wine, shown to everyone
   together. A personal vote is never shown as "Your pick" or kept as a
   personal choice. The Event crown is decided separately.
+  Founder decision, 28 November 2026, for Events: the same. Each phone crowns
+  one wine, and the room's result is the one Wine of the Day, shown to
+  everyone at the end; category votes stay visitors' own votes. Crowning a
+  wine is the entry to the Event prize draw ("nominates" is no longer used):
+  one entry per person, not per phone, using the email the person gives to
+  enter, with short terms shown before entry. Still not claimable until the
+  legal check.
 - Implementation of the wider My wines direction (Your wine story, Still to
   try, Ones to remember, personal photos) is not authorised.
 - Until these are built, "favourite" in the Partner Mode description above
@@ -529,7 +536,7 @@ not as launched (see Current stage).
 | App: Wine Knowledge questions about the wine in the glass (when its label has been photographed) | Prototype | Yes — as in development |
 | App: Word Play and Wine Knowledge alongside the boxed game | Prototype | Yes — as in development |
 | Partner Mode | Prototype, working live (tested 15 October 2026) | Yes — as in development, to partners only |
-| Event Mode | Prototype, working live (15 October 2026) | Yes — as in development |
+| Event Mode | Prototype; runs live but hasn't yet run with many players (founder, 28 November 2026) | Yes — as in development, and we're looking for a launch partner |
 | Event Mode: prize draw for visitors who crown | Built in the prototype | **No** — not until the legal check (UK prize draw rules, CAP, Portman Group) and short terms are done |
 | Partner Mode and Event Mode: reports for businesses | `CONFIRMED` Built in the prototype (16 October 2026): totals are shown only once 5 or more people have taken part, and a producer sees only its own wines. Not yet seen by a partner | **No** |
 | Partner Mode and Event Mode: contact details to businesses | Built in the prototype as unticked boxes, one per business | **No** — the contact rule in [guardrails](03-guardrails.md) is still `PROPOSED` and needs legal review |
@@ -540,17 +547,20 @@ not as launched (see Current stage).
 Founder answers on the Fizz Fest 2027 founding Event Partner deck (21 October
 2026), checked against the Event and Partner readiness audit of the same day.
 Proposed here for the founder to confirm; until then the table above stands.
+The Event Mode stage, prize draw and votes bullets were confirmed by the
+founder on 28 November 2026 and are marked `CONFIRMED`; the rest stay
+`PROPOSED`.
 
-- **Event Mode stage:** prototype. It runs live, but hasn't yet run with many
+- `CONFIRMED` **Event Mode stage:** prototype. It runs live, but hasn't yet run with many
   players. Described as **in development, and we're looking for a launch
   partner**. Replaces "working live (15 October 2026)" in the table above.
-- **Event Mode prize draw:** may be described in partner materials (e.g.
+- `CONFIRMED` **Event Mode prize draw:** may be described in partner materials (e.g.
   "Crown your Wine of the Day. Be in with a chance to win."), always with the
   note that we'll work with each partner to make sure any prize draw is legal
   and appropriate. Consumer use still waits for the legal check and terms.
 - **Reports for businesses:** may be shown in partner materials as
   **illustrative** only, with no figures. Not described as in development.
-- **Event Mode votes:** visitors can vote by wine type and for an overall
+- `CONFIRMED` **Event Mode votes:** visitors can vote by wine type and for an overall
   winner of the day, tailored to each event. These are visitors' own votes,
   never Entre Amis judging wines. Personal crowns are not turned into a public
   league table of vineyards by default.
