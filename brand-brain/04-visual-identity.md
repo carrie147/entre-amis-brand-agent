@@ -542,6 +542,10 @@ decisions.
   page. Each reaction also stays inside its memory.
 - **Pictures** in memories are the person's own photos. The master uses
   stand-ins.
+- **A memory with no photo** shows a plain card: the date, the name and the
+  chosen wine's colour, never a stock picture (founder, 28 November 2026).
+  The 27 November page, with Memories as cards, replaces the 12 November
+  text-led journal opening.
 
 How My wines behaves (founder, 27 November 2026):
 
@@ -555,6 +559,11 @@ How My wines behaves (founder, 27 November 2026):
   Wine 101.
 - **Still to try** is filled from the "Still to try" button on a scanned wine in
   Wine 101.
+  The single "Still to try" button stays (founder, 28 November 2026). "Add to
+  today's game" shows only while a game is running. "Add to my next game" is
+  banked: it needs a list of wines waiting for the next game. Still to try
+  holds wines first; grapes and regions follow once Wine 101 can recognise
+  them.
 - **The favourite star:** its functionality goes; existing star records stay.
 
 Still to discuss with the founder `TODO`:
